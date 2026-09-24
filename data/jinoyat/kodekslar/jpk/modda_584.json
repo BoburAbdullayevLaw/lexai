@@ -1,0 +1,49 @@
+﻿{
+  "n": 584,
+  "sarlavha_id": "-260999",
+  "sarlavha": "584-modda. Jinoyat ishini sudga yuborish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-261000",
+      "matn": "Surishtiruvchi, tergovchi, prokuror jabrlanuvchining (fuqaroviy daʼvogarning) yoki uning qonuniy vakilining yarashuv toʻgʻrisidagi arizasini olgach, yetti sutkadan ortiq boʻlmagan muddatda gumon qilinuvchining, ayblanuvchining roziligi bilan ishni sudga yuborish toʻgʻrisida qaror chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-261001",
+      "matn": "Qarorning tavsif qismida quyidagilar koʻrsatiladi: jinoyat ishi qoʻzgʻatilishining asoslari, ishda gumon qilinuvchi, ayblanuvchi sifatida ishtirok etishga jalb qilingan shaxslar toʻgʻrisidagi maʼlumotlar, ular ayblanayotgan qilmishlar va ularga nisbatan qoʻllanilgan ehtiyot choralari, shuningdek yarashuv toʻgʻrisidagi arizaning mazmuni hamda gumon qilinuvchi, ayblanuvchining arizaga munosabati."
+    },
+    {
+      "q": 3,
+      "id": "-261002",
+      "matn": "Qarorning qaror qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-261003",
+          "matn": "ishni sudga yuborish toʻgʻrisidagi;"
+        },
+        {
+          "b": 2,
+          "id": "-261004",
+          "matn": "ehtiyot chorasi toʻgʻrisidagi, shuningdek fuqaroviy daʼvoni taʼminlash choralari toʻgʻrisidagi;"
+        },
+        {
+          "b": 3,
+          "id": "-7235350",
+          "matn": "ashyoviy, yozma va raqamli dalillar toʻgʻrisidagi qaror koʻrsatiladi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-261006",
+      "matn": "Agar ish boʻyicha gumon qilinuvchi, ayblanuvchi sifatida ishtirok etish uchun bir necha shaxs jalb qilingan boʻlib, barchasi bilan ham yarashuvga erishilgan boʻlmasa, yarashuvga erishilmagan gumon qilinuvchilarga, ayblanuvchilarga taalluqli materiallar ajratiladi va ular boʻyicha ish yuritish umumiy qoidalarga rioya etilgan holda amalga oshiriladi, bu haqda qarorda koʻrsatiladi."
+    },
+    {
+      "q": 5,
+      "id": "-261007",
+      "matn": "Ish qaror chiqarilganidan keyin uch sutka ichida prokurorning roziligi bilan sudga yuboriladi."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "n": 43,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184342",
+  "sarlavha": "43-modda. Jazo tizimi",
+  "umumiy_sharh": [
+    "Jazo tizimi — JKda belgilangan va o'zaro aloqador bo'lgan davlat majburlov choralarining tizimli majmui. Tizim pastdan yuqoriga qarab belgilangan — bu insonparvarlik prinsipini aks ettiradi.",
+    "Jazo tizimining asosiy belgilari: davlat nomidan qo'llanilishi, elementlar o'zaro aloqadorligi, ro'yxatning qatiyligi (kengaytirishga yo'l qo'ymaslik), og'irlik darajasiga qarab tartiblanganligi.",
+    "Jazolar asosiy va qo'shimcha turlarga bo'linadi. Asosiy jazolar mustaqil, qo'shimchalar faqat asosiy jazoga qo'shimcha ravishda qo'llaniladi.",
+    "Sudlar ijtimoiy xavfi kam bo'lmagan jinoyatlarda ozodlikdan mahrum qilish bilan bog'liq bo'lmagan jazolardan to'liq foydalanishlari lozim."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184343",
+      "matn": "Jinoyat sodir etishda aybli deb topilgan shaxslarga nisbatan quyidagi asosiy jazolar qoʻllanilishi mumkin:",
+      "sharh": [
+        "Asosiy jazolar tizimi: jarima, muayyan huquqdan mahrum qilish, majburiy jamoat ishlari, axloq tuzatish ishlari, xizmat bo'yicha cheklash, ozodlikni cheklash, intizomiy qismga jo'natish, ozodlikdan mahrum qilish, umrbod ozodlikdan mahrum qilish.",
+        "Jazolar og'irlik darajasiga qarab pastdan yuqoriga qarab belgilangan. Qonunning o'zi qaysi biri yengil yoki og'ir ekanligini belgilaydi.",
+        "Asosiy jazolar faqat mustaqil ko'rinishlar sifatida belgilanishi mumkin — ularni boshqa asosiy jazolarga qo'shib bo'lmaydi.",
+        "Sanksiyada alternativ jazolar mavjud bo'lganda, ozodlikdan mahrum qilish qo'llanilishi zarurligi muhokama qilinishi shart."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-281988",
+      "matn": "Mahkumlarga asosiy jazolardan tashqari harbiy yoki maxsus unvondan mahrum qilish tarzidagi qoʻshimcha jazo ham qoʻllanilishi mumkin.",
+      "sharh": [
+        "Qo'shimcha jazolar: harbiy yoki maxsus unvondan mahrum qilish. U alohida qo'llanilmaydi, faqat asosiy jazoga qo'shimcha.",
+        "Qo'shimcha jazolardan birining qo'llanilishi boshqasini qo'llashga to'sqinlik qilmaydi — bir nechta qo'shimcha jazo qo'llanishi mumkin.",
+        "Qo'shimcha jazolarni tayinlash sanksiyada ko'rsatilganligiga bog'liq emas — sud har qanday holatda tayinlashi mumkin."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-184557",
+      "matn": "Xizmat boʻyicha cheklash yoki intizomiy qismga joʻnatish tariqasidagi jazolar faqat harbiy xizmatchilarga nisbatan qoʻllaniladi.",
+      "sharh": [
+        "Xizmat bo'yicha cheklash va intizomiy qismga jo'natish — faqat harbiy xizmatchilarga qo'llaniladigan maxsus jazo turlari.",
+        "Bu jazolar boshqa shaxslarga nisbatan qo'llanilishi mumkin emas — ularning subyekti cheklangan.",
+        "Jazo tizimiga kiritilmagan jazo chorasi JK Maxsus qismi sanksiyasiga ham kiritilishi mumkin emas."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-184559",
+      "matn": "Muayyan huquqdan mahrum qilish faqat asosiy jazo sifatidagina emas, balki qoʻshimcha jazo tariqasida ham qoʻllanilishi mumkin.",
+      "sharh": [
+        "Muayyan huquqdan mahrum qilish aralash turdagi jazo — JK Maxsus qismi sanksiyasiga qarab ham asosiy, ham qo'shimcha bo'lishi mumkin.",
+        "Agar muayyan huquqdan mahrum qilish qonunda asosiy jazo deb ko'rsatilgan bo'lsa, uni qo'shimcha sifatida qo'llashga yo'l qo'ymaydi.",
+        "Aralash xususiyat jazoning qo'llanish qoidalarining aralash xususiyatiga olib kelmaydi — qoida bir xil qo'llaniladi."
+      ]
+    }
+  ]
+}

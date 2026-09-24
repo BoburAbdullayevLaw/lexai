@@ -1,0 +1,49 @@
+﻿{
+  "n": 162,
+  "sarlavha_id": "-254212",
+  "sarlavha": "162-modda. Shaxsiy tintuv va olib qoʻyish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7234821",
+      "matn": "Ushbu Kodeksning 157 va 158-moddalarida nazarda tutilgan asoslar mavjud boʻlgan taqdirda surishtiruvchi yoki tergovchi shaxsning kiyimlari, uning yonidagi buyumlari ichidan yoki badanidan topilgan, ish uchun ahamiyatga molik narsalarni, hujjatlarni hamda elektron maʼlumotlar mavjud boʻlgan elektron jismlarni olib qoʻyishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-3349268",
+      "matn": "Tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi faqat ushbu Kodeksning 224-moddasiga asosan shaxsni ushlagan taqdirda, unda qurol borligi yoki u jinoyat sodir etganligini fosh qiluvchi dalillardan qutulish niyatida ekanligini taxmin qilishga yetarli asoslar mavjud boʻlsa, uni shaxsiy tintuv qilishni va olib qoʻyishni amalga oshirishga ham haqlidir. Bunda shaxsiy tintuv va olib qoʻyish bayonnomasi ushbu Kodeksning 163-moddasi talabalariga rioya qilgan holda tuziladi."
+    },
+    {
+      "q": 3,
+      "id": "-7355188",
+      "matn": "Shaxsiy tintuv va olib qoʻyish ushbu Kodeksning 157, 158, 159, 160 va 161-moddalarida koʻrsatilgan qoidalar asosida oʻtkaziladi. Ammo shaxsiy tintuv va olib qoʻyish quyidagi hollarda alohida qaror yoki ajrim chiqarilmasdan oʻtkazilishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3349294",
+          "matn": "gumon qilinuvchini ushlash chogʻida ushlanuvchining yonida qurol borligiga yoxud jinoyat sodir etganligini fosh qiladigan dalillardan qutulmoqchi ekanligiga yetarli asoslar boʻlganda (ushbu Kodeksning 224-moddasi);"
+        },
+        {
+          "b": 2,
+          "id": "-3349303",
+          "matn": "gumon qilinuvchi ichki ishlar organiga yoki huquqni muhofaza qiluvchi boshqa organga olib kelinib, uni ushlash haqida ushbu Kodeksning 225-moddasiga asosan bayonnoma tuzilganda;"
+        },
+        {
+          "b": 3,
+          "id": "-7234835",
+          "matn": "ayblanuvchiga nisbatan qamoqda saqlash tarzidagi ehtiyot chorasi qoʻllanilayotganida, basharti uning yonida qurol, shuningdek saqlanishi man etilgan buyumlar yoxud ish uchun ahamiyatga molik narsalar, hujjatlar va elektron maʼlumotlar boʻlishi mumkin deb oʻylashga yetarli asoslar boʻlganida;"
+        },
+        {
+          "b": 4,
+          "id": "-7234842",
+          "matn": "olib qoʻyish yoki tintuv oʻtkazilayotgan binoda yoki boshqa joyda turgan shaxs olib qoʻyish va tintuv oʻtkazish haqidagi qarorga yoki ajrimga koʻra olinishi zarur boʻlgan narsalarni yoki hujjatlarni yoxud elektron maʼlumotlar mavjud boʻlgan elektron jismlarni oʻz yonida yashirincha saqlamoqda deb oʻylash uchun yetarli asoslar boʻlganida."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-3349308",
+      "matn": "Shaxsiy tintuv hamda narsa va hujjatlarni olib qoʻyish tintilayotgan shaxs bilan bir jinsdagi mutaxassis hamda xolislar ishtirokida oʻtkazilishi mumkin."
+    }
+  ]
+}

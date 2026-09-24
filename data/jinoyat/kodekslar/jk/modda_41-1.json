@@ -1,0 +1,36 @@
+{
+  "n": "41-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/mact/-111453#-3500704",
+  "sarlavha": "41¹-modda. Jismoniy yoki ruhiy majburlash yoxud qoʻrqitish",
+  "umumiy_sharh": [
+    "Jismoniy yoki ruhiy majburlash — shaxsga nisbatan g'ayriqonuniy kuch (jismoniy yoki ruhiy) ishlatish orqali jamiyat uchun xavfli qilmishni sodir etishga erishish. Bunday vaziyatda majburlangan shaxs aybsiz hisoblanadi.",
+    "Majburlashning turlari: jismoniy (zo'rlik, dorilar, izolyatsiya) va ruhiy (o'lim, sog'liq, mulk xavfi, gipnoz, psixotrop moddalar). Ko'pgina hollarda ular aralash ifodalanadi.",
+    "Majburlash majburlanuvchi shaxsning xohish-irodasiga qarshi sodir etilishi shart. Qonun bilan ruxsat etilgan choralar majburlash deb topilmaydi.",
+    "Majburlangan shaxsning irodasi to'liq bo'g'ilgan bo'lsa — javobgarlik inkor etiladi. Iroda saqlanib qolingan bo'lsa — oxirgi zarurat qoidalari qo'llaniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/mact/-111453#-3500707",
+      "matn": "Jismoniy yoki ruhiy majburlash yoxud shunday majburlashni qoʻllash bilan qoʻrqitish natijasida ushbu Kodeks bilan qoʻriqlanadigan huquq va manfaatlarga zarar yetkazilishi, agar bunday majburlash yoxud qoʻrqitish oqibatida shaxs oʻz harakatlarini (harakatsizligini) boshqara olmagan boʻlsa, jinoyat hisoblanmaydi.",
+      "sharh": [
+        "Shaxs o'z harakatlarini to'liq boshqara olmasa (izolyatsiya, gipnoz uyqusi), uning javobgarligi inkor etiladi. U majburlovchi qo'lidagi faqat qurol hisoblanadi.",
+        "Bunday hollarda majburlanuvchi irodasini namoyish qilish imkoniyatiga ega emas — u aybsiz hisoblanadi, majburlovchi jinoyat subyekti sifatida javobgar bo'ladi.",
+        "Jismoniy majburlash — irodasini so'ndirish yoki bo'ysundirish maqsadida sodir etiladigan jismoniy choralar: sog'liqqa zarar, kuchli ta'sir moddalari, izolyatsiya.",
+        "Ruhiy majburlash — hayot, sog'liq, mulk xavfi yoki to'g'ri psixologik ta'sir (gipnoz, psixotrop moddalar) orqali irodani bo'ysundirish."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/mact/-111453#-3500709",
+      "matn": "Ushbu Kodeks bilan qoʻriqlanadigan huquq va manfaatlarga jismoniy yoki ruhiy majburlash yoxud shunday majburlashni qoʻllash bilan qoʻrqitish natijasida zarar yetkazganlik uchun jinoiy javobgarlik toʻgʻrisidagi masala, agar bunday majburlash yoki qoʻrqitish oqibatida shaxs oʻz harakatlarini (harakatsizligini) boshqarish imkoniyatini saqlab qolgan boʻlsa, ushbu Kodeks 38-moddasining qoidalari inobatga olingan holda hal etiladi.",
+      "sharh": [
+        "Shaxs o'z harakatlarini boshqarish imkoniyatini saqlab qolgan bo'lsa — majburlash oxirgi zarurat (38-modda) qoidalari asosida baholanadi.",
+        "Agar oxirgi zaruratning qonuniylik shartlari buzilgan bo'lsa yoki chegaradan o'tilgan bo'lsa, mustaqil jinoyat sifatida tavsiflanadi.",
+        "Majburiylik ostida sodir etilgan jinoyat 55-modda 1-qism «g» bandi bo'yicha jazoni yengillashtiruvchi holat sifatida hisobga olinadi.",
+        "Majburlash uchinchi shaxslarga qaratilgan bo'lsa — zaruriy mudofaa yoki oxirgi zarurat qoidalari qo'llanilishi mumkin."
+      ]
+    }
+  ]
+}

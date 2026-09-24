@@ -1,0 +1,34 @@
+﻿{
+  "n": 510,
+  "sarlavha_id": "-6627473",
+  "sarlavha": "510-modda. Taftish tartibida qayta koʻrilishi mumkin boʻlgan sud hukmlari, ajrimlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627474",
+      "matn": "Qoraqalpogʻiston Respublikasi sudida, viloyatlar, Toshkent shahar sudlarida, Oʻzbekiston Respublikasi Harbiy sudida taftish tartibida jinoyat ishlari boʻyicha tuman (shahar) sudlarining, hududiy harbiy sudlarning apellyatsiya yoki kassatsiya tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek ushbu sudlarning tuman (shahar) sudlari, hududiy harbiy sudlar tomonidan koʻrilgan ishlar boʻyicha apellyatsiya va kassatsiya instansiyasida chiqarilgan hukmlari, ajrimlari koʻrib chiqiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6627475",
+      "matn": "Quyidagilar Oʻzbekiston Respublikasi Oliy sudining Jinoyat ishlari boʻyicha sudlov hayʼatida taftish tartibida koʻrib chiqiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6627476",
+          "matn": "jinoyat ishlari boʻyicha tuman (shahar) sudlarining, hududiy harbiy sudlarning Qoraqalpogʻiston Respublikasi sudi, viloyatlar, Toshkent shahar sudlari, Oʻzbekiston Respublikasi Harbiy sudi tomonidan apellyatsiya, kassatsiya yoki taftish tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek ushbu sudlar tomonidan tuman (shahar) sudlari, hududiy harbiy sudlar tomonidan koʻrilgan ishlar boʻyicha apellyatsiya, kassatsiya yoki taftish tartibida chiqarilgan hukmlari va ajrimlari;"
+        },
+        {
+          "b": 2,
+          "id": "-6627477",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudining, Qoraqalpogʻiston Respublikasi sudining, viloyatlar, Toshkent shahar sudlarining, Oʻzbekiston Respublikasi Harbiy sudining birinchi instansiya boʻyicha chiqarilgan va ayni shu sudlar tomonidan apellyatsiya yoki kassatsiya tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek ushbu sudlar tomonidan birinchi instansiya tariqasida koʻrilgan ishlar boʻyicha apellyatsiya yoki kassatsiya tartibida chiqarilgan hukmlari va ajrimlari."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-6627478",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining Jinoyat ishlari boʻyicha sudlov hayʼati tomonidan taftish tartibida chiqarilgan hukmlar, ajrimlar Oʻzbekiston Respublikasi Oliy sudining Rayosatida taftish tartibida takroran koʻrib chiqilishi mumkin."
+    }
+  ]
+}

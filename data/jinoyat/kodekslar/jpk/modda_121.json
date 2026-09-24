@@ -1,0 +1,74 @@
+﻿{
+  "n": 121,
+  "sarlavha_id": "-253986",
+  "sarlavha": "121-modda. Voyaga yetmagan guvoh yoki jabrlanuvchini soʻroq qilishning oʻziga xos jihatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5785543",
+      "matn": "Voyaga yetmagan guvoh yoki jabrlanuvchini soʻroq qilish qonuniy vakili yoki katta yoshdagi yaqin qarindoshi, pedagog va (yoki) psixolog yoxud jabrlanuvchining vakili ishtirokida ularning roziligi bilan oʻtkaziladi. Koʻrsatilgan shaxslar soʻroq qiluvchining ruxsati bilan guvoh yoki jabrlanuvchiga savollar berishlari mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-5785564",
+      "matn": "Pedagogni va (yoki) psixologni soʻroq qilishga jalb etish voyaga yetmagan guvoh yoki jabrlanuvchi qonuniy vakilining yoki katta yoshdagi yaqin qarindoshining, jabrlanuvchi vakilining iltimosiga binoan yoxud surishtiruvchining, tergovchining, prokurorning yoki sudning tashabbusiga koʻra amalga oshiriladi. Pedagogning va (yoki) psixologning ishtiroki jinoyat ishini yuritayotgan surishtiruvchi, tergovchi, prokuror yoki sud tomonidan taʼminlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-5785566",
+      "matn": "Voyaga yetmagan jabrlanuvchi yoki guvohni soʻroq qilishda ishtirok etish uchun pedagogni va (yoki) psixologni jalb etish toʻgʻrisida iltimosnoma berish huquqi soʻroq qilishdan oldin uning qonuniy vakiliga yoki katta yoshli yaqin qarindoshiga, jabrlanuvchi vakiliga surishtiruvchi, tergovchi, prokuror yoki sud tomonidan tushuntiriladi."
+    },
+    {
+      "q": 4,
+      "id": "-8153122",
+      "matn": "Voyaga yetmagan guvohni yoki jabrlanuvchini soʻroq qilishning bir kun mobaynidagi umumiy davomiyligi voyaga yetmaganning yoshidan va holatidan kelib chiqishi hamda:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-8153123",
+          "matn": "7 yoshgacha boʻlganlarga nisbatan — tanaffuslarsiz oʻttiz daqiqadan, jami bir soatdan;"
+        },
+        {
+          "b": 2,
+          "id": "-8153124",
+          "matn": "7 yoshdan 14 yoshgacha boʻlganlarga nisbatan — tanaffuslarsiz bir soatdan, jami ikki soatdan;"
+        },
+        {
+          "b": 3,
+          "id": "-8153125",
+          "matn": "14 yoshdan 18 yoshgacha boʻlganlarga nisbatan — tanaffuslarsiz ikki soatdan, jami toʻrt soatdan oshmasligi kerak."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "-8153126",
+      "matn": "Voyaga yetmagan guvohni yoki jabrlanuvchini qoʻshimcha soʻroq qilish soʻroq qilinuvchi ishning oʻziga maʼlum boʻlgan barcha holatlari toʻgʻrisida koʻrsatuv bera olishi uchun ushbu moddaning toʻrtinchi qismida nazarda tutilgan soʻroqning umumiy davom etish vaqti yetarli boʻlmagan hollarda, shuningdek ushbu Kodeks 108-moddasining 2 — 7-bandlarida nazarda tutilgan asoslar mavjud boʻlgan taqdirda ham amalga oshiriladi."
+    },
+    {
+      "q": 6,
+      "id": "-253989",
+      "matn": "Oʻn olti yoshgacha boʻlgan guvohlar va jabrlanuvchilar koʻrsatuv berishdan bosh tortganlik va bila turib yolgʻon koʻrsatuv berganlik uchun javobgarlik toʻgʻrisida ogohlantirilmaydilar, biroq surishtiruvchi, tergovchi yoki sud majlisida raislik qiluvchi shu guvoh va jabrlanuvchilarga ularning protsessual huquqi va majburiyatlarini tushuntirish chogʻida haqqoniy koʻrsatuv berish va bu bilan jinoyat ishi boʻyicha haqiqatni aniqlashga koʻmaklashish maʼnaviy burch ekanligini eslatib oʻtadi."
+    },
+    {
+      "q": 7,
+      "id": "-5785572",
+      "matn": "Jinsiy erkinlikka qarshi, oʻn sakkiz yoshga toʻlmagan shaxslar savdosiga oid jinoyat ishlari boʻyicha voyaga yetmagan guvohni yoki jabrlanuvchini soʻroq qilish, shuningdek boshqa holatlarda soʻroq qilish, agar buni odil sudlovning yoki voyaga yetmagan shaxsning manfaatlari talab etsa, stenografiya, videokuzatuv, shuningdek audio- va video qayd etish tizimlari bilan jihozlangan maxsus xonada qonuniy vakil, pedagog va (yoki) psixolog ishtirokida oʻtkazilishi mumkin."
+    },
+    {
+      "q": 8,
+      "id": "-4354576",
+      "matn": "Soʻroqni stenografiya, videokuzatuv, shuningdek audio- va video qayd etish tizimlari bilan jihozlangan maxsus xonalarda oʻtkazish tartibi surishtiruvchi, tergovchi, prokuror va sud tomonidan belgilanadi."
+    },
+    {
+      "q": 9,
+      "id": "-4354577",
+      "matn": "Zarur boʻlgan hollarda, himoyachi, voyaga yetmagan shaxsning qonuniy vakili, pedagog yoki psixolog savollarni surishtiruvchining, tergovchining, prokurorning yoki sudning ruxsati bilan qayta tuzish huquqiga ega, bunda savollarning mohiyati oʻzgartirilmaydi."
+    },
+    {
+      "q": 10,
+      "id": "-4354578",
+      "matn": "Voyaga yetmagan guvohni yoki jabrlanuvchini soʻroq qilish stenografiyasi, ular koʻrsatuvlarining audio- va videoyozuvlari ushbu moddaga muvofiq bayonnomaga ilova qilinadi."
+    }
+  ]
+}

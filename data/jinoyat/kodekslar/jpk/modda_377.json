@@ -1,0 +1,22 @@
+﻿{
+  "n": 377,
+  "sarlavha_id": "-255772",
+  "sarlavha": "377-modda. Iltimoslar qilish va ularni koʻrib chiqish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-260330",
+      "matn": "Ayblanuvchi, himoyachi, shuningdek jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari ish bilan tanishib chiqishgach yoki biror sababga koʻra tanishib chiqishdan bosh tortganlaridan keyin tergovchi ulardan qoʻshimcha tergov harakatlarini oʻtkazish yoki yangi qarorlar qabul qilish xususida iltimoslari bor yoki yoʻqligini aniqlaydi."
+    },
+    {
+      "q": 2,
+      "id": "-255774",
+      "matn": "Taraflarning arizasiga binoan iltimosnomalar tayyorlash va taqdim qilish uchun uch sutka doirasida vaqt berilishi mumkin. Tergovchi iltimosnomani toʻla yoki qisman rad qilish toʻgʻrisida qaror chiqaradi va bu haqda iltimosnoma berilgan vaqtdan boshlab uch sutka ichida arizachiga xabar beradi."
+    },
+    {
+      "q": 3,
+      "id": "-255775",
+      "matn": "Arizachi iltimosni qondirish rad qilinganligi toʻgʻrisidagi qaror bilan tanishib chiqqanidan keyin ikki sutka ichida prokurorga rad etilganlik ustidan shikoyat qilishi mumkin."
+    }
+  ]
+}

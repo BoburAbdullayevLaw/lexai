@@ -1,0 +1,61 @@
+﻿{
+  "n": 478,
+  "sarlavha_id": "-6626168",
+  "sarlavha": "478-modda. Sud qarorlarining qonuniyligi, asosliligi va adolatliligini tekshirish turlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626169",
+      "matn": "Sud hukmlarining, ajrimlarining, qarorlarining qonuniyligi, asosliligi va adolatliligini tekshirish turlari"
+    },
+    {
+      "q": 2,
+      "id": "-6626251",
+      "matn": "Ishni yuqori instansiya sudi tomonidan koʻrish:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626253",
+          "matn": "apellyatsiya tartibida — ushbu Kodeksning 497²-moddasida koʻrsatilgan shaxslarning shikoyatlariga va protestlariga binoan;"
+        },
+        {
+          "b": 2,
+          "id": "-6626254",
+          "matn": "kassatsiya tartibida — ushbu Kodeksning 499-moddasida koʻrsatilgan shaxslarning shikoyatlariga va protestlariga binoan;"
+        },
+        {
+          "b": 3,
+          "id": "-6626255",
+          "matn": "taftish tartibida:"
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-6626257",
+      "matn": "Qoraqalpogʻiston Respublikasi sudi, viloyatlar, Toshkent shahar sudlari, Oʻzbekiston Respublikasi Harbiy sudi tomonidan — ushbu Kodeksning 511 va 512-moddalarida koʻrsatilgan shaxslarning shikoyatlariga va protestlariga binoan;"
+    },
+    {
+      "q": 4,
+      "id": "-6626259",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining Jinoyat ishlari boʻyicha sudlov hayʼati tomonidan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626261",
+          "matn": "jinoyat ishlari boʻyicha tuman (shahar) sudining, hududiy harbiy sudning Qoraqalpogʻiston Respublikasi sudi, viloyatlar, Toshkent shahar sudlari, Oʻzbekiston Respublikasi Harbiy sudi tomonidan apellyatsiya yoki kassatsiya va taftish tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek ushbu sudlarning tuman (shahar) sudlari, hududiy harbiy sudlar tomonidan koʻrilgan ishlar boʻyicha apellyatsiya yoki kassatsiya va taftish tartibida chiqarilgan hukmlari va ajrimlari ustidan ushbu Kodeksning 511-moddasida koʻrsatilgan shaxslarning shikoyatlarini oʻrganish natijalariga koʻra chiqarilgan Oʻzbekiston Respublikasi Bosh prokurorining, uning oʻrinbosarlarining protestiga yoki Oʻzbekiston Respublikasi Oliy sudi sudyasining ajrimiga binoan;"
+        },
+        {
+          "b": 2,
+          "id": "-6626263",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudining, Qoraqalpogʻiston Respublikasi sudining, viloyatlar, Toshkent shahar sudlarining, Oʻzbekiston Respublikasi Harbiy sudining apellyatsiya yoki kassatsiya tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek ushbu sudlar tomonidan birinchi instansiya tariqasida koʻrilgan ishlar boʻyicha apellyatsiya yoki kassatsiya tartibida chiqarilgan hukmlari va ajrimlari ustidan ushbu Kodeksning 511-moddasida koʻrsatilgan shaxslarning shikoyatlariga yoki Oʻzbekiston Respublikasi Bosh prokurorining, uning oʻrinbosarlarining protestiga binoan;"
+        },
+        {
+          "b": 3,
+          "id": "-6626266",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudi Rayosatida — Oʻzbekiston Respublikasi Oliy sudi Jinoyat ishlari boʻyicha sudlov hayʼatining taftish tartibida chiqarilgan qarorlari ustidan ushbu Kodeksning 511-moddasida koʻrsatilgan shaxslarning arizasiga (iltimosnomasiga), sudyaning taqdimnomasiga, ommaviy axborot vositalarining xabarlariga koʻra kiritilgan Oʻzbekiston Respublikasi Oliy sudi raisining protestiga, shuningdek Oʻzbekiston Respublikasi Bosh prokurorining protestiga binoan amalga oshiriladi."
+        }
+      ]
+    }
+  ]
+}

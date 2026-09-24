@@ -1,0 +1,84 @@
+{
+  "n": 69,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195154",
+  "sarlavha": "69-modda. Jazoni ijro etish muddati oʻtib ketganligi munosabati bilan jazodan ozod qilish",
+  "umumiy_sharh": [
+    "Jazo maqsadiga erishilgan — shaxs tuzalgan yoki jazo ortiq kerak emas.",
+    "Muddatlar jazoning og'irligiga qarab 3 yildan 15 yilgacha.",
+    "Bo'yin tovlasa — muddat 2 baravar (25 yil max).",
+    "Qasddan yangi jinoyat — muddat uziladi.",
+    "25 yil o'tsa — jazo ijro etish mumkin emas.",
+    "Umrbod uchun — sud ixtiyorida.",
+    "Tinchlikka qarshi jinoyatlar uchun qo'llanilmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195155",
+      "matn": "Agar hukm qonuniy kuchga kirgan kundan boshlab:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-195156","matn":"uch yildan ortiq boʻlmagan muddatga ozodlikdan mahrum qilingan yoki ozodlikdan mahrum qilish bilan bogʻliq boʻlmagan jazoga hukm qilinganda — uch yil;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-195157","matn":"besh yildan ortiq boʻlmagan muddatga ozodlikdan mahrum etishga hukm qilinganda — besh yil;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-195158","matn":"oʻn yildan ortiq boʻlmagan muddatga ozodlikdan mahrum etishga hukm qilinganda — oʻn yil;","sharh":[]},
+        {"b":"g","id":"https://lex.uz/docs/-111453#-195159","matn":"oʻn yildan ortiq muddatga ozodlikdan mahrum etishga hukm qilinganda — oʻn besh yil ichida ijro etilmagan boʻlsa, mahkum asosiy va qoʻshimcha jazolardan ozod qilinadi.","sharh":[]}
+      ],
+      "sharh": [
+        "3 yil yoki ozodlikdan mahrum qilishsiz: 3 yil.",
+        "5 yilgacha: 5 yil.",
+        "10 yilgacha: 10 yil.",
+        "10 yildan ortiq: 15 yil — asosiy + qo'shimcha jazodan ozod.",
+        "Muddatlar jazoning og'irligiga qarab, emas jinoyat toifasiga qarab."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195160",
+      "matn": "Agar mahkum ushbu moddada nazarda tutilgan jazoni oʻtashdan boʻyin tovlasa, jazoni ijro etish muddati ikki baravar koʻpayadi.",
+      "sharh": [
+        "Bo'yin tovlash — muddat 2 baravar.",
+        "Hisoblash: bo'yin tovlash kunidan boshlab.",
+        "Max 25 yil — qancha uzaysa ham 25 yildan oshmaslik.",
+        "Bo'yin tovlash: yashash, ish joyini o'zgartirish, hujjat o'zgartirish."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195161",
+      "matn": "Agar shaxs ushbu moddada koʻrsatilgan muddatlar oʻtmasdan qasddan yangi jinoyat sodir etsa, muddatlarning oʻtishi uziladi.",
+      "sharh": [
+        "Qasddan yangi jinoyat — muddat uziladi.",
+        "Yangi jinoyat kunidan qayta hisoblanadi.",
+        "Ehtiyotsizlik — muddat uzilmaydi, faqat qasddan."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195162",
+      "matn": "Agar jazo tayinlangan kundan boshlab yigirma besh yil oʻtgan boʻlsa, jazoni ijro etish mumkin emas.",
+      "sharh": [
+        "25 yil — mutlaq cheklov.",
+        "Bo'yin tovlash yoki yangi jinoyat ham 25 yildan oshmaslik."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-1320975",
+      "matn": "Umrbod ozodlikdan mahrum qilish jazosiga hukm etilgan shaxsga nisbatan muddatlar oʻtishini qoʻllash masalasi sud tomonidan hal qilinadi.",
+      "sharh": [
+        "Umrbod uchun — sud ixtiyorida.",
+        "Qo'llanilmasa — umrbod o'rniga muddatli ozodlikdan mahrum etish.",
+        "Sud hukmi qonuniy kuchga kirgan kundan ancha vaqt o'tishi kerak."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-3835905",
+      "matn": "Ushbu moddada nazarda tutilgan muddatlar ushbu Kodeksning 150 — 157-moddalarida, 158-moddasining birinchi qismida, 159-moddasining uchinchi va toʻrtinchi qismlarida, 160, 161 va 244-2-moddalarida nazarda tutilgan jinoyatlar uchun hukm qilingan shaxslarga nisbatan qoʻllanilmaydi.",
+      "sharh": [
+        "Tinchlikka qarshi: 150-157, 158/1, 159/3-4, 160, 161, 244-2.",
+        "Bu jinoyatlar uchun muddat qo'llanilmaydi — doimo ijro."
+      ]
+    }
+  ]
+}

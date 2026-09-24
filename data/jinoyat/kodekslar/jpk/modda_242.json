@@ -1,0 +1,44 @@
+﻿{
+  "n": 242,
+  "sarlavha_id": "-1325157",
+  "sarlavha": "242-modda. Qamoqqa olish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1325158",
+      "matn": "Ehtiyot chorasi sifatida qamoqqa olish Jinoyat kodeksida uch yildan ortiq muddatga ozodlikdan mahrum qilish tariqasidagi jazo nazarda tutilgan qasddan sodir etilgan jinoyatlarga doir hamda ehtiyotsizlik oqibatida sodir etilib, buning uchun Jinoyat kodeksida besh yildan ortiq muddatga ozodlikdan mahrum qilish tariqasidagi jazo nazarda tutilgan jinoyatlarga doir ishlar boʻyicha qoʻllaniladi."
+    },
+    {
+      "q": 2,
+      "id": "-1325159",
+      "matn": "Alohida hollarda qamoqqa olish tarzidagi ehtiyot chorasi uch yildan ortiq boʻlmagan muddatga ozodlikdan mahrum qilish tariqasidagi jazo nazarda tutilgan qasddan sodir etilgan jinoyatlarga doir, shuningdek ehtiyotsizlik oqibatida sodir etilib, buning uchun besh yildan ortiq boʻlmagan muddatga ozodlikdan mahrum qilish tariqasidagi jazo nazarda tutilgan jinoyatlarga doir ishlar boʻyicha quyidagi holatlardan biri mavjud boʻlgan taqdirda:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1325160",
+          "matn": "ayblanuvchi, sudlanuvchi tergov va suddan yashiringanida;"
+        },
+        {
+          "b": 2,
+          "id": "-1325161",
+          "matn": "ushlab turilgan gumon qilinuvchining shaxsi aniqlanmaganida;"
+        },
+        {
+          "b": 3,
+          "id": "-1325162",
+          "matn": "ilgari qoʻllanilgan ehtiyot chorasi ayblanuvchi, sudlanuvchi tomonidan buzilganida;"
+        },
+        {
+          "b": 4,
+          "id": "-1325163",
+          "matn": "ushlab turilgan gumon qilinuvchi yoki ayblanuvchi, sudlanuvchi Oʻzbekiston Respublikasida doimiy yashash joyiga ega boʻlmaganida;"
+        },
+        {
+          "b": 5,
+          "id": "-3173794",
+          "matn": "jinoyat ozodlikdan mahrum qilish tariqasidagi jazoni oʻtash davrida sodir etilganida, qoʻllanilishi mumkin."
+        }
+      ]
+    }
+  ]
+}

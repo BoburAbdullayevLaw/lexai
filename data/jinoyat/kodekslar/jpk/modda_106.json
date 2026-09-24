@@ -1,0 +1,52 @@
+﻿{
+  "n": 106,
+  "sarlavha_id": "-253884",
+  "sarlavha": "106-modda. Soʻroq jarayoni va natijalarini qayd qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253887",
+      "matn": "Soʻroq jarayoni va natijalari surishtiruv va dastlabki tergov bosqichida soʻroq bayonnomasida, sud muhokamasida esa sud majlisi bayonnomasida qayd qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-253888",
+      "matn": "Soʻroq jarayonida bayonnoma yuritish bilan bir qatorda ovozni yozib olish, videoyozuv va kinotasvirga olish ham qoʻllanilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-253890",
+      "matn": "Koʻrsatuvlar bayonnomaga birinchi shaxs nomidan, imkon boricha soʻzma-soʻz yozib boriladi. Savol-javob soʻroq jarayonida qanday olib borilgan boʻlsa, shunday izchillikda qayd qilinadi. Surishtiruvchi, tergovchi yoki sud majlisida raislik qiluvchi tomonidan chetlatilgan, shuningdek soʻroq qilinuvchi javob berishdan bosh tortgan savollar ham bayonnomaga kiritilishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "-7234172",
+      "matn": "Bayonnomada bundan tashqari, soʻroq qilinuvchi tomonidan avvalgi soʻroqlarda berilgan koʻrsatuvlarning oʻqib eshittirilgani, koʻrsatuv berish jarayonida soʻroq qilinuvchining hujjat yoki boshqa yozuvlardan foydalangani, soʻroq qilinuvchiga soʻroq davomida narsalar, hujjatlar va elektron maʼlumotlar koʻrsatilgani, soʻroq paytida ovoz yozish, videoyozuv, kinotasvirga olish oʻtkazilgani qayd qilinadi. Fonogramma, videoyozuv va kinotasma bayonnomaga ilova qilinadi."
+    },
+    {
+      "q": 5,
+      "id": "-253893",
+      "matn": "Soʻroq tugaganidan keyin bayonnoma oʻqib chiqish uchun soʻroq qilinuvchiga koʻrsatiladi yoxud uning iltimosiga koʻra surishtiruvchi, tergovchi tomonidan unga oʻqib beriladi."
+    },
+    {
+      "q": 6,
+      "id": "-253895",
+      "matn": "Soʻroq qilinuvchi koʻrsatuvni oʻz qoʻli bilan yozma ravishda bayon qilishga haqli. Oʻz qoʻli bilan yozilgan koʻrsatuv bayonnomaga ilova qilinib, bu haqda bayonnomaga yozib qoʻyiladi."
+    },
+    {
+      "q": 7,
+      "id": "-253896",
+      "matn": "Soʻroq qilinuvchi yoki taraflarning iltimosiga koʻra sud majlisida bayonnomaga imzo qoʻyilguniga qadar yozilgan ovoz, videoyozuv yoki kinotasvir namoyish qilinishi mumkin. Ular bilan bayonnoma oʻrtasida jiddiy tafovut boʻlgan hollarda, tafovut sababini aniqlash uchun yangitdan soʻroq qilinishi mumkin."
+    },
+    {
+      "q": 8,
+      "id": "-253898",
+      "matn": "Soʻroq qilinuvchi bayonnomani oʻqib boʻlgach, koʻrsatuvlari toʻgʻri yozilganligi va u bilan tanishganligini imzo chekib, tasdiqlaydi. Imzo bayonnomaning oxiriga qoʻyiladi, basharti koʻrsatuvlar bir necha sahifaga yozilgan boʻlsa, har qaysi sahifaga alohida imzo chekiladi."
+    },
+    {
+      "q": 9,
+      "id": "-253899",
+      "matn": "Soʻroq qilishda tarjimon qatnashayotgan boʻlsa, u soʻroq qilinayotgan shaxsning bayonnomadagi koʻrsatuvini unga ogʻzaki tarjima qiladi, soʻroq qilinuvchining oʻz qoʻli bilan yozib bergan koʻrsatuvlarini esa, yozma ravishda tarjima qiladi. Tarjimon koʻrsatuvlar yozilgan bayonnomaning oxiriga va har bir sahifasiga alohida, shuningdek soʻroq qilinuvchining oʻz qoʻli bilan yozib bergan koʻrsatuvlarining tarjimasiga imzo chekadi."
+    }
+  ]
+}

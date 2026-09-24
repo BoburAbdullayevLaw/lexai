@@ -1,0 +1,25 @@
+{
+  "n": 302,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271720",
+  "sarlavha": "302-modda. Xizmatga sovuqqonlik bilan qarash",
+  "umumiy_sharh": [
+    "Jinoyatning asosiy bevosita obyekti mansabdor shaxsning o'ziga yuklatilgan vazifalarini bajarishining belgilangan tartibini ta'minlaydigan ijtimoiy munosabatlar. Qo'shimcha obyekti fuqarolarning hayoti, sog'lig'i, mulk daxlsizligi.",
+    "Obyektiv tomondan boshliq yoki mansabdor shaxsning o'z xizmat vazifalariga nisbatan pala-partish yoki vijdonsizlarcha munosabatda bo'lishi tufayli bu vazifalarni bajarmaganligi yoki lozim darajada bajarmaganligi ko'p miqdorda zarar yetkazilishiga yoki boshqa og'ir oqibatlarga sabab bo'lishida ifodalanadi. Sovuqqonlik — vazifalarni yuzaki, ishtiyoqsiz, e'tiborsizlik bilan, o'ylamasdan bajarish. Bajarilmagan yoki lozim darajada bajarilmagan harakatlar mansabdor shaxsning xizmat vakolatiga tegishli bo'lishi, lavozimi bo'yicha majburiyatlar doirasiga kirgan bo'lishi shart.",
+    "Jinoyat ko'p miqdorda zarar yoki boshqa og'ir oqibatlar yuz bergan paytdan boshlab tugallangan hisoblanadi. Sababiy bog'lanish jinoyat obyektiv tomonining zaruriy belgisi. Fuqarolarning sog'lig'iga zarar yetkazilishi shaxsga qarshi jinoyatlar moddalari bilan qo'shimcha kvalifikatsiya qilinadi.",
+    "Subyektiv tomondan ehtiyotsizlikning jinoiy o'z-o'ziga ishonish yoki jinoiy beparvolik shaklida sodir etiladi.",
+    "Subyekti mansabdor shaxs bo'lgan harbiy xizmatchi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271722",
+      "matn": "Boshliq yoki boshqa mansabdor shaxsning oʻz xizmat vazifalariga nisbatan pala-partish yoki vijdonsizlarcha munosabatda boʻlishi tufayli bu vazifalarni bajarmaganligi yoki lozim darajada bajarmaganligi koʻp miqdorda zarar yetkazilishiga yoki boshqa ogʻir oqibatlarga sabab boʻlsa, — uch yilgacha xizmat boʻyicha cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-330192",
+      "matn": "O'sha qilmish jangovar vaziyatda sodir etilgan bo'lsa, — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

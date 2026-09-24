@@ -1,0 +1,27 @@
+﻿{
+  "n": 294,
+  "sarlavha_id": "-255111",
+  "sarlavha": "294-modda. Xatlangan mol-mulkni olib qoʻyish va saqlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255112",
+      "matn": "Xatlangan mol-mulk olib qoʻyilib, saqlash uchun fuqarolarning oʻzini oʻzi boshqarish organi yoxud boshqa tashkilot vakiliga topshirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-255113",
+      "matn": "Xatlangan mol-mulk mulkdorga yoki mol-mulk egasiga, uning voyaga yetgan oila aʼzolaridan biriga yoki boshqa shaxsga saqlab turish uchun qoldirilib, unga ushbu mol-mulkning toʻla-toʻkis saqlanishi uchun qonunda nazarda tutilgan javobgarlik tushuntiriladi va bu haqda undan tilxat olinadi."
+    },
+    {
+      "q": 3,
+      "id": "-255114",
+      "matn": "Muomalada boʻlishi man qilingan ashyolar har qanday hollarda ham olib qoʻyilishi kerak. Ularni saqlash tartibi qonun bilan belgilanadi."
+    },
+    {
+      "q": 4,
+      "id": "-255115",
+      "matn": "Bank muassasalarida saqlanayotgan pullar, shuningdek davlat zayomi obligatsiyalari, aksiyalar va boshqa qimmatli qogʻozlar olib qoʻyilmaydi, lekin mol-mulk xatlangani toʻgʻrisidagi qarorni yoki ajrimni olish bilanoq, ularni xarjlash operatsiyalari toʻxtatib qoʻyiladi."
+    }
+  ]
+}

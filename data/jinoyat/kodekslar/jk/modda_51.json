@@ -1,0 +1,49 @@
+{
+  "n": 51,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1319692",
+  "sarlavha": "51-modda. Umrbod ozodlikdan mahrum qilish",
+  "umumiy_sharh": [
+    "Umrbod ozodlikdan mahrum qilish — favqulodda jazo chorasi. Mahkumni maxsus tartibli koloniyaga joylashtirib, jamiyatdan muddatsiz ajratish.",
+    "Bu jazo o'lim jazisi o'rniga joriy etilgan. Muhun preventiv (ogohlantiruvchi) vazifani bajaradi.",
+    "Faqat Maxsus qism sanksiyasida ko'rsatilgan hollarda qo'llaniladi — mustaqil asosiy jazo turi.",
+    "Umrbod ozodlikdan mahrum qilish boshqa jazo bilan birga qo'llanmaydi. Boshqa jazolarni almashtirish sifatida ham qo'llanilmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1319695",
+      "matn": "Umrbod ozodlikdan mahrum qilish favqulodda jazo chorasi boʻlib, mahkumni maxsus tartibli jazoni ijro etish koloniyasiga joylashtirish orqali jamiyatdan muddatsiz ajratib qoʻyishdan iboratdir.",
+      "sharh": [
+        "Maxsus tartibli koloniyada joylashtiriladi — bu eng qattiq tartibli muassa.",
+        "Muddatsiz ajratiladi — ozodlikka chiqish imkoniyati juda cheklangan.",
+        "Favqulodda xususiyati: faqat istisno holatlarida qo'llaniladi.",
+        "Afv etish faqat 25 yildan keyin (76-modda 3-qism) — bu ham istisno tariqasida."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1319697",
+      "matn": "Umrbod ozodlikdan mahrum qilish jazosi faqat javobgarlikni ogʻirlashtiradigan holatlarda qasddan odam oʻldirish (97-moddaning ikkinchi qismi) va terrorizm (155-moddaning uchinchi qismi) uchun belgilanadi.",
+      "sharh": [
+        "Faqat 2 ta jinoyat uchun: 97/2 (qasddan o'ldirish, og'irlashtiruvchi) va 155/3 (terrorizm, og'irlashtiruvchi).",
+        "Boshqa hech qanday jinoyat uchun umrbod ozodlikdan mahrum qilish qo'llanilmaydi.",
+        "Tugallanmagan jinoyat uchun umrbod tayinlanmaydi.",
+        "Sud umrbodni qo'llash masalasini muhokama qilishi shart — bu muqobil sifatida 15 yildan 20 yilgacha ozodlikdan mahrum etish ham mavjud.",
+        "Hukmda umrbodni tayinlashning asoslari to'liq ko'rsatilishi kerak — jinoyat holatlari, sabablari, motivlari."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-1319701",
+      "matn": "Umrbod ozodlikdan mahrum qilish jazosi ayolga, oʻn sakkiz yoshga toʻlmasdan jinoyat sodir etgan shaxsga va oltmish yoshdan oshgan erkakka nisbatan tayinlanishi mumkin emas.",
+      "sharh": [
+        "Qo'llanilmaydiganlar: barcha ayollar (yoshidan qat'i nazar), 18 yoshgacha, 60+ erkaklar.",
+        "Bu cheklov imperativ — hatto og'irlashtiruvchi holatlarda ham buzilmaydi.",
+        "Erkakning yoshi hukm chiqarilgan kunga qarab belgilanadi — jinoyat sodir etgan paytda emas.",
+        "18 yosh to'lgan kun — tug'ilgan kunidan keyingi kun (00:00 dan).",
+        "60 yosh to'lgan kun — shaxsning tug'ilgan kuni."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+﻿{
+  "n": 468,
+  "sarlavha_id": "-256593",
+  "sarlavha": "468-modda. Ayblov hukmining qaror qismi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256594",
+      "matn": "Ayblov hukmining qaror qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-256595",
+          "matn": "sudlanuvchining familiyasi, ismi va otasining ismi;"
+        },
+        {
+          "b": 2,
+          "id": "-256596",
+          "matn": "sudlanuvchining jinoyat sodir etganlikda aybli deb topilganligi toʻgʻrisidagi qaror;"
+        },
+        {
+          "b": 3,
+          "id": "-256597",
+          "matn": "Jinoyat kodeksining sudlanuvchining aybli deb eʼtirof etilishiga asos boʻlgan moddasi (moddaning qismi, bandi), shuningdek sudlanuvchining oʻta xavfli retsidivist deb topilganligi, basharti sud shunday qaror qabul qilgan boʻlsa;"
+        },
+        {
+          "b": 4,
+          "id": "-256598",
+          "matn": "sudlanuvchi aybli deb topilgan har bir jinoyati uchun tayinlangan jazo turi va meʼyori; Jinoyat kodeksining moddalariga muvofiq uzil-kesil tayinlangan va oʻtalishi lozim boʻlgan jazo chorasi; ozodlikdan mahrum etilgan shaxsning jazo muddatini oʻtashi lozim boʻlgan tegishli tartibli koloniya turi;"
+        },
+        {
+          "b": "4¹",
+          "id": "-2721552",
+          "matn": "ozodlikni cheklash tariqasidagi jazoga hukm etilgan shaxs uchun belgilanadigan taqiqlar (cheklashlar);"
+        },
+        {
+          "b": 5,
+          "id": "-256601",
+          "matn": "sudlanuvchi shartli ravishda hukm qilingan boʻlsa, sinov muddati va mahkumning ustidan kuzatuv olib borish vazifasi yuklatilgan jamoa yoki shaxs;"
+        },
+        {
+          "b": 6,
+          "id": "-3696655",
+          "matn": "ushlab turilgan yoki qamoqda yoxud uy qamogʻida saqlangan vaqtni jazo tayinlashda jazo muddati hisobiga kiritish toʻgʻrisidagi qaror;"
+        },
+        {
+          "b": 7,
+          "id": "-256605",
+          "matn": "hukm qonuniy kuchga kirguniga qadar sudlanuvchiga nisbatan ehtiyot chorasiga doir qaror;"
+        },
+        {
+          "b": 8,
+          "id": "-256607",
+          "matn": "mahkumning zimmasiga yuklatilgan majburiyatlar;"
+        },
+        {
+          "b": 9,
+          "id": "-256608",
+          "matn": "ushbu Kodeksning 533-moddasida nazarda tutilgan asoslar aniqlangan hollarda hukmning ijrosini kechiktirish toʻgʻrisidagi qaror koʻrsatiladi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-256609",
+      "matn": "Basharti sudlanuvchiga Jinoyat kodeksining bir necha moddasi bilan ayblov qoʻyilgan boʻlsa, hukmning qaror qismida sudlanuvchi qaysi moddalar boʻyicha oqlanganligi va qaysi moddalar boʻyicha hukm qilinganligi koʻrsatilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-256610",
+      "matn": "Sudlanuvchi jazoni oʻtashdan ozod qilingan boʻlsa, bu haqda hukmning qaror qismida koʻrsatiladi."
+    },
+    {
+      "q": 4,
+      "id": "-256611",
+      "matn": "Barcha hollarda tayinlangan jazo shunday ifodalanishi lozimki, toki hukmni ijro etishda sud tayinlagan jazo turi va meʼyori xususida hech qanday shubha tugʻilmasin."
+    }
+  ]
+}

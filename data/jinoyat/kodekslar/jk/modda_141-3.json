@@ -1,0 +1,35 @@
+{
+  "n": "141-3",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-6437845",
+  "sarlavha": "141³-modda. Shaxsning shaʼnini va qadr-qimmatini kamsituvchi hamda inson hayotining sir tutiladigan tomonlarini aks ettiruvchi maʼlumotlarni oshkor qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6437849",
+      "matn": "Shaxs tanasining va (yoki) jinsiy aʼzolarining yalangʻoch holdagi foto- va (yoki) videotasvirini oʻz ichiga olgan axborotni uning roziligisiz tarqatish, shu jumladan ommaviy axborot vositalarida, telekommunikatsiya tarmoqlarida yoki Internet jahon axborot tarmogʻida tarqatish yoxud bunday axborotni tarqatish bilan qoʻrqitish, — bazaviy hisoblash miqdorining toʻrt yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-6437852",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-6437853",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-6437854",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-6437855",
+          "matn": "oʻn sakkiz yoshga toʻlmaganligi aybdorga ayon boʻlgan shaxsga nisbatan sodir etilgan boʻlsa, — uch yuz oltmish soatdan toʻrt yuz sakson soatgacha majburiy jamoat ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

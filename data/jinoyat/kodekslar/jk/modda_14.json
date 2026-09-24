@@ -1,0 +1,39 @@
+{
+  "n": 14,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-174970",
+  "sarlavha": "14-modda. Jinoyat tushunchasi",
+  "umumiy_sharh": [
+    "Jinoyat tushunchasi jinoyat huquqi fanining predmetini tashkil qiluvchi kategoriyalardan biri bo'lib, unga ijtimoiy xavfli, huquqqa xilof, aybli va jinoiy jazoga sazovor qilmish sifatida baho berilgan.",
+    "Jinoyat kodeksida moddiy va formal belgilar mavjud. Formal belgi — ma'lum bir harakatlarni sodir qilish yoki harakatlarni bajarishni man qilish. Moddiy belgi — jinoyatning tub mohiyatini, ijtimoiy xavfliligini ifodalaydi.",
+    "Jinoyatning zaruriy belgilari: ijtimoiy xavflilik, aybning mavjudligi, huquqqa xiloflik, jazoga sazovorlik. Faqat barcha belgilar birdaniga mavjud bo'lsagina, qilmish jinoyat deb hisoblanadi.",
+    "Ijtimoiy xavflilik — jinoiy huquqiy muhofaza obyektlariga zarar keltiruvchi yoki haqiqiy zarar yetkazish xavfini tug'diruvchi qilmishlarnigina jinoyat toifasiga kiritishni ifodalaydi.",
+    "Huquqqa xiloflik jinoyatning formal belgisi hisoblanadi. Qilmish jinoyat qonuni bilan huquqqa xilof, deb e'lon qilinganidan boshlab jinoyatga aylanadi.",
+    "Jazoga sazovorlik jinoyatning belgisi sifatida jinoyat qonuniga xilof qilmish uchun jazo mavjudligini hamda jinoyat va jazo tushunchalari bir-biriga uzviy bog'liqligini bildiradi.",
+    "Ayb jinoyatning mustaqil belgisi sifatida jinoiy javobgarlikning asosi ham hisoblanadi. Shaxs faqat aybli ijtimoiy xavfli qilmishlari uchungina javobgar bo'ladi.",
+    "Ijtimoiy xavfli qilmishning yuridik tuzilishi: obyektiv holat sifatida qonun bilan qo'riqlanadigan ijtimoiy munosabatlarga zarar yetkazishning haqiqiy xavfini o'zida aks ettiradi.",
+    "Harakat — shaxsning tana harakatidan iborat bo'lgan faol xulq-atvor. Harakat qasddan ham, ehtiyotsizlik orqali ham sodir etilishi mumkin.",
+    "Harakatsizlik — passiv xulq-atvor, bajarilishi shart va mumkin bo'lgan majburiyatni ongli ravishda bajarmaslikda ifodalanadi. Harakatsizlik faqat ijtimoiy xavfli va g'ayrihuquqiy bo'lgan taqdirdagina javobgarlikni keltirib chiqaradi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-174971",
+      "matn": "Ushbu Kodeks bilan taqiqlangan, aybli ijtimoiy xavfli qilmish (harakat yoki harakatsizlik) jazo qoʻllash tahdidi bilan jinoyat deb topiladi.",
+      "sharh": [
+        "Jinoyatning asosiy belgilari: ijtimoiy xavflilik, aybning mavjudligi, huquqqa xiloflik va jazoga sazovorlik — barchasi birdaniga mavjud bo'lishi kerak.",
+        "Jinoyatning ijtimoiy xavflilik belgisi mavjud emasligi, huquqqa xiloflikning ham mavjud emasligini bildiradi.",
+        "Jinoyat belgilari qilmishning jinoiyligini belgilovchi asosiy mezon bo'lib, ulardan birontasi bo'lmasa, qilmish jinoyat hisoblanmaydi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-174973",
+      "matn": "Ushbu Kodeks bilan qoʻriqlanadigan obyektlarga zarar yetkazadigan yoki shunday zarar yetkazish real xavfini keltirib chiqaradigan qilmish ijtimoiy xavfli qilmish deb topiladi.",
+      "sharh": [
+        "Ijtimoiy xavfli qilmish — qonun bilan qo'riqlanadigan ijtimoiy munosabatlarga zarar yetkazishning haqiqiy xavfini o'zida aks ettiruvchi obyektiv holat.",
+        "Jinoyat kodeksida nazarda tutilgan jinoyatlarning aksariyati jinoiy harakat yo'li bilan, qolganlari harakatsizlikda sodir etiladi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "n": "9",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5380892",
+  "sarlavha": "9-modda. Oʻzbekiston Respublikasining qonunlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5380895",
+      "matn": "Oʻzbekiston Respublikasining qonunlari eng muhim va barqaror ijtimoiy munosabatlarni tartibga soladi hamda Oʻzbekiston Respublikasi Oliy Majlisi tomonidan yoki referendum oʻtkazish yoʻli bilan qabul qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-5380896",
+      "matn": "Oʻzbekiston Respublikasining qonunlari konstitutsiyaviy qonunlar tarzida qabul qilinishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-5380898",
+      "matn": "Oʻzbekiston Respublikasining Konstitutsiyasiga oʻzgartish va qoʻshimchalar kiritilishini nazarda tutuvchi Oʻzbekiston Respublikasi qonunlari konstitutsiyaviy qonunlar tarzida qabul qilinadi."
+    },
+    {
+      "q": 4,
+      "id": "-5380899",
+      "matn": "Oʻzbekiston Respublikasining qonunlari huquqiy prinsiplar va normalarni mustahkamlovchi, birlashtiruvchi, tizimlashtiruvchi, shuningdek ijtimoiy munosabatlar eng muhim sohasining huquqiy jihatdan kompleks tartibga solinishini taʼminlovchi kodekslar tarzida qabul qilinishi mumkin."
+    }
+  ]
+}

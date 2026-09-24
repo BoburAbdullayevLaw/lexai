@@ -1,0 +1,39 @@
+﻿{
+  "n": 616,
+  "sarlavha_id": "-7250893",
+  "sarlavha": "616-modda. Qabul qilib olingan shaxsga nisbatan ozodlikdan mahrum qilish tarzidagi jazoni ijro etishni yoki tibbiy yoʻsindagi majburlov chorasini qoʻllashni tashkil etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7250894",
+      "matn": "Xorijiy davlat sudining qarorini tan olish va ijroga qaratish toʻgʻrisidagi sud ajrimi chiqarilganidan keyin Oʻzbekiston Respublikasi Bosh prokuraturasi Oʻzbekiston Respublikasi Ichki ishlar vazirligiga, zarur boʻlgan taqdirda esa Oʻzbekiston Respublikasi Sogʻliqni saqlash vazirligiga shaxsni xorijiy davlat hududida jazoni ijro etish muassasasidan yoki psixiatriya muassasasidan berish va qabul qilib olish joyini, vaqtini, tartibini va tashkil etilishini kelishish toʻgʻrisida topshiriq beradi."
+    },
+    {
+      "q": 2,
+      "id": "-7250895",
+      "matn": "Ushbu Kodeksning 611-moddasida koʻrsatilgan shaxslarga nisbatan jazoni ijro etish yoki majburiy davolash Oʻzbekiston Respublikasining qonunchiligiga muvofiq amalga oshiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-7250896",
+      "matn": "Ushbu Kodeksning 611-moddasida koʻrsatilgan shaxslarga nisbatan muddatidan ilgari shartli ozod qilish, jazoning oʻtalmay qolgan qismini yengilroq jazo bilan almashtirish, afv etish, amnistiya aktini qoʻllash, shuningdek tibbiy yoʻsindagi majburlov chorasini qoʻllashni bekor qilish yoki oʻzgartirish Oʻzbekiston Respublikasining qonunchiligida va xalqaro shartnomalarida nazarda tutilgan tartibda amalga oshiriladi."
+    },
+    {
+      "q": 4,
+      "id": "-7250897",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokuraturasi xorijiy davlatning vakolatli organini jazoni ijro etish yoki majburiy davolash holati va natijasi toʻgʻrisida quyidagi hollarda xabardor qiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-7250898",
+          "matn": "jazoni ijro etish yoki majburiy davolash Oʻzbekiston Respublikasining qonunchiligiga muvofiq yakunlanganida;"
+        },
+        {
+          "b": 2,
+          "id": "-7250899",
+          "matn": "ushbu Kodeksning 611-moddasida koʻrsatilgan shaxslar vafot etganida yoki qochib ketganida."
+        }
+      ]
+    }
+  ]
+}

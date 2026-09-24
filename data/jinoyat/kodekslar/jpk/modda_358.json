@@ -1,0 +1,17 @@
+﻿{
+  "n": 358,
+  "sarlavha_id": "-255645",
+  "sarlavha": "358-modda. Tergovchining va prokurorning harakatlari hamda qarorlari ustidan shikoyat berish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255646",
+      "matn": "Tergovchining harakatlari va qarorlari ustidan shikoyat tergov boʻlinmasi boshligʻiga va ishni tergov qilishda qonunlarga rioya etilishi ustidan nazorat olib borayotgan prokurorga beriladi."
+    },
+    {
+      "q": 2,
+      "id": "-255647",
+      "matn": "Prokurorning harakatlari va qarorlari ustidan shikoyat yuqori turuvchi prokurorga beriladi."
+    }
+  ]
+}

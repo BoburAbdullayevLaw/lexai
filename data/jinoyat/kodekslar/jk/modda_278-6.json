@@ -1,0 +1,51 @@
+{
+  "n": "278-6",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1300348",
+  "sarlavha": "278\u2076-modda. Zarar keltiruvchi dasturlarni yaratish, ishlatish yoki tarqatish",
+  "umumiy_sharh": [
+    "Ushbu jinoyatning bevosita obyekti kompyuter axboroti xavfsizligini va EHM, EHM tizimi yoki ularning tarmoqlari normal ishlashini ta'minlashga doir ijtimoiy munosabatlardir. Jinoyatning predmeti zarar keltiruvchi kompyuter dasturlari, shuningdek, maxsus virus dasturlari.",
+    "Zarar keltiruvchi kompyuter dasturlari foydalanuvchi ruxsat bermagan harakatlarni bajarishga va shu tariqa axborot mulkdoriga ziyon yetkazishga, shuningdek, o'zga noxush oqibatlarga sabab bo'lishga qodir bo'lgan, maxsus yaratilgan dasturlardir.",
+    "Obyektiv tomondan kompyuter tizimida saqlanayotgan yoki uzatilayotgan axborotni ruxsatsiz yo'q qilib yuborish, to'sib qo'yish, modifikatsiyalashtirish, undan nusxa ko'chirish yoki uni qo'lga kiritish maqsadini ko'zlab kompyuter dasturlarini yaratish yoki mavjud dasturlarga o'zgartirishlar kiritish, maxsus virus dasturlarini ishlab chiqish, ulardan qasddan foydalanish yoki ularni qasddan tarqatishda ifodalanadi.",
+    "Jinoyat zarar keltiruvchi dasturlarning istalgan biri amalga oshirilgan paytdan e'tiboran, oqibatlar yuz berganligi yoki bermaganligidan qat'i nazar, tugallangan deb e'tirof etiladi. Virus dasturlari birlamchi matnlari mavjudligining o'ziyoq javobgarlikka tortish uchun asos bo'ladi.",
+    "Subyektiv tomondan faqat to'g'ri qasd bilan sodir etilishi mumkin. Shaxs o'zi yaratayotgan dasturning zarar keltiruvchi xossalarini oldindan biladi va buni istaydi.",
+    "Subyekti 16 yoshga to'lgan aqli raso jismoniy shaxs. Odatda, bu kibernetika va axborot texnologiyalari sohasida maxsus bilimlarga ega bo'lgan shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1300352",
+      "matn": "Kompyuter tizimida saqlanayotgan yoki uzatilayotgan axborotni ruxsatsiz yoʻq qilib yuborish, toʻsib qoʻyish, modifikatsiyalashtirish, undan nusxa koʻchirish yoki uni qoʻlga kiritish maqsadini koʻzlab kompyuter dasturlarini yaratish yoki mavjud dasturlarga oʻzgartirishlar kiritish, xuddi shuningdek maxsus virus dasturlarini ishlab chiqish, ulardan qasddan foydalanish yoki ularni qasddan tarqatish — bazaviy hisoblash miqdorining yuz baravaridan uch yuz baravarigacha miqdorda jarima yoki ikki yilgacha ozodlikni cheklash yoxud ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1300359",
+      "matn": "Oʻsha harakatlar:",
+      "sharh": [
+        "2-qismda juda ko'p miqdorda zarar yetkazgan holda, bir guruh shaxslar tomonidan oldindan til biriktirib, takroran yoki xavfli retsidivist tomonidan, uyushgan guruh tomonidan yoki uning manfaatlarini ko'zlab sodir etilganda og'irroq javobgarlik nazarda tutilgan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1300361",
+          "matn": "juda koʻp miqdorda zarar yetkazgan holda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1300362",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-1300365",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-1300367",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — ikki yildan uch yilgacha ozodlikni cheklash yoxud ikki yildan uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

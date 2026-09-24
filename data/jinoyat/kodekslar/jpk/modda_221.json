@@ -1,0 +1,34 @@
+﻿{
+  "n": 221,
+  "sarlavha_id": "-254609",
+  "sarlavha": "221-modda. Ushlab turish asoslari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254610",
+      "matn": "Jinoyatni sodir etishda gumon qilingan shaxs quyidagi asoslar mavjud boʻlganda ushlab turilishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-254613",
+          "matn": "shaxs jinoyat ustida yoki bevosita uni sodir etganidan keyin qoʻlga tushsa;"
+        },
+        {
+          "b": 2,
+          "id": "-254615",
+          "matn": "jinoyat shohidlari, shu jumladan jabrlanuvchilar uni jinoyat sodir etgan shaxs tariqasida toʻgʻridan-toʻgʻri koʻrsatsalar;"
+        },
+        {
+          "b": 3,
+          "id": "-254616",
+          "matn": "uning oʻzida yoki kiyimida, yonida yoki uyida sodir etilgan jinoyatning yaqqol izlari topilsa;"
+        },
+        {
+          "b": 4,
+          "id": "-254617",
+          "matn": "shaxsni jinoyat sodir etishda gumon qilish uchun asos boʻladigan maʼlumotlar mavjud boʻlib, u qochmoqchi boʻlsa yoki doimiy yashaydigan joyi yoʻq yoxud shaxsi aniqlanmagan boʻlsa."
+        }
+      ]
+    }
+  ]
+}

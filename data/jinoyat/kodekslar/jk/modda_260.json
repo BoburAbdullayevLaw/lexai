@@ -1,0 +1,40 @@
+{
+  "n": "260",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268322",
+  "sarlavha": "260-modda. Temir yoʻl, dengiz, daryo yoki havo transportining harakati yoki ulardan foydalanish xavfsizligi qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268324",
+      "matn": "Transport vositasining harakat yoki undan foydalanish xavfsizligi qoidalarining temir yoʻl, dengiz, daryo yoki havo transportini boshqaruvchi shaxs tomonidan buzilishi badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki besh yilgacha muayyan huquqdan mahrum qilish yoxud uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268327",
+      "matn": "Oʻsha qilmish odam oʻlishiga sabab boʻlsa, — sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268330",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268331",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268332",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268333",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

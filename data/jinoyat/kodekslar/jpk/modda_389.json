@@ -1,0 +1,42 @@
+﻿{
+  "n": 389,
+  "sarlavha_id": "-256157",
+  "sarlavha": "389-modda. Jinoyat ishlarining sudlovga tegishliligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626037",
+      "matn": "Jinoyat ishlari boʻyicha tuman (shahar) sudining sudloviga harbiy sudlarning sudloviga tegishli boʻlgan ishlardan tashqari hamma jinoyat ishlari tegishlidir."
+    },
+    {
+      "q": 2,
+      "id": "-6626039",
+      "matn": "Agar bir sudda koʻrib chiqilayotgan jinoyat ishi boʻyicha sud muhokamasi paytida sudlanuvchi tomonidan boshqa sud sudloviga tegishli jinoyat sodir etilganligini koʻrsatuvchi holatlar aniqlansa, ishni koʻrib chiqish sud muhokamasini boshlagan sud tomonidan davom ettiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-7355520",
+      "matn": "Ushbu Kodeksning 31¹-moddasida nazarda tutilgan protsessual majburlov choralarini sudga qadar ish yuritish bosqichida qoʻllash, shuningdek protsessual harakatlarni amalga oshirish masalalari tergov sudyalari sudloviga tegishlidir."
+    },
+    {
+      "q": 4,
+      "id": "-6626040",
+      "matn": "Harbiy sudlarning sudloviga tegishli ishlar qonunchilik bilan belgilanadi."
+    },
+    {
+      "q": 5,
+      "id": "-6626041",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining, Qoraqalpogʻiston Respublikasi sudining, viloyat, Toshkent shahar sudining yoki Oʻzbekiston Respublikasi Harbiy sudining sudloviga oʻta murakkab va ahamiyatli ishlar tegishlidir."
+    },
+    {
+      "q": 6,
+      "id": "-6626042",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining raisi jinoyat ishini, agar u mazmunan oʻta murakkab va ahamiyatli boʻlsa, Oʻzbekiston Respublikasi Oliy sudiga, Qoraqalpogʻiston Respublikasi sudiga, viloyat, Toshkent shahar sudiga, Oʻzbekiston Respublikasi Harbiy sudiga koʻrish uchun topshirishga haqli."
+    },
+    {
+      "q": 7,
+      "id": "-6626044",
+      "matn": "Qoraqalpogʻiston Respublikasi sudining raisi, viloyat, Toshkent shahar sudining raislari, Oʻzbekiston Respublikasi Harbiy sudining raisi jinoyat ishini, agar u mazmunan oʻta murakkab boʻlmasa, jinoyat ishlari boʻyicha tegishli tuman (shahar) sudiga, shuningdek hududiy harbiy sudga koʻrish uchun topshirishga haqli."
+    }
+  ]
+}

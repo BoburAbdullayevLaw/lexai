@@ -1,0 +1,27 @@
+﻿{
+  "n": 228,
+  "sarlavha_id": "-254654",
+  "sarlavha": "228-modda. Ushlab turilganlarni saqlash joylari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3349936",
+      "matn": "Ushlangan shaxs ichki ishlar organi yoki huquqni muhofaza qiluvchi boshqa organga keltirilganidan soʻng u ozodlikdan mahrum etish joyi hisoblanmagan xizmat binolarida saqlanadi yoki vaqtincha saqlash hibsxonasi kamerasiga, ushlab turilgan harbiy xizmatchi esa gauptvaxtaga joylashtiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-1881156",
+      "matn": "Ushlab turilganlarni ayrim joylarda istisno tarzida maxsus moslashtirilgan binolarda, dengiz va daryo kemalarida esa, maxsus ajratilgan kayutalarda saqlashga yoʻl qoʻyiladi."
+    },
+    {
+      "q": 3,
+      "id": "-1881163",
+      "matn": "Jazoni ijro etish muassasalarida ushlab turilganlarni saqlash uchun maxsus kameralar jihozlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-1881170",
+      "matn": "Ushlab turilganlarni qamoqda saqlash joylarida saqlash tartibi va shart-sharoitlari qonunda belgilanadi."
+    }
+  ]
+}

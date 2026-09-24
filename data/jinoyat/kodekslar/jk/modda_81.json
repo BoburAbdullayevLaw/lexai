@@ -1,0 +1,36 @@
+{
+  "n": 81,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195710",
+  "sarlavha": "81-modda. Jazo tizimi",
+  "umumiy_sharh": [
+    "Sharhlanayotgan modda quyidagilarni tartibga soladi: voyaga yetmagan shaxs tushunchasi; sodir etilgan jinoyatda voyaga yetmagan shaxs aybdor deb topilgan taqdirda, unga nisbatan qo'llanilishi mumkin bo'lgan jazo tizimi.",
+    "Shaxsni voyaga yetmagan deb topishda sharhlanayotgan moddaning birinchi qismi o'n sakkiz yoshga to'lmay jinoyat sodir etgan shaxslarni tushirish lozimligini belgilaydi. Shuni esda tutish lozimki, sodir etilgan jinoyat uchun jinoiy javobgarlikka tortishning belgilangan eng kichik yoshi o'n uch yosh hisoblanadi. Shunday qilib, jinoiy javobgarlikka tortish uchun shaxsni voyaga yetmagan shaxs deb topish Jinoyat kodeksining qoidalariga muvofiq, jinoyat sodir etgunga qadar o'n uch yoshga to'lgan shaxs, lekin o'n sakkiz yoshdan kichik bo'lgan shaxs tushuniladi. Shaxsning muayyan bir yoshga (13, 14, 15, 16, 17 dan 18 yoshgacha) to'lganligi ahamiyatga ega emas, lekin sudlar tomonidan jazoni individuallashtirishda hisobga olinishi kerak, yoshi kichik ayblanuvchilarga yengilroq, yoshi kattalarga esa, og'irroq jazo qo'llanilishi lozim. Har qanday holda ham sud voyaga yetmagan shaxsga jazo tayinlashda sharhlanayotgan moddada belgilangan jazo turidan birini tanlashi kerak.",
+    "Shaxsning yoshini aniqlashda shu narsani e'tiborda tutish kerakki, shaxs tug'ilgan kunidan boshlab emas, balki tug'ilgan kuni o'tganidan so'ng, ya'ni ertasi kunning nol soatidan boshlab jinoyat uchun javobgarlik boshlanadigan yoshga to'lgan deb hisoblanadi. Shaxsning yoshi tegishli hujjatlar (pasport, tug'ilish guvohnomasi va h.k.) bo'yicha emas, balki sud-tibbiyot ekspertizasi xulosasi asosida yillarda aniqlanayotganda, uning tug'ilgan kuni deb ekspertlar aniqlangan yilning oxirgi kuni hisoblanadi, yosh eng kam va eng ko'p yillar miqdori bilan aniqlanganda esa, sud ekspertlar tomonidan belgilangan eng kam yoshdan kelib chiqishi lozim.",
+    "Sharhlanayotgan moddaning keyingi elementi sudlar tomonidan voyaga yetmagan shaxslarga nisbatan sodir etgan jinoyati uchun to'g'ridan to'g'ri qo'llanilishi mumkin bo'lgan jazolar tizimini bevosita tartibga soluvchi qoidalar hisoblanadi. Sharhlanayotgan modda faqatgina voyaga yetmagan shaxslarga nisbatan qo'llaniladigan jazoning maxsus turlarini o'rnatmaydi, balki JKning 43-moddasida belgilangan ayrim jazo turlarining qo'llanilishini cheklaydi.",
+    "Voyaga yetmagan shaxslar uchun jazo tizimi faqatgina beshta asosiy jazo turlarini nazarda tutadi: jarima; majburiy jamoat ishlari; axloq tuzatish ishlari; ozodlikni cheklash; ozodlikdan mahrum qilish.",
+    "Voyaga yetmagan shaxslar uchun tayinlanadigan jazo tizimi JKning 43-moddasida ko'rsatilgan jazo tizimining o'ziga xos xususiyatlariga ega: davlat majburlov chorasining alohida turlaridan tashkil topgan; jazo tizimi elementlari o'zarobog'liq bo'lib, biri ikkinchisiga bog'lanib va to'ldirib keladi; sharhlanayotgan moddada nazarda tutilgan davlatning majburlov choralari ro'yxati qat'iy bo'lib, kengaytirib talqin qilinishi mumkin emas. Shuning uchun voyaga yetmaganlarga nisbatan JKning 43-moddasida ko'rsatilgan, lekin sharhlanayotgan moddada bevosita nazarda tutilmagan jazo choralarini qo'llash taqiqlanadi (masalan, xizmat bo'yicha cheklash, intizomiy qismga jo'natish, umrbod ozodlikdan mahrum qilish).",
+    "Sharhlanayotgan modda Jinoyat kodeksi oltinchi bo'limining boshqa qoidalari kabi voyaga yetmagan shaxslarni jinoiy javobgarlikka tortishning maxsus tartibini o'rnatadi. Ko'rsatilgan bo'limning qoidalarida hal etilmagan masalalar jazo va uni tayinlash, javobgarlik va jazodan ozod etish kabi JKning Umumiy qismi qoidalari bilan tartibga solinadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195711",
+      "matn": "O'n sakkiz yoshga to'lmagan shaxslarga quyidagi asosiy jazolar qo'llanilishi mumkin:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-195712","matn":"jarima;","sharh":[]},
+        {"b":"a¹","id":"https://lex.uz/docs/-111453#-3165961","matn":"majburiy jamoat ishlari;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-195713","matn":"axloq tuzatish ishlari;","sharh":[]},
+        {"b":"v¹","id":"https://lex.uz/docs/-111453#-2722307","matn":"ozodlikni cheklash;","sharh":[]},
+        {"b":"g","id":"https://lex.uz/docs/-111453#-195715","matn":"ozodlikdan mahrum qilish.","sharh":[]}
+      ],
+      "sharh":[]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195716",
+      "matn": "O'n sakkiz yoshga to'lmagan shaxslarga nisbatan qo'shimcha jazolar tayinlanishi mumkin emas.",
+      "sharh":[]
+    }
+  ]
+}

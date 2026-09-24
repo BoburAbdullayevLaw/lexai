@@ -1,0 +1,66 @@
+﻿{
+  "n": 463,
+  "sarlavha_id": "-256551",
+  "sarlavha": "463-modda. Ayblov hukmi chiqarish asoslari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256552",
+      "matn": "Ayblov hukmi taxminlarga asoslangan boʻlishi mumkin emas va faqat sudlanuvchining jinoyat sodir etishda aybli ekanligi sud muhokamasi davomida isbot qilingan taqdirdagina chiqariladi. Ayblov hukmiga jinoyat sodir etilishining ish boʻyicha barcha mumkin boʻlgan holatlarini tekshirish, ish materiallarida maʼlum boʻlib qolgan barcha kam-koʻstni toʻldirish, yuzaga kelgan hamma shubha va qarama-qarshiliklarga barham berish natijasida yigʻilgan ishonchli dalillargina asos qilib olinishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-256553",
+      "matn": "Sud quyidagi hollarda jazodan ozod qilib, ayblov hukmini chiqaradi, basharti:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-256554",
+          "matn": "mazkur hukm bilan sudlanuvchiga tayinlangan jazoni qoʻllashdan ozod qiluvchi amnistiya akti eʼlon qilingan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-3696646",
+          "matn": "shaxsning hukm chiqquniga qadar qamoqda yoki uy qamogʻida boʻlgan vaqti Jinoyat kodeksining 62-moddasida nazarda tutilgan ushlab turishni, qamoqqa olishni yoki uy qamogʻini hisobga olish qoidalarini nazarda tutib, sud tomonidan tayinlangan jazo chorasiga teng yoxud bu choradan ortiq boʻlsa;"
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-256556",
+      "matn": "Sud quyidagi hollarda jazo tayinlamasdan ayblov hukmini chiqaradi, basharti:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-256557",
+          "matn": "mahkum sodir etgan jinoyat uchun jazo tayinlashni istisno etadigan amnistiya akti eʼlon qilingan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-256558",
+          "matn": "mazkur jinoyat uchun ayblanuvchi tariqasida ishda ishtirok etishga jalb qilish muddati oʻtib ketgan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-256559",
+          "matn": "hukm chiqariladigan vaqtga kelib, qilmish ijtimoiy xavfliligini yoʻqotsa yoki uni sodir etgan shaxs ijtimoiy xavfli boʻlmay qolsa;"
+        },
+        {
+          "b": 4,
+          "id": "-256560",
+          "matn": "mahkumning tuzalishiga jamoat birlashmalari va jamoalar tomonidan qoʻllaniladigan jamoat taʼsir choralari yoki maʼmuriy jazo choralarini koʻrish yoʻli bilan erishish mumkin boʻlsa;"
+        },
+        {
+          "b": 5,
+          "id": "-256561",
+          "matn": "hukm chiqarish vaqtigacha sudlanuvchi vafot etgan boʻlsa;"
+        },
+        {
+          "b": 6,
+          "id": "-1725309",
+          "matn": "Oʻzbekiston Respublikasi Jinoyat kodeksining 71-moddasiga muvofiq shaxsni oʻz qilmishiga amalda pushaymon boʻlganligi tufayli jazodan ozod qilish uchun asoslar mavjud boʻlsa."
+        }
+      ]
+    }
+  ]
+}

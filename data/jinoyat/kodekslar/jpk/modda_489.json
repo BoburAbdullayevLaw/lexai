@@ -1,0 +1,29 @@
+﻿{
+  "n": 489,
+  "sarlavha_id": "-6626450",
+  "sarlavha": "489-modda. Jinoyat kodeksi normalarining notoʻgʻri qoʻllanilishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626452",
+      "matn": "Quyidagilar Jinoyat kodeksi normalarining notoʻgʻri qoʻllanilishi deb eʼtirof etiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626455",
+          "matn": "Jinoyat kodeksi Umumiy qismi moddalarining talablari buzilganligi;"
+        },
+        {
+          "b": 2,
+          "id": "-6626457",
+          "matn": "jinoyatning Jinoyat kodeksining qoʻllanilishi lozim boʻlgan moddasi (moddaning qismi, bandi) oʻrniga boshqa moddasi (moddaning qismi, bandi) bilan tavsiflanganligi;"
+        },
+        {
+          "b": 3,
+          "id": "-6626458",
+          "matn": "mahkumga Jinoyat kodeksining mazkur moddasida nazarda tutilmagan jazo turi va meʼyori tayinlanganligi."
+        }
+      ]
+    }
+  ]
+}

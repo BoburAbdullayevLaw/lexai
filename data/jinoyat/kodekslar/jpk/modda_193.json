@@ -1,0 +1,22 @@
+﻿{
+  "n": 193,
+  "sarlavha_id": "-254488",
+  "sarlavha": "193-modda. Surishtiruvchi, tergovchi yoki sud tomonidan namunalar olish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254489",
+      "matn": "Surishtiruvchi yoki tergovchi namuna olinishi kerak boʻlgan shaxsni chaqirtiradi yoki u turgan joyga borib, uni namuna olish toʻgʻrisidagi qaror yoki sudning oʻziga kelib tushgan ajrimi bilan tanishtirib tilxat oladi va bu shaxsga, mutaxassisga, xolislarga ularning huquq va majburiyatlarini tushuntiradi, agar kimdir rad etilgan boʻlsa, bu masalani hal qiladi. Keyin surishtiruvchi yoki tergovchi kerakli harakatlarni bajaradi va ekspert tekshiruvi uchun namunalar oladi. Bunda ogʻriq bermaydigan hamda inson hayoti va salomatligi uchun xavfli boʻlmagan ilmiy-texnikaviy vositalar qoʻllanilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-254490",
+      "matn": "Murdadan, shuningdek xom ashyolardan, mahsulotlardan, boshqa materiallardan namunalar olish eksgumatsiya qilish, olib qoʻyish yoki tintuv oʻtkazish yoʻli bilan amalga oshiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-254491",
+      "matn": "Olingan namunalar oʻraladi va muhrlanadi. Keyin surishtiruvchi yoki tergovchi ularni namuna olish bayonnomasi bilan birga tegishli ekspertga yuboradi. Agar namuna olish sudning ajrimiga binoan amalga oshirilgan boʻlsa, ushbu ajrimni bajargan surishtiruvchi yoki tergovchi namunalarni ularni olish toʻgʻrisidagi bayonnoma bilan birga sudga yuboradi. Sud taraflar ishtirokida namunalarni koʻzdan kechirib, ularning haqiqiyligiga va toʻla saqlanganligiga ishonch hosil qilgandan keyin olingan namunani ajrim va bayonnoma bilan birga tegishli ekspertga yuboradi."
+    }
+  ]
+}

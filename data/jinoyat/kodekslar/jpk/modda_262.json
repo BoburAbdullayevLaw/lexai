@@ -1,0 +1,27 @@
+﻿{
+  "n": 262,
+  "sarlavha_id": "-254879",
+  "sarlavha": "262-modda. Majburiy keltirish lozim boʻlgan shaxslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254881",
+      "matn": "Majburiy keltirish gumon qilinuvchining, ayblanuvchining, sudlanuvchining, jabrlanuvchining, guvohning protsessual harakatlarda yoki sud majlisida ishtirok etishini taʼminlash uchun, basharti ular uzrsiz sabablarga koʻra kelishdan bosh tortganligi aniqlangan taqdirda, qoʻllaniladi."
+    },
+    {
+      "q": 2,
+      "id": "-254883",
+      "matn": "Gumon qilinuvchi, ayblanuvchi, sudlanuvchini oldindan chaqiruvsiz majburiy keltirish ular surishtiruv, dastlabki tergov va suddan yashirinib yurgan yoki aniq yashash joyi boʻlmagan taqdirda qoʻllanilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254885",
+      "matn": "Sudlanuvchining sudga kelmaganligi sababini oldindan aniqlamasdan turib, majburiy keltirishga alohida hollarda, ishni koʻrish sudlanuvchi boʻlmaganligi sababli keyinga qoldirilayotgan va bunda uning turgan joyi toʻgʻrisida maʼlumot boʻlmagan taqdirda yoʻl qoʻyiladi."
+    },
+    {
+      "q": 4,
+      "id": "-254888",
+      "matn": "Guvohga yoki jabrlanuvchiga nisbatan majburiy keltirishning qoʻllanilgani ularni koʻrsatuv berishdan bosh tortganlik uchun qonunda belgilangan javobgarlikdan ozod qilmaydi."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿{
+  "n": 131,
+  "sarlavha_id": "-254065",
+  "sarlavha": "131-modda. Tanib olish uchun koʻrsatish holatini mustahkamlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254066",
+      "matn": "Surishtiruv yoki dastlabki tergov vaqtida oʻtkazilgan tanib olish uchun koʻrsatish toʻgʻrisida bayonnoma tuziladi. Sud muhokamasida oʻtkazilgan tanib olish uchun koʻrsatish sud majlisi bayonnomasida qayd qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-254067",
+      "matn": "Barcha hollarda bayonnomaga: tanib oluvchi, tanib olish uchun koʻrsatish sharoiti, jarayoni va natijalari, tanib olish uchun koʻrsatilgan shaxslar, ularning yoshi, boʻyi, millati, turar joyi, koʻzga tashlanuvchi belgilari, kiyimlari; tanib olish uchun koʻrsatilgan narsalar tavsifi; tanib olish uchun koʻchmas obyektlar koʻrsatilganda esa, shuningdek tanib oluvchi koʻrsatgan yoʻnalishlar va izlanayotgan obyektga biror aniq joydan borish yoʻllari toʻgʻrisidagi maʼlumotlar kiritilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-4354617",
+      "matn": "Agar shaxsni tanib olish koʻrib turishni istisno etadigan sharoitlarda oʻtkazilgan boʻlsa, bayonnomaga bu haqda tegishli yozuv kiritilishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "-254068",
+      "matn": "Tanib olish uchun fotosuratlar koʻrsatilgan boʻlsa, bayonnomaga fotojadval ilova qilinishi lozim."
+    },
+    {
+      "q": 5,
+      "id": "-254069",
+      "matn": "Tanib oluvchining koʻrsatuvlari, shuningdek unga surishtiruvchi, tergovchi, sud, taraflar yoki boshqa shaxslar tomonidan berilgan savollar va qaytarilgan javoblar ushbu Kodeksning 106-moddasida nazarda tutilgan qoidalarga rioya qilingan holda bayonnomaga yozib boriladi."
+    }
+  ]
+}

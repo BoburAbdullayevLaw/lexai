@@ -1,0 +1,32 @@
+﻿{
+  "n": 530,
+  "sarlavha_id": "-5234590",
+  "sarlavha": "530-modda. Sud ajrimining qonuniy kuchga kirishi va uni ijro etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5234591",
+      "matn": "Birinchi instansiya sudining ajrimi shu ajrim ustidan apellyatsiya tartibida xususiy shikoyat berish va xususiy protest bildirish muddati oʻtishi bilan yoxud shikoyat yoki protest bildirilgan taqdirda ish apellyatsiya instansiyasi sudida koʻrib chiqilganidan keyin qonuniy kuchga kiradi va ijro etiladi."
+    },
+    {
+      "q": 2,
+      "id": "-5234592",
+      "matn": "Sudning apellyatsiya tartibida shikoyat berilishi, protest bildirilishi mumkin boʻlmagan ajrimi shu ajrim chiqarilishi bilanoq darhol kuchga kiradi va ijro etiladi."
+    },
+    {
+      "q": 3,
+      "id": "-5234593",
+      "matn": "Jinoyat ishini tugatish haqidagi sud ajrimining ayblanuvchini yoki sudlanuvchini qamoqdan yoki uy qamogʻidan ozod qilishga oid qismi darhol ijro etilishi lozim."
+    },
+    {
+      "q": 4,
+      "id": "-5234594",
+      "matn": "Apellyatsiya va kassatsiya instansiyasi sudlarining ajrimi eʼlon qilingan paytdan eʼtiboran qonuniy kuchga kiradi."
+    },
+    {
+      "q": 5,
+      "id": "-5234596",
+      "matn": "Apellyatsiya va kassatsiya instansiyasi sudining ajrimi ushbu Kodeks 497³¹-moddasining sakkizinchi va toʻqqizinchi qismlarida nazarda tutilgan qoidalarga koʻra ijro ettiriladi."
+    }
+  ]
+}

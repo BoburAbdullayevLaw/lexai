@@ -1,0 +1,71 @@
+﻿{
+  "n": 615,
+  "sarlavha_id": "-7250880",
+  "sarlavha": "615-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7250881",
+      "matn": "Sud iltimosnomani koʻrib chiqib ajrim chiqaradi, unda quyidagilar koʻrsatiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-7250882",
+          "matn": "xorijiy davlat sudining nomi, qaror qabul qilingan vaqt va joy;"
+        },
+        {
+          "b": 2,
+          "id": "-7250883",
+          "matn": "mahkumning yoki oʻziga nisbatan tibbiy yoʻsindagi majburlov chorasi qoʻllanilgan shaxsning familiyasi, ismi va otasining ismi, Oʻzbekiston Respublikasidagi oxirgi yashash joyi, hukm qilinguniga yoki oʻziga nisbatan tibbiy yoʻsindagi majburlov chorasi qoʻllanilguniga qadar ishlagan joyi va lavozimi, fuqaroligi toʻgʻrisidagi maʼlumotlar;"
+        },
+        {
+          "b": 3,
+          "id": "-7250884",
+          "matn": "sodir etilishida shaxs aybli deb topilgan jinoyatning tavsifi va shaxsning hukm qilinishiga yoxud oʻziga nisbatan tibbiy yoʻsindagi majburlov chorasi qoʻllanilishiga asos boʻlgan xorijiy davlat jinoyat toʻgʻrisidagi qonunining moddasi (qismi, bandi);"
+        },
+        {
+          "b": 4,
+          "id": "-7250885",
+          "matn": "mahkum yoki oʻziga nisbatan tibbiy yoʻsindagi majburlov chorasi qoʻllanilgan shaxs sodir etgan jinoyat uchun javobgarlik nazarda tutilgan Oʻzbekiston Respublikasi Jinoyat kodeksining moddasi (qismi, bandi);"
+        },
+        {
+          "b": 5,
+          "id": "-7250886",
+          "matn": "mahkumning Oʻzbekiston Respublikasida oʻtashi kerak boʻlgan jazo turi va muddati, tegishli tartibli koloniya turi, fuqarolik daʼvosi boʻyicha keltirilgan zararning oʻrnini qoplash yoki undirish tartibi, majburiy davolanayotgan shaxsga nisbatan qoʻllanilishi lozim boʻlgan tibbiy yoʻsindagi majburlov chorasining turi;"
+        },
+        {
+          "b": 6,
+          "id": "-7250887",
+          "matn": "ushbu Kodeksda nazarda tutilgan boshqa maʼlumotlar."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-7250888",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokurori yoki uning oʻrinbosari tomonidan xorijiy davlat sudining qarorini tan olish va ijroga qaratish toʻgʻrisida kiritilgan iltimosnomani koʻrib chiqishda, agar sud:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-7250889",
+          "matn": "xorijiy davlat sudining qarori bilan hukm qilingan yoxud oʻziga nisbatan tibbiy yoʻsindagi majburlov chorasi qoʻllanilgan shaxsning qilmishi Oʻzbekiston Respublikasining qonunchiligiga muvofiq jinoyat hisoblanmasligi;"
+        },
+        {
+          "b": 2,
+          "id": "-7250890",
+          "matn": "jazoni ijro etish muddati oʻtib ketganligi tufayli yoxud Oʻzbekiston Respublikasining qonunchiligida yoki xalqaro shartnomalarida nazarda tutilgan boshqa asosga koʻra xorijiy davlat sudining qarorini ijro etish mumkin emasligi;"
+        },
+        {
+          "b": 3,
+          "id": "-7250891",
+          "matn": "xorijiy davlat sudining qarorini tan olish va ijroga qaratish Oʻzbekiston Respublikasining manfaatlariga, suverenitetiga yoki xavfsizligiga zarar yetkazishi mumkinligi haqida xulosaga kelsa, xorijiy davlat sudining qarorini tan olishni va ijroga qaratishni rad etish toʻgʻrisida ajrim chiqaradi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-7250892",
+      "matn": "Sudning ajrimi oʻqib eshittirilgan kundan eʼtiboran kuchga kiradi hamda Oʻzbekiston Respublikasi Bosh prokuraturasiga uning ijrosini taʼminlash choralarini koʻrish uchun, himoyachiga va boshqa manfaatdor shaxslarga esa maʼlumot uchun yuboriladi."
+    }
+  ]
+}

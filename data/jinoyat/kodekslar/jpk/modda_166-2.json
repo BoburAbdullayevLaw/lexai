@@ -1,0 +1,54 @@
+{
+  "n": "166-2",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-3173764",
+  "sarlavha": "166²-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-3173765",
+      "matn": "Sudya pochta-telegraf joʻnatmalarini xatlash toʻgʻrisidagi iltimosnomani koʻrib chiqib, pochta-telegraf joʻnatmalarini xatlash toʻgʻrisida yoki pochta-telegraf joʻnatmalarini xatlashni rad etish haqida ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-3173767",
+      "matn": "Sudyaning pochta-telegraf joʻnatmalarini xatlashni rad etish haqidagi ajrimi asoslantirilgan boʻlishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-3173768",
+      "matn": "Ushbu moddaning birinchi qismida nazarda tutilgan sud ajrimi oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi. Pochta-telegraf joʻnatmalarini xatlash toʻgʻrisidagi ajrim tegishli aloqa muassasasining boshligʻiga yuboriladi va uni bajarish mazkur boshliq uchun majburiydir. Bu ajrimni bajarmaganlik yoki uning mazmunini oshkor etganlik qonunda belgilangan javobgarlikka sabab boʻladi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-3173769",
+      "matn": "Aloqa muassasasining boshligʻi sud ajrimida koʻrsatilgan xat-xabarlar va boshqa joʻnatmalarni ushlab turadi hamda bu haqda prokurorga, tergovchiga, surishtiruvchiga yoki sudga darhol maʼlum qiladi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-7355201",
+      "matn": "Ushbu moddaning birinchi qismida nazarda tutilgan sud ajrimi ustidan mazkur ajrim chiqarilgan kundan eʼtiboran yetmish ikki soat ichida gumon qilinuvchi, ayblanuvchi, uning himoyachisi va qonuniy vakili tomonidan apellyatsiya tartibida shikoyat berilishi yoxud prokuror tomonidan protest bildirilishi mumkin. Apellyatsiya shikoyati, protest ajrimni chiqargan sud orqali beriladi, mazkur sud ularni qirq sakkiz soat ichida materiallar bilan birga apellyatsiya instansiyasi sudiga yuborishi shart. Shikoyat yoki protest berilishi sudning pochta-telegraf joʻnatmalarini xatlash toʻgʻrisidagi ajrimi ijrosini toʻxtatib turmaydi. Apellyatsiya instansiyasi sudining sudyasi ushbu materiallarni shikoyat yoki protest bilan birga kelib tushgan paytdan eʼtiboran yetmish ikki soatdan kechiktirmay yakka tartibda koʻrib chiqishi kerak."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-3173771",
+      "matn": "Apellyatsiya instansiyasi sudi apellyatsiya shikoyatini, protestini koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-3173772",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni yoki protestni esa qanoatlantirmay qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-3173773",
+          "matn": "sudyaning ajrimini bekor qilishga va pochta-telegraf joʻnatmalarini xatlab qoʻyishga yoki pochta-telegraf joʻnatmalarini xatlashni rad etishga haqli."
+        }
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-3173774",
+      "matn": "Pochta-telegraf joʻnatmalarini xatlash rad etilgan taqdirda, aynan oʻsha gumon qilinuvchiga, ayblanuvchiga nisbatan mazkur masala boʻyicha takroran sudga murojaat qilishga pochta-telegraf joʻnatmalarini xatlashni taqozo etadigan yangi holatlar yuzaga kelganda yoʻl qoʻyiladi."
+    }
+  ]
+}

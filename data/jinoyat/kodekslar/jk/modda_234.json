@@ -1,0 +1,35 @@
+{
+  "n": 234,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-266986",
+  "sarlavha": "234-modda. Qonunga xilof ravishda ushlab turish yoki hibsga olish",
+  "umumiy_sharh": [
+    "Konstitutsiyaga ko'ra, har kim erkinlik va shaxsiy daxlsizlik huquqiga ega. Hech kim qonunga asoslanmagan holda hibsga olinishi yoki qamoqda saqlanishi mumkin emas.",
+    "Jinoyatning obyekti surishtiruv, dastlabki tergov, prokuratura va sud organlarining normal faoliyati va obro'i, fuqarolarning huquq va qonuniy manfaatlari hisoblanadi.",
+    "Obyektiv tomondan jinoyat qonunga xilof ravishda ushlab turish yoki hibsga olishda ifodalanadi.",
+    "Ushlab turish deganda, jinoyatga aloqadorligini aniqlashda shaxsga nisbatan qo'llaniladigan qisqa muddatli jinoyat-protsessual majburlov chorasi tushuniladi.",
+    "Qonunda belgilangan asoslardagina ushlab turishga yo'l qo'yiladi.",
+    "Ushlab turish uchun bayonnoma tuzilishi va unda zaruriy ma'lumotlar bayon etilishi shart.",
+    "Ushlab turish militsiyaga keltirilgan vaqtdan boshlab yetmish ikki soatdan ortiq davom etishi mumkin emas.",
+    "Ushlab turilgan shaxs qonuniy asoslar mavjud bo'lmaganda yoki muddati tugaganda ozod qilinishi kerak.",
+    "Qonunga xilof ravishda ushlab turish deganda, qonuniy asoslar mavjud bo'lmagan va qonun shartlarini buzgan holda qisqa muddatli ozodlikdan mahrum qilish tushuniladi.",
+    "Jinoyat ushlab turish bayonnomasi tuzilgan paytdan e'tiboran tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyat subyekti faqat surishtiruvchi, tergovchi yoki prokuror bo'lishi mumkin.",
+    "2-qism obyektiv tomoni qonunga xilof ravishda hibsga olish yoki hibsda saqlashda ifodalanadi.",
+    "Ehtiyot chorasi sifatida qamoqqa olish faqat prokuror sanksiyasiga muvofiq amalga oshirilishi mumkin.",
+    "Qonunga xilof ravishda hibsga olish yoki hibsda saqlash ehtiyotsizlik orqasida sodir etilgan bo'lsa, mansabga sovuqqonlik bilan qaraganlik uchun javobgarlik masalasi qo'yilishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4354373",
+      "matn": "Bila turib, qonunga xilof ravishda ushlab turish, yaʼni tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi yoki prokuror tomonidan qonuniy asosga ega boʻlmagan holda shaxs erkinligining qisqa muddatga cheklanishi — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki bir yilgacha ozodlikni cheklash yoxud bir yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-266991",
+      "matn": "Bila turib, qonunga xilof ravishda hibsga olish yoki hibsda saqlash — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿{
+  "n": 84,
+  "sarlavha_id": "-253765",
+  "sarlavha": "84-modda. Ayblilik toʻgʻrisidagi masalani hal qilmay turib jinoyat ishini tugatish uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253766",
+      "matn": "Quyidagi hollarda shaxsning jinoyat sodir etilishida aybliligi toʻgʻrisidagi masalani hal qilmay turib jinoyat ishi tugatilishi lozim, basharti:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253767",
+          "matn": "shaxsni javobgarlikka tortish muddati oʻtgan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-253768",
+          "matn": "eʼlon qilingan amnistiya akti sodir etilgan jinoyat yoki shaxsga daxldor boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-253769",
+          "matn": "ayblanuvchi, sudlanuvchi vafot etgan boʻlsa;"
+        },
+        {
+          "b": 4,
+          "id": "-253770",
+          "matn": "shaxsga nisbatan aynan shu ayblov boʻyicha sudning qonuniy kuchga kirgan hukmi boʻlsa;"
+        },
+        {
+          "b": 5,
+          "id": "-253771",
+          "matn": "shaxsga nisbatan aynan shu ayblov boʻyicha ishni tugatish haqida sudning qonuniy kuchga kirgan ajrimi (qarori) yoki vakolatli mansabdor shaxsning jinoyat ishi qoʻzgʻatishni rad etish yoxud ishni tugatish haqida bekor qilinmagan qarori boʻlsa;"
+        },
+        {
+          "b": 6,
+          "id": "-253774",
+          "matn": "ish faqat jabrlanuvchining shikoyati bilan qoʻzgʻatiladigan hollarda uning shikoyati boʻlmasa, ushbu Kodeksning 325-moddasida nazarda tutilgan hollar bundan mustasno;"
+        },
+        {
+          "b": 7,
+          "id": "-253776",
+          "matn": "shaxs ijtimoiy xavfli qilmish sodir etgan paytda jinoiy javobgarlikka tortish mumkin boʻlgan yoshga toʻlmagan boʻlsa;"
+        },
+        {
+          "b": 8,
+          "id": "-3092848",
+          "matn": "Oʻzbekiston Respublikasi Jinoyat kodeksi Maxsus qismining tegishli moddasida shaxsning oʻz qilmishiga amalda pushaymon boʻlganligi tufayli yoxud belgilangan muddat ichida yetkazilgan moddiy zararning oʻrni qoplanganligi va (yoki) jinoyat oqibatlari bartaraf etilganligi munosabati bilan javobgarlikdan ozod qilinishi nazarda tutilgan boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-1723557",
+      "matn": "Ushbu modda birinchi qismining 1, 2, 3 va 8-bandlarida nazarda tutilgan hollarda, agar ayblanuvchi, sudlanuvchi yoki vafot etgan ayblanuvchining, sudlanuvchining yaqin qarindoshlari talab qilsa, ishni yuritish umumiy tartibda davom ettirilishi mumkin. Bunday hollarda hukm qilish uchun asoslar mavjud boʻlsa, ayblov hukmi jazo tayinlanmasdan chiqariladi."
+    },
+    {
+      "q": 3,
+      "id": "-4516233",
+      "matn": "Jinoyat sodir etganidan keyin ruhiy holatining oʻz harakatlari ahamiyatini anglay olmaydigan yoki ularni boshqara olmaydigan darajada buzilishi yuzaga kelgan shaxs toʻgʻrisidagi jinoyat ishi ushbu Kodeksning 61-bobida belgilangan tartibda aybdorlik haqidagi masala hal qilinmasdan tugatiladi."
+    },
+    {
+      "q": 4,
+      "id": "-260043",
+      "matn": "Jabrlanuvchi Jinoyat kodeksining 66¹-moddasida nazarda tutilgan jinoyatlar toʻgʻrisidagi ishlar boʻyicha gumon qilinuvchi, ayblanuvchi, sudlanuvchi bilan yarashgan taqdirda jinoyat ishi ushbu Kodeksning 62-bobida belgilangan tartibda sud tomonidan ayblilik haqidagi masala hal qilinmasdan tugatilishi mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-253781",
+      "matn": "Jinoyat ishi quyidagi hollarda shaxsning roziligi bilan uning aybliligi haqidagi masalani hal qilmay turib tugatilishi mumkin, basharti:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253783",
+          "matn": "ishni tergov qilish yoki sudda koʻrib chiqish paytiga kelib, qilmish ijtimoiy xavflilik xususiyatini yoʻqotgan yoxud vaziyat oʻzgarishi oqibatida bu shaxs ijtimoiy jihatdan xavfli boʻlmay qolgan deb eʼtirof etilsa;"
+        },
+        {
+          "b": 2,
+          "id": "-1723560",
+          "matn": "ijtimoiy xavfi katta boʻlmagan yoki uncha ogʻir boʻlmagan jinoyatni birinchi marta sodir etgan shaxs aybini boʻyniga olish toʻgʻrisida arz qilgan, chin koʻngildan pushaymon boʻlgan, jinoyatning ochilishiga faol yordam bergan va keltirilgan zararni bartaraf qilgan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-6439050",
+          "matn": "sodir etilgan qilmishning xususiyatini, birinchi marta ijtimoiy xavfi katta boʻlmagan jinoyat sodir etganning shaxsini hisobga olib, materiallarni bolalar masalalari boʻyicha komissiyaga qarab chiqish uchun berish maqsadga muvofiq boʻlsa."
+        }
+      ]
+    }
+  ]
+}

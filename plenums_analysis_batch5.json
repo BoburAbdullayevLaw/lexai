@@ -1,0 +1,1100 @@
+[
+  {
+    "mavzu_dir": "07-son",
+    "qaror_nomi": "Ozbekiston Respublikasi Oliy sudi Plenumining 2014-yil 23-maydagi 07-sonli Sud hukmi to'g'risidagi qarori",
+    "raqami": "07-son",
+    "sana": "2014-05-23",
+    "manba": "https://lex.uz/docs/-2413562",
+    "kazusga_aloqadorlik": "Mazkur Plenum kazusda A.Jabbarovga nisbatan chiqarilgan oqlov hukmining qonuniyligi, asosliligi va adolatliligini baholash, shuningdek, tergov jarayonida yo‘l qo‘yilgan protsessual qonunbuzilishlar (himoya huquqining buzilishi, noqonuniy dalillar) sababli hukmning oqlov tarzida chiqarilishi va reabilitatsiya masalalarini tahlil qilishda bevosita aloqador hisoblanadi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Bandda sud hukmining adolatli bo‘lishi va aybsiz shaxsni javobgarlikka tortmaslik vazifasi belgilangan bo‘lib, kazusda A.Jabbarovning oqlanishi ushbu prinsipni tasdiqlaydi.",
+        "izoh": "Oqlov hukmi jinoyat tarkibi bo‘lmaganligi sababli chiqarilgan, bu adolatli sudlovni ta’minlashga xizmat qilgan."
+      },
+      {
+        "band_raqami": "4",
+        "kazusga_moslik": "Band ish bo‘yicha barcha holatlarni sinchkovlik va xolisona tekshirishni talab qiladi; kazusda tergovchi tomonidan yaqin qarindoshlarni qo‘rqitish orqali ko‘rsatuvlar olingani ushbu talabni buzgan.",
+        "izoh": "Noqonuniy usulda olingan dalillar ishonchsiz deb topilib, oqlov hukmiga asos bo‘lgan."
+      },
+      {
+        "band_raqami": "6",
+        "kazusga_moslik": "Band qonunga zid ravishda olingan dalillarning yuridik kuchga ega emasligini ta’kidlaydi; kazusda tergovchining himoya huquqini buzishi va noqonuniy usullar qo‘llashi dalillarni haqiqiy emas deb topishga olib kelgan.",
+        "izoh": "Aynan shu band tergovchi tomonidan advokatni so‘roq qilish va qarindoshlarni qo‘rqitish kabi harakatlarning qonunbuzilish ekanligini asoslaydi."
+      },
+      {
+        "band_raqami": "7",
+        "kazusga_moslik": "Bandda aybsizlik prezumpsiyasi prinsipi hukm turini belgilovchi mezon sifatida ko‘rsatilgan; kazusda A.Jabbarovning aybsizligi aniqlanib, oqlov hukmi chiqarilgan.",
+        "izoh": "Prinsipga ko‘ra, ayblov isbotlanmaganligi sababli oqlov hukmi chiqarish qonuniy va asosli bo‘lgan."
+      },
+      {
+        "band_raqami": "8",
+        "kazusga_moslik": "Band oqlov hukmining asoslari (jinoyat tarkibi yo‘qligi) va uning tavsif qismiga qo‘yiladigan talablarni belgilaydi; kazusda aynan shu asosda oqlov hukmi chiqarilgan.",
+        "izoh": "Sud tomonidan to‘plangan dalillar yetarli emasligi sababli, JPK 464-moddasiga muvofiq oqlov hukmi chiqarilgan."
+      },
+      {
+        "band_raqami": "10",
+        "kazusga_moslik": "Band fuqaroviy da’vo va reabilitatsiya masalalarini tartibga soladi; kazusda oqlov hukmida to‘lanmagan ish haqi va boshqa daromadlarni qoplash belgilangan.",
+        "izoh": "Oqlov hukmi bilan birga yetkazilgan ziyonni undirish masalasi hal qilingan, bu band talablariga mos keladi."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "JK 36-moddasi (qilmishning kam ahamiyatliligi)",
+      "JK 37-41-moddalari (zaruriy mudofaa, oxirgi zarurat, buyruq ijrosi va boshqalar)",
+      "JK 26-moddasi (jinoyatdan ixtiyoriy qaytish)",
+      "JK 238-moddasi (bila turib yolg‘on ko‘rsatuv berish)"
+    ],
+    "bogliq_jpk_moddalar": [
+      "JPK 22-moddasi (haqiqatni aniqlash uchun qonuniy dalillar)",
+      "JPK 23-moddasi (aybsizlik prezumpsiyasi)",
+      "JPK 26-moddasi (dalillarning bevosita tekshirilishi)",
+      "JPK 83-moddasi (jinoyat ishini qo‘zg‘atish asoslari)",
+      "JPK 86-moddasi (aybni isbotlash majburiyati)",
+      "JPK 90-moddasi (dalillarni baholash)",
+      "JPK 95-moddasi (dalillarning maqbulligi va ishonchliligi)",
+      "JPK 104-moddasi (so‘roq qoidalari)",
+      "JPK 117-moddasi (yaqin qarindoshlarning ko‘rsatuv berishdan bosh tortish huquqi)",
+      "JPK 443-moddasi (sudda o‘qib eshittiriladigan dalillar)",
+      "JPK 455-moddasi (hukm chiqarish tartibi)",
+      "JPK 457-moddasi (hukmda hal qilinadigan masalalar)",
+      "JPK 462-moddasi (hukm turlari)",
+      "JPK 463-moddasi (ayblov hukmining asoslari)",
+      "JPK 464-moddasi (oqlov hukmini chiqarish asoslari)",
+      "JPK 465-moddasi (hukmni tuzish va imzolash)",
+      "JPK 466-moddasi (hukmning kirish qismi)",
+      "JPK 467-moddasi (hukmning tavsif qismi)",
+      "JPK 468-moddasi (ayblov hukmining qaror qismi)",
+      "JPK 469-moddasi (oqlov hukmining tavsif qismi)",
+      "JPK 470-moddasi (oqlov hukmining qaror qismi)",
+      "JPK 471-moddasi (hukmning boshqa masalalari)",
+      "JPK 472-moddasi (hukmni e’lon qilish)",
+      "JPK 473-moddasi (hukmni e’lon qilish tartibi)",
+      "JPK 533-moddasi (hukm ijrosini kechiktirish)",
+      "JPK 563-moddasi (voyaga yetmaganlarga nisbatan hukm)"
+    ],
+    "tahlil": "Kazusda A.Jabbarovning oqlanishiga asos bo‘lgan omillar Plenumning 4, 6 va 8-bandlarida belgilangan talablarga to‘liq mos keladi: tergovchi tomonidan himoyachi huquqlarining buzilishi (advokatni so‘roq qilishga urinish, qarindoshlarni qo‘rqitish) va noqonuniy yo‘l bilan olingan dalillar (qo‘rqitish natijasidagi ko‘rsatuvlar) JPK 23-moddasi (aybsizlik prezumpsiyasi) va 464-moddasiga muvofiq oqlov hukmi chiqarilishiga olib kelgan. Shuningdek, oqlov hukmida to‘lanmagan ish haqi va boshqa daromadlarni qoplash belgilanishi Plenumning 10-bandida ko‘rsatilgan fuqaroviy da’vo va reabilitatsiya masalalariga mos keladi. Yakunda A.Jabbarovning sudga kompensatsiya undirish yuzasidan murojaati reabilitatsiya huquqlarini amalga oshirish doirasida qonuniy hisoblanadi."
+  },
+  {
+    "mavzu_dir": "16-son",
+    "qaror_nomi": "Ozbekiston Respublikasi Oliy sudi Plenumining 2007-yil 14-noyabrdagi 16-sonli Sudga qadar ish yuritish bosqichida qamoqqa olish tarzidagi ehtiyot chorasining sudlar tomonidan qollanilishi tog'risidagi qarori",
+    "raqami": "16-son",
+    "sana": "2007-11-14",
+    "manba": "https://lex.uz/docs/-1595235",
+    "kazusga_aloqadorlik": "Plenum bevosita qamoqqa olish tarzidagi ehtiyot chorasini qo'llash tartibiga bag'ishlangan bo'lib, kazusda A.Jabbarovga nisbatan qamoqqa olish chorasi qo'llanilganligi aniq ko'rsatilmagan. Biroq kazusda advokatning himoya qilish huquqining cheklanishi (kirishga ruxsat talab qilish), himoyachini so'roq qilishga urinish, shuningdek qarindoshlarni qo'rqitish orqali ko'rsatuv olish kabi holatlar Plenumda mustahkamlangan protsessual kafolatlar bilan bilvosita bog'liq.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "9",
+        "kazusga_moslik": "Kazusda tergovchi A.Jabbarovning advokatini so'roq qilish uchun chaqiruv xati yuborgan, bu esa himoyachining daxlsizligi prinsipiga zid. Plenumning 9-bandida qamoqqa olish to'g'risidagi iltimosnomaga himoyachi orderi yoki himoyachidan voz kechish haqidagi bayonnoma ilova qilinishi lozimligi ko'rsatilgan bo'lib, bu himoyachi huquqining muhimligini ta'kidlaydi.",
+        "izoh": "Kazusda A.Jabbarov himoyachidan voz kechgan bo'lsa-da, tergovchi uni davlat hisobidan ta'minlagan, biroq keyin advokatni so'roq qilishga urinish himoyachining mustaqilligini buzgan."
+      },
+      {
+        "band_raqami": "13",
+        "kazusga_moslik": "Kazusda advokat hibsxonaga kirmoqchi bo'lganida, xodim boshliqdan ruxsat qog'ozi talab qilgan. Plenumning 13-bandida qamoqqa olish tarzidagi ehtiyot chorasini qo'llashda himoyachining sud majlisida ishtirok etishi shartligi belgilangan bo'lib, bu himoyachining hech qanday to'siqsiz o'z vazifasini bajarish huquqini nazarda tutadi.",
+        "izoh": "Hibsxonaga kirishda ruxsat talab qilish himoyachining himoya qilish huquqini amalga oshirishga to'sqinlik qiladi va protsessual qonun buzilishidir."
+      },
+      {
+        "band_raqami": "15",
+        "kazusga_moslik": "Plenumning 15-bandida gumon qilinuvchi va himoyachining iltimosnoma materiallari bilan sud majlisi boshlangunga qadar tanishtirilishi lozimligi ko'rsatilgan. Kazusda bu holat to'g'ridan-to'g'ri aks etmagan, biroq himoyachining materiallar bilan tanishish huquqi umumiy protsessual kafolat sifatida muhim.",
+        "izoh": "Kazusda advokatni so'roq qilishga urinish va uning vazifasiga aralashish himoyachining ish materiallari bilan tanishish huquqini cheklashga olib kelishi mumkin."
+      },
+      {
+        "band_raqami": "24",
+        "kazusga_moslik": "Plenumning 24-bandida qamoqqa olingan shaxsning oila a'zolariga darhol xabar berilishi shartligi belgilangan. Kazusda tergovchi A.Jabbarovning qarindoshlarini qayta so'roq qilib, qo'rqitish orqali ko'rsatuv olgan, bu esa qarindoshlarning noqonuniy bosimga uchrashiga yo'l qo'ygan.",
+        "izoh": "Qarindoshlarni qo'rqitish orqali ko'rsatuv olish protsessual qonunbuzilishi bo'lib, Plenumda nazarda tutilgan qarindoshlarni xabardor qilish majburiyati bilan ziddiyatda."
+      },
+      {
+        "band_raqami": "7",
+        "kazusga_moslik": "Plenumning 7-bandida prokuror yoki tergovchining qarori bilan qamoqqa olish ehtiyot chorasi bekor qilinishi yoki o'zgartirilishi mumkinligi, ammo bunda sud qarorining qonuniyligi muhokama qilinmasligi ko'rsatilgan. Kazusda prokuror advokatni so'roq qilmaslik haqida tergovchiga topshiriq bergan, bu esa prokurorning nazorat funksiyasini ko'rsatadi.",
+        "izoh": "Prokurorning tergovchiga advokatni so'roq qilmaslik haqidagi topshirig'i Plenumda belgilangan prokuror nazorati kafolatlariga mos keladi."
+      }
+    ],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [
+      "236",
+      "239",
+      "242",
+      "243",
+      "245",
+      "247",
+      "426",
+      "49712",
+      "4974",
+      "558",
+      "225",
+      "226",
+      "221"
+    ],
+    "tahlil": "Kazusda A.Jabbarovga nisbatan qamoqqa olish tarzidagi ehtiyot chorasi qo'llanilganligi aniq emas, chunki matnda faqat 'vaqtinchalik saqlash hibsxonasi' haqida so'z boradi, bu ushlab turish bo'lishi mumkin. Plenum esa qamoqqa olish ehtiyot chorasiga ixtisoslashgan. Kazusdagi asosiy huquqiy muammolar - pora olish (JK 210-moddasi), himoyachining huquqlarini cheklash (kirishga ruxsat talab qilish, so'roqqa urinish), tergovchining qarindoshlarga nisbatan noqonuniy usullari va yakunda oqlov hukmi asosida reabilitatsiya. Plenumning tegishli bandlari himoyachi ishtiroki, qarindoshlarni xabardor qilish va prokuror nazoratiga oid qoidalarni o'z ichiga oladi, biroq kazus faktlari Plenum talablariga to'liq mos kelmaydi, chunki Plenum asosan sud tomonidan ehtiyot chorasini qo'llash protsedurasiga qaratilgan. Shunga qaramay, plenumda mustahkamlangan protsessual kafolatlar (himoyachi huquqi, xabar berish) kazusdagi buzilishlarni baholashda umumiy asos bo'la oladi."
+  },
+  {
+    "mavzu_dir": "17-son 2003-yil 19-dekabr",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2003-yil 19-dekabrdagi 17-sonli Gumon qilinuvchi va ayblanuvchini himoya huquqi bilan ta'minlashga oid qonunlarni qo'llash bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "17-son",
+    "sana": "2003-12-19",
+    "manba": "https://lex.uz/docs/-1453755",
+    "kazusga_aloqadorlik": "Plenum kazusda ko'rsatilgan himoyachi huquqlari, himoyachidan voz kechish, voyaga yetmaganlar va qamoqda saqlanayotgan shaxslar bilan uchrashish, shuningdek tergovchi va prokurorning himoya huquqini ta'minlashdagi vazifalari kabi masalalarga oid qonun talablarini izohlaydi. Kazusda A.Jabbarovning himoyachidan voz kechishi, advokatning uchrashishiga to'sqinlik qilinishi, yaqin qarindoshlarni qo'rqitish orqali ko'rsatuv olish va advokatni so'roq qilishga urinish kabi faktlar plenumda belgilangan himoya huquqini ta'minlash talablariga bevosita aloqador.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "3",
+        "kazusga_moslik": "Bandda himoya huquqi jinoyat-sudlov ishlarining barcha bosqichida ta'minlanishi va mas'ul shaxslarning buning uchun real sharoit yaratishi shartligi ko'rsatilgan. Kazusda tergovchi jabrlanuvchini himoya huquqini ta'minlash o'rniga uning huquqlarini buzgan.",
+        "izoh": "Kazusda tergovchining himoyachini so'roq qilishga urinishi va qarindoshlarni qo'rqitishi himoya huquqining buzilishiga misol."
+      },
+      {
+        "band_raqami": "8",
+        "kazusga_moslik": "Bandda shaxs ushlangan paytdan boshlab himoyachi olish huquqi va uning amaldagi cheklanish vaqti belgilangan. Kazusda A.Jabbarov ushlangan vaqtda himoyachiga ehtiyoji yo'qligini aytgan bo'lsa-da, tergovchi davlat hisobidan himoyachi tayinlagan.",
+        "izoh": "Plenumda himoyachidan voz kechishning shartlari va tartibi aniq belgilangan, kazusda esa bu talablar buzilgan."
+      },
+      {
+        "band_raqami": "13",
+        "kazusga_moslik": "Bandda himoyachining ishtiroki shart bo'lgan holatlar (JPK 51-moddasi) sanab o'tilgan va bu talabga rioya etmaslik jiddiy protsessual buzilish deb topilgan. Kazusda A.Jabbarovning himoyachidan voz kechishi to'g'risidagi arizasiga qaramay, tergovchi tayinlangan himoyachini ta'minlagan.",
+        "izoh": "Plenum himoyachidan voz kechishga ruxsat berilmaydigan holatlarni (masalan, qamoqda saqlash, og'ir jinoyat) belgilaydi, kazusda esa shartli ravishda ozod qilish masalasi bor."
+      },
+      {
+        "band_raqami": "14",
+        "kazusga_moslik": "Bandda himoyachidan voz kechish tartibi, jumladan, videoyozuv orqali qayd etish, himoyachining real ishtiroki ta'minlanganidan keyin amalga oshirilishi ko'rsatilgan. Kazusda A.Jabbarov hech qanday protsessual tartibda himoyachidan voz kechmagan, faqat ariza yozgan.",
+        "izoh": "Plenumga ko'ra, himoyachidan voz kechish protsessual hujjat bilan rasmiylashtirilishi va videoqayd etilishi shart, kazusda bu talab bajarilmagan."
+      },
+      {
+        "band_raqami": "16",
+        "kazusga_moslik": "Bandda himoyachining huquqlari va ularni cheklashga yo'l qo'yilmasligi (JPK 53-moddasi) belgilangan. Kazusda advokatning uchrashishiga ruxsat qog'ozi talab qilish tartibga mas'ul xodim tomonidan cheklangan.",
+        "izoh": "Plenum himoyachining uchrashish huquqini hech qanday ruxsat qog'ozisiz ta'minlashni talab qiladi."
+      },
+      {
+        "band_raqami": "17",
+        "kazusga_moslik": "Bandda himoyachining qamoqda saqlanayotgan shaxs bilan uchrashishi uchun faqat order yoki sud qarori asos bo'lishi, boshqa hech qanday ruxsat talab qilinmasligi ko'rsatilgan. Kazusda hibsxona xodimi boshliqdan ruxsat qog'ozi talab qilgan.",
+        "izoh": "Bu bandning buzilishi - uchrashishga noqonuniy to'sqinlik qilish."
+      },
+      {
+        "band_raqami": "19",
+        "kazusga_moslik": "Bandda qiynoq, zo'rlik, qo'rqitish orqali olingan dalillarning ayblov asosiga qo'yilmasligi belgilangan. Kazusda tergovchi A.Jabbarovning yaqin qarindoshlarini qo'rqitish orqali ko'rsatuvlar olgan.",
+        "izoh": "Bunday ko'rsatuvlar dalil kuchiga ega emas va ular asosida ayblov hukmi chiqarilishi mumkin emas."
+      }
+    ],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [
+      "JPK 24-moddasi - himoya huquqini tushuntirish majburiyati",
+      "JPK 49-moddasi - himoyachining ishtirok etish vaqti",
+      "JPK 50-moddasi - davlat hisobidan himoyachi tayinlash",
+      "JPK 51-moddasi - himoyachining ishtiroki shart bo'lgan holatlar",
+      "JPK 53-moddasi - himoyachining huquqlari",
+      "JPK 79-moddasi - advokatning vazifalarni bajarishni rad etishi taqiqlangan hollar",
+      "JPK 88-moddasi - dalillarni to'plash va baholashda inson huquqlarini hurmat qilish",
+      "JPK 221-moddasi - ushlash tartibi",
+      "JPK 227-moddasi - ushlash haqida xabar berish",
+      "JPK 242-moddasi - qamoqqa olish",
+      "JPK 2421-moddasi - uy qamog'i",
+      "JPK 265-moddasi - sud ekspertizasi uchun joylashtirish",
+      "JPK 488-moddasi - himoya huquqining jiddiy buzilishlari",
+      "JPK 49716-moddasi - apellyatsiya instansiyasida mahkumning ishtiroki"
+    ],
+    "tahlil": "Kazusda A.Jabbarovning himoyachidan voz kechish to'g'risidagi arizasiga qaramay, tergovchi davlat hisobidan himoyachi tayinlagan (Plenum 8, 13, 14-bandlari). Biroq himoyachidan voz kechish tartibi noto'g'ri rasmiylashtirilgan (videoyozuv yo'q). Advokatning hibsxonaga uchrashishga kelganida ruxsat qog'ozi talab qilingan (Plenum 16, 17-bandlari - bu himoyachining huquqini cheklash). Tergovchi advokatni so'roq qilishga urinishi ham qonunga zid (Plenum 3-bandida himoyachining daxlsizligi). Eng jiddiy qonunbuzilish - tergovchining yaqin qarindoshlarni qo'rqitib ko'rsatuv olishi (Plenum 19-bandiga ko'ra bunday dalillar ayblov asosiga qo'yilmaydi). Yakunda oqlov hukmi chiqarilgan va reabilitatsiya qilingan, bu esa plenumda belgilangan aybsizlik prezumpsiyasi va himoya huquqining ta'minlanganligini ko'rsatadi."
+  },
+  {
+    "mavzu_dir": "18-son",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2014-yil 24-oktyabrdagi 18-sonli Jinoyat ishlarini birinchi instansiya sudida muhokama qilish bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "18-son",
+    "sana": "2014-10-24",
+    "manba": "https://lex.uz/docs/-6033155",
+    "kazusga_aloqadorlik": "Ushbu plenum bevosita kazusda tasvirlangan tergov bosqichidagi qonunbuzilishlarga emas, balki sud muhokamasi jarayoniga qaratilgan. Biroq, plenumda mustahkamlangan xolislik, har tomonlama tekshirish va protsessual kafolatlar prinsiplari kazusdagi himoyachi huquqlarining buzilishi, advokatni so'roq qilishga urinish va yaqin qarindoshlarni qo'rqitish kabi holatlarga bilvosita taalluqli bo'lib, ularga yo'l qo'yilmasligi uchun asos bo'ladi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Band 1 ish holatlarini har tomonlama, to'liq va xolisona tekshirishni talab qiladi. Kazusda tergovchi himoyachi huquqlarini cheklab, yaqin qarindoshlarni qo'rqitish orqali ko'rsatuvlar olgan, bu esa xolislik va to'liqlik prinsiplariga ziddir.",
+        "izoh": "Tergov bosqichida xolislik va to'liqlik ta'minlanmagan, bu esa oqlov hukmiga olib kelgan."
+      },
+      {
+        "band_raqami": "5",
+        "kazusga_moslik": "Band 5 raislik qiluvchining xolisligi va taraflar uchun teng sharoit yaratishini talab qiladi. Kazusda tergovchi o'z harakatlari bilan ayblov tarafini mustahkamlashga urinib, himoyachining huquqlarini poymol qilgan, bu esa sud muhokamasida xolislikni ta'minlash zaruratini ko'rsatadi.",
+        "izoh": "Plenum tergovchining noxolis harakatlariga qarshi sud bosqichida xolislik prinsipini mustahkamlashni nazarda tutadi."
+      },
+      {
+        "band_raqami": "7",
+        "kazusga_moslik": "Band 7 sudlanuvchi va himoyachining sud majlisiga kelishi majburiyatini belgilaydi. Kazusda himoyachi (advokat) tergov bosqichida o'z himoya funktsiyasini amalga oshirishda to'siqlarga duch kelgan (hibsxonaga kiritilmagan), bu esa himoyachining protsessda ishtirok etish huquqiga putur yetkazgan.",
+        "izoh": "Plenum himoyachining sudda ishtirokini kafolatlaydi, ammo kazusda bu huquq tergov bosqichida buzilgan."
+      }
+    ],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [
+      "JPK 46-modda (himoyachining huquqlari)",
+      "JPK 54-modda (advokat daxlsizligi)",
+      "JPK 105-modda (guvohlarni so'roq qilish tartibi)",
+      "JPK 81-modda (reabilitatsiya asoslari)",
+      "JPK 406-modda (ishni ko'rishning uzluksizligi)",
+      "JPK 410-modda (sudlanuvchi va himoyachining kelishi)",
+      "JPK 438-modda (iltimosnomalar)",
+      "JPK 449-modda (taraflar muzokarasi)"
+    ],
+    "tahlil": "Kazusdagi asosiy muammo tergov bosqichida jiddiy protsessual qonunbuzilishlardir: himoyachi hibsxonaga kiritilmagan, advokatni so'roq qilishga urinilgan, yaqin qarindoshlar qo'rqitilgan. Plenum esa aynan sud muhokamasiga oid bo'lib, unda bunday buzilishlarning oldini olish uchun xolislik, to'liqlik va himoyachi ishtiroki kabi prinsiplar mustahkamlangan. Oqlov hukmi to'plangan dalillarning yetarsizligi sababli chiqarilgan, bu esa tergov sifatining pastligi va qonunbuzilishlarning bevosita natijasidir. Reabilitatsiya va kompensatsiya masalasi JPK 81-moddasiga asosan hal etilgan bo'lib, plenumda ushbu masala ko'rib chiqilmagan. Shunday qilib, plenum kazusga bevosita emas, balki protsessual kafolatlar nuqtai nazaridan bilvosita aloqador."
+  },
+  {
+    "mavzu_dir": "21-son voyaga-yetmagan",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2003-yil 19-dekabrdagi 18-sonli Voyaga yetmaganlarning jinoyatlari haqidagi ishlar bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "18-son",
+    "sana": "2003-12-19",
+    "manba": "https://lex.uz/docs/-1449720",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur Plenum faqat voyaga yetmagan shaxslarning jinoyatlari haqidagi ishlarni ko'rishga taalluqli. Kazusda A.Jabbarov katta yoshli probatsiya inspektori bo‘lib, uning harakatlari voyaga yetmaganlarga oid emas. Shuningdek, kazusdagi pora olish, himoyachi huquqlari, reabilitatsiya masalalari Plenumda ko'rib chiqilmagan. Shu sababli Plenumning hech bir bandi kazus faktlari bilan bog'liq emas."
+  },
+  {
+    "mavzu_dir": "24-son",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plenumining 2018-yil 24-avgustdagi 24-sonli Dalillar maqbulligiga oid jinoyat-protsessual qonuni normalarini qo'llashning ayrim masalalari to'g'risidagi qarori",
+    "raqami": "24-son",
+    "sana": "2018-08-24",
+    "manba": "https://lex.uz/docs/-3895986",
+    "kazusga_aloqadorlik": "Plenum dalillarning maqbulligi va protsessual qonunbuzilishlar oqibatlarini tartibga soladi. Kazusda tergovchi tomonidan himoyachi huquqi, advokat daxlsizligi, yaqin qarindoshlarni qo'rqitish singari qonunbuzilishlar mavjud bo'lib, ular dalillarning nomaqbul deb topilishiga olib kelgan va yakunda oqlov hukmi chiqarilgan.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Aybsizlik prezumpsiyasiga rioya etilishi lozimligi ko'rsatilgan. A.Jabbarov oqlangan, bu tamoyilga rioya qilingan.",
+        "izoh": "Plenumning 1-bandi Konstitutsiyadagi aybsizlik prezumpsiyasiga ishora qiladi."
+      },
+      {
+        "band_raqami": "2",
+        "kazusga_moslik": "Dalillar maqbulligining shartlari (tegishli subyekt, manba, tartib, qayd etish) sanab o'tilgan. Tergovchi tomonidan bu shartlar bir necha marta buzilgan.",
+        "izoh": "Kazusda dalillar qonunbuzilish yo'li bilan olingan, shuning uchun maqbul emas."
+      },
+      {
+        "band_raqami": "3",
+        "kazusga_moslik": "Qonunga xilof usullar (qiynoq, qo'rqitish, himoya huquqidan mahrum qilish) orqali olingan dalillar nomaqbul hisoblanadi. Tergovchi yaqin qarindoshlarni qo'rqitib va himoyachi bilan uchrashishni cheklab, ushbu bandni buzgan.",
+        "izoh": "3-bandning 1), 2) va 3) kichik bandlari kazusdagi qo'rqitish va himoya huquqini buzishga taalluqli."
+      },
+      {
+        "band_raqami": "6",
+        "kazusga_moslik": "Gumon qilinuvchining himoyaga bo'lgan huquqi buzilgan deb hisoblanadi: himoyachi bilan uchrashishga ruxsat talab qilingan, shuningdek advokatni so'roq qilishga urinilgan.",
+        "izoh": "Himoyachi ishtiroki shart bo'lgan vaziyatlarda uning ishtirokisiz harakat qilish qonunbuzilishdir."
+      },
+      {
+        "band_raqami": "9(g)",
+        "kazusga_moslik": "Yaqin qarindoshlarni ularning roziligisiz so'roq qilish (JPK 116-moddasiga xilof ravishda) dalilni nomaqbul qiladi. Tergovchi A.Jabbarovning yaqin qarindoshlarini qo'rqitib so'roq qilgan.",
+        "izoh": "9-bandning (g) kichik bandi ushbu buzilishni to'g'ridan-to'g'ri nazarda tutadi."
+      },
+      {
+        "band_raqami": "14",
+        "kazusga_moslik": "Qonun buzilishi natijasida olingan dalil maqbul emas deb topilishi shart. Sud oqlov hukmida aynan shu sababdan ayblov asoslanmagan.",
+        "izoh": "Plenumning 14-bandi dalilni majburiy ravishda nomaqbul deb topishni talab qiladi."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "JK 211-modda (pora olish – kazusdagi asosiy ayblov, ammo sud tomonidan isbotlanmagan)",
+      "JK 235-modda (qiynoq va shafqatsiz muomala – plenum 4-bandida eslatilgan, qo'rqitish ruhiy qiynoq sifatida talqin qilinishi mumkin)"
+    ],
+    "bogliq_jpk_moddalar": [
+      "JPK 11-modda (aybsizlik prezumpsiyasi)",
+      "JPK 49-modda (himoyachi chaqirish majburiyati)",
+      "JPK 51-modda (himoyachining huquqlari, uchrashish huquqi)",
+      "JPK 95-modda (dalillarning maqbulligi)",
+      "JPK 115-modda (guvohlik daxlsizligi – advokatni so'roq qilish mumkin emas)",
+      "JPK 116-modda (yaqin qarindoshlarni roziligisiz so'roq qilish taqiqi)",
+      "JPK 951-modda (dalillarni nomaqbul deb topish asoslari)"
+    ],
+    "tahlil": "Kazusda tergovchi tomonidan himoyachi bilan uchrashishni cheklash, advokatni so'roq qilishga urinish va yaqin qarindoshlarni qo'rqitib ko'rsatuv olish kabi protsessual qonunbuzilishlar sodir etilgan. Plenum talablariga ko'ra, bunday yo'l bilan olingan dalillar yuridik kuchga ega emas va ayblov asosiga qo'yilishi mumkin emas. Sud oqlov hukmi chiqarganligi ushbu qonunbuzilishlar isbot jarayoniga hal qiluvchi ta'sir ko'rsatganini ko'rsatadi. Reabilitatsiya (to'lanmagan ish haqi va daromadlarni qoplash) plenum mavzusiga bevosita kirmasa-da, oqlov hukmi bilan bog'liq bo'lgan huquqiy oqibatdir. Shu sababli plenum dalillarning maqbulligi va tergov qonuniyligi nuqtai nazaridan kazus bilan to'liq aloqadordir."
+  },
+  {
+    "mavzu_dir": "3115385",
+    "qaror_nomi": "26-сон 27.12.2016.Jinoyat natijasida yetkazilgan mulkiy ziyonni qoplashga oid qonunchilikni qoʻllash boʻyicha sud amaliyoti toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-3115385",
+    "kazusga_aloqadorlik": "Ushbu plenum jinoyat natijasida yetkazilgan mulkiy ziyonni qoplashga oid boʻlib, kazusda A.Jabbarov oqlov hukmi bilan reabilitatsiya qilinganligi sababli unga toʻlanmagan ish haqi va daromadlarni qoplash masalasi reabilitatsiya tartibida amalga oshirilgan. Plenumning 8-bandi oqlov hukmi chiqarilganda fuqaroviy daʼvoni hal etishga oid qoidalarni oʻz ichiga oladi, biroq kazusdagi kompensatsiya reabilitatsiya doirasiga kiradi va plenum bevosita qoʻllanilmaydi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "8",
+        "kazusga_moslik": "8-bandda oqlov hukmi chiqarilganda (shaxsning jinoyatga daxli boʻlmaganligi sababli) sud fuqaroviy daʼvoni JPK 283-moddasi ikkinchi qismiga binoan hal etishi koʻrsatilgan. Kazusda A.Jabbarovga nisbatan jinoyat tarkibi boʻlmaganligi uchun oqlov hukmi chiqarilgan va hukmda toʻlanmagan ish haqi hamda daromadlarni qoplash belgilangan, bu fuqaroviy daʼvo bilan bogʻliq.",
+        "izoh": "Band 8 oqlov hukmi bilan bogʻliq fuqaroviy daʼvoni hal etish tartibini belgilaydi, ammo kazusda kompensatsiya reabilitatsiya asosida undirilgan."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "JK 210-modda (pora olish)"
+    ],
+    "bogliq_jpk_moddalar": [
+      "JPK 50-modda (himoyachi huquqlari)",
+      "JPK 51-modda (advokatni soʻroq qilish taqiqi)",
+      "JPK 84-modda (jinoyat ishini tugatish asoslari)",
+      "JPK 283-modda (oqlov hukmi va fuqaroviy daʼvo)",
+      "JPK 290-modda (mol-mulkni xatlash)",
+      "JPK 304-310-moddalar (reabilitatsiya)"
+    ],
+    "tahlil": "Kazusdagi asosiy huquqiy masala A.Jabbarovning oqlov hukmi asosida reabilitatsiya qilinishi va yetkazilgan zararni qoplashdir. Plenum esa asosan jinoyat natijasida jabrlanuvchiga yetkazilgan mulkiy ziyonni qoplashga qaratilgan boʻlib, kazusning fakti bilan bevosita bogʻliq emas. Biroq plenumning 8-bandi oqlov hukmi chiqarilganda fuqaroviy daʼvoni hal etishga oid umumiy qoidalarni beradi, ammo kazusdagi kompensatsiya reabilitatsiya instituti (JPK 304-310) doirasida amalga oshirilgan. Shuning uchun plenumning kazusga aloqadorligi cheklangan va asosiy eʼtibor reabilitatsiya qonunchiligiga qaratilishi lozim."
+  },
+  {
+    "mavzu_dir": "7-son apellyatsiya",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2015-yil 24-oktyabrdagi 17-sonli Jinoyat ishlarini apellyatsiya, kassatsiya tartibida ko'rish amaliyotining ayrim masalalari to'g'risidagi qarori",
+    "raqami": "17-son",
+    "sana": "2015-10-24",
+    "manba": "https://lex.uz/docs/-6884042",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur Plenum qarori jinoyat ishlarini apellyatsiya va kassatsiya tartibida ko'rish protsessual masalalariga bag'ishlangan bo'lib, kazusda keltirilgan vaziyatda hech qanday apellyatsiya yoki kassatsiya jarayoni sodir bo'lmagan. Kazusda A. Jabbarovga nisbatan oqlov hukmi chiqarilgan va u reabilitatsiya tartibida kompensatsiya undirish masalasini ko'targan. Plenum qarori esa faqat birinchi instansiya sudi hukmi ustidan berilgan shikoyat/protestlarni ko'rib chiqish tartibi, muddatlari va cheklovlariga tegishli bo'lgani uchun kazus faktlariga aloqador emas. Oqlov hukmi qonuniy kuchga kirgan va undan keyin kompensatsiya undirish masalasi apellyatsiya/kassatsiya doirasiga kirmaydi."
+  },
+  {
+    "mavzu_dir": "amnistiya",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2006-yil 22-dekabrdagi 16-sonli Sudlar tomonidan amnistiya aktlarini qo'llashning ayrim masalalari to'g'risidagi qarori",
+    "raqami": "16-son",
+    "sana": "2006-12-22",
+    "manba": "https://lex.uz/docs/-1591984",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Kazusda A.Jabbarovga nisbatan pora olish jinoyati bo'yicha jinoyat ishi qo'zg'atilgan, ammo sud tomonidan oqlov hukmi chiqarilgan. Ushbu plenum amnistiya aktlarini qo'llash masalalari bilan bog'liq bo'lib, kazus faktlarida amnistiya masalasi muhokama qilinmagan. Shuning uchun plenumning hech bir bandi kazusga to'g'ri kelmaydi."
+  },
+  {
+    "mavzu_dir": "ashyoviy-dalillar",
+    "qaror_nomi": "17-сон 13.12.2012.Jinoyat ishlari boʻyicha ashyoviy dalillarga oid qonunchilikni qoʻllashning ayrim masalalari toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-2414513",
+    "kazusga_aloqadorlik": "Kazusda A.Jabbarovdan pora sifatida olingan 300 AQSH dollari ashyoviy dalil hisoblanadi. Ushbu pulning olinishi, saqlanishi va oqlov hukmi chiqqandan keyin qaytarilishi masalalari plenumda ko'rsatilgan ashyoviy dalillarga oid qonunchilik talablariga tegishli. Shuningdek, plenum dalillarni baholash va protsessual tartibga rioya qilish zarurligini ta'kidlaydi, bu kazusdagi tergov harakatlariga nisbatan tahlil qilish imkonini beradi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Pul ashyoviy dalil sifatida to'g'ri olinishi va rasmiylashtirilishi lozim.",
+        "izoh": "Kazusda pul olingan vaqtda ushlangan bo'lsa-da, uni ashyoviy dalil deb e'tirof etish tartibi to'liq aks ettirilmagan."
+      },
+      {
+        "band_raqami": "2",
+        "kazusga_moslik": "Pul jinoiy harakatlar ob'ekti bo'lgan narsa sifatida ashyoviy dalil deb e'tirof etiladi.",
+        "izoh": "Kazusda 300 AQSH dollari pora sifatida talab qilingan va olingan bo'lib, bu JPK 203-moddasiga muvofiq ashyoviy dalil hisoblanadi."
+      },
+      {
+        "band_raqami": "3",
+        "kazusga_moslik": "Pulni olish usuli qonunda belgilangan tartibda amalga oshirilgan bo'lishi kerak, ammo kazusda bu borada qonunbuzilishlar mavjud.",
+        "izoh": "Pulni olish vaqtida tergov harakatlari qayd etilgan, biroq advokat huquqlarining buzilishi va qarindoshlarni qo'rqitish kabi protsessual qonunbuzilishlar ashyoviy dalil sifatida olingan pulning ishonchliligiga ta'sir qilishi mumkin."
+      },
+      {
+        "band_raqami": "4",
+        "kazusga_moslik": "Pulni ashyoviy dalil sifatida e'tirof etish uchun uni ko'zdan kechirish va qaror chiqarish zarur, bu kazusda amalga oshirilgan bo'lishi mumkin.",
+        "izoh": "Kazusda pul ashyoviy dalil sifatida ishga qo'shilgan bo'lishi mumkin, ammo bu haqda aniq ma'lumot yo'q."
+      },
+      {
+        "band_raqami": "6",
+        "kazusga_moslik": "Oqlov hukmi chiqqandan so'ng ashyoviy dalil (pul) qonuniy egasiga qaytarilishi kerak.",
+        "izoh": "Kazusda A.Jabbarov oqlangan, shuning uchun undan olingan pul unga qaytarilishi lozim, bu plenumning 6-bandi talabiga mos keladi."
+      },
+      {
+        "band_raqami": "7",
+        "kazusga_moslik": "Ashyoviy dalillarni sinchkovlik bilan tekshirish va baholash ish bo'yicha haqiqiy holatlarni aniqlash uchun muhim.",
+        "izoh": "Kazusda to'plangan dalillar ayblov uchun yetarli emas deb topilgan, bu ashyoviy dalil bo'lgan pulni baholashda qonuniy talablarga rioya qilinmaganligini ko'rsatishi mumkin."
+      },
+      {
+        "band_raqami": "8",
+        "kazusga_moslik": "Ashyoviy dalillar boshqa dalillar bilan birgalikda baholanishi lozim, lekin kazusda bu talab buzilgan.",
+        "izoh": "Kazusda tergovchi tomonidan qarindoshlarni qo'rqitish orqali olingan ko'rsatuvlar ashyoviy dalil bilan birgalikda baholanmagan, bu esa ishning oqlov hukmi bilan yakunlanishiga sabab bo'lgan."
+      },
+      {
+        "band_raqami": "9",
+        "kazusga_moslik": "Hukm chiqarilganda ashyoviy dalillarning taqdiri belgilanishi shart.",
+        "izoh": "Kazusda sud to'lanmagan ish haqi va daromadlarni qoplashni belgilagan, ammo ashyoviy dalil (pul) taqdiri haqida ma'lumot yo'q; oqlov hukmi bilan ashyoviy dalil A.Jabbarovga qaytarilishi kerak."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "JK 210-modda (pora olish)",
+      "JK 211-modda (pora berish)"
+    ],
+    "bogliq_jpk_moddalar": [
+      "JPK 203-modda (ashyoviy dalil tushunchasi)",
+      "JPK 205-modda (ashyoviy dalillarni olish usullari)",
+      "JPK 210-modda (ashyoviy dalillarni saqlash)",
+      "JPK 211-modda (ashyoviy dalillarning taqdiri)"
+    ],
+    "tahlil": "Kazusda asosiy e'tibor A.Jabbarovning oqlanishi va reabilitatsiyasiga qaratilgan bo'lsa-da, pora sifatida olingan pulning ashyoviy dalil sifatidagi o'rni muhim. Plenum ashyoviy dalillarni olish, saqlash va ularning taqdirini belgilash qoidalarini tartibga soladi. Kazusda ushbu pul qonuniy ravishda olingan va oqlov hukmi bilan qaytarilishi kerak. Biroq kazusda advokat huquqlarining buzilishi va qarindoshlarni qo'rqitish kabi protsessual muammolar ashyoviy dalillarni to'plash va baholash jarayoniga salbiy ta'sir ko'rsatgan, natijada sud tomonidan dalillar yetarli emas deb topilib, oqlov hukmi chiqarilgan. Plenumning 7 va 8-bandlari dalillarni tekshirish va baholash talablarini belgilaydi, kazusda esa bu talablarga rioya qilinmaganligi oqlov hukmining asosiy sabablaridan biri bo'lishi mumkin."
+  },
+  {
+    "mavzu_dir": "badanga-shikast",
+    "qaror_nomi": "6-сон 27.06.2007.Badanga qasddan shikast yetkazishga oid ishlar boʻyicha sud amaliyoti toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-1592419",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur plenum badanga qasddan shikast yetkazishga oid jinoyat ishlari bo'yicha sud amaliyotiga bag'ishlangan bo'lib, unda tan jarohatlari, zo'ravonlik turlari, kvalifikatsiya qilish masalalari yoritilgan. Kazus esa pora olish, probatsiya xodimining xatti-harakatlari, himoyachi huquqlari va oqlov hukmi bilan bog'liq bo'lib, badanga shikast yetkazish bilan hech qanday aloqasi yo'q. Shuning uchun plenum ushbu kazusga nisbatan qo'llanilmaydi."
+  },
+  {
+    "mavzu_dir": "bezorilik",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2002-yil 14-iyundagi 9-sonli Bezorilikka oid ishlar bo'yicha sud amaliyoti haqidagi qarori",
+    "raqami": "9-son",
+    "sana": "2002-06-14",
+    "manba": "https://lex.uz/docs/1452652",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Kazusda A.Jabbarov pora olish jinoyatida ayblanib, sud tomonidan oqlangan. Plenum esa faqat bezorilik (JK 277-modda) bilan bog'liq. Kazusda bezorilik alomatlari mavjud emas, balki poraxo'rlik va protsessual qonunbuzilishlar haqida. Shuning uchun ushbu plenum kazusga hech qanday aloqador emas."
+  },
+  {
+    "mavzu_dir": "bojxona",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2023-yil 20-fevraldagi 2-sonli Bojxona to'g'risidagi qonunchilikni buzish va kontrabandaga oid ishlar bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "2-son",
+    "sana": "2023-02-20",
+    "manba": "https://lex.uz/docs/-6404212",
+    "kazusga_aloqadorlik": "yo'q. Kazusda bojxona yoki kontrabanda bilan bog'liq hech qanday fakt mavjud emas. Kazus poraxo'rlik, himoyachi huquqlari, protsessual qonunbuzilishlar va reabilitatsiya masalalariga oid bo'lib, plenumning mavzusi bilan bevosita aloqadorlik yo'q.",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Berilgan plenum faqat bojxona to'g'risidagi qonunchilikni buzish va kontrabandaga oid jinoyat ishlariga taalluqli. Kazusda esa A.Jabbarovning probatsiya inspektori sifatida pora olishi, himoyachi huquqlarining buzilishi, tergovchining noqonuniy harakatlari va oqlov hukmidan keyin reabilitatsiya masalalari ko'rib chiqilgan. Bu holatlarning hech biri bojxona chegarasi orqali tovarlarni noqonuniy o'tkazish yoki kontrabanda bilan bog'liq emas. Shu sababli plenum kazusga nisbatan qo'llanilmaydi va uning bandlari kazus faktlariga mos kelmaydi."
+  },
+  {
+    "mavzu_dir": "davlat-chegarasi",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2011-yil 25-noyabrdagi 9-sonli O'zbekiston Respublikasining davlat chegarasini kesib o'tish tartibini buzishga oid ishlar bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "9-son",
+    "sana": "2011-11-25",
+    "manba": "https://lex.uz/docs/-1945473",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur plenum faqat davlat chegarasini kesib o'tish tartibini buzish bilan bog'liq jinoyatlar (JK 223-moddasi) bo'yicha sud amaliyotiga oid bo'lib, kazusda tasvirlangan poraxo'rlik, probatsiya inspektori tomonidan pora olish, himoyachi huquqlari, tergov jarayonidagi qonunbuzilishlar va oqlov hukmi asosida kompensatsiya undirish masalalariga hech qanday aloqasi yo'q. Kazus faktlari va plenum talablari o'rtasida mazmuniy bog'liqlik mavjud emas."
+  },
+  {
+    "mavzu_dir": "ekologiya",
+    "qaror_nomi": "36-сон 20.12.1996.Ekologiya, atrof-muhitni muhofaza qilish va tabiatdan foydalanish sohasidagi huquqbuzarliklar va jinoyatlar toʻgʻrisidagi ishlar boʻyicha sud amaliyoti haqida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-1442456",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Kazus probatsiya inspektori tomonidan pora olish, himoyachi huquqlarining buzilishi, tergovchi tomonidan qarindoshlarni qo‘rqitish va oqlov hukmi asosida reabilitatsiya qilish masalalariga oid bo‘lib, ushbu ishda ekologiya, atrof-muhitni muhofaza qilish yoki tabiatdan foydalanish sohasidagi huquqbuzarliklar yoki jinoyatlar mavjud emas. Taqdim etilgan Plenum 36-son 20.12.1996 faqat ekologik huquqbuzarliklar va tabiat resurslaridan foydalanish bilan bog‘liq ishlarni ko‘rib chiqadi, shuning uchun kazus faktlari bilan hech qanday bog‘liqlik topilmadi."
+  },
+  {
+    "mavzu_dir": "firibgarlik",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2023-yil 23-iyundagi 17-sonli Firibgarlikka oid ishlar bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "17-son",
+    "sana": "2023-06-23",
+    "manba": "https://lex.uz/docs/-6523582",
+    "kazusga_aloqadorlik": "Plenum kazusga bevosita aloqador, chunki kazusda A.Jabbarov mansabdor shaxs sifatida pora talab qilgan va olgan, biroq uning harakatlari firibgarlik yoki poraxo'rlik sifatida kvalifikatsiya qilinishi mumkin. Plenumning 23-24-bandlari mansabdor shaxs tomonidan amalda bajarib bo'lmaydigan harakatlar uchun pul olishni firibgarlik sifatida baholash bo'yicha tushuntirish beradi, bu kazusdagi holatga to'g'ri keladi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "23",
+        "kazusga_moslik": "A.Jabbarov xizmat mavqeyidan foydalanib, muddatidan ilgari ozod qilish hujjatlarini taqdim etishga va'da bergan va pul talab qilgan. Uning xizmat mavqeyi (probatsiya guruhi katta inspektori) aldash yoki ishonchni suiiste'mol qilish uchun ishlatilgan.",
+        "izoh": "Ushbu band firibgarlikni xizmat mavqeyidan foydalanib sodir etish (JK 168-moddasi uchinchi qismi 'v' bandi) shartlarini belgilaydi, bu kazusda A.Jabbarovning harakatlariga mos kelishi mumkin edi."
+      },
+      {
+        "band_raqami": "24",
+        "kazusga_moslik": "A.Jabbarov haqiqatda muddatidan ilgari ozod qilish hujjatlarini taqdim eta oladimi yoki yo'qmi, noma'lum. Agar u buni amalga oshira olmasa, u holda uning harakatlari firibgarlik sifatida kvalifikatsiya qilinishi lozim (band 24 birinchi xatboshi).",
+        "izoh": "Bu band mansabdor shaxs o'z vakolati doirasida bo'lmagan yoki amalda bajara olmaydigan harakat uchun pul olishni firibgarlik deb hisoblaydi, bu kazusning muhim huquqiy bahosini beradi."
+      },
+      {
+        "band_raqami": "5",
+        "kazusga_moslik": "A.Jabbarov o'z xizmat mavqeyi va fuqaro Maxmudov bilan ishonchli munosabatlaridan g'arazli maqsadda foydalangan, bu ishonchni suiiste'mol qilish hisoblanadi.",
+        "izoh": "Band 5 firibgarlikda ishonchni suiiste'mol qilish tushunchasini beradi, bu kazusdagi vaziyatga taalluqli."
+      },
+      {
+        "band_raqami": "8",
+        "kazusga_moslik": "A.Jabbarov pulni olgan paytda qasdining paydo bo'lish vaqti muhim; agar u hujjatlarni taqdim etish niyatida bo'lmasa, qasd pul olishdan oldin paydo bo'lganligi firibgarlikni ko'rsatadi.",
+        "izoh": "Band 8 firibgarlikda qasdning paydo bo'lish vaqti va uni isbotlash usullarini tushuntiradi, bu ishning natijasiga ta'sir qilgan bo'lishi mumkin."
+      },
+      {
+        "band_raqami": "24 (ikkinchi xatboshi)",
+        "kazusga_moslik": "A.Jabbarov olingan pulni go'yoki mansabdor shaxsga pora sifatida berish uchun olganligi haqida dalolat bo'lishi mumkin, biroq aslida uni o'zlashtirgan. Bu holat firibgarlik sifatida kvalifikatsiya qilinadi.",
+        "izoh": "Ushbu qism pora berishga dalolat etish bilan bog'liq firibgarlikni kvalifikatsiya qilishni ko'rsatadi, kazusda Maxmudovning pora berish harakatlari ham baholanishi mumkin."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "168 (firibgarlik)",
+      "210 (pora olish)",
+      "211 (pora berishga dalolat etish)",
+      "228 (qalbaki hujjatlar)"
+    ],
+    "bogliq_jpk_moddalar": [
+      "415 (ayblovni o'zgartirish)",
+      "329-330 (ariza va xabarlarni ko'rib chiqish)",
+      "211 (ashyoviy dalillar)"
+    ],
+    "tahlil": "Kazusda A.Jabbarovning harakatlari dastlab pora olish (JK 210) sifatida kvalifikatsiya qilinishi mumkin edi, biroq sud oqlov hukmi chiqargan, chunki jinoyat tarkibi va dalillar yetarli bo'lmagan. Plenumning 23-24-bandlari mansabdor shaxsning amalda bajarib bo'lmaydigan harakatlar uchun pul olishini firibgarlik (JK 168) sifatida baholashga oydinlik kiritadi. Agar A.Jabbarov muddatidan ilgari ozod qilish hujjatlarini taqdim etish vakolatiga ega bo'lmasa yoki buni qilish niyati bo'lmasa, uning qilmishi firibgarlik tarkibiga kirgan bo'lar edi. Shu bilan birga, plenum protsessual masalalarga (himoyachi huquqlari, so'roq qilish taqiqlari) to'g'ridan-to'g'ri tegishli emas, balki ayblovning kvalifikatsiyasi va dalillarni baholash bo'yicha umumiy tamoyillarni belgilaydi. Oqlov hukmidan keyin kompensatsiya masalasi esa plenum doirasidan tashqarida, ammo JPKning reabilitatsiya qoidalari bilan tartibga solinadi."
+  },
+  {
+    "mavzu_dir": "giyohvandlik",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2017-yil 28-apreldagi 12-sonli Giyohvandlik vositalari va psixotrop moddalar bilan qonunga xilof ravishda muomala qilishga oid jinoyat ishlari bo'yicha sud amaliyoti haqidagi qarori",
+    "raqami": "12-son",
+    "sana": "2017-04-28",
+    "manba": "https://lex.uz/docs/-3203265",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Ushbu Plenum qarori giyohvandlik vositalari va psixotrop moddalar bilan bog‘liq jinoyatlar bo‘yicha sud amaliyotiga oid bo‘lib, kazusda keltirilgan vaziyat (probatsiya inspektori tomonidan pora olish, himoyachi huquqlari, reabilitatsiya) giyohvandlik yoki psixotrop moddalar bilan bog‘liq emas. Kazusda jinoyat tarkibi yo‘qligi sababli oqlov hukmi chiqarilgan, ammo bu Plenumda ko‘rib chiqiladigan masalalarga taalluqli emas. Shuning uchun Plenumning hech bir bandi kazus faktlariga to‘g‘ri kelmaydi."
+  },
+  {
+    "mavzu_dir": "harbiy-xizmat",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2023-yil 20-noyabrdagi 29-sonli Harbiy xizmatni o'tash tartibiga qarshi jinoyatlarga oid ishlarni ko'rish bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "29-son",
+    "sana": "2023-11-20",
+    "manba": "https://lex.uz/docs/-6685595",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur plenum harbiy xizmatni o'tash tartibiga qarshi jinoyatlar, harbiy xizmatchilar va harbiy sudlar sudloviga oid masalalarni tartibga soladi. Kazusda esa A.Jabbarov tuman IIB probatsiya guruhi inspektori sifatida pora olishda ayblangan, u harbiy xizmatchi emas va ish harbiy jinoyatlarga taalluqli emas. Shuning uchun plenum kazus faktlariga hech qanday aloqador emas."
+  },
+  {
+    "mavzu_dir": "iqtisodiyot",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 1998-yil 17-apreldagi 11-sonli Iqtisodiyot sohasidagi jinoiy ishlar bo'yicha sud amaliyotida yuzaga kelgan ayrim masalalar to'g'risidagi qarori",
+    "raqami": "11-son",
+    "sana": "1998-04-17",
+    "manba": "https://lex.uz/docs/-1443984",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Plenum iqtisodiyot sohasidagi jinoyatlar (talon-toroj, mansab vakolatini suiiste'mol qilish va boshqalar) bo'yicha sud amaliyotiga qaratilgan bo'lib, kazusda esa probatsiya inspektori tomonidan pora olish, himoyachi huquqlarini cheklash, tergovchining qonunbuzilishlari va oqlov hukmi masalalari ko'rib chiqilgan. Poraxo'rlik (JK 210-moddasi) va protsessual qonunbuzilishlar (JPK normalari) plenumda nazarda tutilgan iqtisodiy jinoyatlar tarkibiga kirmaydi. Shuningdek, plenumda pora olish yoki himoyachi huquqlariga oid maxsus bandlar mavjud emas. Shu sababli plenum kazusga bevosita aloqador emas."
+  },
+  {
+    "mavzu_dir": "jazo-tayinlash",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2006-yil 3-fevraldagi 1-sonli Sudlar tomonidan jinoyat uchun jazo tayinlash amaliyoti to'g'risidagi qarori",
+    "raqami": "1-son",
+    "sana": "2006-02-03",
+    "manba": "https://lex.uz/docs/-1455976",
+    "kazusga_aloqadorlik": "Plenum jazo tayinlashning umumiy prinsiplari va qoidalarini belgilaydi, kazusda esa pora olish jinoyati bo'yicha tergov va sud jarayoni, oqlov hukmi va reabilitatsiya masalalari ko'rib chiqilgan. Kazusda jazo tayinlash masalasi bo'lmaganligi sababli aloqadorlik bilvosita bo'lib, asosan plenumning 1-4-bandlaridagi qonuniylik, odillik va javobgarlikning muqarrarligi prinsiplari orqali namoyon bo'ladi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Qonuniylik, insonparvarlik, odillik va javobgarlikning muqarrarligi prinsiplariga qat'iy amal qilish talab etiladi.",
+        "izoh": "Kazusda tergovchi advokatni so'roq qilishga urinish va qarindoshlarni qo'rqitish orqali qonuniylikni buzgan, shuningdek himoyachi huquqlari poymol qilingan."
+      },
+      {
+        "band_raqami": "2",
+        "kazusga_moslik": "Javobgarlikning muqarrarlik prinsipi har doim ham jazo qo'llanilishi shartligini anglatmaydi.",
+        "izoh": "A.Jabbarovga nisbatan oqlov hukmi chiqarilib, jinoyat tarkibi bo'lmaganligi sababli jazo qo'llanilmagan, bu prinsipga mos keladi."
+      },
+      {
+        "band_raqami": "3",
+        "kazusga_moslik": "Jazo adolatli bo'lishi, individual tayinlanishi va jinoyatning xususiyati, ijtimoiy xavflilik darajasi, aybdorning shaxsiga muvofiq bo'lishi kerak.",
+        "izoh": "Kazusda ayblov asossiz bo'lgani uchun jazo tayinlanmagan, ammo tergovchining noto'g'ri harakatlari aybdorning shaxsini hisobga olmagan holda protsessual majburlovni qo'llagan."
+      },
+      {
+        "band_raqami": "4",
+        "kazusga_moslik": "Sudlar jinoyat ishlarini ko'rib chiqishda aybdorning shaxsini tavsiflovchi obyektiv va ijtimoiy omillarni aniqlashlari shart.",
+        "izoh": "A.Jabbarovning probatsiya inspektori sifatidagi mavqei, ilgari sudlanmaganligi kabi omillar tergov va sudda to'liq hisobga olinmagan."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "JK 10-moddasi (javobgarlikning muqarrarligi)",
+      "JK 15-moddasi (jinoyat toifalari)",
+      "JK 54-moddasi (jazo tayinlashning umumiy asoslari)",
+      "JK 55-moddasi (jazoni yengillashtiruvchi holatlar)",
+      "JK 56-moddasi (jazoni og'irlashtiruvchi holatlar)",
+      "JK 57-moddasi (yengilroq jazo tayinlash)",
+      "JK 59-moddasi (jinoyatlar majmui bo'yicha jazo)",
+      "JK 60-moddasi (bir necha hukm bo'yicha jazo)",
+      "JK 72-moddasi (shartli hukm)"
+    ],
+    "bogliq_jpk_moddalar": [
+      "JPK 467-moddasi (hukm mazmuni)",
+      "JPK 468-moddasi (hukmning qaror qismi)",
+      "JPK 533-moddasi (hukm ijrosini kechiktirish)",
+      "JPK 541-moddasi (sud ajrimlari)",
+      "JPK 542-moddasi (sud majlisida ish ko'rish)"
+    ],
+    "tahlil": "Plenum asosan jazo tayinlashga oid bo'lsa-da, kazusdagi oqlov hukmi va protsessual buzilishlar plenumning 1-4-bandlaridagi umumprinsipial talablarga zid ravishda sodir etilgan. Xususan, tergovchi tomonidan himoyachi huquqlarini buzish (advokatni so'roq qilishga urinish) va qarindoshlarni qo'rqitish qonuniylik va insonparvarlik prinsiplarini poymol qilgan. Shuningdek, oqlov hukmi javobgarlikning muqarrarligi prinsipi jazo qo'llashni anglatmasligini tasdiqlaydi. Biroq, kazus reabilitatsiya va kompensatsiya masalalari bilan yakunlangan bo'lib, bu plenum doirasidan chiqadi."
+  },
+  {
+    "mavzu_dir": "kvalifikatsiya",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2008-yil 15-maydagi 13-sonli Bir necha jinoyat sodir etilganda qilmishni kvalifikatsiya qilishga doir masalalar to'g'risidagi qarori",
+    "raqami": "13-son",
+    "sana": "2008-05-15",
+    "manba": "https://lex.uz/docs/-1600001",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur Plenum bir necha jinoyat (jinoyatlar majmui, takroranligi va retsidivi)ni kvalifikatsiya qilishga oid bo'lib, kazusda esa faqat bitta pora olish harakati sodir etilgan va yakunda oqlov hukmi chiqarilgan. Kazusda jinoyat tarkibi bo'lmaganligi sababli bir necha jinoyat masalasi ko'rib chiqilmagan, shuning uchun Plenum kazusga hech qanday aloqador emas."
+  },
+  {
+    "mavzu_dir": "liberallashtirish",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2004-yil 21-maydagi 4-sonli Jazolarni liberallashtirish to'g'risidagi qonunni iqtisodiyot sohasidagi jinoyatlarga nisbatan qo'llashning ayrim masalalari haqidagi qarori",
+    "raqami": "4-son",
+    "sana": "2004-05-21",
+    "manba": "https://lex.uz/docs/-1454894",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur Plenum iqtisodiyot sohasidagi jinoyatlar (o'g'irlik, firibgarlik, talon-toroj va boshqalar) bo'yicha jazolarni liberallashtirishga qaratilgan bo'lib, kazusda A.Jabbarovga nisbatan pora olish (JK 210-moddasi) jinoyati bo'yicha ayblov qo'yilgan. Pora olish mansabdorlik jinoyati hisoblanadi va iqtisodiyot sohasidagi jinoyatlar qatoriga kirmaydi. Kazusdagi asosiy masalalar: pora olish fakti, himoyachi huquqlari, tergov harakatlaridagi qonunbuzilishlar, oqlov hukmi va reabilitatsiya (kompensatsiya undirish) bilan bog'liq. Plenumda ko'rsatilgan moddalar (JK 167, 168, 169 va boshqalar) hamda Ma'muriy javobgarlik to'g'risidagi kodeks 61-moddasi kazusdagi vaziyatga taalluqli emas. Shuning uchun Plenumning kazusga aloqadorligi mavjud emas."
+  },
+  {
+    "mavzu_dir": "manaviy-zarar",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2000-yil 28-apreldagi 7-sonli Ma'naviy zararni qoplash haqidagi qonunlarni qo'llashning ayrim masalalari to'g'risidagi qarori",
+    "raqami": "7-son",
+    "sana": "2000-04-28",
+    "manba": "https://lex.uz/docs/-1449509",
+    "kazusga_aloqadorlik": "Ushbu plenum A.Jabbarovning oqlov hukmi asosida reabilitatsiya tartibida yetkazilgan zararni (jumladan, ma'naviy ziyonni) undirish masalalariga bevosita taalluqli. Chunki kazusda oqlov hukmidan so‘ng fuqaro sudga kompensatsiya undirish yuzasidan murojaat qilgan bo‘lib, plenum reabilitatsiya qilingan shaxslarning ma'naviy ziyonni talab qilish huquqi va uni hisoblash tamoyillarini belgilaydi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Kazusda A.Jabbarovning qonunga xilof ravishda jinoiy javobgarlikka tortilishi va oqlanishi natijasida unga ma'naviy va jismoniy azoblar yetkazilgan bo'lishi mumkin, bu bandda ma'naviy zararni qoplashning asosiy qonuniy asoslari (Konstitutsiya, FK, JPK) sanab o‘tilgan.",
+        "izoh": "Plenumning 1-bandi ma'naviy zararni qoplashga oid qonunchilik manbalarini ko'rsatadi, bu esa kazusdagi da'voning qonuniy asosini tashkil etadi."
+      },
+      {
+        "band_raqami": "9",
+        "kazusga_moslik": "Kazusda A.Jabbarov oqlov hukmi chiqarilganidan keyin (2025-yil 10-avgust) 2 oydan so'ng kompensatsiya undirish uchun sudga murojaat qilgan, bu bandda reabilitatsiya etilganning ma'naviy ziyonni undirish huquqi oqlov hukmi chiqarilganidan keyin vujudga kelishi va bu da'vo fuqarolik ishi yuritish tartibida ko‘rilishi ko‘rsatilgan.",
+        "izoh": "Bandda keltirilgan JPK 302, 303, 306, 309, 310-moddalari va FK 1021-moddasiga asosan, oqlov hukmidan keyin reabilitatsiya qilingan shaxs ma'naviy zararni talab qilishi mumkin."
+      },
+      {
+        "band_raqami": "13",
+        "kazusga_moslik": "Kazusda tergovchi tomonidan A.Jabbarovning yaqin qarindoshlarini qo‘rqitish, himoyachi huquqlarini buzish (advokatni so'roq qilishga urinish, hibsxonaga kiritmaslik) kabi harakatlar sodir etilgan bo‘lib, bu bandda ma'naviy zarar miqdorini belgilashda jabrlanuvchining shaxsiy xususiyatlari, huquqbuzarlik og‘irligi, oqibatlari (shaxsning obro‘siga putur yetkazish, qadr-qimmatni kamsitish) hisobga olinishi lozimligi ta'kidlangan.",
+        "izoh": "Kazusdagi g‘ayriqonuniy harakatlar (qarindoshlarni qo‘rqitish, himoyachiga to‘siq yaratish) A.Jabbarovga ma'naviy azob yetkazgan bo‘lishi mumkin, bu holat plenumning 13-bandidagi mezonlarga to‘g‘ri keladi."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "Jinoyat kodeksining 210-moddasi (pora olish) – kazusda A.Jabbarov pora olganlikda ayblangan, ammo sud tomonidan jinoyat tarkibi topilmagan.",
+      "Jinoyat kodeksining 25, 28-moddalari – jinoyat tarkibi va ayb masalalari, oqlov hukmi asosida reabilitatsiya."
+    ],
+    "bogliq_jpk_moddalar": [
+      "JPK 51, 52, 53-moddalari – himoyachi huquqlari (kazusda advokatni so'roq qilishga urinish va hibsxonaga kiritmaslik qonunbuzarligi)",
+      "JPK 302, 303, 306, 309, 310-moddalari – reabilitatsiya asoslari va tartibi (oqlov hukmi chiqarilgandan keyin ma'naviy ziyonni undirish huquqi)",
+      "JPK 57-moddasi – jabrlanuvchi tomonidan ma'naviy zararni qoplash to'g'risida da'vo qilish huquqi"
+    ],
+    "tahlil": "Kazusda A.Jabbarov probatsiya inspektori lavozimida pora olishda ayblanib, tergov va sud jarayonida qator protsessual qonunbuzilishlar (himoyachi huquqlarini cheklash, yaqin qarindoshlarni qo‘rqitish) sodir etilgan. Yakunda sud oqlov hukmi chiqarib, A.Jabbarov reabilitatsiya qilingan. Plenumning 9-bandi reabilitatsiya qilingan shaxsning oqlov hukmidan keyin ma'naviy ziyonni undirish huquqini aniq belgilaydi. Shuningdek, 13-bandda keltirilgan mezonlar (shaxsning qadr-qimmati, obro‘siga putur yetkazish, g‘ayriqonuniy harakatlarning og‘irligi) kazusdagi tergovchining xatti-harakatlariga mos keladi. 1-band esa ma'naviy zararni qoplashning umumiy qonunchilik asoslarini beradi. Shu sababli plenum kazusdagi kompensatsiya talabini qo'llab-quvvatlovchi asosiy hujjat hisoblanadi."
+  },
+  {
+    "mavzu_dir": "nazorat-tartibi",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2019-yil 24-maydagi 11-sonli Jinoyat ishlarini nazorat tartibida ko'rish bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "11-son",
+    "sana": "2019-05-24",
+    "manba": "https://lex.uz/docs/-4393049",
+    "kazusga_aloqadorlik": "Mazkur Plenum jinoyat ishlarini nazorat tartibida ko'rish tartibi, shikoyat berish huquqi, muddatlari va sud qarorlarini qayta ko'rib chiqish asoslarini belgilaydi. Kazusda A.Jabbarovga nisbatan oqlov hukmi chiqarilgan va u kompensatsiya undirish uchun sudga murojaat qilgan, bu esa reabilitatsiya va mulkiy zararni qoplash masalalari bilan bog'liq. Plenumning bir qator bandlari aynan oqlangan shaxsning huquqlari, shikoyat berish tartibi va sud qarorlarini qayta ko'rib chiqish asoslariga oid bo'lib, kazus holatlariga bevosita taalluqlidir.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Plenumning 1-bandida oqlangan shaxs (oqlangan shaxs) ning sud hujjatlari ustidan shikoyat berish huquqi ko'rsatilgan.",
+        "izoh": "A.Jabbarov oqlov hukmini olgach, kompensatsiya undirish to'g'risida ariza bilan murojaat qilgan, bu uning oqlangan shaxs sifatida reabilitatsiya va mulkiy zararni qoplash huquqini amalga oshirishidir."
+      },
+      {
+        "band_raqami": "4",
+        "kazusga_moslik": "4-bandda shikoyat (protest) berish muddati va bir yillik muddatdan so'ng berilgan shikoyatlarning qabul qilinmasligi shartlari belgilangan.",
+        "izoh": "Kazusda A.Jabbarov oqlov hukmidan 2 oy o'tgach sudga murojaat qilgan, bu muddat bir yillik muddatdan ancha qisqa bo'lgani uchun band talablariga mos keladi."
+      },
+      {
+        "band_raqami": "5",
+        "kazusga_moslik": "5-bandda shikoyat mazmuni va uni qaytarish asoslari keltirilgan.",
+        "izoh": "A.Jabbarovning arizasi tegishli talablarga javob bergan, chunki u oqlov hukmi asosida to'lanmagan ish haqi va mehnat daromadlarini qoplashni so'ragan."
+      },
+      {
+        "band_raqami": "13",
+        "kazusga_moslik": "13-bandda oqlangan shaxsning nazorat instansiyasi sudi majlisida ishtirok etish huquqi belgilangan.",
+        "izoh": "Kazusda A.Jabbarov oqlov hukmidan keyin kompensatsiya undirish majlisida ishtirok etish huquqiga ega bo'lib, bu band normalariga to'g'ri keladi."
+      },
+      {
+        "band_raqami": "15",
+        "kazusga_moslik": "15-bandda nazorat instansiyasi sudida prokuror va himoyachining ishtiroki shartligi ko'rsatilgan.",
+        "izoh": "Kazusda tergovchi tomonidan himoyachi huquqlari buzilgan (advokatni so'roq qilishga urinish, uchrashishga to'sqinlik qilish) holatlari protsessual qonunbuzilish hisoblanadi va plenumning ushbu bandiga ziddir."
+      },
+      {
+        "band_raqami": "23",
+        "kazusga_moslik": "23-bandda sud qarorlarini bekor qilish yoki o'zgartirish asoslari keltirilgan, jumladan protsessual qonun buzilishi.",
+        "izoh": "Kazusda tergovchi va probatsiya xodimi tomonidan yo'l qo'yilgan qonunbuzilishlar (pora olish, himoyachi huquqlarini cheklash, soxta so'roqlar) sud qarorining bekor qilinishiga asos bo'lishi mumkin edi."
+      },
+      {
+        "band_raqami": "38",
+        "kazusga_moslik": "38-bandda oqlov hukmini bekor qilish faqat jabrlanuvchi yoki prokuror shikoyati asosida mumkinligi belgilangan.",
+        "izoh": "Kazusda oqlov hukmi chiqarilgan va hech kim shikoyat qilmagan, shuning uchun hukm qonuniy kuchga kirgan va reabilitatsiya bosqichi boshlangan."
+      }
+    ],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [
+      "JPK 76-moddasi (sudyaning ishtiroki)",
+      "JPK 83-84-moddalari (ishni tugatish asoslari)",
+      "JPK 463-moddasi (jazodan ozod qilish)",
+      "JPK 479-moddasi (sud majlisida ishtirok)",
+      "JPK 480-moddasi (prokuror ishtiroki)",
+      "JPK 484-moddasi (sud qarorini bekor qilish asoslari)",
+      "JPK 487-moddasi (jiddiy protsessual buzilish)",
+      "JPK 490-moddasi (nazorat instansiyasining vakolatlari)",
+      "JPK 494-moddasi (sud qarorini o'zgartirish)",
+      "JPK 5021-moddasi (shikoyat talablari)",
+      "JPK 510-moddasi (shikoyat berish huquqi)",
+      "JPK 513-moddasi (shikoyat muddati)",
+      "JPK 514-moddasi (ko'rib chiqish muddati)",
+      "JPK 518-moddasi (protestni qaytarib olish)",
+      "JPK 520-moddasi (muhokama qoidalari)",
+      "JPK 522-moddasi (yangi ochilgan holatlar)"
+    ],
+    "tahlil": "Kazusda A.Jabbarovga nisbatan oqlov hukmi chiqarilgan bo'lib, bu plenumning 1-bandiga muvofiq unga sud hujjatlari ustidan shikoyat berish huquqini beradi. Biroq, kazusda asosiy e'tibor reabilitatsiya va mulkiy zararni qoplash masalasiga qaratilgan bo'lib, plenumning 4, 5, 13-bandlari bu jarayonni tartibga soladi. Tergov bosqichida himoyachi huquqlarining buzilishi (ruxsatsiz kiritmaslik, advokatni so'roq qilishga urinish) plenumning 15 va 23-bandlariga zid bo'lgan jiddiy protsessual qonunbuzilishlardir. A.Jabbarovning oqlanishi uning jinoyat tarkibi yo'qligi sababli amalga oshgan, bu esa JPK 83-84-moddalariga asoslanadi. Yakunda sud tomonidan kompensatsiya to'lash to'g'risidagi ajrim chiqarilgan bo'lib, bu plenum normalariga muvofiqdir."
+  },
+  {
+    "mavzu_dir": "nomus",
+    "qaror_nomi": "13-сон 29.10.2010.Nomusga tegish va jinsiy ehtiyojni gʻayritabiiy usulda qondirishga doir ishlar boʻyicha sud amaliyoti toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-2414120",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur plenum faqat jinsiy jinoyatlar (nomusga tegish, jinsiy ehtiyojni gʻayritabiiy usulda qondirish) bilan bogʻliq boʻlib, kazusda esa poraxoʻrlik, himoyachi huquqlari, tergov jarayonidagi qonunbuzarliklar va oqlov hukmi asosida reabilitatsiya masalalari koʻrib chiqilgan. Kazusda jinsiy jinoyat tarkibi yoki unga oid harakatlar mavjud emas, shuning uchun plenumning hech qanday bandi kazusga tatbiq etilmaydi."
+  },
+  {
+    "mavzu_dir": "odam-savdosi",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2009-yil 24-sentabrdagi 12-sonli Odam savdosiga oid ishlar bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "12-son",
+    "sana": "2009-09-24",
+    "manba": "https://lex.uz/docs/-1616053",
+    "kazusga_aloqadorlik": "Plenum asosan odam savdosi jinoyatlariga bag'ishlangan bo'lib, kazusda esa poraxo'rlik va protsessual buzilishlar mavjud. Biroq plenumning ayrim bandlari (xususan, 1-band va 15-band) shaxs huquqlari, qonunsiz javobgarlikka tortish va reabilitatsiya masalalariga oid umumiy prinsiplarni o'z ichiga olganligi sababli kazusga bilvosita aloqador.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Bandda inson huquqlari va erkinliklari eng oliy qadriyat ekanligi ta'kidlangan, bu kazusda A.Jabbarovning oqlanishi va reabilitatsiya qilinishi bilan bog'liq.",
+        "izoh": "A.Jabbarovning oqlov hukmi chiqarilishi uning konstitutsiyaviy huquqlari buzilganligini va qonuniy himoyaga muhtojligini ko'rsatadi."
+      },
+      {
+        "band_raqami": "15",
+        "kazusga_moslik": "Bandda shaxsning qonunga xilof ravishda jinoiy javobgarlikka tortilganligi aniqlanganda sud xususiy ajrim chiqarishi lozimligi ko'rsatilgan, bu kazusdagi tergovchi va probatsiya inspektori harakatlariga taalluqli.",
+        "izoh": "Tergovchi tomonidan qarindoshlarni qo'rqitish va advokatni so'roq qilishga urinishlar qonunbuzilish hisoblanadi, bu esa prokuror va sud tomonidan bartaraf etilgan."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      "Jinoyat kodeksining 210-moddasi (pora olish)",
+      "Jinoyat kodeksining 25-moddasi (jinoyatga tayyorgarlik va suiqasd)",
+      "Jinoyat kodeksining 12-moddasi (reabilitatsiya asoslari)"
+    ],
+    "bogliq_jpk_moddalar": [
+      "JPK 48-moddasi (himoyachi huquqlari)",
+      "JPK 49-moddasi (himoyachi chaqirish)",
+      "JPK 62-moddasi (advokatni so'roq qilish taqiqi)",
+      "JPK 305-310-moddalari (reabilitatsiya va zararni qoplash)"
+    ],
+    "tahlil": "Kazusda probatsiya inspektori A.Jabbarov pora olganlikda ayblanib, oqlov hukmi chiqarilgan. Plenumning 1-bandi inson huquqlari ustuvorligini ta'kidlab, oqlash va reabilitatsiyaga asos bo'ladi. 15-band esa qonunga xilof javobgarlikka tortish holatlarida sudning xususiy ajrim chiqarishini nazarda tutadi, bu kazusdagi tergovchi va probatsiya xodimining protsessual qonunbuzilishlariga (advokatni so'roq qilishga urinish, qarindoshlarni qo'rqitish) mos keladi. Plenum asosan odam savdosiga oid bo'lsa-da, uning umumiy prinsiplari (shaxs huquqlari kafolati, reabilitatsiya) kazusdagi oqlov va kompensatsiya masalalariga qo'llaniladi."
+  },
+  {
+    "mavzu_dir": "ogrilik-talonchilik",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 1999-yil 30-apreldagi 6-sonli O'zgalar mulkini o'g'rilik, talonchilik va bosqinchilik bilan talon-toroj qilish jinoyat ishlari bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "6-son",
+    "sana": "1999-04-30",
+    "manba": "https://lex.uz/docs/-7469894",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [
+      "164",
+      "166",
+      "169",
+      "1852",
+      "2789"
+    ],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur plenum faqat o'g'rilik, talonchilik va bosqinchilik kabi mulkiy jinoyatlarning kvalifikatsiyasi va sud amaliyotiga bag'ishlangan. Kazusda esa pora olish (JK 210-modda) va protsessual qonunbuzilishlar (himoyachi huquqlari, so'roq qilish, reabilitatsiya) muhokama qilinmoqda. Plenumda keltirilgan moddalar (164, 166, 169, 1852, 2789) kazusdagi jinoyat tarkibi bilan bevosita bog'liq emas. Shuning uchun plenumning kazusga aloqadorligi mavjud emas."
+  },
+  {
+    "mavzu_dir": "oldirish",
+    "qaror_nomi": "13-сон 24.09.2004.Qasddan odam oʻldirishga oid ishlar boʻyicha sud amaliyoti toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-1455961",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur plenum faqat qasddan odam oʻldirish jinoyatiga (JK 97–101-moddalari) oid masalalarni tartibga soladi. Kazusda esa A.Jabbarov probatsiya inspektori sifatida pora olishda ayblanib, tergov va sud jarayonida himoyachi huquqlari, protsessual qonunbuzarliklar hamda keyinchalik oqlov hukmi va kompensatsiya masalalari muhokama qilingan. Plenum mazmunida pora olish, himoyachi huquqlari, oqlov hukmi yoki reabilitatsiya haqida hech qanday koʻrsatma mavjud emas. Shuning uchun plenum kazus bilan bogʻliq emas."
+  },
+  {
+    "mavzu_dir": "ozi-ozi-oldirish",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 1998-yil 11-sentabrdagi 20-sonli O'zini o'zi o'ldirish darajasiga yetkazish jinoyat ishlari bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "20-son",
+    "sana": "1998-09-11",
+    "manba": "https://lex.uz/docs/-1446429",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Ushbu plenum o'zini o'zi o'ldirish darajasiga yetkazish va o'zini o'zi o'ldirishga undash jinoyatlari (JK 103 va 103-1-moddalari) bo'yicha sud amaliyotiga oid bo'lib, kazusda ko'rilgan pora olish, himoyachi huquqlari va reabilitatsiya masalalari bilan hech qanday bog'liqlikka ega emas. Kazus fakti va plenum mazmuni o'rtasida mantiqiy, huquqiy yoki protsessual aloqa mavjud emas. Shuning uchun plenumning birorta bandi kazusga nisbatan qo'llanilmaydi."
+  },
+  {
+    "mavzu_dir": "poraxorlik",
+    "qaror_nomi": "19-сон 24.09.1999.Poraxoʻrlik ishlari boʻyicha sud amaliyoti toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-1449106",
+    "kazusga_aloqadorlik": "Plenum poraxoʻrlik jinoyatlari subyekti, predmeti, tamagirlik belgilari va javobgarlik masalalarini izohlaydi. Kazusda probatsiya inspektori A.Jabbarovning pora olishda ayblanishi, biroq oqlanishi Plenumdagi subyekt va aybni isbotlash talablari bilan bog‘liq. Shuningdek, himoyachi huquqlari va reabilitatsiya masalalari Plenumda to‘g‘ridan-to‘g‘ri izohlanmagan bo‘lsa-da, protsessual qonunbuzilishlar orqali ushbu amaliyotga taalluqlidir.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "A.Jabbarov tuman IIB JXX probatsiya guruhi katta inspektori sifatida davlat organi mansabdor shaxsi hisoblanadi, bu bandda belgilangan subyekt talabiga to‘liq mos keladi.",
+        "izoh": "Plenum bandi mansabdor shaxs tushunchasini keng izohlab, poraxo‘rlik subyektini aniqlashda muhim ahamiyatga ega."
+      },
+      {
+        "band_raqami": "2",
+        "kazusga_moslik": "Kazusda pora predmeti sifatida 300 AQSH dollari (valyuta) ko‘rsatilgan, bandda pul, qimmatbaho qog‘ozlar va mulkiy xizmatlar pora predmeti bo‘lishi mumkinligi tushuntirilgan.",
+        "izoh": "Pora predmetining qiymati ekspertiza orqali aniqlanishi kerak, kazusda bu amalga oshirilgan."
+      },
+      {
+        "band_raqami": "3",
+        "kazusga_moslik": "A.Jabbarov pora evaziga fuqaro Maxmudovga axloq tuzatish ishlari jazosidan muddatidan ilgari shartli ozod qilish hujjatlarini taqdim etishga va’da bergan, band pora olish uchun javobgarlik pora oldindan kelishilgan va harakat sodir etilgan-bo‘lmaganligidan qat’i nazar kelib chiqishini belgilaydi.",
+        "izoh": "Kazusda pora olish fakti (300 dollar olingan) tugallangan jinoyat sifatida baholanishi mumkin, ammo sud tomonidan jinoyat tarkibi isbotlanmagan."
+      },
+      {
+        "band_raqami": "11",
+        "kazusga_moslik": "A.Jabbarov pora talab qilgan bo‘lsa-da, fuqaroning qonuniy manfaatlariga zarar yetkazish tahdidi mavjud emas, shuning uchun tamagirlik belgisi yo‘q. Bandda tamagirlikning aniq ta’rifi berilgan.",
+        "izoh": "Kazusda pora talab qilish tamagirlik emas, chunki probatsiya inspektori qonuniy vazifasini bajarish evaziga pora olgan."
+      },
+      {
+        "band_raqami": "16",
+        "kazusga_moslik": "Pora beruvchi Maxmudovning xatti-harakatlari (pora berish) kazusda batafsil yoritilmagan bo‘lsa-da, band pora beruvchini jinoiy javobgarlikdan ozod qilish asoslarini (o‘ttiz sutka ichida ixtiyoriy ariza) tushuntiradi.",
+        "izoh": "Agar Maxmudov pora berganlik haqida xabar bergan bo‘lsa, u javobgarlikdan ozod qilinishi mumkin, ammo bu kazusda aniq ko‘rsatilmagan."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      210,
+      211,
+      212,
+      237
+    ],
+    "bogliq_jpk_moddalar": [
+      46,
+      52,
+      132,
+      168,
+      173,
+      174,
+      175,
+      211
+    ],
+    "tahlil": "Kazusdagi pora olish jinoyati tarkibining isbotlanmaganligi Plenumning 1,2,3-bandlarida belgilangan subyekt, predmet va aybni isbotlash talablariga to‘liq mos kelmaydi, chunki sud to‘plangan dalillarni yetarli deb topmagan. Himoyachi huquqlarining buzilishi (hibsxonaga kiritish uchun ruxsat talab qilish, advokatni so‘roq qilishga urinish) JPKning 46 va 52-moddalariga zid bo‘lib, Plenumda to‘g‘ridan-to‘g‘ri izohlanmagan bo‘lsa-da, protsessual kafolatlarga taalluqli. Oqlov hukmi va reabilitatsiya (to‘lanmagan ish haqini undirish) JPKning reabilitatsiya instituti (173-175-moddalar) bilan tartibga solingan bo‘lib, prokurorning advokatni so‘roq qilmaslik to‘g‘risidagi topshirig‘i qonuniy hisoblanadi."
+  },
+  {
+    "mavzu_dir": "protsessual-chiqim",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2009-yil 24-noyabrdagi 13-sonli Jinoyat ishlari bo'yicha protsessual chiqimlarni undirish amaliyoti to'g'risidagi qarori",
+    "raqami": "13-son",
+    "sana": "2009-11-24",
+    "manba": "https://lex.uz/docs/-1616840",
+    "kazusga_aloqadorlik": "Plenumda oqlov hukmi chiqarilgan taqdirda protsessual chiqimlarni davlat hisobiga o'tkazish belgilangan bo'lib, kazusda A.Jabbarov oqlangani uchun ushbu qoida qo'llanilishi lozim. Shuningdek, protsessual chiqimlar tarkibi va undirish tartibi kazusdagi ayrim xarajatlar (himoyachi xizmati, ashyoviy dalillar) bilan bog'liq.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "2",
+        "kazusga_moslik": "Protsessual chiqimlar tarkibida himoyachiga to'lanadigan haq va ashyoviy dalillarni saqlash xarajatlari ko'rsatilgan, bu kazusda A.Jabbarovga davlat hisobidan himoyachi chaqirilgani va ashyoviy dalillar olinganiga mos keladi.",
+        "izoh": "Plenum 2-bandi protsessual chiqimlarning to'liq ro'yxatini beradi, shu jumladan himoyachi xizmati va ashyoviy dalillar bilan bog'liq xarajatlar."
+      },
+      {
+        "band_raqami": "4",
+        "kazusga_moslik": "Protsessual chiqimlarga kirmaydigan xarajatlar qatorida ish haqi saqlanib qolinadigan holatlar ko'rsatilgan, bu kazusdagi A.Jabbarovga to'lanmagan ish haqini qoplash masalasiga taalluqli emas.",
+        "izoh": "Kazusda oqlov hukmi bilan to'lanmagan ish haqi va daromadlarni qoplash belgilangan, bu protsessual chiqim emas, balki moddiy zararni qoplashdir."
+      },
+      {
+        "band_raqami": "6",
+        "kazusga_moslik": "Protsessual chiqimlarga doir masala hukmda hal etilishi shart, kazusda esa oqlov hukmida protsessual chiqimlar to'g'risida qaror qabul qilinmagan, ammo keyinchalik kompensatsiya masalasi ko'rilgan.",
+        "izoh": "Plenum 6-bandi hukm (ajrim)da protsessual chiqimlar hal etilishini talab qiladi, bu kazusda bajarilmagan bo'lishi mumkin."
+      },
+      {
+        "band_raqami": "9",
+        "kazusga_moslik": "Sudlanuvchi oqlangan taqdirda protsessual chiqimlar davlat hisobiga o'tkazilishi lozim. A.Jabbarov oqlanganligi sababli barcha protsessual chiqimlar (himoyachi xizmati va boshqalar) davlat tomonidan qoplanishi kerak.",
+        "izoh": "Plenum 9-bandining birinchi xatboshisi bevosita kazusga qo'llaniladi, chunki oqlov hukmi mavjud."
+      }
+    ],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [
+      "318",
+      "320",
+      "471",
+      "541"
+    ],
+    "tahlil": "Kazusda A.Jabbarov jinoyat ishi bo'yicha oqlangan, shuning uchun protsessual chiqimlar (himoyachi xizmati, ashyoviy dalillarni saqlash va boshqa tergov harakatlari xarajatlari) Plenumning 9-bandiga muvofiq davlat hisobiga o'tkazilishi kerak. Oqlov hukmida to'lanmagan ish haqi va daromadlarni qoplash belgilangan bo'lib, bu moddiy zararni qoplash (reabilitatsiya) masalasidir va protsessual chiqimlar tarkibiga kirmaydi (4-bandga asosan). Plenumning 6-bandi protsessual chiqimlar hukmda hal etilishi lozimligini ko'rsatadi, ammo kazusda bu masala oqlov hukmida hal etilmagan, keyin alohida ajrim chiqarilgan. Tergovchi tomonidan advokatni so'roq qilishga urinish va himoyachini kameraga kiritmaslik kabi protsessual qonunbuzilishlar oqlov hukmiga sabab bo'lgan bo'lishi mumkin, ammo ular protsessual chiqimlar bilan bevosita bog'liq emas. Plenumning 2-bandi protsessual chiqimlar tarkibini aniqlab beradi va himoyachi xizmati (50-modda asosida) kazusda mavjud bo'lgan xarajat turidir."
+  },
+  {
+    "mavzu_dir": "qurol",
+    "qaror_nomi": "3-сон 27.02.1996.Qonunga xilof ravishda qurolga egalik qilish toʻgʻrisidagi ishlar boʻyicha sud amaliyoti haqida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-1441585",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Kazusda ko'rib chiqilgan holat probatsiya xodimi tomonidan pora olish, himoyachi huquqlari va reabilitatsiya masalalariga oid bo'lib, unda qurol, o'q-dori, portlovchi moddalar yoki portlatish qurilmalari bilan bog'liq hech qanday fakt mavjud emas. Plenum esa faqat o'qotar qurol, o'q-dorilar, portlovchi moddalar va shu kabi ashyolarning qonunga xilof ravishda egalik qilish, saqlash, tashish va o'tkazish bilan bog'liq jinoyat ishlari bo'yicha sud amaliyotini tushuntirishga qaratilgan. Shuning uchun ushbu plenum kazus faktlariga hech qanday aloqador emas va uning talablari kazusda qo'llanilmaydi."
+  },
+  {
+    "mavzu_dir": "ruhiy",
+    "qaror_nomi": "23-сон 12.12.2008.Ruhiy holati buzilgan shaxslarga nisbatan tibbiy yoʻsindagi majburlov choralarini qoʻllash boʻyicha sud amaliyoti toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-1601125",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Kazusda A.Jabbarovning pora olishda ayblanib oqlanishi, himoyachi huquqlari va reabilitatsiya masalalari ko'rib chiqilgan bo'lib, unda ruhiy holati buzilgan shaxslarga oid hech qanday holat mavjud emas. Plenum esa faqat ruhiy holati buzilgan shaxslarga nisbatan tibbiy majburlov choralarini qo'llashga bag'ishlangan. Shuning uchun kazus faktlari plenum talablari bilan hech qanday bog'liqlikka ega emas."
+  },
+  {
+    "mavzu_dir": "savdo-jinoyat",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 1996-03-15gi 9-sonli Savdo sohasidagi jinoyatlar va boshqa huquqbuzarliklar haqidagi qarori",
+    "raqami": "9-son",
+    "sana": "1996-03-15",
+    "manba": "https://lex.uz/docs/-1441818",
+    "kazusga_aloqadorlik": "Plenum savdo sohasidagi huquqbuzarliklarga bag'ishlangan bo'lib, kazus esa probatsiya inspektorining pora olishi va protsessual buzilishlar bilan bog'liq. To'g'ridan-to'g'ri aloqadorlik mavjud emas, biroq Plenumning ayrim bandlari (masalan, tergovning xolisligi va asossiz javobgarlikka tortmaslik to'g'risidagi umumiy prinsiplar) kazusdagi protsessual buzilishlarga nisbatan analogik qo'llanilishi mumkin.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "13 (asosiy matn qismi)",
+        "kazusga_moslik": "Bandda tergov organlarining jinoyatni har tomonlama va xolisona tergov qilishi, fuqarolarni asossiz javobgarlikka tortmaslik lozimligi ko'rsatilgan. Kazusda tergovchi advokatni so'roq qilishga urinish, qarindoshlarni qo'rqitish kabi qonunbuzilishlar sodir etgan, natijada oqlov hukmi chiqarilgan.",
+        "izoh": "Ushbu band kazusdagi tergov xatolariga ishora qiladi va protsessual qonuniylikni ta'minlash zarurligini ta'kidlaydi."
+      },
+      {
+        "band_raqami": "8 (Band 6 ichidagi xatboshi)",
+        "kazusga_moslik": "Bandda haq olish evaziga to'sqinlik qiluvchi mansabdor shaxslarning poraxo'rlik (JK 210-moddasi) bo'yicha javobgarligi nazarda tutilgan. Kazusda A.Jabbarov probatsiya inspektori sifatida pora olgan, bu poraxo'rlik hisoblanadi, biroq band savdo sohasiga oid bo'lib, kazusga to'g'ridan-to'g'ri taalluqli emas.",
+        "izoh": "Mazkur band savdo sohasidagi mansabdor shaxslar poraxo'rligiga oid bo'lsa-da, pora olishning umumiy tushunchasiga oid qoida sifatida izohlanishi mumkin."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      210
+    ],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Plenum savdo sohasidagi huquqbuzarliklarga bag'ishlanganligi sababli kazus bilan bevosita bog'liq emas. Kazusda probatsiya inspektorining pora olishi (JK 210-moddasi) va tergov jarayonidagi protsessual qonunbuzilishlar (masalan, advokatni himoya qilish huquqining buzilishi, qarindoshlarni qo'rqitish) muhokama qilinadi. Plenumning 13-bandi tergovning xolisligi va asossiz ayblovdan saqlanish tamoyillarini keltiradi, kazusdagi tergovchining harakatlari esa ushbu tamoyillarga zid. Biroq, Plenum aniq JPK moddalarini izohlamaydi, shuning uchun kazusdagi protsessual masalalarga bevosita tadbiq etilmaydi. Yakunda oqlov hukmi va kompensatsiya masalasi Plenumning fuqarolarni asossiz javobgarlikka tortishga yo'l qo'ymaslik ruhiga mos keladi."
+  },
+  {
+    "mavzu_dir": "soliq",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2013-yil 31-maydagi 8-sonli Soliqlar va boshqa majburiy to'lovlarni to'lashdan bo'yin tovlaganlik uchun javobgarlikka oid qonunchilikning sudlar tomonidan qo'llanilishi to'g'risidagi qarori",
+    "raqami": "8-son",
+    "sana": "2013-05-31",
+    "manba": "https://lex.uz/docs/-2212245",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur Plenum soliqlar va boshqa majburiy to'lovlarni to'lashdan bo'yin tovlash bilan bog'liq jinoyat va ma'muriy huquqbuzarliklarga oid bo'lib, kazusda esa probatsiya inspektori tomonidan pora olish, himoyachi huquqlarining buzilishi, tergovchining protsessual qonunbuzilishlari, oqlov hukmi va reabilitatsiya masalalari ko'rilgan. Ushbu ikki holat o'rtasida hech qanday aloqadorlik mavjud emas, chunki kazus faktlari soliq to'lovlari bilan bog'liq emas."
+  },
+  {
+    "mavzu_dir": "sudlanganlik",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2015-yil 18-sentabrdagi 13-sonli Sudlanganlik holati tugallanishi va olib tashlanishiga oid qonunchilikni qo'llash bo'yicha sud amaliyoti to'g'risidagi qarori",
+    "raqami": "13-son",
+    "sana": "2015-09-18",
+    "manba": "https://lex.uz/docs/-2793078",
+    "kazusga_aloqadorlik": "Kazusda A.Jabbarovga nisbatan oqlov hukmi chiqarilib, u reabilitatsiya qilingan. Plenum aynan sudlanganlik holati tugallanishi va olib tashlanishiga bag'ishlangan bo'lsa-da, uning 5-bandida reabilitatsiya va sudlanganlikni olib tashlash o'rtasidagi farq tushuntirilgan. Shu nuqtai nazardan plenum kazusga bilvosita aloqador, chunki reabilitatsiya qilingan shaxs sudlanmagan hisoblanadi.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "5",
+        "kazusga_moslik": "Plenumning 5-bandida shaxs reabilitatsiya qilinganda davlat uning aybsizligini tan olishi va bu sudlanganlikni olib tashlashdan farqlanishi ko'rsatilgan. Kazusda A.Jabbarovga nisbatan oqlov hukmi chiqarilgan, ya'ni u reabilitatsiya qilingan.",
+        "izoh": "Mazkur band kazusda A.Jabbarovning reabilitatsiya qilinganligi sababli sudlanmagan shaxs sifatida huquqiy oqibatlarni tushunishga yordam beradi."
+      }
+    ],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Plenum asosan sudlanganlik holati tugallanishi va olib tashlanishiga qaratilgan bo'lib, kazusda esa oqlov hukmi orqali reabilitatsiya amalga oshirilgan. Kazus faktlari (pora olish, himoyachi huquqlari, tergovchining qonunbuziliklari) plenum doirasiga kirmaydi. Faqat 5-band reabilitatsiya masalasini izohlab, kazusdagi oqlov hukmi bilan reabilitatsiya o'rtasidagi farqni aniqlashda ahamiyatli. Boshqa bandlar kazusda mavjud bo'lmagan sudlanganlik holatiga tegishli. Shuning uchun plenum kazusga bevosita taalluqli emas, faqat reabilitatsiya kontseptini tushuntirishda yordam beradi."
+  },
+  {
+    "mavzu_dir": "tadbirkorlik",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2013-yil 11-dekabrdagi 20-sonli Tadbirkorlik faoliyati bilan bog'liq ishlar bo'yicha sud amaliyotining ayrim masalalari to'g'risidagi qarori",
+    "raqami": "20-son",
+    "sana": "2013-12-11",
+    "manba": "https://lex.uz/docs/-2307198",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Kazusda A.Jabbarovning pora olish jinoyati, himoyachi huquqlari, tergovchi tomonidan qonunbuzilishlari va oqlov hukmi asosida kompensatsiya talabi ko'rib chiqilgan. Ushbu Plenum esa tadbirkorlik faoliyati, noqonuniy tadbirkorlik va uning javobgarligiga bag'ishlangan bo'lib, kazusdagi holatlar (pora olish, probatsiya inspektori, himoyachi bilan bog'liq protsessual masalalar) bilan hech qanday mazmuniy bog'liqlikka ega emas. Plenumdagi bandlar faqat tadbirkorlik subyektlari, ulardan olinadigan daromad va litsenziyalash masalalariga oid bo'lib, kazus faktlariga tatbiq etilmaydi."
+  },
+  {
+    "mavzu_dir": "tashabbus-qochish",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 1996-yil 20-dekabrdagi 37-sonli Transport vositalarini olib qochish ishlari bo'yicha sud amaliyoti haqidagi qarori",
+    "raqami": "37-son",
+    "sana": "1996-12-20",
+    "manba": "https://lex.uz/docs/-1442544",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Berilgan kazus probatsiya inspektori tomonidan pora olish, himoyachi huquqlarining buzilishi, tergovchining noqonuniy harakatlari va oqlov hukmidan keyingi reabilitatsiya masalalariga tegishli bo‘lib, unda transport vositalarini olib qochish jinoyati yoki unga oid sud amaliyoti haqida hech qanday ma’lumot mavjud emas. Shuning uchun ushbu plenum kazusga aloqador emas."
+  },
+  {
+    "mavzu_dir": "transport",
+    "qaror_nomi": "10-сон 26.06.2015.Transport harakati va undan foydalanish xavfsizligiga qarshi jinoyatlar bilan bogʻliq ishlar yuzasidan sud amaliyotining ayrim masalalari toʻgʻrisida",
+    "raqami": "",
+    "sana": "",
+    "manba": "https://lex.uz/docs/-2710284",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur Plenum transport harakati va undan foydalanish xavfsizligiga qarshi jinoyatlarga oid bo‘lib, kazusda esa probatsiya inspektori tomonidan pora olish, himoyachi huquqlarining buzilishi va oqlov hukmi asosida reabilitatsiya qilish masalalari ko‘rib chiqilgan. Kazus faktlari Plenumda nazarda tutilgan transport vositalari, yo‘l harakati qoidalari, haydovchilar javobgarligi yoki yo‘l-transport hodisalari bilan hech qanday bog‘liqlikka ega emas. Shuning uchun Plenumning hech bir bandi ushbu kazusga tatbiq etilmaydi va ikkalasi o‘rtasida mazmuniy aloqadorlik mavjud emas."
+  },
+  {
+    "mavzu_dir": "umrbod",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2007-yil 14-noyabrdagi 15-sonli Umrbod ozodlikdan mahrum qilish tariqasidagi jazoni qo'llashning ayrim masalalari to'g'risidagi qarori",
+    "raqami": "15-son",
+    "sana": "2007-11-14",
+    "manba": "https://lex.uz/docs/-1593076",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur plenum faqat umrbod ozodlikdan mahrum qilish va uzoq muddatli ozodlikdan mahrum qilish jazolarini qo'llash masalalariga bag'ishlangan. Kazus esa probatsiya inspektori tomonidan pora olish, himoyachi huquqlarining buzilishi, reabilitatsiya va kompensatsiya undirish bilan bog'liq bo'lib, plenumda ko'rib chiqilgan jazo turlari va ularning qo'llanish shartlariga hech qanday aloqasi yo'q. Shuning uchun plenum bandlari kazusga tatbiq etilmaydi."
+  },
+  {
+    "mavzu_dir": "valyuta",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2000-yil 28-apreldagi 8-sonli Valyuta qimmatliklarini qonunga xilof ravishda olish yoki o'tkazishga doir ishlar yuzasidan sud amaliyoti to'g'risidagi qarori",
+    "raqami": "8-son",
+    "sana": "2000-04-28",
+    "manba": "https://lex.uz/docs/-1449617",
+    "kazusga_aloqadorlik": "Kazusda A.Jabbarov tomonidan fuqaro Maxmudovdan pora sifatida 300 AQSH dollari olinganligi sababli, ushbu valyuta qimmatliklari bilan bog'liq harakatlar Plenumning qo'llanilishini talab qiladi. Plenum pora olishda chet el valyutasidan foydalanilganda uni faqat pora olish (JK 210) bilan kvalifikatsiya qilish kerakligini, qo'shimcha ravishda JK 177 moddasi bilan tavsiflanmasligini belgilaydi. Shuningdek, tergov harakatlarining to'liqligi va qonuniyligi, valyuta qimmatliklarini dalil sifatida saqlash va qaytarish masalalari ham Plenumda o'z aksini topgan.",
+    "tegishli_bandlar": [
+      {
+        "band_raqami": "1",
+        "kazusga_moslik": "Kazusda tergovchi tomonidan advokatni so'roq qilishga urinish, qarindoshlarni qo'rqitish va himoyachiga kameraga kirishga ruxsat bermaslik kabi qo'pol buzilishlar sodir etilgan bo'lib, bu Plenumning barcha holatlarni sinchkovlik bilan, to'la va xolisona tekshirish talabiga ziddir.",
+        "izoh": "Tergovning qonuniyligi va to'liqligi ta'minlanmagan."
+      },
+      {
+        "band_raqami": "7",
+        "kazusga_moslik": "Pora miqdori 300 AQSH dollarini tashkil etgan bo'lib, uning so'mdagi qiymati (Markaziy bank kursi bo'yicha 3.425433 so'm? – aslida 3.425.433 so'm bo'lishi mumkin) pora olish jinoyatining og'irlik darajasini aniqlashda e'tiborga olinishi lozim.",
+        "izoh": "Valyuta kursi asosida pora miqdorini belgilash tergov va sud organlarining vakolatiga kiradi."
+      },
+      {
+        "band_raqami": "10",
+        "kazusga_moslik": "Kazusda pora olish valyuta qimmatliklarida sodir etilgan bo'lsa-da, bunday qilmish faqat pora olish (JK 210) bilan kvalifikatsiya qilinishi kerak, JK 177 moddasi qo'shimcha qo'llanilmaydi. Tergov organi aynan shu qoidaga amal qilgan bo'lishi mumkin.",
+        "izoh": "Valyuta qimmatliklarida pora olish qo'shimcha ravishda JK 177 bilan tavsiflanmaydi."
+      },
+      {
+        "band_raqami": "14",
+        "kazusga_moslik": "Kazusda ashyoviy dalil sifatida olingan 300 AQSH dollari bo'yicha sud oqlov hukmi chiqarganidan keyin mablag'ning taqdiri hal qilinishi kerak. Plenumga ko'ra, agar valyuta qimmatliklari egasining xohishi bilan jinoiy bitim ob'ekti bo'lgan bo'lsa, ular davlat daromadiga o'tkaziladi; aks holda qaytariladi. Hukmda bu masala ko'rsatilmagan.",
+        "izoh": "Jinoyat ishi tugatilganda ashyoviy dalillar masalasi sud tomonidan hal etilishi shart."
+      }
+    ],
+    "bogliq_jk_moddalar": [
+      210,
+      211,
+      177
+    ],
+    "bogliq_jpk_moddalar": [
+      46,
+      47,
+      67,
+      68,
+      69,
+      70,
+      284,
+      285,
+      405,
+      406,
+      407,
+      408
+    ],
+    "tahlil": "Plenum kazusga bevosita aloqador bo'lib, unda valyuta qimmatliklarida pora olishni to'g'ri kvalifikatsiya qilish masalasi hal qilingan. Kazusda A.Jabbarovning oqlanishiga qaramay, tergov jarayonida advokat huquqlari, himoya huquqi va dalillarni to'plash tartibi jiddiy buzilgan. Plenumning 1-bandi tergovning to'liq va qonuniy bo'lishi zarurligini ta'kidlagan bo'lsa-da, amaliyotda bu talabga rioya qilinmagan. 10-band pora olishni faqat tegishli bobi moddalari bilan tavsiflashni buyuradi, bu kazusda amalga oshirilgan bo'lishi mumkin. 7-band valyuta kursi orqali miqdorlarni aniqlashni talab qiladi, ammo kazusda bu masala ochiq qolgan. 14-band ashyoviy dalillarni qaytarish yoki davlat foydasiga o'tkazish masalasini sud hal qilishi shartligini ko'rsatadi. Oqlov hukmidan keyin kompensatsiya to'lash reabilitatsiya instituti (JPK 405-408) bilan bog'liq bo'lib, Plenumga to'g'ridan-to'g'ri aloqasi yo'q, ammo umumiy protsessual qonuniylik kontekstida muhimdir."
+  },
+  {
+    "mavzu_dir": "yarashuv",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 2002-yil 25-oktabrdagi 27-sonli Yarashuv to'g'risidagi ishlar bo'yicha sud amaliyoti haqidagi qarori",
+    "raqami": "27-son",
+    "sana": "2002-10-25",
+    "manba": "https://lex.uz/docs/-1453539",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Kazusda tasvirlangan holatlar (pora olish, himoyachi huquqlarining buzilishi, tergovchining noqonuniy harakatlari, oqlov hukmi va reabilitatsiya) yarashuv institutiga taalluqli emas. Plenum faqat Jinoyat kodeksining 661-moddasi va Jinoyat-protsessual kodeksining 62-bobi bilan tartibga solinadigan yarashuv asosida ishlarni tugatish masalalariga bag'ishlangan. Kazusda bunday jarayon mavjud emas, shuning uchun plenumning hech qanday bandi kazusga to'g'ri kelmaydi."
+  },
+  {
+    "mavzu_dir": "zaruriy-mudofaa",
+    "qaror_nomi": "O'zbekiston Respublikasi Oliy sudi Plumentining 1996-yil 20-dekabrdagi 39-sonli Ijtimoiy xavfli tajovuzlardan zaruriy mudofaa huquqini ta'minlovchi qonunlarni sudlar tomonidan qo'llanishi haqidagi qarori",
+    "raqami": "39-son",
+    "sana": "1996-12-20",
+    "manba": "https://lex.uz/docs/-1442647",
+    "kazusga_aloqadorlik": "yo'q",
+    "tegishli_bandlar": [],
+    "bogliq_jk_moddalar": [],
+    "bogliq_jpk_moddalar": [],
+    "tahlil": "Mazkur Plenum faqat zaruriy mudofaa (JK 37, 100, 107-moddalar) bilan bog'liq masalalarni tartibga soladi. Kazus esa probatsiya inspektori tomonidan pora olish, himoyachi huquqlarini buzish, tergovchining advokatni so'roq qilish urinishi va oqlov hukmi bilan yakunlangan jinoyat ishini ko'rib chiqadi. Unda zaruriy mudofaaga oid hech qanday element mavjud emas, shuning uchun Plenum mazkur kazusga aloqador emas."
+  }
+]

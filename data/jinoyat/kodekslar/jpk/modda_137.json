@@ -1,0 +1,27 @@
+﻿{
+  "n": 137,
+  "sarlavha_id": "-254118",
+  "sarlavha": "137-modda. Hodisa sodir boʻlgan joyni koʻzdan kechirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254119",
+      "matn": "Hodisa sodir boʻlgan joyni koʻzdan kechirish aynan ana shu joyda jinoyat sodir etilganligi yoki uning izlari borligi haqida maʼlumotlar boʻlgan taqdirda oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-3033744",
+      "matn": "Kechiktirib boʻlmaydigan hollarda hodisa sodir boʻlgan joy jinoyat ishi qoʻzgʻatilishidan oldin ham koʻzdan kechirilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254120",
+      "matn": "Katta maydonlarni va binolarni koʻzdan kechirish bir necha surishtiruvchi yoki tergovchi tomonidan amalga oshirilishi mumkin, bunda ularning har biri kamida ikki nafar xolis ishtirokida koʻzdan kechirishi lozim."
+    },
+    {
+      "q": 4,
+      "id": "-3349122",
+      "matn": "Hodisa sodir boʻlgan joydan olingan narsalar, hujjatlar va izlar oʻraladi va muhrlanadi. Katta hajmdagi narsalar olinmaydi va muhrlanmaydi, lekin tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi yoki tergovchi ularni saqlash choralarini koʻrishi lozim."
+    }
+  ]
+}

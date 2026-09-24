@@ -1,0 +1,48 @@
+{
+  "n": 40,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184311",
+  "sarlavha": "40-modda. Buyruq yoki boshqa vazifani ijro etish",
+  "umumiy_sharh": [
+    "Buyruq yoki farmoyishni, mansab vazifalarini qonunan bajarish tufayli zarar yetkazilgan bo'lsa, jinoyat deb topilmaydi. Bu jinoiyligini istisno qiluvchi holat.",
+    "Buyruqning qonuniylik shartlari: rasman muvofiq kelishi, vakolatli shaxs tomonidan berilishi, qonun talablariga mos kelishi, funksional vakolat doirasida bo'lishi.",
+    "Buyruq yozma, og'zaki yoki namoyishkorona (konklyudent) shaklda bo'lishi mumkin. Ayrim hollarda faqat yozma shaklda bo'lishi talab qilinadi.",
+    "Xizmat majburiyatlari — mansab vakolatiga qarab xodimlardan bajarilishi talab qilinadigan funksional majburiyatlar. Mehnat shartnomasida belgilanadi.",
+    "Subyektiv tomondan buyruqni bajaruvchi zararning g'ayrihuquqiy ekanligini anglamasligi kerak. Agar anglasa, bu xizmat yuzasidan qaram vaziyat hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184315",
+      "matn": "Shaxsning buyruq yoki boshqa farmoyishni, shuningdek mansab vazifalarini qonunan bajarishi tufayli zarar yetkazilgan boʻlsa, jinoyat deb topilmaydi.",
+      "sharh": [
+        "Buyruq yoki farmoyish vakolatli shaxsning ijro etish majburiyati yuklangan shaxsga bergan qonunga asoslangan talabi. Bu iltimos yoki ishontirishdan farqli.",
+        "Buyruqning qonuniyligining muhim sharti — qonun talablariga mos kelishi. JK talablariga zid buyruq asosida bajarilgan harakat mustaqil jinoyat sifatida kvalifikatsiya qilinadi.",
+        "Buyruq boshliqning vakolati doirasida qabul qilingan bo'lishi kerak. Vakolatdan chetga chiqilgan buyruq o'z mohiyatiga ko'ra noqonuniy.",
+        "Ijro etish huquqiylik shartlariga mos kelgan taqdirda, qilmishning jinoiyligini istisno qiluvchi holat deb topilishi mumkin.",
+        "Qonunchilikda buyruqning shakli aniq belgilanmagan — yozma, og'zaki yoki namoyishkorona bo'lishi mumkin."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184317",
+      "matn": "Jinoiyligi oldindan ayon boʻlgan buyruq yoki boshqa farmoyishni bajarib, jinoyat sodir etgan shaxs, umumiy asoslarda javobgarlikka tortiladi.",
+      "sharh": [
+        "Ijrochi buyruqning jinoiyligini oldindan bila turib bajarsa, bu ishtirokchilik sifatida baholanadi. Buyruq beruvchi — tashkilotchi, bajaruvchi — bajaruvchi shaxs.",
+        "Oldindan jinoiyligi ayon bo'lgan buyruqni bajarish umumiy asosda baholanishi lozim. Qonun jinoyatni sodir etgan shaxslarni javobgarlikdan ozod qilmaydi.",
+        "Bu qoida alohida kategoriyadagi shaxslarga asossiz ravishda javobgarlikdan qutulib qolish imkonini bermaydi — odillik va javobgarlikning muqarrarligi tamoyiliga mos."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-184319",
+      "matn": "Gʻayriqonuniy ravishda berilgan buyruq yoki farmoyishni yoxud mansab vazifasini bajarmagan yoki buzgan shaxs javobgarlikka tortilmaydi. Shaxsning amalda sodir etgan qilmishida boshqa bir jinoyat tarkibining barcha alomatlari mavjud boʻlsagina, u javobgarlikka tortiladi.",
+      "sharh": [
+        "G'ayriqonuniy buyruq yoki mansab vazifasini bajarmaganlik yoki buzish jinoyat deb topilmaydi — bu qoida JKning 279, 280-moddalari bilan kolliziyalarni hal qiladi.",
+        "Har qanday g'ayrihuquqiy yoki jinoiyligi ma'lum bo'lgan buyruqni bajarmaslik jinoiy javobgarlikni istisno qiladi.",
+        "Lekin qilmishda boshqa jinoyat tarkibi mavjud bo'lsa (masalan, hujum qilish), shaxs javobgarlikka tortiladi.",
+        "Bu qoida Ichki ishlar, Qurolli Kuchlar, DXX, prokuratura organlari xodimlariga ham tegishli emas — ularning burchini bajarishdan chetlana olmaydi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "n": "586⁸",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5306030",
+  "sarlavha": "586⁸-modda. Sudning aybga iqrorlik toʻgʻrisidagi kelishuv boʻyicha qarori",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5306031",
+      "matn": "Sud aybga iqrorlik toʻgʻrisida kelishuv tuzish haqidagi qarorni koʻrib chiqib, quyidagi qarorlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5306032",
+          "matn": "kelishuvni tasdiqlash toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5306033",
+          "matn": "kelishuvni tasdiqlashni rad etish va ishni prokurorga yuborish haqida."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5306034",
+      "matn": "Kelishuv tasdiqlangan hollarda, sud ayblov hukmi chiqaradi."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "n": 293,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271527",
+  "sarlavha": "293-modda. Jangovar navbatchilikni o'tash qoidalarini buzish",
+  "umumiy_sharh": [
+    "Jinoyatning asosiy bevosita obyekti jangovar navbatchilikni o'tash tartiblarini ta'minlovchi ijtimoiy munosabatlar. Qo'shimcha obyekti O'zbekiston Respublikasi xavfsizligi, chegaralari daxlsizligi, suverenitetini ta'minlovchi munosabatlar.",
+    "1-qism obyektiv tomondan qo'riqlanayotgan obyektga zarar yetkazuvchi yoki jangovar vazifaning bajarilmay qolishiga olib keluvchi jangovar navbatchilik qoidalarini buzishda ifodalanadi.",
+    "Jangovar navbatchilik tarkibiga jangovar bo'linma, kema va uchuvchi apparatlar ekipajlari, boshqaruv punktlarining navbatchi smenalari kiradi.",
+    "Qoida buzish jangovar postdan ketish, postda uxlab qolish, spirtli ichimliklar ichish, begonalar kirishiga yo'l qo'yish, texnik vositalarni buzish, buyruqlarni bajarmaslik va boshqalarda ifodalanishi mumkin.",
+    "Modda blanket dispozitsiyali. Qaysi qoida buzilganligi, zarar yetkazilganligi yoki jangovar vazifa bajarilmaganligi va ular orasidagi sababiy bog'lanish aniqlanishi zarur.",
+    "Zarar yetkazish yoki jangovar topshiriqni bajarmaslik navbatchilik bilan aloqani yo'qotishda, axborotni o'z vaqtida bermaslikda, vazifalarni bajarish qobiliyatining pasayishida ifodalanadi.",
+    "Navbatchilik qoidalarini buzishda boshqa mustaqil jinoyat sodir etilsa, qilmish jinoyatlar majmui bo'yicha kvalifikatsiya qilinadi.",
+    "2-qismda to'satdan qilingan hujumni o'z vaqtida payqamaslik yoki daf etmaslik uchun javobgarlik belgilangan.",
+    "2-qism og'ir oqibatlar bevosita davlat xavfsizligini ta'minlash bo'yicha jangovar navbatchilik vazifalari bilan bog'liq bo'lishi lozim. Oqibatlar: respublika obyektlariga olovli zarbalar, jangovar texnikaning yo'qotilishi, odamlarning halok bo'lishi va h.k.",
+    "Jinoyat oqibatlar kelib chiqqan vaqtdan tugallangan deb topiladi.",
+    "Subyektiv tomondan to'g'ri yoki egri qasdning mavjudligi bilan tavsiflanadi. Oqibatlariga nisbatan ayb ehtiyotsizlik shaklida ifodalanadi.",
+    "Subyekti navbatchi kuchlar tarkibidagi harbiy xizmatchi. Qonunga xilof chaqirilgan yoki tayinlangan bo'lsa, javobgarlik g'ayriqonuniy qaror qabul qilgan boshliq zimmasiga yuklanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271530",
+      "matn": "Jangovar navbatchilikni oʻtash (jangovar xizmat) qoidalarini buzish qoʻriqlanayotgan obyektlarga zarar yetkazilishiga yoki jangovar topshiriq bajarilmay qolishiga sabab boʻlsa, — ikki yilgacha xizmat boʻyicha cheklash yoki bir yilgacha intizomiy qismga yuborish yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271534",
+      "matn": "O'sha qilmish O'zbekiston Respublikasiga to'satdan qilingan hujumni o'z vaqtida payqamaganlik yoki daf etmaganlikda ifodalansa, shuningdek, og'ir oqibatlarga sabab bo'lsa, — besh yildan o'n yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

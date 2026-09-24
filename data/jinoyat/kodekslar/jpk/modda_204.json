@@ -1,0 +1,22 @@
+﻿{
+  "n": 204,
+  "sarlavha_id": "-254543",
+  "sarlavha": "204-modda. Yozma dalillar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254544",
+      "matn": "Mansabdor shaxs yoki fuqaro tomonidan soʻz, raqam, chizma yoki boshqa shaklda yozilgan va ish uchun ahamiyatli boʻlishi mumkin boʻlgan maʼlumotlarni saqlash, oʻzgartirish, berish uchun moʻljallangan hujjat yoki boshqa yozuvlar yozma dalil hisoblanadi."
+    },
+    {
+      "q": 2,
+      "id": "-254545",
+      "matn": "Tergov harakatining bayonnomasi, sud majlisining bayonnomasi va ularning ilovalari ham yozma dalil hisoblanadi."
+    },
+    {
+      "q": 3,
+      "id": "-254546",
+      "matn": "Ushbu Kodeksning 203-moddasida koʻrsatilgan alomatlari, belgilari, izlari boʻlgan hujjatlar va boshqa xatlar ham ashyoviy dalil boʻlib xizmat qilishi mumkin."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿{
+  "n": 397,
+  "sarlavha_id": "-5305493",
+  "sarlavha": "397-modda. Jinoyat ishini sudda koʻrish uchun tayinlash toʻgʻrisidagi ajrim",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5305505",
+      "matn": "Jinoyat ishini sudda koʻrish uchun tayinlash toʻgʻrisidagi ajrimda:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5655225",
+          "matn": "sud ishining raqami, ajrim chiqarilgan vaqt va joy;"
+        },
+        {
+          "b": 2,
+          "id": "-260387",
+          "matn": "sudyaning lavozimi va familiyasi;"
+        },
+        {
+          "b": 3,
+          "id": "-260388",
+          "matn": "sudlanuvchining familiyasi, ismi, otasining ismi, Jinoyat kodeksining unga nisbatan eʼlon qilingan aybga doir moddasi;"
+        },
+        {
+          "b": 4,
+          "id": "-260389",
+          "matn": "ishning sud majlisida koʻrilishi uchun yetarli asoslar borligi toʻgʻrisidagi xulosa;"
+        },
+        {
+          "b": 5,
+          "id": "-260390",
+          "matn": "sudlanuvchilarga nisbatan qoʻllanilgan ehtiyot chorasi toʻgʻrisidagi qaror;"
+        },
+        {
+          "b": 6,
+          "id": "-5305553",
+          "matn": "sud muhokamasida davlat ayblovchisining va himoyachining ishtiroki;"
+        },
+        {
+          "b": 7,
+          "id": "-5305555",
+          "matn": "ishning ochiq yoki yopiq sud majlisida koʻrilishi;"
+        },
+        {
+          "b": 8,
+          "id": "-5305558",
+          "matn": "sud muhokamasining joyi va vaqti koʻrsatilishi lozim."
+        }
+      ]
+    }
+  ]
+}

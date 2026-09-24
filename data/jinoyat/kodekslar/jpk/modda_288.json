@@ -1,0 +1,17 @@
+﻿{
+  "n": 288,
+  "sarlavha_id": "-255080",
+  "sarlavha": "288-modda. Mol-mulk qiymatini undirib berish toʻgʻrisida daʼvo mavjud boʻlgan taqdirda uning bundan buyon kimga tegishli boʻlishini belgilash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255082",
+      "matn": "Jinoyat sodir etilishi natijasida mahrum boʻlingan va ish boʻyicha ashyoviy dalil deb eʼtirof etilgan mol-mulkning mulkdori yoki qonuniy egasi bu mol-mulkdan voz kechsa va uning qiymatini undirib berish toʻgʻrisida fuqaroviy daʼvo qoʻzgʻatsa, sud mol-mulkdan voz kechishni asosli deb topib, fuqaroviy daʼvoni qanoatlantirgan holda mol-mulkni mahkumga yoki fuqaroviy javobgarga beradi."
+    },
+    {
+      "q": 2,
+      "id": "-255083",
+      "matn": "Sud mol-mulkdan voz kechishni asossiz deb topsa, daʼvoni qondirmaydi yoki qisman qondirib, qaytariladigan mol-mulkning qiymati qanchaga pasaygan boʻlsa, shu summani yoxud tovar koʻrinishini yoʻqotganligi sababli taʼmirlashga qilinadigan chiqim summasini va tovonini jabrlanuvchi yoki fuqaroviy daʼvogar foydasiga undirib beradi. Mol-mulkning dastlabki va keyingi qiymati hamda tovar koʻrinishini yoʻqotganlik uchun tovon puli mutaxassis yoki ekspert ishtirokida aniqlanadi, taʼmirlash qiymati esa, taʼmirlashni amalga oshirayotgan korxona bergan hujjat asosida aniqlanadi."
+    }
+  ]
+}

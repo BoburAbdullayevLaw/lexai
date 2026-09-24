@@ -1,0 +1,23 @@
+{
+  "n": "7",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445188",
+  "sarlavha": "7-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445221",
+      "matn": "Xalq davlat hokimiyatining birdan-bir manbaidir."
+    },
+    {
+      "q": 2,
+      "id": "-6445222",
+      "matn": "Oʻzbekiston Respublikasida davlat hokimiyati xalq manfaatlarini koʻzlab va Oʻzbekiston Respublikasi Konstitutsiyasi hamda uning asosida qabul qilingan qonunlar vakolat bergan organlar tomonidangina amalga oshiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-6445223",
+      "matn": "Konstitutsiyada nazarda tutilmagan tartibda davlat hokimiyati vakolatlarini oʻzlashtirish, hokimiyat organlari faoliyatini toʻxtatib qoʻyish yoki tugatish, hokimiyatning yangi va muvoziy tarkiblarini tuzish Konstitutsiyaga xilof hisoblanadi va qonunga binoan javobgarlikka tortishga asos boʻladi."
+    }
+  ]
+}

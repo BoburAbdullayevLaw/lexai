@@ -1,0 +1,39 @@
+﻿{
+  "n": 486,
+  "sarlavha_id": "-6626395",
+  "sarlavha": "486-modda. Sud tergovining toʻliq emasligi va bir yoqlamaligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626398",
+      "matn": "Sud tergovi quyidagi hollarda toʻliq emas va bir yoqlama deb eʼtirof etiladi, agar ish boʻyicha:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626401",
+          "matn": "ushbu Kodeksning 82 — 84-moddalarida koʻrsatilgan holatlar yetarlicha toʻliq aniqlanmagan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-6626403",
+          "matn": "koʻrsatuvlari ishni hal qilish uchun muhim ahamiyatga ega boʻlgan shaxslar soʻroq qilinmagan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-6626405",
+          "matn": "oʻtkazilishi shart boʻlgan ekspertiza oʻtkazilmagan boʻlsa;"
+        },
+        {
+          "b": 4,
+          "id": "-7235320",
+          "matn": "ish uchun muhim ahamiyatga ega boʻlgan hujjatlar, ashyoviy, yozma yoki raqamli dalillar talab qilib olinmagan boʻlsa;"
+        },
+        {
+          "b": 5,
+          "id": "-6626409",
+          "matn": "natijalari ish uchun ahamiyatga ega boʻlishi mumkin boʻlgan boshqa tergov harakatlari oʻtkazilmagan boʻlsa."
+        }
+      ]
+    }
+  ]
+}

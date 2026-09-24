@@ -1,0 +1,51 @@
+{
+  "n": 18,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-4516818",
+  "sarlavha": "18-modda. Aqli rasolik",
+  "umumiy_sharh": [
+    "Aqli rasolik va yosh jinoyat huquqiy tushuncha sifatida jinoyat subyektini aniqlashda muhim ahamiyatga ega. Aqli noraso deb topilgan shaxs jinoyatning subyekti bo'la olmaydi.",
+    "Aqli rasolik insonning muhim va ajralmas xususiyatlaridan biri bo'lib, ruhiy jihatdan sog'lom shaxs ham, qandaydir ruhiy buzilishi bo'lgan, ammo jinoyat sodir etish vaqtida o'z harakatlarini ongli baholay oladigan shaxs ham aqli raso bo'lishi mumkin.",
+    "Aqli norasolikning tibbiy mezonlari: ruhiy holati surunkali buzilganligi, vaqtinchalik buzilganligi, aqli zaifligi yoki ruhiy holati boshqacha buzilganligi. Har doim ham tibbiy mezon aqli norasolikni bildirmaydi.",
+    "Aqli norasolikning yuridik mezonlari: intellektual belgi (o'z harakatlarining ijtimoiy xavfini anglay olmaslik) va irodaviy belgini (ularni boshqara olmaslik) tashkil etadi.",
+    "Surunkali ruhiy buzilishlar: shizofreniya, epilepsiya, maniakal-depressiv psixoz, miya sifilisi, progressiv falajlik. Ular chuqur va turg'un o'zgarishlarga olib keladi.",
+    "Vaqtinchalik ruhiy buzilishlar: patologik mastlik, patologik affekt, ongning g'ira-shira holati, «qisqa ulanish» reaksiyasi, alkogolli psixozlar. Kasallikning to'liq sog'ayishi bilan tugaydi.",
+    "Aqli zaiflik (oligofreniya): debillik (yengil), imbetsillik (o'rta), idiotiya (og'ir). Debillik ko'pincha aqli rasoligini istisno qilmaydi.",
+    "Ruhiy holatning boshqacha buzilishlari: psixopatiya, og'ir infeksion buzilishlar, giyohvandlik xumori, ko'zi ojizlik va karlik bilan bog'liq ruhiy o'zgarishlar.",
+    "Tibbiy va yuridik mezonlar majmuasi aqli norasolikni aniqlaydi. Sud-psixiatriya ekspertizasi xulosasi asosida hal qilinadi.",
+    "Aqli norasolik jinoyat sodir etgunga qadar o'rnatiladi. Remissiya holatida aqli raso deb topiladi.",
+    "Tibbiy yo'sindagi majburlov choralarining turlari: dispanser kuzatuvida bo'lish, umumiy kuzatuv bo'limida davolanish, maxsus reabilitatsiya bo'limida davolanish, kuzatuv kuchaytirilgan shifoxonada davolanish."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4516833",
+      "matn": "Jinoyat sodir etish vaqtida oʻz harakatlarining (harakatsizligining) ijtimoiy xavfli xususiyatini anglagan va ularni boshqara olgan shaxs aqli raso shaxsdir.",
+      "sharh": [
+        "Aqli raso shaxs jinoyat sodir etish vaqtida o'z harakatlarining ijtimoiy xavfliligini anglaydi va ularni boshqara oladi.",
+        "Aqli rasolik shaxsning rivojlanish bosqichidagi qobiliyati, ijtimoiylashuvidan kelib chiquvchi, yoshidagi va ruhiy jihatdan sog'lig'i bilan belgilanadi.",
+        "Aqli raso shaxs o'z qilmishining faktik tomonini va o'z irodasini ongli boshqarish qobiliyatiga ega."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-4516834",
+      "matn": "Ijtimoiy xavfli qilmishni sodir etish vaqtida aqli noraso holatda boʻlgan, yaʼni ruhiy holati surunkali yoki vaqtincha buzilganligi, aqli zaifligi yoxud ruhiy holati boshqacha tarzda buzilganligi sababli oʻz harakatlarining (harakatsizligining) ahamiyatini anglay olmagan yoki ularni boshqara olmagan shaxs javobgarlikka tortilmaydi.",
+      "sharh": [
+        "Aqli noraso shaxs jinoyat sodir etish vaqtida o'z harakatlarining ahamiyatini anglay olmagan yoki ularni boshqara olmagan.",
+        "Aqli norasolikda ruhiyatning kasallik jarayonlari tufayli miyaning qabul qilish funksiyasi buziladi.",
+        "Jinoyat sodir etgan shaxs nafaqat ruhiy holati buzilgan, balki bundan oldin ham ruhiy buzilish holatida bo'lgan bo'lishi kerak."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-4516835",
+      "matn": "Aqli norasolik holatida ijtimoiy xavfli qilmish sodir etgan shaxsga nisbatan sud tomonidan tibbiy yoʻsindagi majburlov choralari tayinlanishi mumkin.",
+      "sharh": [
+        "Tibbiy yo'sindagi majburlov choralarining turlari: dispanser kuzatuvida bo'lish va davolanish, umumiy kuzatuv bo'limida davolanish, maxsus reabilitatsiya bo'limida davolanish.",
+        "Kuzatuv kuchaytirilgan ruhiy kasalliklar shifoxonasida va jazoni ijro etish muassasalarida ham majburiy davolanish qo'llaniladi.",
+        "Tibbiy tadbirlar sudlanganlikni bildirmaydi. Psixiatrik davolanishdagi shaxslar amnistiyaga tushmaydi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "n": 178,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-265450",
+  "sarlavha": "178-modda. Chet el valyutasini yashirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-265454",
+      "matn": "Korxonalar, muassasalar yoki tashkilotlarda valyuta operatsiyalarini amalga oshiruvchi xodimlar tomonidan Oʻzbekiston Respublikasining vakolat berilgan banklari hisobiga oʻtkazilishi lozim boʻlgan chet el valyutasining qasddan yashirib qolinishi — bazaviy hisoblash miqdorining yetmish besh baravaridan yuz baravarigacha miqdorda jarima yoki uch yildan besh yilgacha muayyan huquqdan mahrum qilish yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-265461",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-265463",
+          "matn": "gʻarazgoʻylik bilan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-265464",
+          "matn": "takroran;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-265466",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-312470",
+      "matn": "Oʻsha qilmish uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — sakkiz yildan oʻn ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-3094846",
+      "matn": "Ushbu moddaning birinchi qismida, ikkinchi qismining \"a\" va \"v\" bandlarida nazarda tutilgan jinoyatni birinchi marta sodir etgan shaxs, agar u jinoyat aniqlangan kundan eʼtiboran oʻttiz kunlik muddatda yashirilgan chet el valyutasini Oʻzbekiston Respublikasining vakolat berilgan banklari hisobiga ixtiyoriy ravishda oʻtkazilishini taʼminlagan boʻlsa, javobgarlikdan ozod etiladi."
+    }
+  ],
+  "sharh": {
+    "qism_1": [
+      "178-modda — chet el valyutasini yashirish.",
+      "Korxona, muassasa yoki tashkilotlarda valyuta operatsiyalarini amalga oshiruvchi xodimlar tomonidan vakolatli banklarga o'tkazilishi lozim bo'lgan chet el valyutasini qasddan yashirib qo'yish.",
+      "Obyekti: iqtisodiy resurslarni shakllantirish tartibi.",
+      "Predmeti: vakolatli banklar hisobvarag'iga o'tkazilishi kerak bo'lgan chet el valyutasi.",
+      "Obyektiv tomondan: valyutani yashirish (harakat yoki harakatsizlik).",
+      "Yashirish — bankga o'tkazmaslik, kechiktirish, to'liq o'tkazmaslik.",
+      "Jinoyat yashirilgan paytdan tugallangan.",
+      "Subyektiv tomondan to'g'ri qasd bilan.",
+      "Subyekt — 16 yoshga to'lgan, valyuta operatsiyalarini amalga oshiruvchi shaxs.",
+      "Jazo — 75-100 BHM jarima yoki 3-5 yil MH yoki 5 yil OM."
+    ],
+    "qism_2": [
+      "a) g'arazgo'ylik bilan;",
+      "b) takroran;",
+      "v) bir guruh shaxslar tomonidan oldindan til biriktirib.",
+      "Jazo — 5-8 yil OM."
+    ],
+    "qism_3": [
+      "Uyushgan guruh tomonidan yoki uning manfaatlarini ko'zlab sodir etilgan bo'lsa.",
+      "Jazo — 8-12 yil OM."
+    ]
+  }
+}

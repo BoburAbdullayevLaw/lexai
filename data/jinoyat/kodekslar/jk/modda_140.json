@@ -1,0 +1,52 @@
+{
+  "n": 140,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-262273",
+  "sarlavha": "140-modda. Haqorat qilish",
+  "umumiy_sharh": [
+    "Jinoyat obyekti shaxsning sha'ni va qadr-qimmati.",
+    "Obyektiv tomondan jinoyat shaxsning sha'ni va qadr-qimmatini beodoblik bilan qasddan tahqirlashdan iborat.",
+    "Shaxsning sha'ni va qadr-qimmatini beodoblik bilan qasddan tahqirlash jabrlanuvchiga nisbatan sodir etilgan har xil harakatlarda, masalan, uyat gaplar bilan so'kish, turli haqoratli so'z va iboralarni yozish, betga tupurish, tan a'zolari bilan axloqsiz harakatlar yoki imo-ishoralar qilish va hokazolarda ifodalanadi.",
+    "Jinoyat tarkibi mavjud bo'lishi uchun shaxsning sha'ni va qadr-qimmatini tahqirlash uyatsiz shaklda ifodalangan bo'lishi zarur.",
+    "Shaxsning sha'ni va qadr-qimmatini tahqirlashga qaratilgan uyatsiz harakatlarni sodir etish vaqtidan boshlab jinoyat tugallangan deb topiladi.",
+    "Haqorat qilish shaxsning sog'lig'iga zarar yetkazish bilan bog'liq bo'lgan holatlarda sodir etilganda aybdorning harakatlari jinoyatlar majmui bo'yicha kvalifikatsiya qilinadi.",
+    "Nashr qilish yoki boshqacha usulda ko'paytirilgan matnda yoki ommaviy axborot vositalari orqali haqorat qilish JK 140-moddasining 2-qismi bo'yicha jinoiy jazoga tortiladi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyat subyekti 16 yoshga to'lgan shaxs hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-262275",
+      "matn": "Haqorat qilish, yaʼni shaxsning shaʼni va qadr-qimmatini beodoblik bilan qasddan tahqirlash, basharti, shunday harakatlar uchun maʼmuriy jazo qoʻllanilgandan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ikki yuz baravarigacha miqdorda jarima yoki ikki yuz qirq soatgacha majburiy jamoat ishlari yoxud bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-5190975",
+      "matn": "Nashr qilish yoki boshqacha usulda koʻpaytirilgan tarzda, shu jumladan ommaviy axborot vositalarida, telekommunikatsiya tarmoqlarida yoki Internet jahon axborot tarmogʻida joylashtirish orqali haqorat qilish — bazaviy hisoblash miqdorining ikki yuz baravaridan toʻrt yuz baravarigacha miqdorda jarima yoki ikki yuz qirq soatdan uch yuz soatgacha majburiy jamoat ishlari yoxud bir yildan ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-262290",
+      "matn": "Haqorat qilish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-262291",
+          "matn": "jabrlanuvchini oʻz xizmat yoki fuqarolik burchini bajarishi munosabati bilan bogʻliq holda;",
+          "sharh": [
+            "Haqorat qilish jabrlanuvchining o'z xizmat yoki fuqarolik burchini bajarishi bilan bog'liq bo'lsa, JK 140-moddasi 3-qismining «a» bandi bo'yicha kvalifikatsiya qilinadi."
+          ]
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-262294",
+          "matn": "xavfli retsidivist tomonidan yoki tuhmat qilganligi uchun ilgari sudlangan shaxs tomonidan qilingan boʻlsa, — bazaviy hisoblash miqdorining toʻrt yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoxud bir yilgacha ozodlikni cheklash bilan jazolanadi.",
+          "sharh": [
+            "Haqorat qilish xavfli retsidivist, ya'ni ilgari haqorat uchun sudlangan shaxs tomonidan sodir etilganda, shuningdek ilgari tuhmat uchun sudlangan shaxs tomonidan qilingan haqorat JK 140-moddasi 3-qismi «b» bandi bo'yicha kvalifikatsiya qilinishi kerak."
+          ]
+        }
+      ]
+    }
+  ]
+}

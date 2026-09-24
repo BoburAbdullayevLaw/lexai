@@ -1,0 +1,48 @@
+{
+  "n": "6",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5380860",
+  "sarlavha": "6-modda. Normativ-huquqiy hujjatlarning turlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5380862",
+      "matn": "Normativ-huquqiy hujjatlarning turlari quyidagilardan iborat:"
+    },
+    {
+      "q": 2,
+      "id": "-5380863",
+      "matn": "Oʻzbekiston Respublikasining Konstitutsiyasi;"
+    },
+    {
+      "q": 3,
+      "id": "-5380865",
+      "matn": "Oʻzbekiston Respublikasining qonunlari;"
+    },
+    {
+      "q": 4,
+      "id": "-5380867",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qarorlari;"
+    },
+    {
+      "q": 5,
+      "id": "-5380869",
+      "matn": "Oʻzbekiston Respublikasi Prezidentining farmonlari va qarorlari;"
+    },
+    {
+      "q": 6,
+      "id": "-5380871",
+      "matn": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari;"
+    },
+    {
+      "q": 7,
+      "id": "-6687749",
+      "matn": "vazirliklar va idoralarning buyruqlari hamda qarorlari;"
+    },
+    {
+      "q": 8,
+      "id": "-5380875",
+      "matn": "mahalliy davlat hokimiyati organlarining qarorlari."
+    }
+  ]
+}

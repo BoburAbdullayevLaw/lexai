@@ -1,0 +1,37 @@
+﻿{
+  "n": 455,
+  "sarlavha_id": "-256504",
+  "sarlavha": "455-modda. Hukmning qonuniy, asosli va adolatli boʻlishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256505",
+      "matn": "Hukm qonuniy, asosli va adolatli boʻlishi shart."
+    },
+    {
+      "q": 2,
+      "id": "-256506",
+      "matn": "Hukm qonunning barcha talablariga amal qilingan holda va qonun asosida chiqarilgan boʻlsa, qonuniy deb eʼtirof etiladi."
+    },
+    {
+      "q": 3,
+      "id": "-256507",
+      "matn": "Hukm ishning haqiqiy holatlari unda kerakligicha toʻla va yuz berganiga haqiqatan monand tarzda aniqlangan boʻlsa, asosli deb eʼtirof etiladi."
+    },
+    {
+      "q": 4,
+      "id": "-256508",
+      "matn": "Hukm aybdorga nisbatan jazo yoki boshqa taʼsir chorasi u sodir etgan jinoyatning ijtimoiy xavflilik darajasi va uning shaxsi eʼtiborga olinib tayinlangan boʻlsa, aybsiz shaxs esa oqlangan va reabilitatsiya etilgan boʻlsa, adolatli deb eʼtirof etiladi."
+    },
+    {
+      "q": 5,
+      "id": "-256509",
+      "matn": "Sud hukmni faqat sud muhokamasida tekshirilgan dalillar bilan asoslaydi."
+    },
+    {
+      "q": 6,
+      "id": "-256510",
+      "matn": "Sudning hukmda ifodalangan barcha xulosalari asoslantirilgan boʻlishi lozim."
+    }
+  ]
+}

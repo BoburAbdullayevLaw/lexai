@@ -1,0 +1,45 @@
+{
+  "n": 26,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179934",
+  "sarlavha": "26-modda. Jinoyat sodir etishdan ixtiyoriy qaytish",
+  "umumiy_sharh": [
+    "Jinoyat sodir etishdan ixtiyoriy qaytish — jinoyatga tayyorgarlik ko'rish yoki jinoyatni bevosita sodir etish bosqichida shaxsning o'z jinoiy faoliyatini ixtiyoriy va uzil-kesil to'xtatishi. Uning asosiy huquqiy oqibati jinoiy javobgarlikni to'la istisno qilishidir.",
+    "Ixtiyoriy qaytishning ikki asosiy alomati: ixtiyoriylik (shaxsning erkin xohishi bilan) va qat'iylik (vaqtincha emas, butunlay to'xtatish). Motiv qanday bo'lmasin, shaxs o'z xohishi bilan qaytgan bo'lsa, javobgarlikka tortilmaydi.",
+    "Ixtiyoriy qaytishning shartlari: shaxs jinoyatni oxiriga yetkazish imkoni borligini anglashi va jinoiy oqibat kelib chiqishini anglagan holda uning oldini olishi.",
+    "Ixtiyoriy qaytish faqat tamom bo'lmagan jinoyatda (tayyorgarlik yoki suiqasd bosqichida) bo'lishi mumkin.",
+    "Jinoyatga tayyorgarlik ko'rish bosqichida ixtiyoriy qaytish odatda passiv, suiqasd bosqichida esa faol harakatlar orqali amalga oshiriladi.",
+    "Chin ko'ngildan pushaymon bo'lish ixtiyoriy qaytishdan farqli: pushaymonlik faqat aktiv harakat orqali (zararni bartaraf etish, aybni bo'yniga olish), qaytish esa passiv yoki aktiv shaklda bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179935",
+      "matn": "Shaxs jinoyatga tayyorgarlik koʻrish harakatlarini yoki jinoyat sodir etishga bevosita qaratilgan harakatlarni oxiriga yetkazish mumkinligini anglagan holda toʻxtatsa, shuningdek jinoiy oqibat kelib chiqishi mumkinligini anglagan holda, shunday oqibat kelib chiqishining oldini olsa, jinoyat sodir etishdan ixtiyoriy qaytish deb topiladi.",
+      "sharh": [
+        "Tayyorgarlik bosqichida ixtiyoriy qaytish, odatda, passiv harakat orqali amalga oshiriladi. Ammo shaxs faol harakatlar qilishi ham mumkin - tayyorlangan qurollarni yo'q qilish, hokimiyat organlariga xabar berish.",
+        "Suiqasd bosqichida jinoyat sodir etishdan ixtiyoriy qaytish doim ham bo'lavermaydi. Nafaqat harakatlarni to'xtatish, balki jinoiy oqibatlar kelib chiqishining oldini faol olish ham talab qilinadi.",
+        "Tamom bo'lgan suiqasdda ixtiyoriy qaytish bo'lishi mumkin emas, chunki subyekt jinoyat harakatlarini to'xtatish yo'li bilan oqibatni to'xtata olmaydi.",
+        "Shaxs o'zi boshlagan jinoyatni oxiriga yetkazish imkoniyatini istisno qiluvchi o'tib bo'lmagan to'siq mavjud deb qarashi, bu ixtiyoriy qaytish emas, majburiy qaytish ekanligini ko'rsatadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179936",
+      "matn": "Jinoyat sodir etishdan ixtiyoriy qaytish javobgarlikni istisno qiladi.",
+      "sharh": [
+        "Jinoyat sodir etishdan ixtiyoriy qaytish shaxs sodir etishga harakat qilgan yoki unga tayyorgarlik ko'rgan jinoyat uchun javobgarlikni to'la istisno qiladi.",
+        "Ixtiyoriy qaytish, jinoyatga tayyorgarlik ko'rish va jinoyat sodir etishga suiqasd qilish bosqichida, ya'ni jinoiy oqibat yuz berishdan oldin bo'lishi kerak."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-179937",
+      "matn": "Jinoyatni oxiriga yetkazishdan ixtiyoriy qaytgan shaxs, agar amalda sodir etgan qilmishida boshqa jinoyat tarkibining barcha alomatlari boʻlsa, ushbu Kodeks boʻyicha javobgarlikka tortiladi.",
+      "sharh": [
+        "Ixtiyoriy qaytish faqat tamom bo'lmagan jinoyat uchun javobgarlikni istisno qiladi. Agar shaxsning harakatlarida boshqa tamom bo'lgan jinoyat tarkibi mavjud bo'lsa, u javobgarlikka tortiladi.",
+        "Masalan, odam o'ldirish uchun zaharli moddani o'g'irlagan shaxs ixtiyoriy qaytgan bo'lsa, o'ldirish uchun javobgar emas, lekin o'g'irlik uchun javobgar bo'ladi."
+      ]
+    }
+  ]
+}

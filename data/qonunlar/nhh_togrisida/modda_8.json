@@ -1,0 +1,23 @@
+{
+  "n": "8",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5380887",
+  "sarlavha": "8-modda. Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarining ustuvorligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5380888",
+      "matn": "Oʻzbekiston Respublikasida Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarining soʻzsiz ustuvorligi tan olinadi."
+    },
+    {
+      "q": 2,
+      "id": "-8339735",
+      "matn": "Oʻzbekiston Respublikasi Konstitutsiyasi mamlakatning butun hududida oliy yuridik kuchga ega, toʻgʻridan-toʻgʻri amal qiladi va yagona huquqiy makonning asosini tashkil etadi. Alohida hududlarda Oʻzbekiston Respublikasining Konstitutsiyaviy Qonuni bilan yagona huquqiy makon doirasida maxsus huquqiy rejim oʻrnatilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-5380891",
+      "matn": "Oʻzbekiston Respublikasining qonunlari va boshqa normativ-huquqiy hujjatlar Oʻzbekiston Respublikasining Konstitutsiyasi asosida va uni ijro etish uchun qabul qilinadi hamda uning normalari va prinsiplariga zid boʻlishi mumkin emas."
+    }
+  ]
+}

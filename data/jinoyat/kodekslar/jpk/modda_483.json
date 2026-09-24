@@ -1,0 +1,64 @@
+﻿{
+  "n": 483,
+  "sarlavha_id": "-6626349",
+  "sarlavha": "483-modda. Jinoyat ishini apellyatsiya, kassatsiya, taftish tartibida koʻrish doirasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626351",
+      "matn": "Sud jinoyat ishini apellyatsiya, kassatsiya, taftish tartibida koʻrishda shikoyat yoki protest vajlari bilan chegaralanmaydi va ishni barcha mahkumlarga, shu jumladan tegishli shikoyatni bermagan shaxslarga yoki oʻziga nisbatan shikoyat (protest) berilmagan mahkumlarga nisbatan ham toʻla hajmda tekshiradi."
+    },
+    {
+      "q": 2,
+      "id": "-6626353",
+      "matn": "Jinoyat ishini apellyatsiya, kassatsiya yoki taftish tartibida koʻrib chiqayotgan sud qaror qabul qilish chogʻida quyi instansiya sudlari tomonidan tekshirilgan dalillarni ham, ishni koʻrishda apellyatsiya, kassatsiya instansiyasi yoki tegishli taftish instansiyasi sudiga taraflar tomonidan taqdim etilgan yoki ular tomonidan talab qilib olingan va tekshirilgan, eʼtiborga olinadigan yangi dalillarni ham tekshiradi."
+    },
+    {
+      "q": 3,
+      "id": "-6626355",
+      "matn": "Agar quyi instansiya sudi tomonidan sud tergovining toʻliq emasligiga yoki bir yoqlamaliligiga yoki protsessual buzilishlarga yoʻl qoʻyilgan boʻlsa, apellyatsiya, kassatsiya yoxud taftish tartibida jinoyat ishini koʻrib chiqayotgan sud toʻliq yoki qisman sud tergovini oʻtkazish yoʻli bilan boʻshliqlarning oʻrnini toʻldirish, protsessual buzilishlarni bartaraf etish choralarini koʻradi. Ishni apellyatsiya, kassatsiya yoxud taftish tartibida koʻrib chiqayotgan sud shu maqsadda:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626356",
+          "matn": "ishni hal qilish uchun ahamiyatga ega boʻlgan hujjatlarni taraflarning iltimosnomasiga koʻra talab qilib olishga;"
+        },
+        {
+          "b": 2,
+          "id": "-6626358",
+          "matn": "zarur sud ekspertizasini tayinlashga;"
+        },
+        {
+          "b": 3,
+          "id": "-6626361",
+          "matn": "sud majlisiga qoʻshimcha guvohlarni, ekspertlarni, mutaxassislarni chaqirishga va soʻroq qilishga, taraflar tomonidan taqdim etilgan yoki ularning iltimosiga koʻra sud tomonidan talab qilib olingan yozma, ashyoviy va boshqa dalillarni tekshirishga;"
+        },
+        {
+          "b": 4,
+          "id": "-6626362",
+          "matn": "quyi instansiya sudi tomonidan tekshirilgan dalillarni maqbul emas deb topishga va ularni dalillar majmuidan chiqarib tashlashga;"
+        },
+        {
+          "b": 5,
+          "id": "-6626364",
+          "matn": "quyi instansiya sudi tomonidan maqbul emas deb topilganligi uchun dalillar majmuidan chiqarib tashlangan dalillarni maqbul dalillar deb topishga va ularni tekshirishga;"
+        },
+        {
+          "b": 6,
+          "id": "-6626365",
+          "matn": "fuqaroviy daʼvoga taalluqli boʻlgan holatlarni tekshirishga va fuqaroviy daʼvo boʻyicha qaror qabul qilishga;"
+        },
+        {
+          "b": 7,
+          "id": "-6626367",
+          "matn": "ishning barcha materiallari toʻliq, har tomonlama va xolisona tekshirilishini taʼminlash uchun zarur boʻlgan boshqa harakatlarni bajarishga haqli."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-6626368",
+      "matn": "Jinoyat ishi boʻyicha bir necha shaxs hukm qilingan yoki oqlangan taqdirda, apellyatsiya, kassatsiya yoki taftish instansiyasi sudi oʻziga nisbatan shikoyat (protest) berilmagan mahkumlarga yoki oqlangan shaxslarga taalluqli hukmni, ajrimni bekor qilishga, agar hukmning, ajrimning bekor qilinishi ularning ahvolini ogʻirlashtirsa, haqli emas."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+  "n": 86,
+  "sarlavha_id": "-253792",
+  "sarlavha": "86-modda. Isbot qilish ishtirokchilari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253795",
+      "matn": "Isbot qilishni surishtiruvchi, tergovchi, prokuror, sud amalga oshiradi."
+    },
+    {
+      "q": 2,
+      "id": "-253796",
+      "matn": "Isbot qilishda gumon qilinuvchi, ayblanuvchi, sudlanuvchi, himoyachi, jamoat ayblovchisi, jamoat himoyachisi, shuningdek jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari ishtirok etish huquqiga egadirlar."
+    },
+    {
+      "q": 3,
+      "id": "-253797",
+      "matn": "Isbot qilishda ishtirok etishga guvohlar, ekspertlar, mutaxassislar, tarjimonlar, xolislar, shuningdek boshqa fuqarolar va mansabdor shaxslar jalb etiladi. Ular ushbu Kodeksda belgilangan tartibda dalillarni toʻplash, tekshirish va baholash bilan bogʻliq huquqlarni amalga oshiradilar hamda majburiyatlarni bajaradilar."
+    }
+  ]
+}

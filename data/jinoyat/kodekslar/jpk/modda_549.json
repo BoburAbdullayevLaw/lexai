@@ -1,0 +1,22 @@
+﻿{
+  "n": 549,
+  "sarlavha_id": "-257107",
+  "sarlavha": "549-modda. Voyaga yetmaganning qonuniy vakili ishda qatnashishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-257109",
+      "matn": "Voyaga yetmaganning jinoyatlari haqidagi ishni yuritishda qonuniy vakilning qatnashishi shart."
+    },
+    {
+      "q": 2,
+      "id": "-257110",
+      "matn": "Qonuniy vakilning ishda ishtirok etishiga surishtiruvchi yoki tergovchining qarori boʻyicha voyaga yetmagan shaxsni gumon qilinuvchi yoki ayblanuvchi tariqasida birinchi soʻroq qilish paytidan boshlab yoʻl qoʻyiladi. Qonuniy vakilning ishda ishtirok etishiga yoʻl qoʻyilganda unga ushbu Kodeksning 61-moddasida nazarda tutilgan huquqlar tushuntiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-257111",
+      "matn": "Qonuniy vakil oʻz harakati bilan voyaga yetmagan shaxsning manfaatiga zarar yetkazadi deb hisoblash uchun asos boʻlsa, surishtiruvchining, tergovchining qarori yoki sudning ajrimi bilan voyaga yetmaganning qonuniy vakili ishda qatnashishdan chetlashtirilishi mumkin. Bunday holda voyaga yetmagan shaxsning manfaatlarini himoya qilish boshqa qonuniy vakilga yoki vasiylik va homiylik organining vakiliga topshiriladi."
+    }
+  ]
+}

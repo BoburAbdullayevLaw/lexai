@@ -1,0 +1,23 @@
+{
+  "n": "42",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445578",
+  "sarlavha": "42-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445579",
+      "matn": "Har kim munosib mehnat qilish, kasb va faoliyat turini erkin tanlash, xavfsizlik va gigiyena talablariga javob beradigan qulay mehnat sharoitlarida ishlash, mehnati uchun hech qanday kamsitishlarsiz hamda mehnatga haq toʻlashning belgilangan eng kam miqdoridan kam boʻlmagan tarzda adolatli haq olish, shuningdek ishsizlikdan qonunda belgilangan tartibda himoyalanish huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445581",
+      "matn": "Mehnatga haq toʻlashning eng kam miqdori insonning munosib turmush darajasini taʼminlash zarurati hisobga olingan holda belgilanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6445582",
+      "matn": "Homiladorligi yoki bolasi borligi sababli ayollarni ishga qabul qilishni rad etish, ishdan boʻshatish va ularning ish haqini kamaytirish taqiqlanadi."
+    }
+  ]
+}

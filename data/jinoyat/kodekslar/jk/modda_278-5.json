@@ -1,0 +1,43 @@
+{
+  "n": "278-5",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1300326",
+  "sarlavha": "278\u2075-modda. Kompyuter sabotaji",
+  "umumiy_sharh": [
+    "Mazkur jinoyatning bevosita obyekti kompyuter axboroti yoki dasturlarning, shuningdek, kompyuter uskunasining butligini ta'minlashga doir ijtimoiy munosabatlar.",
+    "Kompyuter sabotaji deb, kompyuter uskunasi yoki kompyuter tizimining ishiga ularning normal faoliyat ko'rsatishiga xalaqit berish niyatida aralashishni e'tirof etish mumkin.",
+    "Kompyuter uskunasi axborotni o'zgartirish va saqlash uchun mo'ljallangan uskuna. Bu turdagi uskunaga aloqa tizimlari, o'lchash va boshqarish vositalari, hisoblash texnikasi vositalari, tashkiliy texnika vositalari, axborotni vizual va akustik aks ettirish vositalari kiradi.",
+    "Kompyuter uskunasini ishdan chiqarish kompyuter tizimi, tarmog'i, EHM tarkibidagi ayrim elementlarni ularning vazifasiga muvofiq ishlab turishini jiddiy qiyinlashtiruvchi tarzda yaroqsiz holatga keltirishni anglatadi.",
+    "Kompyuter tizimini buzish deganda, tizimning barcha apparat komponentlari yoki ularning ayrimlari yo'q qilib yuborilishi natijasida bu tizim o'z faoliyatini to'xtatishi tushunilishi lozim.",
+    "Jinoyat o'zganing kompyuter uskunasini yoki xizmatda foydalaniladigan kompyuter uskunasini qasddan ishdan chiqargan yoxud kompyuter tizimini buzgan vaqtdan e'tiboran tugallangan deb e'tirof etiladi.",
+    "Subyektiv tomondan to'g'ri qasd bilan sodir etilishi mumkin. Aybdor kompyuter uskunasini ishdan chiqarish yoxud kompyuter tizimini buzishga qaratilgan harakatlarni bajarayotganini anglaydi va buni istaydi.",
+    "Kompyuter sabotaji apparat uskunalari yordamidagi (ma'lumotlarni kiritish, o'zgartirish, o'chirish, bostirish) va dasturiy ta'minot yordamidagi (huquqsiz ma'lumotlarni o'chirish, shikastlash, buzish) bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1300333",
+      "matn": "Oʻzganing kompyuter uskunasini yoki xizmatda foydalaniladigan kompyuter uskunasini qasddan ishdan chiqarish, xuddi shuningdek kompyuter tizimini buzish (kompyuter sabotaji) — uch yilgacha muayyan huquqdan mahrum qilib, bazaviy hisoblash miqdorining uch yuz baravaridan toʻrt yuz baravarigacha miqdorda jarima yoki ikki yilgacha ozodlikni cheklash yoxud ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1300339",
+      "matn": "Oʻsha harakatlar:",
+      "sharh": [
+        "2-qismda bir guruh shaxslar tomonidan oldindan til biriktirib, takroran yoki xavfli retsidivist tomonidan sodir etilganda og'irroq javobgarlik nazarda tutilgan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1300341",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1300343",
+          "matn": "takroran yoki xavfli retsidivist tomonidan sodir etilgan boʻlsa, — ikki yildan uch yilgacha axloq tuzatish ishlari yoki ikki yildan uch yilgacha ozodlikni cheklash yoxud ikki yildan uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

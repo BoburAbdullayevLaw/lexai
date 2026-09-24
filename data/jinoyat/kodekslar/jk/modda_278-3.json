@@ -1,0 +1,60 @@
+{
+  "n": "278-3",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-4021793",
+  "sarlavha": "278\u00b3-modda. Kompyuter tizimidan, shuningdek telekommunikatsiya tarmoqlaridan qonunga xilof ravishda (ruxsatsiz) foydalanish uchun maxsus vositalarni o\u02bbtkazish maqsadini ko\u02bbzlab tayyorlash yoxud o\u02bbtkazish va tarqatish",
+  "umumiy_sharh": [
+    "Mazkur jinoyatning bevosita obyekti kompyuter axborotining xavfsizligini va EHM, EHM tizimi yoki ularning tarmoqlari normal ishlashini ta'minlashga doir ijtimoiy munosabatlardir.",
+    "Jinoyatning predmeti himoyalangan kompyuter tizimidan, shuningdek telekommunikatsiya tarmoqlaridan qonunga xilof ravishda (ruxsatsiz) foydalanish uchun maxsus dasturiy yoki apparat vositalari.",
+    "Dasturiy vosita bu axborotga ishlov berish tizimining faoliyat ko'rsatishiga taalluqli bo'lgan dasturlar, taomillar, qoidalardan, shuningdek, ularga yo'ldosh hujjatlar va ma'lumotlardan tarkib topgan obyekt.",
+    "Maxsus dasturiy vositalar asosan, axborotdan ruxsatsiz foydalanish, nusxa ko'chirish, uni o'g'irlash yoki modifikatsiyalashtirishdan muhofaza qiluvchi tizimni buzib kirish uchun mo'ljallangan dasturlardan iborat.",
+    "Apparat vositalari ma'lumotlarga ishlov berish uchun qo'llaniladigan texnika vositalari. Ularga shaxsiy kompyuter, periferiya qurilmasi va mashina axborotining moddiy manbalari kiradi.",
+    "Maxsus apparat vositalari deganda, axborotdan ruxsatsiz foydalanish, nusxa ko'chirish, uni o'g'irlash yoki modifikatsiyalashtirishdan muhofaza qiluvchi tizimni buzib kirish uchun mo'ljallangan mexanik, elektromexanik, elektron, optik, lazer, radio, radiotexnik, radiolokatsion va boshqa qurilmalar tushuniladi.",
+    "Himoyalangan kompyuter tizimi bu ma'lum bir operatsion sharoitlarda, o'ta muhim ma'lumotlarni o'z ichiga olgan axborot makonining bir qismining maxfiyligi, yaxlitligi va foydalana olishini ta'minlaydigan tizim.",
+    "Telekommunikatsiya tarmog'i bu ma'lumot uzatishning bir yoki bir nechta turini telefon, telegraf, faks orqali uzatilishini ta'minlovchi telekommunikatsiya vositalarining birikmasi.",
+    "Obyektiv tomondan himoyalangan kompyuter tizimidan va telekommunikatsiya tarmoqlaridan qonunga xilof ravishda (ruxsatsiz) foydalanish uchun maxsus vositalarni o'tkazish maqsadini ko'zlab tayyorlash yoxud o'tkazish va tarqatishda aks etadi.",
+    "Tayyorlash deganda, bu vositalarni yaratishga qaratilgan har qanday harakatlarning amalga oshirilishi tushuniladi. Dasturiy vositalarni tayyorlash – kompyuter dasturlarini yaratish, apparat vositalarini tayyorlash – turli texnik tizimlar, asboblar, qurilmalarni yaratishdan iborat.",
+    "O'tkazish deganda, maxsus vositalarni nomuayyan doiradagi shaxslar foydasiga (sotish, hadya qilish, ijaraga berish, qarzga berish yo'li bilan) begonalashtirishning har qanday shakli tushuniladi.",
+    "Tarqatish deganda, nomuayyan doiradagi shaxslarga maxsus dasturiy vositalardan foydalanish imkoniyatini qo'lga kiritishi uchun sharoit yaratish tushuniladi.",
+    "Jinoyat maxsus vositalarning hech bo'lmasa bitta nusxasi tayyorlangan paytdan yoki bunday vositalardan hech bo'lmasa bittasi o'tkazilgan yoki tarqatilgan paytdan e'tiboran tugallangan hisoblanadi.",
+    "Subyektiv tomondan faqat to'g'ri qasd bilan sodir etilishi mumkin. Aybdor o'zi maxsus vositalarni qonunga xilof foydalanish uchun ularni o'tkazish maqsadini ko'zlab tayyorlayotganini anglaydi.",
+    "Subyekti 16 yoshga to'lgan har qanday aqli raso jismoniy shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4021800",
+      "matn": "Himoyalangan kompyuter tizimidan, shuningdek telekommunikatsiya tarmoqlaridan qonunga xilof ravishda (ruxsatsiz) foydalanish uchun maxsus dasturiy yoki apparat vositalarini o\u02bbtkazish maqsadini ko\u02bbzlab tayyorlash yoxud o\u02bbtkazish va tarqatish \u2014 bazaviy hisoblash miqdorining ikki yuz baravarigacha miqdorda jarima yoki bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1300062",
+      "matn": "O\u02bbsha harakatlar:",
+      "sharh": [
+        "2-qismda bir guruh shaxslar tomonidan oldindan til biriktirib, takroran yoki xavfli retsidivist tomonidan, xizmat mavqeyidan foydalangan holda, uyushgan guruh tomonidan yoki uning manfaatlarini ko'zlab sodir etilganda og'irroq javobgarlik nazarda tutilgan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1300064",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1300065",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-1300066",
+          "matn": "xizmat mavqeyidan foydalangan holda;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-1300067",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini ko\u02bbzlab sodir etilgan bo\u02bblsa, \u2014 bazaviy hisoblash miqdorining ikki yuz baravaridan uch yuz baravarigacha miqdorda jarima yoki bir yildan uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

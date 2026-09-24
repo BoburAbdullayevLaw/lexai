@@ -1,0 +1,33 @@
+{
+  "n": "15",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445243",
+  "sarlavha": "15-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445244",
+      "matn": "Oʻzbekiston Respublikasida Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarining ustunligi soʻzsiz tan olinadi."
+    },
+    {
+      "q": 2,
+      "id": "-6445245",
+      "matn": "Oʻzbekiston Respublikasi Konstitutsiyasi mamlakatning butun hududida oliy yuridik kuchga ega, toʻgʻridan-toʻgʻri amal qiladi va yagona huquqiy makonning asosini tashkil etadi."
+    },
+    {
+      "q": 3,
+      "id": "-6445246",
+      "matn": "Oʻzbekiston Respublikasining xalqaro shartnomalari xalqaro huquqning umumeʼtirof etilgan prinsip va normalari bilan bir qatorda Oʻzbekiston Respublikasi huquqiy tizimining tarkibiy qismidir."
+    },
+    {
+      "q": 4,
+      "id": "-6445247",
+      "matn": "Agar Oʻzbekiston Respublikasining xalqaro shartnomasida Oʻzbekiston Respublikasining qonunida nazarda tutilganidan boshqacha qoidalar belgilangan boʻlsa, Oʻzbekiston Respublikasining xalqaro shartnomasi qoidalari qoʻllaniladi."
+    },
+    {
+      "q": 5,
+      "id": "-6445248",
+      "matn": "Davlat va uning organlari, boshqa tashkilotlar, mansabdor shaxslar, fuqarolik jamiyati institutlari hamda fuqarolar Konstitutsiya va qonunlarga muvofiq ish yuritadilar."
+    }
+  ]
+}

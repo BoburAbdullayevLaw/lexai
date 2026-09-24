@@ -1,0 +1,22 @@
+﻿{
+  "n": 75,
+  "sarlavha_id": "-253704",
+  "sarlavha": "75-modda. Jabrlanuvchilarga va ularning vakillariga, guvohlarga, ekspertlarga, mutaxassislarga, tarjimonlarga va xolislarga ularning sarf-xarajatlarini toʻlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253705",
+      "matn": "Jabrlanuvchi yoki uning vakili, guvoh, ekspert, mutaxassis, tarjimon yoki xolis sifatida chaqirilgan shaxsning ish joyidagi oʻrtacha oylik maoshi uning surishtiruvchi, tergovchi, prokuror va sud huzuriga chaqirilishi munosabati bilan ketgan hamma vaqt uchun saqlanadi. Ishlamaydigan shaxslarga ular kundalik mashgʻulotlari bilan shugʻullana olmaganliklari uchun haq toʻlanadi. Bundan tashqari koʻrsatilgan hamma shaxslar chaqirilish munosabati bilan qilgan sarf-xarajatlarini undirish huquqiga egadirlar."
+    },
+    {
+      "q": 2,
+      "id": "-253706",
+      "matn": "Ekspert, mutaxassis va tarjimon oʻz majburiyatlarini bajarganliklari uchun haq olish huquqiga ega. Ushbu majburiyatlar xizmat topshirigʻi tarzida bajarilgan hollar bundan mustasno."
+    },
+    {
+      "q": 3,
+      "id": "-253707",
+      "matn": "Sarf-xarajatlar qonunda belgilangan tartibda va miqdorda toʻlanadi."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿{
+  "n": 464,
+  "sarlavha_id": "-256562",
+  "sarlavha": "464-modda. Oqlov hukmini chiqarish asoslari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256563",
+      "matn": "Oqlov hukmi quyidagi hollarda chiqariladi, basharti:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-256564",
+          "matn": "jinoiy hodisa yuz bermagan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-256566",
+          "matn": "sudlanuvchi sodir etgan qilmishda jinoyat tarkibi boʻlmasa;"
+        },
+        {
+          "b": 3,
+          "id": "-256569",
+          "matn": "jinoyat sodir etilishiga sudlanuvchi daxldor boʻlmasa."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-3174399",
+      "matn": "Jinoyat boshqa shaxs tomonidan sodir etilganligi aniqlansa, shuningdek sudlanuvchiga qoʻyilgan ayblov ish holatlari batafsil tekshirilgandan keyin ishonarli tarzda oʻz tasdigʻini topmasa, sud ushbu modda birinchi qismining 3-bandida nazarda tutilgan asosga koʻra sudlanuvchini oqlaydi."
+    }
+  ]
+}

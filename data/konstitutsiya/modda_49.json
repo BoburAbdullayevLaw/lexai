@@ -1,0 +1,33 @@
+{
+  "n": "49",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445608",
+  "sarlavha": "49-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445609",
+      "matn": "Har kim qulay atrof-muhitga, uning holati toʻgʻrisidagi ishonchli axborotga ega boʻlish huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445610",
+      "matn": "Davlat fuqarolarning ekologik huquqlarini taʼminlash va atrof-muhitga zararli taʼsir koʻrsatilishiga yoʻl qoʻymaslik maqsadida shaharsozlik faoliyati sohasida jamoatchilik nazoratini amalga oshirish uchun shart-sharoitlar yaratadi."
+    },
+    {
+      "q": 3,
+      "id": "-6445611",
+      "matn": "Shaharsozlik hujjatlarining loyihalari qonunda belgilangan tartibda jamoatchilik muhokamasidan oʻtkaziladi."
+    },
+    {
+      "q": 4,
+      "id": "-6445612",
+      "matn": "Davlat barqaror rivojlanish prinsipiga muvofiq, atrof-muhitni yaxshilash, tiklash va muhofaza qilish, ekologik muvozanatni saqlash boʻyicha chora-tadbirlarni amalga oshiradi."
+    },
+    {
+      "q": 5,
+      "id": "-6445613",
+      "matn": "Davlat Orolboʻyi mintaqasining ekologik tizimini muhofaza qilish hamda tiklash, mintaqani ijtimoiy va iqtisodiy jihatdan rivojlantirish yuzasidan choralar koʻradi."
+    }
+  ]
+}

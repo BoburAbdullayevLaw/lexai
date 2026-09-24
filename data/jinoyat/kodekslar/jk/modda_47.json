@@ -1,0 +1,50 @@
+{
+  "n": 47,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184591",
+  "sarlavha": "47-modda. Xizmat boʻyicha cheklash",
+  "umumiy_sharh": [
+    "Xizmat boʻyicha cheklash — faqat kontrakt boʻyicha xizmat qilayotgan harbiy xizmatchilarga qo'llaniladigan maxsus jazo turi. Boshqa harbiylarga (chaqiruv, rezerv) qo'llanilmaydi.",
+    "Bu jazo harbiy mansabni ko'tarishni, unvon olishni va xizmat stajiga qo'shishni taqiqlashdan iborat. Pul ta'minotidan 10-30% ushlab qolinadi.",
+    "Jazo faqat Maxsus qism sanksiyasida ko'rsatilgan hollarda asosiy jazo sifatida qo'llaniladi. Ijtimoiy xavfi katta bo'lmagan jinoyat yoki ehtiyotsizlik uchun 3 yilgacha almashtirish mumkin.",
+    "Harbiy xizmatdan bo'shatilganda qolgan muddat boshqa jazo bilan almashtirilishi yoki ozod etilishi kerak."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1563128",
+      "matn": "Xizmat boʻyicha cheklash — harbiy xizmatni kontrakt boʻyicha oʻtayotgan harbiy xizmatchini sud hukmida koʻrsatilgan muddat davomida muayyan huquq va imtiyozlardan mahrum qilib, pul taʼminotining oʻn foizidan oʻttiz foizigacha boʻlgan miqdorini davlat daromadi hisobiga ushlab qolishdan iboratdir.",
+      "sharh": [
+        "Subyekti faqat kontrakt bo'yicha harbiy xizmatchi. Chaqiruv va rezerv xizmatchilariga qo'llanilmaydi.",
+        "Mazmuni: mansab ko'tarilmaydi, unvon olinmaydi, pul ta'minotidan 10-30% ushlab qolinadi.",
+        "Ushlab qolish mansab va harbiy unvonga doir maoshdan hisoblanadi. Boshqa to'lovlar (aliment, da'vo) dan ham ushlab qolinadi.",
+        "Chegirma 10-30% — bu oxirgi chegaradir. Sud mutlaqo oshira olmaydi, kamroq belgilash ham mumkin.",
+        "Sud moddiy ahvolini, boshqa daromadlarini, oila a'zolarini hisobga olishi kerak."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3165804",
+      "matn": "Xizmat boʻyicha cheklash jazo chorasi ushbu Kodeks Maxsus qismining moddasida nazarda tutilgan hollarda ikki oydan uch yilgacha muddatga qoʻllaniladi.",
+      "sharh": [
+        "Muddati: 2 oydan 3 yilgacha. Maxsus qism sanksiyasida ko'rsatilgan hollarda asosiy jazo sifatida qo'llaniladi.",
+        "Ijtimoiy xavfi katta bo'lmagan jinoyat yoki ehtiyotsizlik uchun 3 yilgacha almashtirish mumkin — 15 va 22-moddalar asosida.",
+        "Muddat hukm ijrosi buyrug'i chiqarilgan kundan boshlab hisoblanadi.",
+        "Hukmda muddat ko'rsatilmaganligi jinoyat qonunining buzilishi va hukmning bekor qilinishiga olib keladi.",
+        "Boshqa jinoyat uchun hibsda turgan vaqt jazo muddatiga qo'shilmaydi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-184594",
+      "matn": "Xizmat boʻyicha cheklash tariqasidagi jazoni oʻtash muddati davomida mahkumning mansabini, harbiy yoki maxsus unvonini oshirish mumkin emas, jazoni oʻtagan vaqt esa, uning koʻp yil ishlaganlik, navbatdagi harbiy yoki maxsus unvon hamda pensiya olish uchun asos boʻladigan xizmat muddatiga qoʻshilmaydi.",
+      "sharh": [
+        "Cheklash: mansab ko'tarilmaydi, unvon olinmaydi. Lekin boshqa teng darajadagi mansabga yoki boshqa qismga o'tkazishga yo'l qo'yiladi.",
+        "Jazo muddati ko'p yillik mehnat staji, harbiy unvon, pensiya stajiga qo'shilmaydi.",
+        "Bu cheklash kengaytirib talqin qilinmaydi — qat'iy tavsif.",
+        "Asosiy va qo'shimcha ta'tillar, sanatoriyaga yordam — cheklashga to'sqinlik qilmaydi.",
+        "Harbiy xizmatdan bo'shatilsa, qolgan muddat boshqa jazo bilan almashtiriladi yoki ozod etiladi."
+      ]
+    }
+  ]
+}

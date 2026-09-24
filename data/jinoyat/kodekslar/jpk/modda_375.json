@@ -1,0 +1,32 @@
+﻿{
+  "n": 375,
+  "sarlavha_id": "-255751",
+  "sarlavha": "375-modda. Jinoyat ishi tamomlangandan keyin undagi materiallar bilan tanishib chiqish huquqini taʼminlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255761",
+      "matn": "Tergovchi toʻplangan dalillarni ayblov xulosasini tuzish uchun yetarli deb topganidan keyin ayblanuvchi va himoyachiga dastlabki tergov tamomlanganligini eʼlon qiladi, ularga ishdagi barcha materiallar bilan tanishib chiqishga doir huquqlarini tushuntiradi va tanishib chiqish uchun ishni taqdim etadi."
+    },
+    {
+      "q": 2,
+      "id": "-255762",
+      "matn": "Basharti ish tugatilgan boʻlsa, tergovchi bu haqda va ish materiallari bilan tanishish huquqi haqida gumon qilinuvchini, ayblanuvchini va himoyachini xabardor qiladi hamda ularning iltimosiga binoan ularga tanishib chiqish uchun ishni taqdim etadi."
+    },
+    {
+      "q": 3,
+      "id": "-255763",
+      "matn": "Tergovchi dastlabki tergov tamomlanganligi va ish ayblov xulosasi bilan sudga yuborilishi yoki ish tugatilganligi toʻgʻrisida jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillariga xabar qiladi, basharti ular xohlasalar, barcha ish materiallari bilan tanishib chiqish huquqiga ega ekanliklarini tushuntiradi. Soʻng tergovchi koʻrsatib oʻtilgan protsess ishtirokchilarining iltimosiga muvofiq, tanishib chiqish uchun ularga ishni taqdim etadi."
+    },
+    {
+      "q": 4,
+      "id": "-255764",
+      "matn": "Jabrlanuvchilar, guvohlar, xolislar va protsessning boshqa ishtirokchilari xavfsizligini taʼminlash maqsadida tergov harakatlari bayonnomasining kirish qismlari tanishib chiqish uchun taqdim qilinmasligi mumkin. Bunday hollarda bayonnomalarning koʻrsatib oʻtilgan protsess ishtirokchilari toʻgʻrisidagi maʼlumotlarni oʻz ichiga olgan kirish qismlari muhrlangan holda saqlanadi."
+    },
+    {
+      "q": 5,
+      "id": "-255765",
+      "matn": "Basharti ayblanuvchining himoyachisi yoki jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgarning vakili uzrli sabablarga binoan belgilangan vaqtda ish materiallari bilan tanishib chiqish uchun kela olmasa, tergovchi tanishib chiqish muddatini koʻpi bilan besh sutkaga kechiktirishi mumkin. Himoyachi yoki vakil bu muddat ichida kelmagan taqdirda ayblanuvchiga boshqa himoyachini taklif qilish, jabrlanuvchi, fuqaroviy daʼvogar yoki fuqaroviy javobgarga boshqa vakil chaqirish uchun imkoniyat yaratiladi."
+    }
+  ]
+}

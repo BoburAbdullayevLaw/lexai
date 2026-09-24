@@ -1,0 +1,30 @@
+{
+  "n": "255-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-327114",
+  "sarlavha": "255¹-modda. Bakteriologik, kimyoviy va boshqa xil yalpi qirgʻin qurollari turlarini ishlab chiqish, ishlab chiqarish, toʻplash, olish, birovga oʻtkazish, saqlash, qonunga xilof ravishda egallash va ular bilan boshqa harakatlarni sodir etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-327118",
+      "matn": "Oʻzbekiston Respublikasining xalqaro shartnomalari bilan taqiqlangan bakteriologik (biologik), kimyoviy va boshqa xil yalpi qirgʻin qurollari turlarini ishlab chiqish, ishlab chiqarish, toʻplash, olish, birovga oʻtkazish, saqlash, qonunga xilof ravishda egallash va ular bilan boshqa harakatlarni sodir etish — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-327128",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-327130",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-327133",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — sakkiz yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

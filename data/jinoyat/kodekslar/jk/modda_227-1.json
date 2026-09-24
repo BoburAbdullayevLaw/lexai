@@ -1,0 +1,43 @@
+{
+  "n": "227-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-7398489",
+  "sarlavha": "227¹-modda. Avtomototransport vositalarining va ular tirkamalarining (yarim tirkamalarining) davlat raqam belgilarini yoki identifikatsiya raqamlarini qonunga xilof ravishda tayyorlash, oʻtkazish yoki ulardan foydalanish, shuningdek ularni qalbakilashtirish",
+  "umumiy_sharh": [
+    "Avtomototransport vositalarining raqam belgilarini qonunga xilof ravishda tayyorlash, saqlash yoki sotish – davlat raqam belgilarini, shuningdek ularning o'rnini bosuvchi belgilarni qonunga xilof ravishda tayyorlash, egallash, saqlash yoki realizatsiya qilish.",
+    "Jinoyatning obyekti transport vositalarini ro'yxatdan o'tkazish va ularning raqamlarini berish tartibi hisoblanadi.",
+    "Jinoyat predmeti avtomototransport vositalarining davlat raqam belgilari, ularning o'rnini bosuvchi belgilar, shuningdek identifikatsiya (kuzov, shassi, dvigatel) raqamlari hisoblanadi.",
+    "Obyektiv tomondan jinoyat avtomototransport vositalarining davlat raqam belgilarini yoki identifikatsiya raqamlarini qonunga xilof ravishda tayyorlash, o'tkazish yoki ulardan foydalanish, shuningdek ularni qalbakilashtirishda ifodalanadi.",
+    "Subyekti o'n olti yoshga to'lgan aqli raso shaxs bo'lishi mumkin.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-7398491",
+      "matn": "Avtomototransport vositalarining va ular tirkamalarining (yarim tirkamalarining) davlat raqam belgilarini yoki identifikatsiya (kuzov, shassi (rama), dvigatel) raqamlarini qonunga xilof ravishda tayyorlash, oʻtkazish yoki ulardan foydalanish, shuningdek ularni qalbakilashtirish — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7398494",
+      "matn": "Oʻsha harakatlar mansabdor shaxs tomonidan sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan bir yuz ellik baravarigacha miqdorda jarima yoki besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-7398499",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7398500",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7398501",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

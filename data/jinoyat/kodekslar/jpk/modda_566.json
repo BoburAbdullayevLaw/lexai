@@ -1,0 +1,39 @@
+﻿{
+  "n": 566,
+  "sarlavha_id": "-4516454",
+  "sarlavha": "566-modda. Isbotlanishi lozim boʻlgan holatlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4516461",
+      "matn": "Jinoyat sodir etganidan keyin ruhiy holatining buzilishi yuzaga kelgan shaxsning jinoyati toʻgʻrisidagi ish boʻyicha shaxsda ruhiy holatining jinoyat sodir etganidan keyin yuzaga kelgan va jazoning qoʻllanilishini istisno etadigan tarzda buzilganligi isbotlanishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-4516463",
+      "matn": "Aqli norasolik holatida ijtimoiy xavfli qilmish sodir etganlik toʻgʻrisidagi ish yuzasidan quyidagilar isbotlanishi lozim:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-4516471",
+          "matn": "ushbu Kodeks 82-moddasining 1, 2 va 5-bandlarida nazarda tutilgan holatlar;"
+        },
+        {
+          "b": 2,
+          "id": "-4516474",
+          "matn": "qilmishni sodir etgan paytida shaxsning ruhiy holati surunkali yoki vaqtincha buzilganligi, aqli zaifligi yoki ruhiy holatining boshqacha tarzda buzilganligi, bularning oqibatida u aqli norasolik holatida boʻlganligi, yaʼni oʻz harakatlarining (harakatsizligining) ahamiyatini anglay olmaganligi yoki ularni boshqara olmaganligi;"
+        },
+        {
+          "b": 3,
+          "id": "-4516477",
+          "matn": "mazkur shaxsning surishtiruv, dastlabki tergov va sud muhokamasi vaqtidagi ruhiy holati."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-4516480",
+      "matn": "Jinoyat sodir etganidan soʻng ruhiy holati buzilgan shaxsning ishi boʻyicha, xuddi shuningdek ijtimoiy xavfli qilmishni aqli norasolik holatida sodir etgan shaxsning ishi boʻyicha shaxsning bundan buyongi xulq-atvori uning oʻzi va atrofdagilar uchun xavf tugʻdirishi mumkinligi yoki mumkin emasligi, uning davolanishga muhtojligi yoki muhtoj emasligi, unga nisbatan tibbiy yoʻsindagi majburlov choralari qoʻllanilishiga zarurat borligini yoki yoʻqligini va aynan qanday choralar qoʻllash lozimligini hal qilish uchun asos boʻladigan holatlar isbotlanishi lozim."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+  "n": 346,
+  "sarlavha_id": "-255569",
+  "sarlavha": "346-modda. Hududiy jihatdan tergovga tegishlilik",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255570",
+      "matn": "Jinoyat qayerda sodir etilgan boʻlsa, jinoyat ishi oʻsha tuman (shahar) tergovchisining tergoviga tegishli boʻladi."
+    },
+    {
+      "q": 2,
+      "id": "-255572",
+      "matn": "Dastlabki tergov, basharti ish holatlarini ancha tez, puxta, toʻla, xolisona, har tomonlama tekshirishga yordam bersa, ish qoʻzgʻatilgan joyda yoki gumon qilinuvchi yoxud ayblanuvchi yoki guvohlarning koʻpchiligi turgan yerda oʻtkazilishi ham mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-255574",
+      "matn": "Yuqori turuvchi prokuror yoki yuqori tergov boʻlinmasi boshligʻining farmoyishiga asosan dastlabki tergov hududiy jihatdan tergovga tegishlilik qoidalariga rioya qilinmagan holda olib borilishi ham mumkin."
+    }
+  ]
+}

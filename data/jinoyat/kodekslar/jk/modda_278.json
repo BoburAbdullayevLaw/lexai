@@ -1,0 +1,50 @@
+{
+  "n": 278,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1249496",
+  "sarlavha": "278-modda. Qimor va tavakkalchilikka asoslangan boshqa oʻyinlarni tashkil etish hamda oʻtkazish",
+  "umumiy_sharh": [
+    "Jinoyat obyekti jamoat tartibi, jamoat xavfsizligi hisoblanadi.",
+    "Sharhlanayotgan jinoyatning obyektiv tomoni qonunga xilof ravishda qimorxonalar tashkil etish yoki ularni saqlashda ifodalanadi. Qimorxona deganda, pul yoki boshqa qimmatliklar, mulkiy yoki boshqa manfaatlarga asoslangan har qanday o'yin o'tkazishga mo'ljallangan xona tushuniladi.",
+    "Qimorxonaning zaruriy belgisi noma'lum shaxslar guruhi tomonidan ishtirok etish, shuningdek, qimorxonaning doimiy ishlab turishi hisoblanadi.",
+    "Qimorxona tashkil etish deganda, qimorxona ochish va uni ishlatishga yo'naltirilgan har qanday tashkiliy harakatlarni tushunish kerak.",
+    "Qimorxonani saqlash deganda, qimorxona ishlab turishini ta'minlashni, uni doimiy ish bilan ta'minlashni tushunish lozim.",
+    "Jinoyat qimorxona tashkil etish yoki uni tayinlashga qaratilgan harakatlar sodir etilgan paytdan boshlab tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat aybning qasd shakli bilan tavsiflanadi. Motiv va maqsad kvalifikatsiyaga ta'sir ko'rsatmaydi.",
+    "Jinoyatning subyekti faqat o'n olti yoshga to'lgan, qimorxona tashkil etgan va uni ta'minlovchi shaxslar bo'lishi mumkin. Qimorxona mijozlari jinoyat subyekti bo'la olmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1249498",
+      "matn": "Qimor va tavakkalchilikka asoslangan boshqa oʻyinlarni qonunga xilof ravishda tashkil etish yoki oʻtkazish, shu jumladan ana shunday oʻyinlar uchun qimorxonalar tashkil etish yoki ularni saqlash — yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1249506",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1249508",
+          "matn": "takroran yoki xavfli retsidivist tomonidan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1249510",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab, — yetti yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-1249513",
+      "matn": "Voyaga yetmagan shaxsni qimor va tavakkalchilikka asoslangan boshqa oʻyinlarga jalb qilish, shunday harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-1249518",
+      "matn": "Qimor va tavakkalchilikka asoslangan boshqa oʻyinlarni tashkil etish yoki oʻtkazish uchun telekommunikatsiya tarmoqlarida, shu jumladan Internet jahon axborot tarmogʻi provayderlari tomonidan xizmatlar koʻrsatish, tegishli dasturiy taʼminotdan nusxa koʻpaytirish, uni koʻpaytirish, tarqatish, shunday harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yetmish besh baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    }
+  ]
+}

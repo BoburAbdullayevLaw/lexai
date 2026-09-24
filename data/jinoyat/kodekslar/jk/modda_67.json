@@ -1,0 +1,47 @@
+{
+  "n": 67,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195055",
+  "sarlavha": "67-modda. Kasallik tufayli javobgarlikdan ozod qilish",
+  "umumiy_sharh": [
+    "Aqli raso bo'lmagan shaxsni javobgarlikka tortish maqsadga muvofiq emas.",
+    "Ruhiy holat buzilishi: surunkali, vaqtinchalik, aql pastligi, boshqa kasalliklar.",
+    "Sud-tibbiy ekspertizasi tomonidan aniqlanadi.",
+    "Tibbiy majburlash chorasi qo'llanilishi mumkin.",
+    "Tuzalsa (64-modda muddatlarida) — javobgarlikka tortiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4516881",
+      "matn": "Agar jinoyat sodir etgan shaxsda hukm chiqarilguniga qadar oʻz harakatlarining ahamiyatini anglay olmaydigan yoki ularni boshqara olmaydigan tarzda ruhiy holatning buzilishi yuzaga kelgan boʻlsa, u javobgarlikdan ozod qilinadi.",
+      "sharh": [
+        "Hukm chiqarilgunga qadar ruhiy holat buzilishi kerak.",
+        "Anglamaydigan yoki boshqara olmaydigan — ikkala holat ham yetarli.",
+        "Aqli norasolik 4 turi: surunkali, vaqtinchalik, pastlik, boshqa kasallik.",
+        "Sud-tibbiy ekspertizasi tomonidan belgilanadi.",
+        "Jinoyatdan oldin aqli raso, keyin buzilgan — ham ozod qilinadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195057",
+      "matn": "Bunday shaxsga nisbatan sud tomonidan tibbiy yoʻsindagi majburlov choralari qoʻllanilishi mumkin.",
+      "sharh": [
+        "Tibbiy majburlash — davlatning tuzatish va oldini olish majburiyati.",
+        "Qo'llash asosi, tartibi va maqsadi JK VII bo'limida.",
+        "Jamiyatga qaytarish va sog'lig'ni tiklash maqsadida."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195150",
+      "matn": "Bunday shaxs ushbu Kodeksning 64-moddasida nazarda tutilgan muddatlar oʻtmasdan tuzalsa, javobgarlikka tortiladi.",
+      "sharh": [
+        "64-modda muddatlari o'tmasdan tuzalsa — javobgarlikka tortiladi.",
+        "Muddat tibbiy majburlash qo'llanilgan kundan hisoblanadi.",
+        "Tibbiy yordam olmasdan tuzalgan — ham hisobga olinadi."
+      ]
+    }
+  ]
+}

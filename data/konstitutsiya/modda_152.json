@@ -1,0 +1,18 @@
+{
+  "n": "152",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446205",
+  "sarlavha": "152-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446206",
+      "matn": "Oʻzbekiston Respublikasi Qurolli Kuchlari Oʻzbekiston Respublikasining davlat suverenitetini va hududiy yaxlitligini, aholining tinch hayoti va xavfsizligini himoya qilish uchun tuziladi."
+    },
+    {
+      "q": 2,
+      "id": "-6446207",
+      "matn": "Qurolli Kuchlarning tuzilishi va ularni tashkil etish qonun bilan belgilanadi."
+    }
+  ]
+}

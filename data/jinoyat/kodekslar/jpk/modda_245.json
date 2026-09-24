@@ -1,0 +1,54 @@
+﻿{
+  "n": 245,
+  "sarlavha_id": "-2461197",
+  "sarlavha": "245-modda. Qamoqda va uy qamogʻida saqlab turish muddati",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-2461200",
+      "matn": "Jinoyatlar tergov qilinayotganda qamoqda saqlab turish yoki uy qamogʻi muddati koʻpi bilan uch oyni tashkil etadi."
+    },
+    {
+      "q": 2,
+      "id": "-3175146",
+      "matn": "Qamoqda saqlab turishning yoki uy qamogʻining qonun normalarida belgilangan uch oylik muddatini:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3175147",
+          "matn": "besh oygacha uzaytirish imkoni — Qoraqalpogʻiston Respublikasi prokurori yoki viloyat, Toshkent shahar prokurori va ularga tenglashtirilgan prokurorlarning iltimosnomasiga binoan;"
+        },
+        {
+          "b": 2,
+          "id": "-3175148",
+          "matn": "yetti oygacha uzaytirish imkoni — Oʻzbekiston Respublikasi Bosh prokurori yoki uning oʻrinbosarlarining iltimosnomasiga binoan sud tomonidan koʻrib chiqiladi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-3175149",
+      "matn": "Muddatni yanada uzaytirishga yoʻl qoʻyilmaydi. Ushbu moddaning birinchi qismida koʻrsatilgan iltimosnomalarni koʻrib chiqishda sud taqdim etilgan materiallarning asosliligini, shuningdek protsessual normalar va talablarga rioya etilganligini inobatga oladi."
+    },
+    {
+      "q": 4,
+      "id": "-3175150",
+      "matn": "Qamoqda saqlab turish muddatiga ushbu Kodeksning 599-moddasiga muvofiq shaxsni Oʻzbekiston Respublikasiga ushlab berish toʻgʻrisidagi soʻrovga koʻra uning xorijiy davlat hududida qamoqda saqlangan vaqti qoʻshib hisoblanadi."
+    },
+    {
+      "q": 5,
+      "id": "-3175151",
+      "matn": "Agar Oʻzbekiston Respublikasiga xorijiy davlat tomonidan ushlab berilgan shaxsni ushbu modda ikkinchi qismining uchinchi xatboshisida belgilangan qamoqda saqlab turishning oxirgi muddati tugagan boʻlsa va ishning holatlariga koʻra qamoqqa olish tarzidagi ehtiyot chorasini oʻzgartirish mumkin boʻlmasa, Oʻzbekiston Respublikasi Bosh prokurori yoki uning oʻrinbosarlarining iltimosnomasiga binoan sud ushbu Kodeksning 247-moddasida nazarda tutilgan talablarga rioya etgan holda, qamoqda saqlab turishning qoʻshimcha muddatini belgilashga haqli, ammo ushbu muddat shaxs Oʻzbekiston Respublikasi hududida vaqtincha saqlash hibsxonasiga yoxud tergov hibsxonasiga joylashtirilgan paytdan eʼtiboran uch oydan ortiq boʻlmasligi kerak."
+    },
+    {
+      "q": 6,
+      "id": "-3175152",
+      "matn": "Tergovi tamomlangan jinoyat ishining materiallari ayblanuvchiga va uning himoyachisiga tanishib chiqish uchun ushbu modda ikkinchi qismining uchinchi xatboshisida yoxud ushbu moddaning beshinchi qismida nazarda tutilgan qamoqda saqlab turishning oxirgi muddati tugashidan kamida bir oy oldin taqdim etilgan boʻlishi lozim."
+    },
+    {
+      "q": 7,
+      "id": "-3175153",
+      "matn": "Ayblanuvchi va uning himoyachisi ishning materiallari bilan tanishib chiqishi uchun ketgan vaqt ehtiyot chorasi tariqasida qamoqda saqlab turish yoki uy qamogʻi muddatini hisoblab chiqishda inobatga olinmaydi."
+    }
+  ]
+}

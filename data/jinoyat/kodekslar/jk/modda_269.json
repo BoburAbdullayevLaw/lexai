@@ -1,0 +1,35 @@
+{
+  "n": "269",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-7398609",
+  "sarlavha": "269-modda. Avtomobil yoʻllaridan va koʻchalardan foydalanish, ularni taʼmirlash ishlarini tashkil etish va saqlash qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-7398612",
+      "matn": "Avtomobil yoʻllaridan, shu yoʻllarga ajratilgan mintaqalar va koʻchalardan foydalanish, ularni saqlash hamda qoʻriqlash qoidalarini buzish, yaʼni avtomobil yoʻllarida va shu yoʻllar uchun ajratilgan mintaqada tegishli ruxsatsiz yer osti va yer usti kommunikatsiyalarini oʻtkazish, ularni taʼmirlash, bu ishlarni bajarishning belgilangan shartlari va muddatlariga rioya etmaslik, oʻzboshimchalik bilan arklar, toʻsiqlar, shlagbaumlar yoki boshqa inshootlar oʻrnatish, yoʻllarga material va boshqa narsalarni uyub qoʻyish, yoʻl ustini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268544",
+      "matn": "Oʻsha qilmish odam oʻlishiga sabab boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268547",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268548",
+          "matn": "odamlarning oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268549",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

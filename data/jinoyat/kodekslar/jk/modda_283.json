@@ -1,0 +1,59 @@
+{
+  "n": 283,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271352",
+  "sarlavha": "283-modda. Badanga shikast yetkazish",
+  "umumiy_sharh": [
+    "Jinoyatning bevosita obyekti boshliqning sog'lig'i, jismoniy daxlsizligi, uning obro'yini ta'minlaydigan ijtimoiy munosabatlar hisoblanadi.",
+    "1-qism obyektiv tomondan harbiy xizmat yuzasidan o'z vazifalarini bajarganligi munosabati bilan yoki bajarayotgan vaqtda boshliqni do'pposlash, uning badaniga yengil yoki o'rtacha og'ir shikast yetkazishda ifodalanadi.",
+    "Zo'ravonlik harakatlarini harbiy xizmat yuzasidan o'z vazifalarini bajarayotgan boshliqqa nisbatan yoki uni o'z vazifalarini bajarish vaqtida sodir etilishi kvalifikatsiya qilishning zaruriy belgisi. Agarda boshliqqa qarshilik bilan birga amalga oshirilsa yoki uni harbiy xizmat vazifalarini buzishga majburlagan bo'lsa, JK 281-moddasi bilan kvalifikatsiya qilinadi.",
+    "Harbiy xizmat majburiyatlari tushunchasi to'g'risida JK 281-moddasi sharhiga qarang.",
+    "Urish, badanga yengil yoki o'rtacha og'ir shikast yetkazish tushunchalari to'g'risida JK 105, 109, 110-moddalari sharhiga qarang.",
+    "Jinoiy javobgarlikka tortish boshliqqa nisbatan zo'ravonlik ishlatish hollari uning harbiy xizmati bo'yicha vazifalarini bevosita bajarayotgan vaqtda ro'y bergan yoki uning oldingi xizmat faoliyati bilan bog'liq hollarda amalga oshiriladi.",
+    "Sobiq boshliqqa nisbatan xizmat faoliyati bilan bog'liq zo'rlik JK 283-moddasi bilan kvalifikatsiya qilinmaydi.",
+    "Boshliqning xizmat yuzasidan qonuniy harakatlariga javoban sodir etilgan zo'rlik uchun bo'ysunuvchi jinoiy javobgarlikka tortiladi. Agar zo'rlik boshliqning qonunga xilof harakatlariga javoban bo'lsa, bo'ysunuvchi javob bo'lmaydi.",
+    "Qilmish badanga yengil yoki o'rtacha og'ir shikast yetkazilgan vaqtdan tugallangan hisoblanadi.",
+    "Subyektiv tomondan to'g'ri qasd bilan sodir qilinadi. Aybdor boshliqqa nisbatan zo'rlik ishlatayotganini anglaydi.",
+    "Bu jinoyatlar harbiy xizmat munosabatlari doirasida sodir etiladi. Agarda shaxsiy munosabatlar doirasida sodir etsa, harbiy jinoyat deb tan olinmaydi.",
+    "Subyekti xizmat vazifasi yoki harbiy unvoniga ko'ra boshliqqa doimiy yoki vaqtincha bo'ysunayotgan harbiy xizmatchi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271391",
+      "matn": "Boshliqni doʻpposlash, uning badaniga yengil yoki oʻrtacha ogʻir shikast yetkazish u harbiy xizmat yuzasidan oʻz vazifalarini bajarganligi munosabati bilan yoki bajarayotgan vaqtda sodir etilgan boʻlsa, — uch yilgacha xizmat boʻyicha cheklash yoki bir yilgacha intizomiy qismga yuborish yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271400",
+      "matn": "Badanga ogʻir shikast yetkazish, shuningdek, ushbu moddaning birinchi qismida nazarda tutilgan harakatlar:",
+      "sharh": [
+        "2-qismda badanga og'ir shikast yetkazish, bir guruh shaxslar tomonidan, qurol ishlatib sodir etilganda og'irroq javobgarlik belgilangan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-271405",
+          "matn": "bir guruh shaxslar tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-271408",
+          "matn": "qurol ishlatib sodir etilgan boʻlsa, — uch yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+          "sharh": [
+            "Agarda boshliqning badaniga og'ir shikast yetkazish natijasida uning o'limi yuzaga kelsa, aybdorning harakatlari JK 283-moddasi 2-qismi va JK 104-moddasi 3-qismi 'd' bandi bo'yicha kvalifikatsiya qilinishi kerak.",
+            "Boshliqni qasddan o'ldirish JK 97-moddasi 2-qismi 'g' bandi bo'yicha kvalifikatsiya qilinadi. Bu holda JK 283-moddasi 2-qismi bo'yicha qo'shimcha kvalifikatsiya talab etilmaydi."
+          ]
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-271411",
+      "matn": "Ushbu moddaning birinchi yoki ikkinchi qismida nazarda tutilgan harakatlar jangovar vaziyatda sodir etilgan boʻlsa, — yetti yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+      "sharh": [
+        "Jangovar vaziyat tushunchasi haqida JK 279-moddasi sharhiga qarang."
+      ]
+    }
+  ]
+}

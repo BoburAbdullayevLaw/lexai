@@ -1,0 +1,23 @@
+{
+  "n": "21",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445381",
+  "sarlavha": "21-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445383",
+      "matn": "Har bir inson oʻz shaxsini erkin kamol toptirish huquqiga ega. Hech kimga uning roziligisiz qonunchilikda belgilanmagan majburiyat yuklatilishi mumkin emas."
+    },
+    {
+      "q": 2,
+      "id": "-6445385",
+      "matn": "Inson oʻz huquq va erkinliklarini amalga oshirishda boshqa shaxslarning, jamiyat hamda davlatning huquqlari, erkinliklari va qonuniy manfaatlariga putur yetkazmasligi shart."
+    },
+    {
+      "q": 3,
+      "id": "-6445387",
+      "matn": "Insonning huquq va erkinliklari faqat qonunga muvofiq va faqat konstitutsiyaviy tuzumni, aholining sogʻligʻini, ijtimoiy axloqni, boshqa shaxslarning huquq va erkinliklarini himoya qilish, jamoat xavfsizligini hamda jamoat tartibini taʼminlash maqsadida zarur boʻlgan doirada cheklanishi mumkin."
+    }
+  ]
+}

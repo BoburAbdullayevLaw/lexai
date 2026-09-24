@@ -1,0 +1,44 @@
+{
+  "n": "521¹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-6627560",
+  "sarlavha": "521¹-modda. Qoraqalpogʻiston Respublikasi sudida, viloyatlar, Toshkent shahar sudlarida, Oʻzbekiston Respublikasi Harbiy sudida taftish tartibida jinoyat ishini koʻrib chiqish uchun sud majlisini tayinlash va tayyorlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-6627561",
+      "matn": "Sudya taftish tartibidagi shikoyat, protest (xususiy shikoyat, xususiy protest) bilan kelib tushgan jinoyat ishini oʻrganib, sud majlisini tayinlash toʻgʻrisida yetti sutkadan kechiktirmay ajrim chiqarib, unda quyidagi masalalarni hal etadi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-6627562",
+          "matn": "jinoyat ishini koʻrib chiqish joyi, sanasi va boshlanish vaqti toʻgʻrisidagi;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-6627563",
+          "matn": "sud majlisiga taraflarni va jinoyat protsessining boshqa ishtirokchilarini chaqirish haqidagi;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-6627564",
+          "matn": "ushbu Kodeksning 19-moddasida nazarda tutilgan hollarda jinoyat ishini yopiq sud majlisida koʻrish toʻgʻrisidagi;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-6627565",
+          "matn": "ozodlikdan cheklash yoki ozodlikdan mahrum qilish tariqasidagi jazoni oʻtayotgan shaxsning sud majlisida ishtirok etishi haqidagi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-6627566",
+      "matn": "Ajrim chiqarilgan kundan eʼtiboran uch sutka ichida jinoyat protsessi ishtirokchilariga sud majlisining joyi, sanasi va boshlanish vaqti tayinlanganligi toʻgʻrisida xabar yuboriladi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-6627567",
+      "matn": "Agar jinoyat ishini oʻrganish chogʻida birinchi instansiya sudi tomonidan ushbu Kodeks 503-moddasi ikkinchi qismining talablari bajarilmaganligi aniqlansa, sudya ishni taftish tartibida koʻrib chiqishga monelik qiluvchi holatlarni bartaraf etish uchun ishni shu sudga qaytaradi."
+    }
+  ]
+}

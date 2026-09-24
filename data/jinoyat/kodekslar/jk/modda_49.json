@@ -1,0 +1,41 @@
+{
+  "n": 49,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184598",
+  "sarlavha": "49-modda. Intizomiy qismga joʻnatish",
+  "umumiy_sharh": [
+    "Intizomiy qismga jo'natish — faqat muddatli harbiy xizmat askarlariga qo'llaniladigan asosiy jazo turi. Boshqa shaxslarga qo'llanilmaydi.",
+    "Bu jazo maxsus ichki tartibi ancha qattiq bo'lgan harbiy qismga joylashtirish orqali tuzatish maqsadida qo'llaniladi.",
+    "Asosiy jazo sifatida mustaqil qo'llaniladi — boshqa asosiy jazolar bilan birga tayinlash mumkin emas.",
+    "Jazoning ijrosini Mudofaa vazirligi maxsus harbiy qismlari zimmasiga yuklatilgan."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1563131",
+      "matn": "Intizomiy qismga joʻnatish — muddatli harbiy xizmat harbiy xizmatchisini sud tomonidan belgilangan muddat mobaynida ichki tartibi ancha qattiq boʻlgan maxsus harbiy qismga joylashtirish orqali, muayyan huquq va imtiyozlardan mahrum etishdir.",
+      "sharh": [
+        "Subyekti faqat muddatli harbiy xizmatchilar (oddiy askarlar va serjantlar). Boshqa shaxslarga qo'llanilmaydi.",
+        "Harbiy jinoyatdan tashqari, boshqa huquqqa zid tajovuzlarga ham qo'llanilishi mumkin.",
+        "Sud muddatli harbiy xizmatda turish muddatini (boshlanishi va tugallanishi) tekshirishi kerak.",
+        "Bu jazo ilgari sudlanganlarga ham, davlat majburloviga ilgari hukm qilinganlarga ham qo'llanilishi mumkin.",
+        "Intizomiy qismda barcha mahkumlar oddiy askar (matros) holatida bo'ladilar, maxsus kiyimda yuradilar.",
+        "Yaqin qarindosh vafoti yoki musibat munosabati bilan 7 sutkagacha ta'til berilishi mumkin."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184600",
+      "matn": "Intizomiy qismga joʻnatish jazosi ushbu Kodeks Maxsus qismining moddasida nazarda tutilgan hollarda uch oydan bir yilgacha muddatga qoʻllaniladi.",
+      "sharh": [
+        "Asosiy muddati: 3 oydan 1 yilgacha. Bu qat'iy chegara — oshirib bo'lmaydi.",
+        "Ozodlikdan mahrum qilish (3 yilgacha) o'rniga almashtirish mumkin. 1 kun intizomiy qism = 1 kun ozodlikdan mahrum etish.",
+        "Almashtirish sharti: faqat 3 yilgacha ozodlikdan mahrum qilish tayinlangan hollarda. Sanksiyada ko'rsatilgan-masligi ahamiyatsiz.",
+        "Bir nechta jinoyat uchun umumiy muddat 3 yildan oshmasligi kerak.",
+        "Intizomiy qismda o'tash vaqti harbiy xizmat muddatiga qo'shilmaydi — xizmat to'xtab turadi.",
+        "Harbiy xizmatga yaroqsiz deb tan olinganda jazo to'xtatiladi, qolgan qism almashtiriladi yoki ozod etiladi.",
+        "Hukmda muddat ko'rsatilmaganligi jinoyat qonunining buzilishi va hukmning bekor qilinishiga asos."
+      ]
+    }
+  ]
+}

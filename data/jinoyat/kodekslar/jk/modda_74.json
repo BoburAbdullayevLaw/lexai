@@ -1,0 +1,83 @@
+{
+  "n": 74,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195540",
+  "sarlavha": "74-modda. Jazoni yengilrogi bilan almashtirish",
+  "umumiy_sharh": [
+    "Jazoni yengilroq bilan almashtirish — jazo turini ozgartirish (muddatini emas).",
+    "Ozodlikdan mahrum, ozodlikni cheklash, axloq tuzatish ishlari almashtirilishi mumkin.",
+    "Muddat: katta bolmagan — 1/4; ogir — 1/2; ota ogir — 2/3.",
+    "Muddatidan ilgari shartli ozod qilishdan farqi: jazo turini almashtiradi.",
+    "Almashtirilgan jazodan ham muddatidan ilgari ozod qilish mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2722296",
+      "matn": "Ozodlikdan mahrum etilgan, ozodligi cheklangan yoki axloq tuzatish ishlariga hukm qilingan shaxslarga nisbatan sud jazoning otmagan qismini yengilroq jazo bilan almashtirishi mumkin.",
+      "sharh": [
+        "Faqat 3 ta jazo: ozodlikdan mahrum, ozodlikni cheklash, axloq tuzatish.",
+        "Ozodlikdan mahrum → jarima, huquqdan mahrum, jamoat ishi, axloq tuzatish, xizmat cheklash, intizomiy qism.",
+        "Axloq tuzatish → faqat jarima yoki huquqdan mahrum."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195543",
+      "matn": "Jazoni yengilrogi bilan almashtirish ushbu moddaning birinchi qismida korstilgan jazo turlari uchun ornatilgan tartib-qoida talablarini bajargan va mehnatga halol munosabatda bolgan mahkumga nisbatan qollanilishi mumkin.",
+      "sharh": [
+        "Shart: rejimga rioya + mehnatga halol munosabat.",
+        "Tuzalish yoliga otagan — yetarli."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-287021",
+      "matn": "Jazoni yengilrogi bilan almashtirish mahkum:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-287038","matn":"ijtimoiy xavfi katta bolmagan yoki uncha ogir bolmagan jinoyati uchun sud tayinlagan jazo muddatining kamida tortdan bir qismini;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-6417000","matn":"ogir jinoyati uchun, shuningdek qasddan sodir etgan jinoyati uchun, agar u ilgari qasddan sodir etgan jinoyati uchun ozodlikdan mahrum etishga hukm qilingan bolsa, sud tayinlagan jazo muddatining kamida yarmini;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-7060867","matn":"ota ogir jinoyati uchun, sud tayinlagan jazo muddatining kamida uchdan ikki qismini haqiqatda otab bolganidan keyin qollanilishi mumkin.","sharh":[]}
+      ],
+      "sharh": [
+        "Katta bolmagan: kamida 1/4.",
+        "Ogir + qasddan (oldin ozodlikdan mahrum): kamida 1/2.",
+        "Ota ogir: kamida 2/3."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-2722300",
+      "matn": "Ozodlikdan mahrum qilish yoki ozodlikni cheklash tariqasidagi jazoning otmagan qismi axloq tuzatish ishlari bilan almashtirilganda axloq tuzatish ishlari ozodlikdan mahrum qilish yoki ozodlikni cheklash jazosining otmagan qismi muddatiga tayinlanadi.",
+      "sharh": [
+        "Axloq tuzatish muddati = ozodlikdan mahrum/cheklash otmagan muddatiga.",
+        "6 oydan kam, 3 yildan ortiq bolmasligi kerak."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-195583",
+      "matn": "Jazoning otmagan qismini yengilrogi bilan almashtirish ushbu Kodeksning 73-moddasi tortinchi qismida korstilgan shaxslarga nisbatan qollanilmaydi.",
+      "sharh": [
+        "Qollanilmaydi: 73/4 da korstilganlar (umrbod, ota xavfli retsidivist, uyushgan guruh)."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-195584",
+      "matn": "Jazosi yengilroq jazo bilan almashtirilgan shaxslar yengilroq jazoning tegishli qismini otab bolganlaridan keyin ushbu Kodeksning 73-moddasida nazarda tutilgan qoidalarga binoan jazodan muddatidan ilgari shartli ozod qilinishlari mumkin.",
+      "sharh": [
+        "Almashtirilgan jazodan ham 73-modda bo'yicha muddatidan ilgari ozod qilish mumkin."
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111453#-3694462",
+      "matn": "Jazosi yengilroq jazo bilan almashtirilgan shaxs jazoning otmagan qismi mobaynida yangi jinoyat sodir etsa, sud unga ushbu Kodeksning 60-moddasida nazarda tutilgan qoidalarga muvofiq jazo tayinlaydi.",
+      "sharh": [
+        "Yangi jinoyat — 60-modda bo'yicha uzil-kesil.",
+        "Otmagan qism + yangi jazo qoshiladi."
+      ]
+    }
+  ]
+}

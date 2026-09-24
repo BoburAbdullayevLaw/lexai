@@ -1,0 +1,18 @@
+{
+  "n": "53",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445632",
+  "sarlavha": "53-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445633",
+      "matn": "Har kimga ilmiy, texnikaviy va badiiy ijod erkinligi, madaniyat yutuqlaridan foydalanish huquqi kafolatlanadi. Intellektual mulk qonun bilan muhofaza qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-6445634",
+      "matn": "Davlat jamiyatning madaniy, ilmiy va texnikaviy rivojlanishi haqida gʻamxoʻrlik qiladi."
+    }
+  ]
+}

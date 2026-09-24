@@ -1,0 +1,64 @@
+{
+  "n": "185-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-315247",
+  "sarlavha": "185-1-modda. Rangli metallar, ularning parcha va rezgi chiqitlarini tayyorlash, olish, ulardan foydalanish hamda ularni oʻtkazish qoidalarini buzish",
+  "umumiy_sharh": [
+    "Jinoyat obyekti – qonunchilikda belgilangan rangli metallar, ularning parcha, rezgi-chiqitlarini tayyorlash, olish, ulardan foydalanish hamda o'tkazish qoidalari. Jinoyat predmeti – rangli metallar, ularning parchasi va rezgi-chiqitlari.",
+    "Qimmatbaho metallarga mansub bo'lmagan rangli metallar, uning parcha, rezgi-chiqitlarini tayyorlash, olish, ulardan foydalanish hamda o'tkazish o'zga mulkka zarar yetkazish yoki xizmat vakolatlarini suiiste'mol qilish bilan bog'liq bo'lsa, aybdorning harakatlarini jinoyatlar majmui bo'yicha kvalifikatsiya qilish lozim.",
+    "Subyektiv tomondan jinoyat qasddan sodir etiladi. Jinoyatning motiv va maqsadlari qilmishni kvalifikatsiya qilishda ahamiyatga ega emas.",
+    "Jinoyat subyekti – o'n olti yoshga to'lgan aqli raso shaxsdir.",
+    "Qimmatbaho metallarga mansub bo'lmagan rangli metallar, ularning parcha, rezgi-chiqitlarini tayyorlash, olish, ulardan foydalanish hamda o'tkazish qoidalarini mansabdor shaxs sodir etsa, uning harakatlarini tegishli holatlar mavjud bo'lganda jinoyatlar majmui tariqasida JK 205-moddasi yoki 206-moddasi bo'yicha kvalifikatsiya qilish lozim."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1159153",
+      "matn": "Qimmatbaho metallar sirasiga kirmaydigan rangli metallar, ularning parcha va rezgi-chiqitlarini tayyorlash, olish, ulardan foydalanish hamda ularni oʻtkazish qoidalarini buzish, shunday qilmish uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan bir yuz ellik baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari bilan jazolanadi.",
+      "sharh": [
+        "Jinoyatning obyektiv tomoni ma'muriy jazo qo'llanilganidan so'ng sodir etilgan, qimmatbaho metallarga mansub bo'lmagan rangli metallarni, ularning parcha, rezgi-chiqitlarini tayyorlash, olish, ulardan foydalanish hamda o'tkazish qoidalarini buzishdan iboratdir.",
+        "Rangli metallarni noqonuniy tayyorlash – bu amaldagi qonunni buzib rangli metallar, uning parcha, rezgi-chiqitlarini olishga qaratilgan harakatlardir. Masalan, axlatxonadan, aholidan yig'ish, sotib olish, boshqa tovarlarga almashtirish.",
+        "Jinoyat mazkur modda dispozitsiyasida aytib o'tilgan harakatlardan (tayyorlash, olish, ulardan foydalanish hamda o'tkazish) birontasi sodir etilgan paytdan boshlab tugallangan hisoblanadi. Agar aybdor oldin shunday harakatlari uchun ma'muriy javobgarlikka tortilgan bo'lsa, jinoiy javobgarlik kelib chiqadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1159160",
+      "matn": "Oʻsha qilmishlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1159162",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1159164",
+          "matn": "koʻp miqdorda;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-1159166",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravaridan uch yuz baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yildan uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-1159174",
+      "matn": "Oʻsha qilmishlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1159176",
+          "matn": "juda koʻp miqdorda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1159179",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatdan toʻrt yuz sakson soatgacha majburiy jamoat ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

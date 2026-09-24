@@ -1,0 +1,28 @@
+{
+  "n": "22",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445392",
+  "sarlavha": "22-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445395",
+      "matn": "Oʻzbekiston Respublikasining butun hududida yagona fuqarolik oʻrnatiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6445397",
+      "matn": "Oʻzbekiston Respublikasining fuqaroligi, unga qanday asoslarda ega boʻlganlikdan qatʼi nazar, hamma uchun tengdir."
+    },
+    {
+      "q": 3,
+      "id": "-6445399",
+      "matn": "Qoraqalpogʻiston Respublikasining fuqarosi ayni vaqtda Oʻzbekiston Respublikasining fuqarosi hisoblanadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445401",
+      "matn": "Fuqarolikka ega boʻlish va uni yoʻqotish asoslari hamda tartibi qonun bilan belgilanadi."
+    }
+  ]
+}

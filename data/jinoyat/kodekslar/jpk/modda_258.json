@@ -1,0 +1,49 @@
+﻿{
+  "n": 258,
+  "sarlavha_id": "-2057037",
+  "sarlavha": "258-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-2057038",
+      "matn": "Sudya ayblanuvchini lavozimidan chetlashtirish toʻgʻrisidagi iltimosnomani koʻrib chiqib, ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida yoki ayblanuvchini lavozimidan chetlashtirishni rad qilish haqida ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-2057039",
+      "matn": "Sudyaning ayblanuvchini lavozimidan chetlashtirish toʻgʻrisidagi ajrimida: lavozimidan chetlashtiriladigan shaxs haqidagi maʼlumotlar; uning ish joyi; lavozimdan chetlashtirish asoslari; ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida tegishli korxona, muassasa, tashkilot rahbariga qoʻyiladigan talab koʻrsatiladi."
+    },
+    {
+      "q": 3,
+      "id": "-2057040",
+      "matn": "Sudyaning ayblanuvchini lavozimidan chetlashtirishni rad qilish haqidagi ajrimi asoslantirilgan boʻlishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "-2057041",
+      "matn": "Sudyaning ayblanuvchini lavozimidan chetlashtirish toʻgʻrisidagi ajrimi u oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi. Ajrim tegishli korxona, muassasa, tashkilot rahbariga ijro uchun, prokurorga, ayblanuvchiga, himoyachiga esa maʼlumot uchun yuboriladi."
+    },
+    {
+      "q": 5,
+      "id": "-7355391",
+      "matn": "Sudyaning ushbu modda birinchi qismida nazarda tutilgan ajrimi ustidan u chiqarilgan kundan eʼtiboran yetmish ikki soat ichida ayblanuvchi, uning himoyachisi va qonuniy vakili, lavozimidan chetlashtirilgan ayblanuvchi ishlagan tegishli korxona, muassasa, tashkilot rahbari tomonidan apellyatsiya tartibida shikoyat berilishi yoxud prokuror tomonidan protest bildirilishi mumkin. Shikoyat, protest ajrimni chiqargan sud orqali beriladi, mazkur sud qirq sakkiz soat ichida ularni materiallar bilan birga apellyatsiya instansiyasi sudiga yuborishi shart. Shikoyat yoki protest berish sudning ayblanuvchini lavozimidan chetlashtirish toʻgʻrisidagi ajrimi ijrosini toʻxtatib qoʻymaydi. Apellyatsiya instansiyasi sudining sudyasi ushbu materiallarni shikoyat yoki protest bilan birga kelib tushgan paytdan eʼtiboran yetmish ikki soatdan kechiktirmay yakka tartibda koʻrib chiqishi kerak."
+    },
+    {
+      "q": 6,
+      "id": "-2057043",
+      "matn": "Apellyatsiya instansiyasi sudi apellyatsiya shikoyatini, protestini koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-2057044",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni yoki protestni esa qanoatlantirishsiz qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "-2057045",
+          "matn": "sudyaning ajrimini bekor qilish va ayblanuvchiga nisbatan lavozimidan chetlashtirish tarzidagi protsessual majburlov chorasini qoʻllashga yoki mazkur protsessual majburlov chorasini bekor qilishga haqli."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "n": "52",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381344",
+  "sarlavha": "52-modda. Mahalliy davlat hokimiyati organlarining normativ-huquqiy hujjatlar ijrosini tashkil etish va taʼminlashga doir vakolatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381347",
+      "matn": "Mahalliy davlat hokimiyati organlari tegishli hududda:"
+    },
+    {
+      "q": 2,
+      "id": "-5381348",
+      "matn": "normativ-huquqiy hujjatlar oʻz vaqtida ijro etilishiga qaratilgan zarur tadbirlarni ishlab chiqadi va (yoki) choralar koʻradi;"
+    },
+    {
+      "q": 3,
+      "id": "-5381350",
+      "matn": "normativ-huquqiy hujjatlar matnlarining tarqatilishini taʼminlaydi, boshqa tashkilotlar bilan birgalikda normativ-huquqiy hujjatlar yuzasidan zarur tushuntirish ishlarini tashkil etadi;"
+    },
+    {
+      "q": 4,
+      "id": "-5381351",
+      "matn": "tegishli davlat organlari va tashkilotlarning normativ-huquqiy hujjatlarni ijro etish boʻyicha ishlarini muvofiqlashtiradi hamda yoʻnaltiradi;"
+    },
+    {
+      "q": 5,
+      "id": "-5381353",
+      "matn": "normativ-huquqiy hujjatlarning ijro etilishi ustidan nazoratni amalga oshiradi, qonunchilikning qoʻllanilish amaliyotini oʻrganadi va zarur boʻlganda qonunchilikni takomillashtirish yuzasidan takliflar kiritadi;"
+    },
+    {
+      "q": 6,
+      "id": "-5381355",
+      "matn": "normativ-huquqiy hujjatlarning tizimlashtirilgan hisobini belgilangan tartibda yuritadi."
+    },
+    {
+      "q": 7,
+      "id": "-5381357",
+      "matn": "Mahalliy davlat hokimiyati organlari qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin."
+    }
+  ]
+}

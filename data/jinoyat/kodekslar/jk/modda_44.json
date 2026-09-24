@@ -1,0 +1,48 @@
+{
+  "n": 44,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184560",
+  "sarlavha": "44-modda. Jarima",
+  "umumiy_sharh": [
+    "Jarima — aybdordan davlat daromadiga JKda belgilangan miqdorda pul undirish. Bu jazo tizimidagi eng yengil jazo turi.",
+    "Jarima iqtisodiy ta'sir orqali mulkiy huquqlarni cheklashdan iborat. Oliy sud instansiyasi uni nafaqat yengil, balki og'ir jinoyatlarda ham kengroq qo'llashni tavsiya etadi.",
+    "Jarimaning miqdori jinoyat sodir etilgan vaqtdagi BHMga qarab belgilanadi. Hukmda BHM umumiy soni va mutlaq ifodasi aniq ko'rsatilishi shart.",
+    "Jarima miqdorini belgilashda mahkumning moddiy ahvoli, daromadlari, mulki, qaramog'idagilari, majburiy to'lovlari hisobga olinadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184562",
+      "matn": "Jarima aybdordan davlat daromadiga ushbu Kodeksda belgilangan miqdorda pul undirishdir.",
+      "sharh": [
+        "Jarima faqat pul undirish hisoblanadi. Boshqa turdagi mulkiy ta'sir choralari jaro deb topilmaydi.",
+        "Hukmda BHMning umumiy soni va mutlaq ifodasi (so'mdagi miqdori) aniq ko'rsatilishi shart.",
+        "Jarimaning miqdori jinoyat sodir etilgan vaqtdagi BHMga qarab belgilanadi — hukm chiqarilgan vaqtdagiga emas.",
+        "Sud jarimani tayinlashda uning amalda to'lana olish imkoniyatidan kelib chiqishi kerak."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-4636053",
+      "matn": "Jarima bazaviy hisoblash miqdorining besh baravaridan olti yuz baravarigacha miqdorda belgilanadi.",
+      "sharh": [
+        "Eng kam chegara — 5 BHM, eng ko'p chegara — 600 BHM. Bu umummajburiy chegaralar.",
+        "Sanksiyada eng kam miqdor ko'rsatilmagan hollarda ham 5 BHMdan kam bo'lmasligi kerak.",
+        "Sud 57-modda (yengilroq jazo) qoidasiga binoan ham qonunda belgilangan chegaralardan chiqishi mumkin emas.",
+        "Sanksiyada faqat eng ko'p chegara ko'rsatilganda, sud eng kam chegaradan (5 BHM) boshlab belgilashi lozim."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-4636063",
+      "matn": "Agar hukm qilingan shaxs jazo tariqasida tayinlangan jarimani majburiy ijro etish uchun belgilangan muddatlarda toʻlashdan boʻyin tovlasa yoxud qarzdorda undiruv qaratilishi mumkin boʻlgan mol-mulk mavjud emasligi tufayli majburiy ijro etish uchun belgilangan muddatlar mobaynida jarimani undirishning imkoni boʻlmasa, xuddi shuningdek kechiktirish muddati tugaganidan keyin jarima toʻlanmagan yoki jarimani boʻlib-boʻlib toʻlash shartlari buzilgan taqdirda, sud jarimaning toʻlanmagan miqdorini majburiy jamoat ishlari, axloq tuzatish ishlari, xizmat boʻyicha cheklash, ozodlikni cheklash yoki ozodlikdan mahrum qilish tariqasidagi jazo bilan almashtiradi.",
+      "sharh": [
+        "Jarima almashtirish tartibi: majburiy jamoat ishlari (2,5 soat = 1 BHM, 480 soatdan ko'p emas); axloq tuzatish/xizmat cheklash/ozodlik cheklash/mahrum etish (har bir oy = 16 BHM, 3 yildan ko'p emas).",
+        "To'lanmagan jarima faqat bitta jazo turiga almashtiriladi — bir nechtasi bilan emas.",
+        "Jarimaning muayyan qismini almashtirishga yo'l qo'ymaydi — to'liq almashtiriladi.",
+        "Jarimani to'lashdan bo'yin tovlanganda sud ijrochisi majburiy tartibda undiradi. Bo'yin tovlangani sud tomonidan aniqlanadi.",
+        "Uzrli sabablar: mablag'ning yo'qligi, sog'lig'ining yomonlashuvi, uzoq safari. Daromadlarni yashirish — majburiy undirishga qaratilishi mumkin bo'lgan mol-mulkni yashirish."
+      ]
+    }
+  ]
+}

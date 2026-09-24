@@ -1,0 +1,38 @@
+{
+  "n": "38",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381214",
+  "sarlavha": "38-modda. Normativ-huquqiy hujjatlarni eʼlon qilishga doir talablar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381215",
+      "matn": "Normativ-huquqiy hujjatlar rasmiy nashrlarda eʼlon qilinishi kerak. Hech kim rasmiy eʼlon qilinmagan qonun asosida hukm qilinishi, jazoga tortilishi, mol-mulkidan yoki biron-bir huquqidan mahrum qilinishi mumkin emas."
+    },
+    {
+      "q": 2,
+      "id": "-5381216",
+      "matn": "Normativ-huquqiy hujjatning bayon tarzida rasmiy eʼlon qilinishiga yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-5381217",
+      "matn": "Normativ-huquqiy hujjat rasmiy eʼlon qilinganda uning barcha rekvizitlari koʻrsatiladi."
+    },
+    {
+      "q": 4,
+      "id": "-6688663",
+      "matn": "Vazirliklar, idoralar va mahalliy davlat hokimiyati organlari normativ-huquqiy hujjatlari matnlarining elektron shakllari ularni qabul qilgan organlarning rasmiy veb-saytlarida normativ-huquqiy hujjat rasmiy eʼlon qilinganidan keyin bir kun ichida eʼlon qilinishi shart. Vazirliklar, idoralar va mahalliy davlat hokimiyati organlari normativ-huquqiy hujjatlari matnlarining elektron shakllarini eʼlon qilish tartibi qonunchilikda belgilanadi."
+    },
+    {
+      "q": 5,
+      "id": "-5381222",
+      "matn": "Normativ-huquqiy hujjatlarni norasmiy nashrlarda eʼlon qilishga, shuningdek ularni qonunchilikning elektron maʼlumotnoma tizimlari orqali tarqatishga normativ-huquqiy hujjat rasmiy manbalarda ularning barcha rekvizitlari, ular eʼlon qilingan rasmiy nashrlar va ularning kuchga kirish sanasi koʻrsatilgan holda eʼlon qilinganidan soʻng yoʻl qoʻyiladi. Bunda rasmiy nashrlarda eʼlon qilingan normativ-huquqiy hujjat matnining aniq takrorlanishi taʼminlanishi kerak."
+    },
+    {
+      "q": 6,
+      "id": "-5381223",
+      "matn": "Normativ-huquqiy hujjatlarning eʼlon qilinishi ular qoʻllanilishining majburiy shartidir."
+    }
+  ]
+}

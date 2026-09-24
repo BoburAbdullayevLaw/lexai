@@ -1,0 +1,22 @@
+﻿{
+  "n": 293,
+  "sarlavha_id": "-255107",
+  "sarlavha": "293-modda. Xatlash chogʻida mol-mulkni baholash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1682074",
+      "matn": "Xatlanayotgan mol-mulk surishtiruvchi yoki tergovchi tomonidan uning eskirish darajasini eʼtiborga olib, baholash paytida mavjud boʻlgan bozor narxida baholanadi. Zarur hollarda baholash mutaxassis ishtirokida yoki baholovchi tashkilot tomonidan amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-255109",
+      "matn": "Pullar, obligatsiyalar, cheklar, aksiyalar va boshqa qimmatli qogʻozlar oʻz qiymati boʻyicha hisobga olinadi."
+    },
+    {
+      "q": 3,
+      "id": "-255110",
+      "matn": "Hukmning fuqaroviy daʼvo qismi ijrosini taʼminlash uchun mol-mulkni xatlashda bayonnomaga qiymati ziyonni qoplash uchun yetarli mol-mulk kiritiladi. Bunda mulkdor yoki mol-mulk egasi, oʻzining fikricha, qaysi mol-mulkni bayonnomaga kiritish zarur deb hisoblasa, shu mol-mulkni koʻrsatishga haqlidir."
+    }
+  ]
+}

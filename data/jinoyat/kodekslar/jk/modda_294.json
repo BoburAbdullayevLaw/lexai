@@ -1,0 +1,48 @@
+{
+  "n": 294,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271536",
+  "sarlavha": "294-modda. Chegara xizmatini o'tash qoidalarini buzish",
+  "umumiy_sharh": [
+    "Davlat chegarasini qo'riqlash: qurolli bostirib kirishni daf etish, qurolli provokatsiyani yo'qqa chiqarish, aholini va mol-mulkni himoya qilish, chegarani kesib o'tishning oldini olish, portlovchi, zaharlovchi, radioaktiv moddalar, qurollar, kontrabanda predmetlarining olib o'tilishining oldini olish.",
+    "Jinoyatning bevosita obyekti o'rnatilgan chegara xizmatini o'tash tartiblarini ta'minlovchi ijtimoiy munosabatlar.",
+    "Obyektiv tomondan chegaraning daxlsizligiga zarar yetkazishi mumkin bo'lgan, chegara naryadi tarkibidagi shaxs tomonidan chegara xizmatini o'tash tartiblarining buzilishida ifodalanadi.",
+    "Buzilish postdan ketish, postda uxlab qolish, spirtli ichimliklar iste'mol qilish, chegara buzilishi belgilarini o'z vaqtida payqamaslik, begona shaxslarni o'tkazib yuborish va boshqalarda ifodalanadi.",
+    "Jinoyat chegara daxlsizligiga zarar yetkazishi mumkin bo'lgan, qoidalari buzilgan vaqtdan boshlab tugallangan deb topiladi.",
+    "Subyektiv tomondan to'g'ri yoki egri qasd bilan sodir etiladi. Oqibatlariga nisbatan ayb ehtiyotsizlik shaklida ifodalanadi.",
+    "Subyekti faqat chegara naryadi tarkibidagi yoki chegara xizmatidagi harbiy xizmatchi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271538",
+      "matn": "Chegarachilar naryadi tarkibida boʻlgan shaxsning chegara xizmatini oʻtash qoidalarini buzishi chegaraning daxlsizligiga zarar yetkazishi mumkin boʻlsa, — ikki yilgacha xizmat boʻyicha cheklash yoki bir yilgacha intizomiy qismga yuborish yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271541",
+      "matn": "O'sha qilmish:",
+      "sharh": [
+        "2-qismda qonunga xilof ravishda chegaradan o'tish va boshqa og'ir oqibatlar uchun javobgarlik belgilangan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-271544",
+          "matn": "qonunga xilof ravishda chegaradan o'tishga;",
+          "sharh": [
+            "Qonunga xilof chegaradan o'tish — O'zbekiston Respublikasi chegarasidan har qanday yo'nalishda vakolatli hukumat idoralarining ruxsatisiz, noto'g'ri rasmiylashtirilgan hujjatlar bilan yoki boshqa usulda o'tish."
+          ]
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-271547",
+          "matn": "boshqa og'ir oqibatlarga sabab bo'lsa, — besh yildan o'n yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+          "sharh": [
+            "Boshqa og'ir oqibatlar: qurollangan bosqinchi banda to'dalari, diversantlarning kirib kelishi, qurollar, giyohvandlik moddalari, kontrabanda predmetlarining olib o'tilishi, odamlarning halokati, chegara hududi aholisiga hujum qilish va boshqalar."
+          ]
+        }
+      ]
+    }
+  ]
+}

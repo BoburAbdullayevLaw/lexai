@@ -1,0 +1,17 @@
+﻿{
+  "n": 209,
+  "sarlavha_id": "-254564",
+  "sarlavha": "209-modda. Pul, qimmatli qogʻozlar, valyuta boyliklari va zargarlik buyumlarini saqlash uchun topshirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254565",
+      "matn": "Ishga ashyoviy dalil sifatida qoʻshib qoʻyilgan pul, qimmatli qogʻozlar, valyuta boyliklari, zargarlik buyumlari va qimmatbaho metallardan, qimmatbaho toshlardan yasalgan boshqa buyumlar, shuningdek bunday buyumlarning rezgilari topilganda mutaxassis ishtirokida koʻzdan kechirilishi va belgilangan tartibda saqlash uchun topshirilishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-260048",
+      "matn": "Fuqaroviy daʼvoni taʼminlash maqsadida yoxud garov tariqasida olib qoʻyilgan yoki qabul qilingan pullar uch sutkadan kechiktirmay surishtiruv, dastlabki tergov organi yoki sudning depozit hisobiga topshirilishi shart."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "n": "521⁹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-6627642",
+  "sarlavha": "521⁹-modda. Taftish tartibida berilgan shikoyatni, protestni (xususiy shikoyatni, xususiy protestni) koʻrib chiqmasdan qaytarish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-6627645",
+      "matn": "Taftish tartibida berilgan shikoyat, protest (xususiy shikoyat, xususiy protest) quyidagi hollarda koʻrib chiqilmasdan qaytariladi, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-6627646",
+          "matn": "taftish tartibida berilgan shikoyat, protest (xususiy shikoyat, xususiy protest) ushbu Kodeksning 515-moddasida nazarda tutilgan talablarga javob bermasa;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-6627647",
+          "matn": "taftish tartibida berilgan shikoyat, protest (xususiy shikoyat, xususiy protest) ushbu Kodeksning 511, 512-moddalarida koʻrsatilgan shaxslar tomonidan berilmagan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-6627648",
+          "matn": "ish Qoraqalpogʻiston Respublikasi sudi, viloyatlar, Toshkent shahar sudlari, Oʻzbekiston Respublikasi Harbiy sudi tomonidan taftish tartibida koʻrilmagan boʻlsa;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-6627649",
+          "matn": "Qoraqalpogʻiston Respublikasi sudida, viloyatlar, Toshkent shahar sudlarida, Oʻzbekiston Respublikasi Harbiy sudida birinchi instansiya boʻyicha koʻrib chiqilgan ishlar apellyatsiya yoki kassatsiya tartibida koʻrilmagan boʻlsa;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-6627650",
+          "matn": "taftish tartibida berilgan shikoyatni, protestni (xususiy shikoyatni, xususiy protestni) qaytarib olish toʻgʻrisida ariza kelib tushgan boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-6627651",
+      "matn": "Ushbu moddaning birinchi qismida koʻrsatilgan holatlar bartaraf etilganidan keyin shikoyat, protest (xususiy shikoyat, xususiy protest) bergan shaxs takroran umumiy asoslarda murojaat qilishga haqlidir."
+    }
+  ]
+}

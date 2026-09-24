@@ -1,0 +1,76 @@
+{
+  "n": "248-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-4322305",
+  "sarlavha": "248¹-modda. Uchuvchisiz uchadigan apparatlarni saqlash va ulardan foydalanish tartibini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4322308",
+      "matn": "Uchuvchisiz uchadigan apparatlarni saqlash, ulardan foydalanish yoki ularni boshqa shaxslarga berish tartibini buzish, shuningdek ulardan boshqa maqsadlarda foydalanish, — uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-4322313",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-4322315",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4322316",
+          "matn": "mansab mavqeyini suiisteʼmol qilish yoʻli bilan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-4322317",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-4322318",
+          "matn": "badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-4322324",
+      "matn": "Oʻsha harakatlar odam oʻlishiga sabab boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-4322330",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-4322332",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4322335",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-4322336",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — sakkiz yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ],
+  "sharh": [
+    "248-1-modda «Uchuvchisiz uchadigan apparatlarni saqlash va ulardan foydalanish tartibini buzish» deb nomlanadi.",
+    "Bu modda uchuvchisiz uchadigan apparatlarni (dronlarni) saqlash, ulardan foydalanish yoki ularni boshqa shaxslarga berish tartibini buzish uchun javobgarlikni belgilaydi.",
+    "Uchuvchisiz uchadigan apparatlar — bu insansiz boshqariladigan yoki avtomatik boshqariladigan uchish vositalari bo'lib, ular havo makonini buzish, razvedka o'tkazish yoki hujum qilish uchun ishlatilishi mumkin.",
+    "Boshqa maqsadlarda foydalanish — bu apparatlarning mo'ljaldan tashqari maqsadlarda, masalan, yashirin kuzatish, hujum qilish yoki boshqa noqonuniy maqsadlarda ishlatilishidir.",
+    "Bu jinoyat uch yilgacha ozodlikdan mahrum qilish bilan jazo qo'llaniladi.",
+    "Takroran yoki xavfli retsidivist tomonidan sodir etilgan bo'lsa — jazo qattiqroq qo'llaniladi.",
+    "Guruh tomonidan sodir etilgan bo'lsa yoki katta zarar yetkazgan bo'lsa — jazo qattiqroq qo'llaniladi."
+  ]
+}

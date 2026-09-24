@@ -1,0 +1,40 @@
+{
+  "n": "262",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268339",
+  "sarlavha": "262-modda. Transportni taʼmirlash yoki uni foydalanishga chiqarish qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268350",
+      "matn": "Taʼmirlash ishlarini bajarayotgan yoki transport vositasining texnik holati va undan foydalanilishi uchun masʼul boʻlgan shaxsning temir yoʻl, dengiz, daryo, havo, avtomobil yoki boshqa transport vositasini, aloqa yoʻllari, signalizatsiya, aloqa vositalari yoki boshqa transport uskunalarini sifatsiz taʼmirlashi, shuningdek transport vositasining texnika holati jihatidan buzuqligini bila turib, uni foydalanishga chiqarishga ruxsat berishi badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki besh yilgacha muayyan huquqdan mahrum qilish yoxud uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268359",
+      "matn": "Oʻsha qilmish odam oʻlishiga sabab boʻlsa, — ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268366",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268368",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268369",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268373",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

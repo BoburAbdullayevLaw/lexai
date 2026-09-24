@@ -1,0 +1,34 @@
+﻿{
+  "n": 573,
+  "sarlavha_id": "-257205",
+  "sarlavha": "573-modda. Ishni prokurorga oʻtkazish va sudga oshirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3352513",
+      "matn": "Tibbiy yoʻsindagi majburlov choralarini qoʻllash toʻgʻrisidagi ishni surishtiruvchi, tergovchi uni sudga oshirish toʻgʻrisidagi qaror bilan birga prokurorga oʻtkazadi."
+    },
+    {
+      "q": 2,
+      "id": "-257207",
+      "matn": "Prokuror ish bilan tanishib chiqib, quyidagi qarorlardan birini qabul qiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1423624",
+          "matn": "ushbu Kodeksning 83 va 84-moddalarida, (84-moddaning birinchi qismi 2-bandi bundan mustasno) nazarda tutilgan asoslarga koʻra ishni tugatish;"
+        },
+        {
+          "b": 2,
+          "id": "-3352529",
+          "matn": "qoʻshimcha tergov oʻtkazish uchun ishni surishtiruvchiga, tergovchiga qaytarish;"
+        },
+        {
+          "b": 3,
+          "id": "-1423626",
+          "matn": "qarorni tasdiqlab ishni sudga oshirish yoxud amnistiya aktiga asosan jinoyat ishini tugatish toʻgʻrisida sudga iltimosnoma kiritish."
+        }
+      ]
+    }
+  ]
+}

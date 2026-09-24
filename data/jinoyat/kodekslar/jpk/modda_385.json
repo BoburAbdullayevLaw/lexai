@@ -1,0 +1,54 @@
+﻿{
+  "n": 385,
+  "sarlavha_id": "-3352089",
+  "sarlavha": "385-modda. Ayblov xulosasi yoki ayblov dalolatnomasi bilan kelgan jinoyat ishi yuzasidan prokurorning qarori",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3352098",
+      "matn": "Prokuror yoki uning oʻrinbosari ayblov xulosasi yoki ayblov dalolatnomasi bilan kelgan jinoyat ishini koʻpi bilan besh sutkada koʻrib chiqishi va quyidagi qarorlardan birini qabul qilishi shart:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3352099",
+          "matn": "ishni sudga yuborish uchun asoslar mavjud deb topib, ayblov xulosasi yoki ayblov dalolatnomasini tasdiqlash;"
+        },
+        {
+          "b": 2,
+          "id": "-3352100",
+          "matn": "oʻz qarori bilan ayblov mazmunidan ayrim bandlarni chiqarib tashlash, yengilroq jinoyatni nazarda tutuvchi qonunni qoʻllash va shu oʻzgartirishlar bilan ayblov xulosasi yoki ayblov dalolatnomasini tasdiqlash;"
+        },
+        {
+          "b": 3,
+          "id": "-3352102",
+          "matn": "qoʻshimcha tergov oʻtkazish uchun ishni oʻz koʻrsatmalari bilan surishtiruvchi yoki tergovchiga qaytarish;"
+        },
+        {
+          "b": 4,
+          "id": "-3352104",
+          "matn": "surishtiruv oʻtkazilgan jinoyat ishini tergovga tegishlilik qoidalari buzilganligi aniqlangan yoki ushbu Kodeksning 381⁵-moddasi toʻrtinchi qismida nazarda tutilgan hollarda dastlabki tergov organiga oʻtkazish;"
+        },
+        {
+          "b": 5,
+          "id": "-3352105",
+          "matn": "ishni yuritishni toʻxtatish;"
+        },
+        {
+          "b": 6,
+          "id": "-3352107",
+          "matn": "ishni tugatish;"
+        },
+        {
+          "b": 7,
+          "id": "-3352108",
+          "matn": "amnistiya aktiga asosan jinoyat ishini tugatish toʻgʻrisida sudga iltimosnoma kiritish."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-255830",
+      "matn": "Basharti ayblovni toʻldirish yoki uni ogʻirlashtirish tomoniga yoxud haqiqiy holatlarga koʻra avvalgi ayblovdan jiddiy farq qiladigan tomonga oʻzgartirish talab qilinsa, prokuror yoki uning oʻrinbosari qoʻshimcha yoki oʻzgartirilgan ayb eʼlon qilish uchun ishni qoʻshimcha tergovga qaytaradi."
+    }
+  ]
+}

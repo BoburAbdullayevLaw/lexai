@@ -1,0 +1,37 @@
+﻿{
+  "n": 127,
+  "sarlavha_id": "-254019",
+  "sarlavha": "127-modda. Shaxsni tanib olish uchun koʻrsatish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254021",
+      "matn": "Shaxs tanib olish uchun tergov olib borilayotgan ishga aloqasi boʻlmagan, tashqi belgilari bilan oʻziga oʻxshaydigan shaxslar guruhi orasida xolislar huzurida koʻrsatiladi. Tanib olish uchun koʻrsatilayotgan shaxslarning umumiy soni uch nafardan kam boʻlmasligi kerak."
+    },
+    {
+      "q": 2,
+      "id": "-254023",
+      "matn": "Tanib olinuvchiga tanib olish uchun koʻrsatiladigan shaxslar guruhi orasida istagan joyni egallash taklif qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-254025",
+      "matn": "Tanib olinuvchi kiyimi, soch qirqtirishi yoki tarashi yoxud boshqa belgilari bilan tanib olish uchun koʻrsatiladigan oʻzga shaxslar orasida yaqqol ajralib turmasligi lozim."
+    },
+    {
+      "q": 4,
+      "id": "-254027",
+      "matn": "Shaxsni tanib olish uchun koʻrsatishning iloji boʻlmaganda yoxud xavfsizlikni taʼminlash maqsadida uning fotosuratidan foydalanish mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-254029",
+      "matn": "Tanib olish uchun jadval qogʻozga yaxshilab yopishtirilib, muhrlangan va raqamlangan, lekin suratga olingan shaxslarning ismi va familiyalari koʻrsatilmagan kamida uchta fotosurat koʻrsatiladi."
+    },
+    {
+      "q": 6,
+      "id": "-4354596",
+      "matn": "Tanib oluvchining xavfsizligini taʼminlash maqsadida shaxsni tanib olish uchun koʻrsatish surishtiruvchi, tergovchi, prokuror yoki sudning qaroriga koʻra tanib olinuvchining tanib oluvchini koʻrib turishi istisno etiladigan sharoitlarda oʻtkazilishi mumkin. Bu holda xolislar tanib oluvchi turgan joyda boʻladi."
+    }
+  ]
+}

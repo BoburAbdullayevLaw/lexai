@@ -1,0 +1,35 @@
+{
+  "n": "262-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-7398579",
+  "sarlavha": "262¹-modda. Siqilgan tabiiy gazda, suyultirilgan neft gazida yoki dizel va gazsimon yoqilgʻi aralashmasida ishlaydigan transport vositalaridan foydalanishda xavfsizlik qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-7398581",
+      "matn": "Transport vositalariga gaz balloni uskunalarini oʻrnatishda xavfsizlik qoidalariga rioya etilishi uchun masʼul shaxs tomonidan siqilgan tabiiy gazda, suyultirilgan neft gazida yoki dizel va gazsimon yoqilgʻi aralashmasida ishlaydigan transport vositalarining xavfsizlik qoidalarini buzish yoxud gaz balloni uskunasi oʻrnatilgan transport vositalariga yoqilgʻi quyish talablarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — uch yilgacha muayyan huquqdan mahrum qilib, bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yilgacha axloq tuzatish ishlari yoki uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7398589",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7398592",
+          "matn": "odam oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7398593",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7398595",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — muayyan huquqdan mahrum qilib, uch yildan besh yilgacha ozodlikni cheklash yoxud besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

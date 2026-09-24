@@ -1,0 +1,64 @@
+{
+  "n": "290²",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-7355446",
+  "sarlavha": "290²-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-7355448",
+      "matn": "Sudya mol-mulkni xatlash toʻgʻrisidagi iltimosnomani koʻrib chiqib, mol-mulkni xatlash toʻgʻrisida yoki mol-mulkni xatlashni rad etish haqida ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-7355449",
+      "matn": "Sudyaning mol-mulkni xatlashni rad etish haqidagi ajrimi asoslantirilgan boʻlishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-7355450",
+      "matn": "Xatlash toʻgʻrisidagi ajrimda u kim tomonidan, qachon va qaysi ish boʻyicha chiqarilgani, nima maqsadda va kimning mol-mulki xatlanishi lozimligi koʻrsatiladi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-7355453",
+      "matn": "Sudyaning mol-mulkni xatlash toʻgʻrisidagi ajrimi oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi. Sudyaning ajrimi prokurorga, surishtiruvchiga yoki tergovchiga ijro uchun, gumon qilinuvchiga, ayblanuvchiga, qonuniy vakilga, himoyachiga esa maʼlumot uchun yuboriladi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-7355454",
+      "matn": "Mol-mulkni xatlash toʻgʻrisidagi iltimosnomani qoʻzgʻatish haqidagi qaror chiqarilganidan keyin surishtiruvchi yoki tergovchi tomonidan garov reyestriga bir kun ichida tegishli yozuv kiritiladi, mol-mulkni xatlash toʻgʻrisida sud ajrimi chiqarilganidan keyin esa qonunchilikka muvofiq vakolatli boʻlgan organlar tomonidan uch sutka ichida shunday yozuv kiritiladi."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-7355455",
+      "matn": "Sudyaning mol-mulkni xatlash toʻgʻrisidagi yoki mol-mulkni xatlashni rad etish haqidagi ajrimi ustidan mol-mulk xatlangan kundan eʼtiboran yetmish ikki soat ichida ayblanuvchi, qonuniy vakil, himoyachi tomonidan apellyatsiya tartibida shikoyat berilishi, ajrim chiqarilgan kundan eʼtiboran shu muddat ichida apellyatsiya tartibida prokuror tomonidan protest bildirilishi mumkin. Apellyatsiya shikoyati (protesti) ajrim chiqargan sud orqali beriladi, mazkur sud yigirma toʻrt soat ichida ularni materiallar bilan birga apellyatsiya instansiyasi sudiga yuborishi shart. Apellyatsiya instansiyasi sudining sudyasi ushbu materiallarni shikoyat (protest) bilan birga kelib tushgan paytdan eʼtiboran yetmish ikki soatdan kechiktirmay yakka tartibda koʻrib chiqishi kerak."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-7355456",
+      "matn": "Apellyatsiya shikoyati (protesti) berilishi sudning mol-mulkni xatlash toʻgʻrisidagi ajrimi ijrosini toʻxtatib turmaydi."
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111460#-7355457",
+      "matn": "Apellyatsiya instansiyasi sudining sudyasi apellyatsiya shikoyatini (protestini) koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-7355460",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni (protestni) esa qanoatlantirmay qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-7355461",
+          "matn": "sudyaning ajrimini bekor qilishga va mol-mulkni xatlashga rozilik berishga yoki mol-mulkni xatlashni rad etishga haqli."
+        }
+      ]
+    },
+    {
+      "q": 9,
+      "id": "https://lex.uz/docs/-111460#-7355462",
+      "matn": "Mol-mulkni xatlash rad etilgan taqdirda, mazkur masala boʻyicha takroran sudga murojaat qilishga mol-mulkni xatlashni taqozo etadigan yangi holatlar yuzaga kelganda yoʻl qoʻyiladi."
+    }
+  ]
+}

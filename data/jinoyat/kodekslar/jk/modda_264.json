@@ -1,0 +1,30 @@
+{
+  "n": "264",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268410",
+  "sarlavha": "264-modda. Temir yoʻlning harakatlanadigan tarkibini, havo, dengiz yoki daryo kemasini olib qochish yoki egallab olish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268412",
+      "matn": "Temir yoʻlning harakatlanadigan tarkibini, havo, dengiz yoki daryo kemasini olib qochish yoki egallab olish — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268419",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268421",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268425",
+          "matn": "zoʻrlik ishlatib yoki zoʻrlik ishlatish bilan qoʻrqitib sodir etilgan boʻlsa, — oʻn yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

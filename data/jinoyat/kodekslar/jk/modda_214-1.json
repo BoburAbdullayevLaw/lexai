@@ -1,0 +1,57 @@
+{
+  "n": "214-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-7203404",
+  "sarlavha": "214¹-modda. Sport musobaqalari ishtirokchilari va tashkilotchilarining qonunga xilof ravishda moddiy qimmatliklar olishi yoki mulkiy manfaatdor boʻlishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-7203406",
+      "matn": "Sport musobaqalari natijalarini yoki ularning borishini qasddan oʻzgartirish maqsadida sportchining, trenerning, sport hakamining yoxud sport musobaqalari boshqa ishtirokchilarining va tashkilotchilarining ular bajarishi lozim yoki mumkin boʻlgan muayyan harakatni pora evaziga ogʻdirib olayotgan shaxs manfaatlarini koʻzlab bajarishi yoxud bajarmasligi evaziga qonunga xilof ekanligini bila turib, moddiy qimmatliklar olishi yoki mulkiy manfaatdor boʻlishi, ushbu Kodeksning 210 va 214-moddalarida nazarda tutilgan jinoyat alomatlari mavjud boʻlmaganda, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yilgacha muayyan huquqdan mahrum qilish yoxud bir yildan uch yilgacha ozodlikni cheklash yoki bir yildan uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7203409",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7203410",
+          "matn": "takroran;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7203411",
+          "matn": "koʻp miqdorda;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7203412",
+          "matn": "tamagirlik yoʻli bilan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-7203413",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan uch yuz baravarigacha miqdorda jarima yoki uch yildan besh yilgacha muayyan huquqdan mahrum qilish yoxud uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-7203416",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7203417",
+          "matn": "juda koʻp miqdorda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7203418",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

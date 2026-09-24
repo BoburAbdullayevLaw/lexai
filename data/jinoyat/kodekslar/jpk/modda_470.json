@@ -1,0 +1,44 @@
+﻿{
+  "n": 470,
+  "sarlavha_id": "-256617",
+  "sarlavha": "470-modda. Oqlov hukmining qaror qismi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256618",
+      "matn": "Oqlov hukmining qaror qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-256621",
+          "matn": "sudlanuvchining ismi, otasining ismi va familiyasi;"
+        },
+        {
+          "b": 2,
+          "id": "-256622",
+          "matn": "sudlanuvchini jinoyat sodir etilishida aybsiz deb eʼtirof etish va uni oqlash toʻgʻrisidagi qaror;"
+        },
+        {
+          "b": 3,
+          "id": "-3696669",
+          "matn": "sudlanuvchiga nisbatan qoʻllanilgan ehtiyot chorasini bekor qilish toʻgʻrisidagi qaror; basharti ehtiyot chorasi sifatida u qamoqda yoki uy qamogʻida saqlanayotgan boʻlsa, oqlangan shaxsni darhol, sud majlisi zalining oʻzida ozod qilish toʻgʻrisidagi qaror;"
+        },
+        {
+          "b": 4,
+          "id": "-256624",
+          "matn": "qoʻzgʻatilgan fuqaroviy daʼvoni qanoatlantirish rad etilgan boʻlsa, daʼvoni taʼminlash uchun koʻrilgan choralarni bekor qilish toʻgʻrisidagi qaror;"
+        },
+        {
+          "b": 6,
+          "id": "-256626",
+          "matn": "oqlangan shaxsning unga yetkazilgan mulkiy ziyonni qoplash hamda maʼnaviy va boshqa ziyon oqibatlarini ushbu Kodeksning 304 — 313-moddalarida nazarda tutilgan tartibda bartaraf qilish huquqini eʼtirof etish."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-5232243",
+      "matn": "Sudlanuvchi sodir etilgan jinoyatga daxldor emasligi sababli oqlangan taqdirda, oqlov hukmining qaror qismida jinoyat sodir etgan shaxslarni aniqlash va ularni jinoiy javobgarlikka tortish uchun ish prokurorga yuborilishi koʻrsatiladi."
+    }
+  ]
+}

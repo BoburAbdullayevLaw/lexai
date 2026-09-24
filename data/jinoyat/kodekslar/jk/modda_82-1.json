@@ -1,0 +1,31 @@
+{
+  "n": "82-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3166053",
+  "sarlavha": "82¹-modda. Majburiy jamoat ishlari",
+  "umumiy_sharh": [
+    "Majburiy jamoat ishlari faqat mehnatga layoqatli voyaga yetmaganlarga nisbatan qo'llanishi mumkin.",
+    "Qonun majburiy jamoat ishlari jazosini voyaga yetmaganlarga shunday shartlar bilan belgilaydi, bu, birinchidan, majburiy jamoat ishlari voyaga yetmaganlarni sog'lig'iga va ma'naviy jihatdan rivojlanishiga zarar yetkazmasligi, ikkinchidan, majburiy jamoat ishlari o'qish jarayonini buzmasligi lozim. Tayinlanayotgan jazo voyaga yetmaganlarni sog'lig'iga jismoniy va ruhiy zarar yetkazmasligi kerak.",
+    "Mahkum uchun belgilangan ishga chiqmasligi, ish hajmini bajarmasligi, shuningdek ish vaqtini bo'sh o'tkazishi va hokazolarni majburiy jamoat ishlari jazosini o'tashdan bo'yin tovlash deb tushunish lozim."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3166054",
+      "matn": "Majburiy jamoat ishlari faqat mehnatga layoqatli voyaga yetmaganlarga nisbatan oltmish soatdan ikki yuz qirq soatgacha bo'lgan muddatga tayinlanadi. Majburiy jamoat ishlari voyaga yetmaganlarning sog'lig'iga va ma'naviy jihatdan rivojlanishiga zarar yetkazmasligi, o'qish jarayonini buzmasligi lozim.",
+      "sharh": []
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3166055",
+      "matn": "O'n olti yoshdan o'n sakkiz yoshgacha bo'lgan shaxslar tomonidan majburiy jamoat ishlarini bajarish muddati, agar qonunda boshqacha qoida belgilanmagan bo'lsa, olti oy davomida kuniga ikki soatdan oshmasligi, mahkumga bog'liq bo'lmagan holatlar yuzaga kelgan taqdirda esa, bir yilgacha bo'lgan muhlatda kuniga ikki soatdan oshmasligi kerak.",
+      "sharh": []
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3166057",
+      "matn": "Mahkum jazoni o'tashdan bo'yin tovlagan taqdirda, sud majburiy jamoat ishlarining o'talmagan muddatini majburiy jamoat ishlarining to'rt soatini ozodlikni cheklashning yoki ozodlikdan mahrum qilishning bir kuniga tenglashtirgan holda hisoblab, ozodlikni cheklash yoki ozodlikdan mahrum qilish tariqasidagi jazo bilan almashtiradi. Jazoni o'tashdan bo'yin tovlanilgan vaqt jazoning o'talgan muddatiga qo'shib hisoblanmaydi.",
+      "sharh": []
+    }
+  ]
+}

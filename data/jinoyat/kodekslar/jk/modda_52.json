@@ -1,0 +1,38 @@
+{
+  "n": 52,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184659",
+  "sarlavha": "52-modda. Harbiy yoki maxsus unvondan mahrum qilish",
+  "umumiy_sharh": [
+    "Harbiy yoki maxsus unvondan mahrum qilish — qo'shimcha jazo turi. Ma'naviy jazo bo'lib, ayrim imtiyozlardan mahrum qiladi.",
+    "Faqat og'ir yoki o'ta og'ir jinoyat uchun qo'llaniladi. Sud hukmi bilan asoslash shart.",
+    "Bu jazo xizmatda, zaxirada yoki nafaqada bo'lgan barcha shaxslarga qo'llanilishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184660",
+      "matn": "Harbiy yoki maxsus unvonga ega boʻlgan shaxs ogʻir yoki oʻta ogʻir jinoyat uchun hukm qilinganida sud hukmi bilan mazkur unvondan mahrum qilinishi mumkin.",
+      "sharh": [
+        "Og'ir yoki o'ta og'ir jinoyat uchun qo'llaniladi (15-modda — batafsil).",
+        "Sud hukmida bu jazoni qo'llash lozimligi asoslab berilishi shart.",
+        "Asoslash kerak: jinoyatning og'irligi, unvonga aloqadorlik, unvon qanday qo'lga kiritilgani.",
+        "Polkovnik va ungacha unvonlar — sud hukmi bilan mahrum qilinadi.",
+        "Harbiy unvonlar: serjant va ofitser tarkibi. Maxsus: bojxona, soliq, prokuratura, IIV, FV xodimlari."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184661",
+      "matn": "Oliy harbiy yoki maxsus unvonga yoxud Oʻzbekiston Respublikasining davlat mukofotiga ega boʻlgan shaxs ogʻir yoki oʻta ogʻir jinoyati uchun hukm qilinganida sudning hukm asosida kiritadigan taqdimnomasiga binoan mazkur unvon yoki mukofotdan mahrum qilinishi mumkin.",
+      "sharh": [
+        "Oliy unvonlar (general-mayor, general-leytenant, general-polkovnik, armiya generali) — sud taqdimnomasi asosida unvon bergan organ qaror qiladi.",
+        "Davlat mukofotlari: O'zbekiston Qahramoni, ordenlar, medallar, faxriy unvonlar, Faxriy yorliq.",
+        "Oliy unvondan mahrum qilinsa — davlat mukofotlaridan ham mahrum etiladi.",
+        "Sud faqat taqdimnoma kiritadi — oxirgi qaror unvon bergan organga bog'liq.",
+        "Ilmiy darajalar (fan doktori, nomzodi), sport unvonlari, xorijiy unvonlardan mahrum qilish mumkin emas.",
+        "Bu jazoni IIOK tartibida amalga oshiriladi."
+      ]
+    }
+  ]
+}

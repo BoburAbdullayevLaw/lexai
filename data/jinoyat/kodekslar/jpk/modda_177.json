@@ -1,0 +1,22 @@
+﻿{
+  "n": 177,
+  "sarlavha_id": "-1634797",
+  "sarlavha": "177-modda. Komissiyaviy ekspertiza",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1634798",
+      "matn": "Komissiyaviy ekspertiza oʻtkazilayotganda ekspertlarning har biri ekspert tekshiruvlarini toʻliq hajmda oʻtkazadi va ular olingan natijalarni birgalikda tahlil qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-1634799",
+      "matn": "Ekspertlar umumiy fikrga kelganidan soʻng birgalikdagi xulosani yoki xulosa berishning iloji yoʻqligi toʻgʻrisidagi hujjatni tuzadi va imzolaydi."
+    },
+    {
+      "q": 3,
+      "id": "-1634800",
+      "matn": "Ekspertlar oʻrtasida kelishmovchiliklar kelib chiqqan taqdirda, ularning har biri kelishmovchiliklar kelib chiqqan barcha yoki ayrim masalalar boʻyicha alohida xulosa beradi."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "n": 161,
+  "sarlavha_id": "-254203",
+  "sarlavha": "161-modda. Olib qoʻyish va tintuv oʻtkazish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7234483",
+      "matn": "Surishtiruvchi yoki tergovchi olib qoʻyish yoki tintuv oʻtkazish haqidagi qarorga yoki ajrimga asosan ish uchun ahamiyatli boʻlgan narsalarni, hujjatlarni va elektron maʼlumotlarni qidirib topish maqsadida turar joyga yoki boshqa binoga kirishga haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-254206",
+      "matn": "Surishtiruvchi, tergovchi olib qoʻyish yoki tintuv oʻtkazishga kirishishdan oldin olib qoʻyish yoki tintuv oʻtkazilayotgan shaxsni qaror yoki ajrim bilan tanishtirib imzo qoʻydirishi shart."
+    },
+    {
+      "q": 3,
+      "id": "-254207",
+      "matn": "Surishtiruvchi, tergovchi olib qoʻyish yoki tintuv oʻtkazilayotgan binoda yoki oʻzga joyda turgan shaxslarning olib qoʻyish yoki tintuv tamom boʻlgunga qadar shu bino yoki joydan chiqib ketishini, shuningdek ularning bir-birlari bilan yoki boshqa shaxslar bilan gaplashishini taqiqlab qoʻyishga haqlidir."
+    },
+    {
+      "q": 4,
+      "id": "-7234537",
+      "matn": "Surishtiruvchi, tergovchi olib qoʻyish chogʻida qaror yoki ajrim bilan tanishtirganidan keyin olinishi lozim boʻlgan narsalarni, hujjatlarni va elektron maʼlumotlarni ixtiyoriy ravishda berishni taklif qiladi, taklif rad etilgan taqdirda majburiy ravishda oladi. Agar bu narsalar, hujjatlar va elektron maʼlumotlar olib qoʻyishni amalga oshirish toʻgʻrisidagi qarorda yoki ajrimda koʻrsatilgan joydan topilmasa, u holda tintuv oʻtkaziladi."
+    },
+    {
+      "q": 5,
+      "id": "-7234544",
+      "matn": "Surishtiruvchi, tergovchi tintuv oʻtkazishga kirishayotganida qarorni yoki ajrimni taqdim etganidan keyin olib qoʻyilishi kerak boʻlgan narsalarni, hujjatlarni yoki elektron maʼlumotlarni berishni taklif etadi. Agar ular ixtiyoriy ravishda berilsa, olib qoʻyish bayonnomasi tuziladi. Agar qidirilayotgan narsalar, hujjatlar yoki elektron maʼlumotlar berilmasa yoxud toʻliq holda berilmasa, tintuv oʻtkaziladi. Tintuv chogʻida tintuv oʻtkazish toʻgʻrisidagi qarorda yoki ajrimda koʻrsatilgan narsalar yoki hujjatlar yoxud elektron maʼlumotlar qidiriladi va olinadi. Ish uchun ahamiyatga ega boʻlgan boshqa narsalar, hujjatlar yoki elektron maʼlumotlar, xuddi shuningdek saqlanishi taqiqlangan ashyolar topilgan taqdirda, ular ham olib qoʻyilishi lozim. Surishtiruvchini, tergovchini bu narsalarni yoki hujjatlarni yoxud elektron maʼlumotlarni olib qoʻyishga undagan asoslar tintuv oʻtkazilganligi haqidagi bayonnomada aks ettiriladi."
+    },
+    {
+      "q": 6,
+      "id": "-7234547",
+      "matn": "Olinayotgan narsalarning, hujjatlarning va elektron maʼlumotlarning hammasi xolislarga, olib qoʻyish yoki tintuv oʻtkazishda hozir boʻlgan boshqa shaxslarga koʻrsatiladi, bayonnomada toʻliq aks ettiriladi, zarurat boʻlgan taqdirda oʻralib, muhrlanadi. Oʻrovni ochishga va muhrni olib tashlashga keyingi ish yuritish davomida faqat xolislar ishtirokida yoʻl qoʻyiladi."
+    },
+    {
+      "q": 7,
+      "id": "-254211",
+      "matn": "Olib qoʻyish yoki tintuv oʻtkazish vaqtida yopiq binolarni yoki buyumlar saqlanadigan joyni uning egasi oʻz ixtiyori bilan ochib berishdan bosh tortsa, surishtiruvchining, tergovchining oʻzi ularni ochishga haqlidir. Bunda zarurat boʻlmaganda qulflar, eshiklar va boshqa narsalarning shikastlantirilishiga yoʻl qoʻyilmasligi hamda uydagi saranjomlik buzilmasligi lozim."
+    },
+    {
+      "q": 8,
+      "id": "-7234565",
+      "matn": "Shaxsiy elektron maʼlumotlarni olib qoʻyish va tintuv qilish qonunga hamda sudning qaroriga asosan amalga oshiriladi."
+    }
+  ]
+}

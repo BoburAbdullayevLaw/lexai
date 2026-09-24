@@ -1,0 +1,34 @@
+{
+  "n": 63,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195034",
+  "sarlavha": "63-modda. Jazo muddatlarini hisoblash",
+  "umumiy_sharh": [
+    "Jazo muddatlarini to'g'ri hisoblash — qonuniy va adolatli jazo kafolati.",
+    "Oy va yillarda hisoblanganda jazo oyning oxirgi kuni tugaydi.",
+    "Kabisa yili yoki oyning kuni ahamiyatsiz."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2722286",
+      "matn": "Muayyan huquqdan mahrum qilish, axloq tuzatish ishlari, xizmat boʻyicha cheklash, qamoq, ozodlikni cheklash, intizomiy qismga joʻnatish, ozodlikdan mahrum qilish tarzidagi jazolarning muddatlari oylar va yillar bilan hisoblanadi.",
+      "sharh": [
+        "Oy va yillarda: jazo oyning oxirgi kuni tugaydi.",
+        "Masalan: 1 yil 3 martdan boshlansa — 2 martda tugaydi.",
+        "Oy oxiri: 2 oy 1 yanvardan — 28 fevralda; 3 oy — 31 martda.",
+        "Almashtirish, hisoblash, qo'shishda sutkalar bilan hisoblash mumkin.",
+        "Hukmda yil, oy va kun to'liq ko'rsatilishi kerak."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3165886",
+      "matn": "Majburiy jamoat ishlari tariqasidagi jazoning muddatlari soatlar bilan hisoblanadi.",
+      "sharh": [
+        "Faqat majburiy jamoat ishlari — soatlar bilan.",
+        "Boshqa jazolar: oy/yil yoki sutralar bilan."
+      ]
+    }
+  ]
+}

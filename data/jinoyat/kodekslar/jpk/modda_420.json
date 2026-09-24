@@ -1,0 +1,22 @@
+﻿{
+  "n": 420,
+  "sarlavha_id": "-256347",
+  "sarlavha": "420-modda. Jinoyat ishini koʻrishni toʻxtatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4516305",
+      "matn": "Sudlanuvchi yashiringan boʻlsa, shuningdek sudga kelishga imkoniyat bermaydigan ruhiy holati buzilgan yoki boshqa ogʻir kasallikka chalingan taqdirda, sud mazkur sudlanuvchiga nisbatan ishni toʻxtatadi va boshqa sudlanuvchilarga nisbatan ishni muhokama qilishni davom ettiraveradi. Agar sud ushbu Kodeksning 416 va 417-moddalarida nazarda tutilgan tartibda prokurorga qoʻshimcha protsessual harakatlarni amalga oshirishni topshirish haqida ajrim chiqarsa, shuningdek ishni alohida-alohida muhokama qilish haqiqatni aniqlashni qiyinlashtirgan taqdirda, ishni yuritish butunlay toʻxtatiladi. Yashiringan sudlanuvchini qidiruv sud ajrimi bilan eʼlon qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-256350",
+      "matn": "Sudlanuvchining ogʻir kasal boʻlganligi tufayli ishni koʻrish toʻxtatilgan taqdirda sud unga nisbatan tanlangan ehtiyot chorasini bekor qilish yoki oʻzgartirish masalasini muhokama qilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-260430",
+      "matn": "Sud jinoyat ishini koʻrishni toʻxtatish toʻgʻrisida ajrim chiqaradi."
+    }
+  ]
+}

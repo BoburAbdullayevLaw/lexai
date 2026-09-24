@@ -1,0 +1,44 @@
+{
+  "n": "405¹⁴",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305947",
+  "sarlavha": "405¹⁴-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5305948",
+      "matn": "Sudya dastlabki eshituvni oʻtkazish natijalari boʻyicha quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305949",
+          "matn": "jinoyat ishi boʻyicha ish yuritishni toʻxtatib turish toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305950",
+          "matn": "jinoyat ishi boʻyicha ish yuritishni tugatish haqida;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5305951",
+          "matn": "jinoyat ishini ayblov dalolatnomasini, ayblov xulosasini yoki tibbiy yoʻsindagi majburlov chorasini qoʻllash toʻgʻrisidagi qarorni tasdiqlagan prokurorga yuborish toʻgʻrisida;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-5305952",
+          "matn": "ushbu Kodeksda nazarda tutilgan hollarda jinoyat ishlarini birlashtirish yoki ajratish haqida;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-5305953",
+          "matn": "dalilni nomaqbul deb topish va chiqarib tashlash toʻgʻrisidagi iltimosnomani qanoatlantirish toʻgʻrisida yoki qanoatlantirishni rad etish haqida."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5305954",
+      "matn": "Ajrim chiqarilgan yoki ish apellyatsiya instansiyasi sudidan qaytgan paytdan eʼtiboran yetmish ikki soatdan kechiktirmay uni chiqargan sud tomonidan ijro etiladi."
+    }
+  ]
+}

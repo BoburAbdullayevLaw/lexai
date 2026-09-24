@@ -1,0 +1,35 @@
+{
+  "n": 88,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195909",
+  "sarlavha": "88-modda. Majburlov choralari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195911",
+      "matn": "Voyaga yetmagan shaxslarga nisbatan quyidagi majburlov choralari qoʻllaniladi:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-195914",
+          "matn": "sud belgilaydigan shaklda jabrlanuvchidan uzr soʻrash majburiyatini yuklash;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4645914",
+          "matn": "oʻn olti yoshga toʻlgan shaxs zimmasiga yetkazilgan zararni oʻz mablagʻi hisobidan yoki mehnati bilan toʻlash yoki bartaraf qilish majburiyatini yuklash. Ushbu chora agar yetkazilgan zarar belgilangan bazaviy hisoblash miqdorining oʻn baravaridan oshib ketmagan boʻlsa qoʻllaniladi. Boshqa hollarda yetkazilgan zarar fuqaroviy huquqiy tartibda undiriladi;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-195917",
+          "matn": "voyaga yetmaganni maxsus oʻquv-tarbiya muassasasiga joylashtirish."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-5449783",
+      "matn": "Voyaga yetmagan shaxslarni maxsus oʻquv-tarbiya muassasalarida boʻlish muddati va shartlari Oʻzbekiston Respublikasining qonunchiligi bilan belgilanadi."
+    }
+  ]
+}

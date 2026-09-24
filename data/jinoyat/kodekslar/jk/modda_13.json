@@ -1,0 +1,59 @@
+{
+  "n": 13,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-174960",
+  "sarlavha": "13-modda. Qonunning vaqt boʻyicha amal qilishi",
+  "umumiy_sharh": [
+    "Jinoyat toifasini aniqlashda qaysi qonun asosida ish olib borish kerakligini aniqlash uchun qonunning vaqt bo'yicha amal qilishini to'g'ri belgilash lozim.",
+    "Qonunning vaqtinchalik ta'sir chegarasining umumiy qoidasi: jinoyat sodir etilgan vaqtda ushbu qonun amalda bo'lsa, o'sha qonun qo'llaniladi.",
+    "Qonun tushunchasi faqat Oliy Majlis tomonidan qabul qilingan normativ-huquqiy hujjatlar bilan cheklanmaydi, balki Konstitutsiya, farmonlar, qarorlar, vazirliklar hujjatlari va mahalliy organlar qarorlarini ham qamrab oladi.",
+    "Qonunning hududda qo'llanilishi — normativ-huquqiy hujjatlar O'zbekiston hududida yashovchi barcha fuqarolar, mansabdor shaxslar va tashkilotlar uchun majburiy hisoblanadi.",
+    "Qonunni e'lon qilish — uni ommaning ongiga yetkazish. Rasmiy e'lon qilinmagan qonun asosida hech kim hukm qilinishi yoki jazoga tortilishi mumkin emas.",
+    "Qonunning kuchga kirishi — shu paytdan boshlab normativ-huquqiy hujjatlarning qoidalari barcha uchun majburiy hisoblanadi.",
+    "Normativ-huquqiy hujjatning amal qilishi muddati tugaganda, Konstitutsiyaga xilof deb topilganda, o'z kuchini yo'qotganligi yoki bekor qilinganda tugaydi.",
+    "Normativ-huquqiy hujjat Konstitutsiyaviy sud tomonidan Konstitutsiyaga xilof deb topilganda, u qabul qilingan kundan e'tiboran haqiqiy emas deb tan olinadi.",
+    "Qonun kuchining yo'qotilishi — yangi normativ-huquqiy hujjat qabul qilinishi bilan ifodalanadi. Ilgari qabul qilingan hujjatlar yangi normalarga zid bo'lsa, o'z kuchini yo'qotgan deb topilishi kerak.",
+    "Jinoyat sodir etilish vaqti sodir etilgan jinoyat tarkibiga qarab aniqlanadi: moddiy tarkibli jinoyatlarda oqibat kelib chiqqan vaqt, formal tarkibli jinoyatlarda harakat sodir etilgan vaqt.",
+    "Davomli jinoyatlarni kvalifikatsiya qilish uni tashkil qiluvchi oxirgi qilmish sodir etilganda amalda bo'lgan qonunga asoslanishi kerak.",
+    "Ishtirokchilikdagi jinoyatning sodir etish vaqti bajaruvchi bilan bir qatorda boshqa ishtirokchilar tomonidan sodir etilgan qilmishning vaqti bilan aniqlanadi.",
+    "Jinoyatga tayyorgarlik ko'rish yoki suiqasd qilish tamom bo'lmagan jinoyat hisoblanib, to'xtatib qolingan paytda amalda bo'lgan qonun qo'llaniladi.",
+    "Qonunning orqaga qaytish kuchining umumiy shartlari xalqaro huquqning umume'tirof etilgan me'yor sifatida tan olingan.",
+    "Qilmishning jinoiyligini bekor qiladigan, jazoni yengillashtiradigan yoki shaxsning ahvolini yaxshilaydigan qonungina orqaga qaytish kuchiga ega.",
+    "Qilmishning jinoiyligini bekor qilish deganda, jinoyatdan chiqarish (dekriminalizatsiya) tushuniladi.",
+    "Jazoni yengillashtiruvchi normalar: ilgari tayinlangan jazoni yengilroqqa almashtirish, sanksiyadan jazoni chiqarib tashlash, jazoning eng kam/qismini pasaytirish va boshqalar.",
+    "Shaxsning ahvolini yaxshilashga qaratilgan normalar: jinoyat tasnifining o'zgarishi, shartli ozod qilish, sudlanganlik muddatining tugashi va boshqalar.",
+    "Jazoni kuchaytiradigan, shaxsning holatini yomonlashtiradigan qonun orqaga qaytish kuchiga ega emas.",
+    "Orqaga qaytish kuchi faqat jinoiy javobgarlikka tortilgan shaxslar doirasiga taalluqli. Surishtiruv va tergov organlari tomonidan ish yuritilayotganda qo'llaniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-174963",
+      "matn": "Qilmishning jinoiyligi va jazoga sazovorligi ana shu qilmish sodir etilgan vaqtda amalda boʻlgan qonun bilan belgilanadi. Agar ushbu Kodeks moddasida harakat yoki harakatsizlik sodir qilish payti jinoyat tamomlangan payt deb hisoblangan boʻlsa, ijtimoiy xavfli qilmish bajarilgan payt jinoyat sodir qilingan vaqt deb topiladi. Agarda ushbu Kodeks moddasida jinoiy oqibat yuz berishi bilan jinoyat tamom boʻlgan deb hisoblangan boʻlsa, jinoiy oqibat yuz bergan payt jinoyat sodir etish vaqti deb topiladi.",
+      "sharh": [
+        "Jinoyat sodir etilgan vaqtda amalda bo'lgan qonun qo'llaniladi — bu qonunning vaqt bo'yicha ta'sir chegarasining umumiy qoidasi.",
+        "Jinoyatning sodir etilish vaqti jinoyat tarkibiga qarab aniqlanadi: moddiy tarkibli jinoyatlarda oqibat, formal tarkibli jinoyatlarda harakat sodir etilgan vaqt hisoblanadi.",
+        "Davomli jinoyatlarda oxirgi qilmish sodir etilganda amalda bo'lgan qonun qo'llaniladi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-174965",
+      "matn": "Qilmishning jinoiyligini bekor qiladigan, jazoni yengillashtiradigan yoki shaxsning ahvolini boshqacha tarzda yaxshilaydigan qonun orqaga qaytish kuchiga ega, yaʼni ushbu qonun kuchga kirgunga qadar tegishli jinoiy qilmish sodir etgan shaxslarga, shu jumladan jazoni oʻtayotgan yoki oʻtab boʻlgan shaxslarga nisbatan, agar ular hali sudlangan hisoblansalar, tatbiq etiladi.",
+      "sharh": [
+        "Qilmishning jinoiyligini bekor qiluvchi qonun orqaga qaytish kuchiga ega — bu dekriminalizatsiya qilishni anglatadi.",
+        "Jazoni yengillashtiruvchi normalar: jazo turini yengilroqqa almashtirish, sanksiyadan jazoni chiqarib tashlash, jazoning eng kam/qismini pasaytirish.",
+        "Shaxsning ahvolini yaxshilashga qaratilgan normalar: jinoyat tasnifining o'zgarishi, shartli ozod qilish, sudlanganlik muddatining tugashi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-174966",
+      "matn": "Qilmishni jinoyat deb hisoblaydigan, jazoni kuchaytiradigan yoki shaxsning holatini boshqacha tarzda yomonlashtiradigan qonun orqaga qaytish kuchiga ega emas.",
+      "sharh": [
+        "Jazoni kuchaytiradigan, shaxsning holatini yomonlashtiradigan qonun orqaga qaytish kuchiga ega emas — bu huquqiy kafolat hisoblanadi.",
+        "Agar qabul qilingan qonun jinoyatning yangi tarkibini shakllantirsa, sanksiya bilan umumiy va maxsus normalarni o'zaro qiyoslash kerak."
+      ]
+    }
+  ]
+}

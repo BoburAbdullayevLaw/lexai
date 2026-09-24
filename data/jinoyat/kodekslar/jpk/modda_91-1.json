@@ -1,0 +1,39 @@
+{
+  "n": "91-1",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-4354421",
+  "sarlavha": "91¹-modda. Tergov harakatlarini videokonferensaloqa rejimida oʻtkazish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-4354423",
+      "matn": "Guvohlar, jabrlanuvchilar, gumon qilinuvchilar va ayblanuvchilar ishtirokidagi tergov harakatlari (soʻroq, shaxslarni va narsalarni tanib olish, yuzlashtirish) mazkur shaxslarni ular turgan joydagi yoki yashash joyidagi viloyatning yoki tumanning yoxud shaharning huquqni muhofaza qiluvchi organiga yoki sudiga chaqirgan, texnik vositalardan foydalangan holda videokonferensaloqa rejimida oʻtkazilishi mumkin. Videokonferensaloqa jarayonida tergov harakati ishtirokchilari tergov harakati jarayoni va natijalarini toʻgʻridan-toʻgʻri translyatsiya orqali bevosita kuzatib boradi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-4354424",
+      "matn": "Tergov harakatlarini videokonferensaloqa rejimida oʻtkazish toʻgʻrisidagi qaror surishtiruvchi, tergovchi, prokuror yoki sud tomonidan oʻz tashabbusi bilan yoxud jinoyat protsessi ishtirokchilarining iltimosnomasiga koʻra qabul qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-4354427",
+      "matn": "Tergov harakatlarini videokonferensaloqa rejimida oʻtkazishda foydalaniladigan texnik vositalar va uskunalar quyidagi minimal talablarga javob berishi zarur:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-4354429",
+          "matn": "tasvir sifati boʻyicha — oʻlchami 1920×1080, sekundiga 50 ta kadr;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-4354430",
+          "matn": "ovoz sifati boʻyicha — chastota diapazoni 100-12 000 Gs;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-4354434",
+          "matn": "axborot xavfsizligini taʼminlash boʻyicha — VPN himoyalangan aloqa kanalidan foydalangan holda."
+        }
+      ]
+    }
+  ]
+}

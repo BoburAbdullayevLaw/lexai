@@ -1,0 +1,93 @@
+{
+  "n": 34,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179972",
+  "sarlavha": "34-modda. Retsidiv jinoyat",
+  "umumiy_sharh": [
+    "Retsidiv jinoyat — shaxsning ilgari qasddan sodir etgan jinoyati uchun sudlanganidan keyin qasddan yangi jinoyat sodir etishi. Bu bir qancha jinoyatlar tizimining eng xavfli shakli.",
+    "Retsidiv jinoyatning ikki umumiy belgisi: qasddan yangi jinoyatning sodir etilishi va ilgari qasddan sodir etilgan jinoyat uchun hukm qilinganlik.",
+    "Retsidiv jinoyatda ham har doim ikki yoki undan ortiq jinoyatning sodir etilishi, ulardan turli vaqtlarda ketma-ket sodir etilishi xos.",
+    "Retsidiv jinoyatning barcha turlari uchun qasddan sodir etish shart. Ehtiyotsizlik shaklidagi ikki jinoyat retsidiv jinoyat deb topilmaydi.",
+    "Retsidiv jinoyat sodir etish shaxsning ogohlantiruv-tarbiyaviy ta'sirga bo'ysunmaganligidan, uning xulqining ijtimoiy xavflilik darajasining oshganligidan dalolat beradi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179973",
+      "matn": "Shaxsning ilgari qasddan sodir etgan jinoyati uchun sudlanganidan keyin qasddan yangi jinoyat sodir etishi retsidiv jinoyat deb topiladi.",
+      "sharh": [
+        "Oddiy retsidiv jinoyat — shaxsning ilgari sudlangan jinoyatidan boshqa turdagi yoki bir turdagi qasddan yangi jinoyat sodir etishi.",
+        "Retsidiv jinoyatda jinoyatlarning bir turdaligi ham, har xil turdaligi ham mumkin. Tamom bo'lgan yoki tamom bo'lmagan jinoyat, bajaruvchi yoki ishtirokchi — hammasi ahamiyatsiz.",
+        "Hukm qilinganlik retsidiv jinoyatni takroran jinoyat sodir etishdan farqlashning asosiy belgisi. Sudlanganlik olib tashlanmagan yoki o'chmagan bo'lishi shart.",
+        "Retsidiv jinoyat sodir etilganda shaxsning jinoyat tarkibida bajaruvchi yoki ishtirokchi bo'lganligi ahamiyatga ega emas.",
+        "Retsidiv jinoyat jazo tayinlashda og'irlashtiruvchi holat (56-modda 1-qism «n» bandi) sifatida hisobga olinadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179974",
+      "matn": "Ilgari hukm qilingan jinoyatiga oʻxshash jinoyat sodir etgan, ushbu Kodeksda alohida koʻrsatilgan hollarda esa, Maxsus qismning boshqa moddalari bilan ham hukm qilingan shaxsning qasddan yangi jinoyat sodir etishi xavfli retsidiv jinoyat deb topiladi.",
+      "sharh": [
+        "Xavfli retsidiv jinoyat — shaxsning ilgari sudlangan jinoyatiga o'xshash (bir xil) jinoyatni qasddan sodir etishi. Bu holda shaxsning xulqining barqarorligi namoyon bo'ladi.",
+        "Xavfli retsidiv jinoyatning belgilari: ilgari hukm qilingan jinoyatga o'xshash jinoyatni qasddan sodir etish yoki Kodeksda alohida ko'rsatilgan hollarda boshqa moddalar bo'yicha hukm qilingan holda yangi jinoyat sodir etish.",
+        "O'xshash jinoyatlar — aynan bir moddada yoki moddaning muayyan qismida nazarda tutilgan jinoyat. Xavfli retsidiv, odatda, Maxsus qismning ko'pgina moddalarida baholanadigan belgi sifatida nazarda tutiladi.",
+        "Xavfli retsidiv modda konstruksiyasida baholanadigan belgi sifatida nazarda tutilmagan bo'lsa, jazoni og'irlashtiruvchi holat (56-modda 1-qism «n» bandi) sifatida kvalifikatsiya qilinadi.",
+        "Sudlanganlik olib tashlangan yoki o'chgan, javobgarlik yoki jazodan ozod qilingan holda xavfli retsidiv jinoyat, deb topish mumkin emas."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-179975",
+      "matn": "Besh yildan kam boʻlmagan muddatga ozodlikdan mahrum qilish jazosi tayinlanishi mumkin boʻlgan qasddan yangi jinoyat sodir etish, yaʼni:",
+      "sharh": [
+        "O'ta xavfli retsidiv jinoyatning birinchi turi (band «a»): ilgari o'ta og'ir jinoyati uchun yoki ikki marta og'ir jinoyati uchun hukm qilinib, ularning har birida besh yildan kam bo'lmagan ozodlikdan mahrum qilish jazosi tayinlangan shaxs tomonidan o'ta og'ir jinoyatning sodir etilishi.",
+        "O'ta xavfli retsidiv jinoyatning ikkinchi turi (band «b»): ilgari og'ir jinoyati uchun ikki marta hukm qilingan yoki og'ir yoki o'ta og'ir jinoyatlar uchun ularning har biriga besh yildan kam bo'lmagan ozodlikdan mahrum qilish jazosi tayinlangan shaxsning og'ir jinoyatning sodir etilishi.",
+        "Og'ir va o'ta og'ir jinoyatlar faqat qasddan sodir etilishi mumkin (15-modda). Jinoyatlarning ijtimoiy xavflilik darajasining eng past chegarasi — besh yillik ozodlikdan mahrum qilish.",
+        "O'ta xavfli retsidivda ayb shakllari ko'rsatilmagan, biroq og'ir/o'ta og'ir jinoyatlar faqat qasddan bo'lishi qonundan kelib chiqadi.",
+        "Sud shartli hukm qilingan yoki hukm ijrosi kechiktirilgan shaxsni ham, agar sinov muddati ichida yangi jinoyat sodir etsa, o'ta xavfli retsidivist deb topishga haqli."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-179978",
+      "matn": "Sudning hukmi bilan shaxs oʻta xavfli retsidivist deb topilishi mumkin.",
+      "sharh": [
+        "O'ta xavfli retsidivist deb topishning asosiy o'ziga xos belgisi faqat sud tomonidan mustahkamlanishidir.",
+        "Sudlar ijtimoiy xavflilikning haqiqiy tabiati va darajasini aniqlashda ustunlikka ega va har bir muayyan vaziyatda ish holatlari va shaxs haqidagi aniq ma'lumotlardan kelib chiqishlari lozim.",
+        "O'ta xavfli retsidivist erkaklar maxsus tartibli koloniyalarda, ayollar qattiq tartibli koloniyalarda jazo o'taydilar.",
+        "Ularga shartli ravishda jazo tayinlash, jazo muddatidan ilgari shartli ozod etish va jazoni yengilrog'i bilan almashtirish mumkin emas.",
+        "Sudlanganlikning olib tashlanishi 79-modda 2-qism asosida bekor qilinishi mumkin."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-179979",
+      "matn": "Shaxsni oʻta xavfli retsidivist deb topish toʻgʻrisidagi masala hal qilinayotgan vaqtda uning boshqa davlatlar sudlarining hukmlari boʻyicha sudlanganligi ham hisobga olinishi mumkin.",
+      "sharh": [
+        "Boshqa davlat sudining hukmi ham hisobga olinishi mumkin, chunki bu aybdor xulqining muayyan ijtimoiy qoralanishini ifodalaydi.",
+        "Boshqa davlatda sodir etilgan jinoyat og'ir yoki o'ta og'ir bo'lishi va shaxs besh yildan kam bo'lmagan muddatga ozodlikdan mahrum etilgan bo'lishi shart.",
+        "Boshqa davlatda sodir etilgan jinoyatning jinoiyligi milliy jinoyat qonunchiligiga muvofiq bo'lishi kerak."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-179980",
+      "matn": "Shaxsni oʻta xavfli retsidivist deb topish toʻgʻrisidagi masala hal qilinayotgan vaqtda uning oʻn sakkiz yoshga toʻlgunga qadar sodir etgan jinoyati uchun sudlanganligi, shuningdek qonunda belgilangan tartibda sudlanganlik muhlatlarining oʻtib ketganligi yoki olib tashlangan sudlanganligi inobatga olinmaydi.",
+      "sharh": [
+        "Voyaga yetmaganlikdagi (18 yoshgacha) sudlanganlik o'ta xavfli retsidivist deb topishda hisobga olinmaydi.",
+        "Sudlanganlik muddatining o'tib ketganligi yoki sudlanganlikning olib tashlanishi ham hisobga olinmaydi — faqat amaldagi sudlanganlik qaraladi.",
+        "Voyaga yetgan davrda sodir etilgan jinoyatlar uchun sudlanganlik e'tiborga olinishi lozim."
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111453#-179981",
+      "matn": "Ushbu Kodeks Maxsus qismining oʻta xavfli retsidivist tomonidan sodir etilgan jinoyatlar uchun javobgarlikni belgilovchi moddalari shaxs ushbu jinoyatni sodir etgunga qadar qonunda belgilangan tartibda oʻta xavfli retsidivist deb topilgan boʻlsagina qoʻllaniladi.",
+      "sharh": [
+        "O'ta xavfli retsidivist bilan bog'liq maxsus kvalifikatsiya belgilari faqat shaxs qonunda belgilangan tartibda o'ta xavfli retsidivist deb topilgan bo'lsaagina qo'llaniladi.",
+        "Bu qoida shundan dalolat beradiki, sud tomonidan tan olingan retsidiv jinoyatning huquqiy oqibatlari keyinchalik jinoyat sodir etish bilan tan olinadi.",
+        "Jinoiy javobgarlikdan yoki jazodan ozod etishning bir qancha cheklashlari belgilanishi mumkin: shartli hukm, muddatidan ilgari ozod etish va jazoni almashtirish qo'llanilmaydi."
+      ]
+    }
+  ]
+}

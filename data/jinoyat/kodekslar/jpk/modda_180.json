@@ -1,0 +1,22 @@
+﻿{
+  "n": 180,
+  "sarlavha_id": "-254324",
+  "sarlavha": "180-modda. Ekspertiza tayinlash toʻgʻrisidagi qaror yoki ajrim",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7234973",
+      "matn": "Ekspertiza tayinlash toʻgʻrisida tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi qaror, sud esa ajrim chiqaradi. Unda: ekspertiza tayinlash uchun asos boʻlgan sabablar; ekspertizaga yuborilayotgan ashyoviy, yozma va raqamli dalillar yoki boshqa obyektlar, ularning qachon, qayerda va qaysi holatda topilganligi va olinganligi; ish materiallari boʻyicha ekspertiza oʻtkazishda esa ekspert xulosasi asoslanishi lozim boʻlgan maʼlumotlar; ekspert oldiga qoʻyilgan savollar; ekspertiza muassasasining nomi yoki ekspertiza oʻtkazish topshirilgan shaxsning familiyasi koʻrsatilishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-254328",
+      "matn": "Zarur hollarda ekspertiza jinoyat ishi qoʻzgʻatilishidan oldin ham tayinlanishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254330",
+      "matn": "Ekspertiza oʻtkazish toʻgʻrisidagi qaror yoki ajrim unga taalluqli shaxslar uchun majburiydir."
+    }
+  ]
+}

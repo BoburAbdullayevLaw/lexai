@@ -1,0 +1,34 @@
+﻿{
+  "n": 481,
+  "sarlavha_id": "-6626320",
+  "sarlavha": "481-modda. Jinoyat ishini yuqori sud tomonidan koʻrishda prokurorning ishtirok etishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626323",
+      "matn": "Jinoyat ishini apellyatsiya, kassatsiya, taftish tartibida koʻrishda prokuror ishtirok etadi."
+    },
+    {
+      "q": 2,
+      "id": "-6626325",
+      "matn": "Jinoyat ishining koʻrilishida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626327",
+          "matn": "Qoraqalpogʻiston Respublikasi sudining, viloyatlar va Toshkent shahar sudlarining, Oʻzbekiston Respublikasi Harbiy sudining hayʼatlarida — Oʻzbekiston Respublikasi Bosh prokurori, Qoraqalpogʻiston Respublikasi, viloyat, Toshkent shahar prokurori, Oʻzbekiston Respublikasi Harbiy prokurori va ularga tenglashtirilgan prokurorlar, ularning oʻrinbosarlari yoki ular tomonidan vakolat berilgan prokuror;"
+        },
+        {
+          "b": 2,
+          "id": "-6626329",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudining Jinoyat ishlari boʻyicha sudlov hayʼatida — Oʻzbekiston Respublikasi Bosh prokurori, uning oʻrinbosarlari yoki ular tomonidan vakolat berilgan prokuror;"
+        },
+        {
+          "b": 3,
+          "id": "-6626332",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudining Rayosatida — Oʻzbekiston Respublikasi Bosh prokurori yoki uning oʻrinbosarlari ishtirok etadi."
+        }
+      ]
+    }
+  ]
+}

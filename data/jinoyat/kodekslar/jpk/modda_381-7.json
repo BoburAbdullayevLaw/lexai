@@ -1,0 +1,64 @@
+{
+  "n": "381⁷",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-3351783",
+  "sarlavha": "381⁷-modda. Surishtiruv yuritish muddati",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-3351784",
+      "matn": "Surishtiruv jinoyat ishi qoʻzgʻatilgan kundan boshlab bir oydan oshmagan muddatda tamomlanishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-3351785",
+      "matn": "Jinoyat ishlari birlashtirilayotganda ular boʻyicha ish yuritish muddati uzoqroq muddat davomida tergov qilingan jinoyat ishi boʻyicha belgilanadi. Bunda qolgan jinoyat ishlari boʻyicha ish yuritish muddati uzoqroq tergov qilingan ishning muddati bilan qamrab olinadi va qoʻshimcha ravishda hisobga olinmaydi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-3351786",
+      "matn": "Alohida ish yurituviga ajratilgan jinoyat ishi boʻyicha surishtiruv muddati, agar jinoyat ishi yangi jinoyat boʻyicha yoki yangi shaxsga nisbatan ajratilayotgan boʻlsa, tegishli qaror chiqarilgan kundan eʼtiboran hisoblanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-3351787",
+      "matn": "Qolgan hollarda muddat bu jinoyat ishi qaysi jinoyat ishidan alohida ish yurituviga ajratilgan boʻlsa, oʻsha jinoyat ishi qoʻzgʻatilgan paytdan eʼtiboran hisoblanadi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-3351788",
+      "matn": "Ish ayblov dalolatnomasi bilan, ishni tibbiy yoʻsindagi majburlov choralarini qoʻllash yoxud taraflarning yarashuvi uchun sudga yuborish toʻgʻrisidagi qaror bilan, amnistiya aktiga asosan jinoyat ishini tugatish haqida sudga iltimosnoma kiritish toʻgʻrisidagi taqdimnoma bilan prokurorga topshirilgan kuni yoxud ishni tugatish haqida qaror chiqarilgan kuni surishtiruv tamomlangan hisoblanadi."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-3351789",
+      "matn": "Surishtiruv muddatiga quyidagilar kirmaydi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-3351790",
+          "matn": "ayblanuvchi, himoyachi, shuningdek jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari ish materiallari bilan tanishib chiqqan vaqt;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-3351791",
+          "matn": "surishtiruv toʻxtatib turilgan vaqt;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-3351792",
+          "matn": "qoʻshimcha surishtiruv oʻtkazish uchun prokuror tomonidan qaytarilgan ish surishtiruvchiga kelib tushgunga qadar oʻtgan vaqt."
+        }
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-3351793",
+      "matn": "Ushbu moddaning birinchi qismida belgilangan surishtiruv muddati prokuror tomonidan yigirma kungacha uzaytirilishi mumkin."
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111460#-3351794",
+      "matn": "Ish qoʻshimcha surishtiruv oʻtkazish uchun qaytarib yuborilganda, shuningdek toʻxtatilgan yoki tugatilgan ish qayta tiklanganda qoʻshimcha surishtiruv muddati mazkur ishni surishtiruvchi qabul qilgan paytdan eʼtiboran oʻn kun doirasida belgilanadi."
+    }
+  ]
+}

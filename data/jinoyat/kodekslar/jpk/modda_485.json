@@ -1,0 +1,54 @@
+﻿{
+  "n": 485,
+  "sarlavha_id": "-6626378",
+  "sarlavha": "485-modda. Hukmni, ajrimni bekor qilish yoki oʻzgartirish asoslari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626380",
+      "matn": "Apellyatsiya, kassatsiya va taftish tartibida hukmni, ajrimni bekor qilish yoki oʻzgartirish asoslari quyidagilardan iborat:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626382",
+          "matn": "sud tergovining toʻliq emasligi yoki bir yoqlama olib borilganligi;"
+        },
+        {
+          "b": 2,
+          "id": "-6626384",
+          "matn": "hukmda, ajrimda bayon qilingan sud xulosalari ishning haqiqiy holatlariga muvofiq emasligi;"
+        },
+        {
+          "b": 3,
+          "id": "-6626386",
+          "matn": "ushbu Kodeks normalarining jiddiy ravishda buzilganligi;"
+        },
+        {
+          "b": 4,
+          "id": "-6626388",
+          "matn": "Jinoyat kodeksi normalarining notoʻgʻri qoʻllanilganligi;"
+        },
+        {
+          "b": 5,
+          "id": "-6626390",
+          "matn": "jazoning adolatsizligi;"
+        },
+        {
+          "b": 6,
+          "id": "-6626391",
+          "matn": "Jinoyat kodeksi Maxsus qismining tegishli moddasidagi yetkazilgan moddiy zararning oʻrni qoplangan taqdirda ozodlikdan cheklash va ozodlikdan mahrum qilish tariqasidagi jazo qoʻllanilmasligi haqidagi normaning qoʻllanilish zaruriyati mavjudligi;"
+        },
+        {
+          "b": 7,
+          "id": "-6626393",
+          "matn": "qilmishning jinoiyligini bekor qiladigan, jazoni yengillashtiradigan yoki shaxsning ahvolini boshqacha tarzda yaxshilaydigan qonunning qonuniy kuchga kirganligi;"
+        },
+        {
+          "b": 8,
+          "id": "-6626394",
+          "matn": "sudlanuvchiga nisbatan ayblovning ogʻirrogʻi bilan yoki haqiqiy holatlarga koʻra dastlabki ayblovdan jiddiy farq qiladigan ayblov bilan almashtirilganligi yoki sudlanuvchining yangi ayblov boʻyicha jinoiy javobgarlikka tortilganligi yoxud boshqa shaxsning ishda ayblanuvchi sifatida ishtirok etishga jalb qilinganligi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "n": "254",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-267974",
+  "sarlavha": "254-modda. Radioaktiv materiallardan qonunga xilof ravishda foydalanish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2966243",
+      "matn": "Radioaktiv materiallarga qonunga xilof ravishda ega boʻlish, ularni saqlash, ulardan foydalanish, ularni birovga oʻtkazish, koʻrinishini oʻzgartirish, sochib yuborish yoki buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-267979",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-267980",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-267981",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

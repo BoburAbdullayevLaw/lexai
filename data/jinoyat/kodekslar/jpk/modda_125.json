@@ -1,0 +1,24 @@
+﻿{
+  "n": 125,
+  "sarlavha_id": "-254009",
+  "sarlavha": "125-modda. Tanib olish uchun koʻrsatish asoslari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254011",
+      "matn": "Tanib olish uchun koʻrsatish guvoh, jabrlanuvchi, gumon qilinuvchi, ayblanuvchi yoki sudlanuvchining biror shaxs yoki narsa toʻgʻrisidagi koʻrsatuvini tekshirib koʻrish uchun quyidagi hollarda amalga oshiriladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-254013",
+          "matn": "bu koʻrsatuv muayyan bir shaxs yoki muayyan bir narsaga oid ekanligini aniqlash zarur boʻlganda;"
+        },
+        {
+          "b": 2,
+          "id": "-254014",
+          "matn": "surishtiruvchi, tergovchi yoki sudga maʼlum boʻlgan koʻplab shaxs yoki narsalar orasidan koʻrsatuvda tasvirlab berilgan shaxs yoki narsani topish zarur boʻlganda."
+        }
+      ]
+    }
+  ]
+}

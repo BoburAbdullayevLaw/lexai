@@ -1,0 +1,86 @@
+﻿{
+  "n": 374,
+  "sarlavha_id": "-255734",
+  "sarlavha": "374-modda. Jinoyat ishini tugatish toʻgʻrisidagi qaror",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255735",
+      "matn": "Jinoyat ishini tugatish toʻgʻrisidagi qaror belgilangan qoidalarga rioya qilingan holda tuziladi."
+    },
+    {
+      "q": 2,
+      "id": "-255736",
+      "matn": "Qarorning tavsif qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255737",
+          "matn": "jinoyat ishini qoʻzgʻatish asoslari va uning sodir etilishiga doir tergov vaqtida tekshirilgan tusmollar;"
+        },
+        {
+          "b": 2,
+          "id": "-255738",
+          "matn": "gumon qilinuvchi va ayblanuvchi tariqasida ishda ishtirok etishga jalb qilingan shaxslar toʻgʻrisidagi maʼlumotlar, ularga qoʻyilgan ayb va ularga nisbatan qoʻllanilgan ehtiyot choralari, basharti bu shaxslarga qoʻyilgan gumon yoki ayb ilgari chiqarilgan alohida qaror bilan tugatilmagan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-255739",
+          "matn": "jinoyat ishini tugatish asoslari;"
+        },
+        {
+          "b": 4,
+          "id": "-255740",
+          "matn": "bu asoslarni tasdiqlovchi dalillar, ular ishning qaysi jildlari va sahifalarida aks ettirilganligi;"
+        },
+        {
+          "b": 5,
+          "id": "-255741",
+          "matn": "ashyoviy dalillarning roʻyxati, bu ashyolar saqlanayotgan joy va ularning egalari, shuningdek manfaatdor shaxslar yoki muassasalar tomonidan bu ashyolarni ularga qaytarib berish toʻgʻrisidagi iltimoslari, basharti shunday iltimos qilingan boʻlsa;"
+        },
+        {
+          "b": 6,
+          "id": "-260326",
+          "matn": "fuqaroviy daʼvoni taʼminlash choralari bayon qilinadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-255743",
+      "matn": "Qarorning xulosa qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255744",
+          "matn": "jinoyat ishini tugatish toʻgʻrisidagi;"
+        },
+        {
+          "b": 2,
+          "id": "-255745",
+          "matn": "gumonni yoki ayblovni olib tashlash toʻgʻrisidagi;"
+        },
+        {
+          "b": 3,
+          "id": "-7693069",
+          "matn": "ehtiyot choralarini, ayblanuvchini lavozimidan chetlashtirish, pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish, Oʻzbekiston Respublikasidan chiqish huquqini vaqtincha cheklash, shaxsni tibbiy muassasaga joylashtirish tarzidagi protsessual majburlov choralarini, shuningdek fuqaroviy daʼvoni taʼminlash choralarini bekor qilish toʻgʻrisidagi;"
+        },
+        {
+          "b": 4,
+          "id": "-255747",
+          "matn": "ashyoviy dalillar toʻgʻrisidagi qarorlar bayon qilinadi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-255748",
+      "matn": "Tergovchi ishni tugatish toʻgʻrisida qaror chiqargach, bu haqda gumon qilinuvchiga, ayblanuvchiga, himoyachiga, shuningdek jabrlanuvchiga, fuqaroviy daʼvogarga, fuqaroviy javobgarga va ularning vakillariga, xuddi shuningdek ish korxona, muassasa, tashkilot yoki fuqaroning bergan xabari bilan qoʻzgʻatilgan boʻlsa, shu korxona, muassasa, tashkilot vakiliga yoxud fuqaroga xabar qiladi. Ayni vaqtda ularga ishni tugatish toʻgʻrisidagi qaror ustidan prokurorga shikoyat qilish huquqiga ega ekanliklari tushuntiriladi."
+    },
+    {
+      "q": 5,
+      "id": "-255750",
+      "matn": "Harbiy xizmatga chaqiriluvchi shaxsga nisbatan ish tugatilganda tergovchi bu haqda yetti kunlik muddat ichida yozma tarzda tuman (shahar) mudofaa ishlari boʻlimiga xabar qiladi."
+    }
+  ]
+}

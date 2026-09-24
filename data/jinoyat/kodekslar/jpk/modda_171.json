@@ -1,0 +1,17 @@
+﻿{
+  "n": 171,
+  "sarlavha_id": "-5138098",
+  "sarlavha": "171-modda. Telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish bayonnomasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5138100",
+      "matn": "Telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olishni hamda qayd qilishni amalga oshirgan shaxs ishga aloqador axborotning mazmunini bayon etgan holda bayonnoma tuzadi. Soʻzlashuvlar, xabarlar va maʼlumotlar yozuvi muhrlanadi hamda bayonnomaga qoʻshib qoʻyiladi."
+    },
+    {
+      "q": 2,
+      "id": "-5138105",
+      "matn": "Telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish bayonnomasida abonentning raqami, eshitib turish va qayd qilish vaqti hamda joyi, foydalanilgan texnik vositalarning turi va modeli, bu ishlarni amalga oshirgan shaxslar toʻgʻrisidagi maʼlumotlar, shuningdek ish uchun ahamiyatga ega boʻlishi mumkin boʻlgan boshqa maʼlumotlar ham aks ettiriladi."
+    }
+  ]
+}

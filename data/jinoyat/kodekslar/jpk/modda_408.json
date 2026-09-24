@@ -1,0 +1,27 @@
+﻿{
+  "n": 408,
+  "sarlavha_id": "-256262",
+  "sarlavha": "408-modda. Sud majlisida raislik qiluvchi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256264",
+      "matn": "Sud majlisida shu sudning raisi, uning oʻrinbosari yoki sudya raislik qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-256265",
+      "matn": "Raislik qiluvchi sud majlisiga rahbarlik qiladi, ishning barcha holatlarini sinchkovlik bilan, har tomonlama, toʻla va xolisona tekshirish hamda haqiqatni aniqlash uchun ushbu Kodeksda nazarda tutilgan hamma choralarni koʻradi, koʻrilayotgan ishga aloqasi boʻlmagan holatlarni sud muhokamasiga kiritmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-256267",
+      "matn": "Raislik qiluvchi sud majlisi zalida tartibga rioya qilinishini taʼminlaydi. Uning farmoyishlari taraflar va barcha hozir boʻlganlar uchun majburiydir."
+    },
+    {
+      "q": 4,
+      "id": "-256269",
+      "matn": "Taraflardan yoki boshqa shaxslardan birortasi raislik qiluvchining harakatlariga eʼtiroz bildirgan taqdirda bu eʼtirozlar sud majlisining bayonnomasiga yozib qoʻyiladi."
+    }
+  ]
+}

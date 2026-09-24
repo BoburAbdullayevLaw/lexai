@@ -1,0 +1,40 @@
+{
+  "n": 93,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-202215",
+  "sarlavha": "93-modda. Tibbiy yoʻsindagi majburlov choralarining turlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4519327",
+      "matn": "Tibbiy yoʻsindagi majburlov choralari jumlasiga quyidagilar kiradi:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-4519329",
+          "matn": "yashash joyi boʻyicha ruhiy-asab kasalliklari dispanserida (tuman (shahar) psixiatrining xonasida) majburiy ambulatoriya kuzatuvida boʻlish va davolanish;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4519332",
+          "matn": "yashash joyi boʻyicha umumiy tartibli psixiatriya muassasasining umumiy kuzatiladigan boʻlimida majburiy davolanish;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-4519333",
+          "matn": "umumiy tartibli psixiatriya muassasasining maxsus reabilitatsiya boʻlimida majburiy davolanish;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-4519336",
+          "matn": "kuzatuv kuchaytirilgan ruhiy kasalliklar shifoxonasida majburiy davolanish;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-4519337",
+          "matn": "jazoni ijro etish muassasalarining davolash-profilaktika yordami koʻrsatish boʻlimlarida hamda mahkumlarga moʻljallangan ixtisoslashgan shifoxonada majburiy ambulatoriya kuzatuvida boʻlish va davolanish."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "n": 511,
+  "sarlavha_id": "-6627479",
+  "sarlavha": "511-modda. Hukm va ajrim ustidan taftish tartibida shikoyat berish huquqiga ega boʻlgan shaxslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627480",
+      "matn": "Mahkum, uning himoyachisi, qonuniy vakili, jabrlanuvchi, uning vakili birinchi instansiya sudining apellyatsiya yoki kassatsiya, tegishli taftish tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek apellyatsiya yoki kassatsiya, tegishli taftish instansiyasi sudlarining hukmlari, ajrimlari ustidan taftish tartibida shikoyat berishga haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-6627482",
+      "matn": "Fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari birinchi instansiya sudining apellyatsiya yoki kassatsiya, tegishli taftish tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek apellyatsiya yoki kassatsiya, tegishli taftish instansiyasi sudlari hukmlarining, ajrimlarining fuqaroviy daʼvoga daxldor qismi ustidan taftish tartibida shikoyat berishga haqlidir."
+    },
+    {
+      "q": 3,
+      "id": "-6627484",
+      "matn": "Sudda oqlangan shaxs, uning himoyachisi va qonuniy vakili birinchi instansiya sudining apellyatsiya yoki kassatsiya, tegishli taftish tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek apellyatsiya yoki kassatsiya, tegishli taftish instansiyasi sudlari hukmlarining, ajrimlarining oqlash sabablari va asoslariga daxldor qismi ustidan taftish tartibida shikoyat berishga haqlidir."
+    },
+    {
+      "q": 4,
+      "id": "-6627485",
+      "matn": "Ishda taraf boʻlmagan shaxslar ham birinchi instansiya sudining apellyatsiya yoki kassatsiya, tegishli taftish tartibida koʻrib chiqilgan hukmlari, ajrimlari, shuningdek apellyatsiya yoki kassatsiya, tegishli taftish instansiyasi sudlari hukmlarining, ajrimlarining oʻz huquqlari va qonuniy manfaatlariga daxldor qismi ustidan taftish tartibida shikoyat berishga haqlidir."
+    }
+  ]
+}

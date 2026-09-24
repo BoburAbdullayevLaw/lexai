@@ -1,0 +1,44 @@
+﻿{
+  "n": 211,
+  "sarlavha_id": "-254570",
+  "sarlavha": "211-modda. Jinoyat ishini yuritish tamom boʻlganligi munosabati bilan ashyoviy dalillar toʻgʻrisida qabul qilinadigan qarorlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254571",
+      "matn": "Hukmda, shuningdek jinoyat ishini tugatish toʻgʻrisidagi ajrimda yoki qarorda ashyoviy dalillar masalasi quyidagi qoidalarga rioya etilgan holda hal qilinadi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3397304",
+          "matn": "gumon qilinuvchiga, ayblanuvchiga, sudlanuvchiga, mahkumga tegishli boʻlgan jinoyat qurollari musodara qilinishi kerak va ular tegishli muassasalarga topshiriladi yoki yoʻq qilib yuboriladi. Gumon qilinuvchiga, ayblanuvchiga, sudlanuvchiga, mahkumga tegishli boʻlmagan mol-mulk qonuniy egalariga, mulkdorlariga yoki ularning huquqiy vorislariga, shuningdek merosxoʻrlariga qaytarib beriladi. Gumon qilinuvchiga, ayblanuvchiga, sudlanuvchiga, mahkumga tegishli boʻlmagan mol-mulkning qonuniy egalari, mulkdorlari yoki ularning huquqiy vorislari, xuddi shuningdek merosxoʻrlari aniqlanmagan taqdirda, ushbu mol-mulk davlat daromadiga oʻtkaziladi;"
+        },
+        {
+          "b": 2,
+          "id": "-254573",
+          "matn": "muomaladan chiqarilgan ashyolar tegishli muassasalarga berilishi lozim yoki yoʻq qilib yuboriladi;"
+        },
+        {
+          "b": 3,
+          "id": "-254574",
+          "matn": "hech qanday qimmatga ega boʻlmagan ashyolar yoʻq qilib yuboriladi, manfaatdor shaxslar yoki muassasalar iltimos qilgan hollarda esa ularga berilishi mumkin;"
+        },
+        {
+          "b": 4,
+          "id": "-254575",
+          "matn": "jinoyat yoki boshqa gʻayrihuquqiy harakatlar sodir qilinishi natijasida qonuniy egasi va mulkdoridan mahrum boʻlib qolgan pullar yoki boshqa boyliklar qonuniy egalariga, mulkdorlariga yoki ularning huquq vorislariga, shuningdek merosxoʻrlariga qaytarib berilishi lozim;"
+        },
+        {
+          "b": 5,
+          "id": "-254576",
+          "matn": "jinoiy yoʻl bilan orttirilgan pullar va boshqa boyliklar sudning hukmiga binoan jinoyat natijasida yetkazilgan mulkiy zararni qoplashga oʻtkaziladi, mulkiy zarar koʻrgan shaxs aniqlanmagan taqdirda, davlat foydasiga oʻtkaziladi;"
+        },
+        {
+          "b": 6,
+          "id": "-254577",
+          "matn": "ashyoviy dalil hisoblanuvchi hujjatlar ularni saqlash zarurati tugagunga qadar ishda asrab turiladi yoki manfaatdor shaxslarga yoxud muassasalarga beriladi."
+        }
+      ]
+    }
+  ]
+}

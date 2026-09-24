@@ -1,0 +1,34 @@
+{
+  "n": "497³",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5232483",
+  "sarlavha": "497³-modda. Hukmlar ustidan apellyatsiya tartibida shikoyat berish va protest bildirish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5232485",
+      "matn": "Qonuniy kuchga kirmagan hukmlar ustidan apellyatsiya tartibida quyidagicha shikoyat berilishi va protest bildirilishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5232486",
+          "matn": "jinoyat ishlari boʻyicha tuman (shahar) sudlarining hukmi ustidan — Qoraqalpogʻiston Respublikasi sudiga, viloyatlar, Toshkent shahar sudiga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5232492",
+          "matn": "hududiy harbiy sudlarning hukmi ustidan — Oʻzbekiston Respublikasi Harbiy sudiga;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-6626571",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudining, Qoraqalpogʻiston Respublikasi sudining, viloyatlar, Toshkent shahar sudlarining, Oʻzbekiston Respublikasi Harbiy sudining hukmlari ustidan — ayni shu sudlarga."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-6626940",
+      "matn": "Apellyatsiya shikoyatlari (protestlari) hukm chiqargan sud orqali beriladi. Shikoyat (protest) bevosita apellyatsiya instansiyasi sudiga berilgan taqdirda, mazkur sud ularni hukm chiqargan sudga ushbu Kodeksning 497⁶-moddasida bayon etilgan talablarni bajarish uchun yuboradi."
+    }
+  ]
+}

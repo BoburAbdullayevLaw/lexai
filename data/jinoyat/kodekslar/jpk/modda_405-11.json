@@ -1,0 +1,54 @@
+{
+  "n": "405¹¹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305924",
+  "sarlavha": "405¹¹-modda. Nomaqbul dalillarni chiqarib tashlash toʻgʻrisidagi iltimosnoma",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5305925",
+      "matn": "Ayblanuvchi, himoyachi va davlat ayblovchisi jinoyat ishi materiallaridagi har qanday dalilni, agar ularni nomaqbul dalillar deb hisoblasa, chiqarib tashlash toʻgʻrisida iltimosnoma berishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5305926",
+      "matn": "Iltimosnoma jinoyat ishi sudga ayblov dalolatnomasi yoki ayblov xulosasi bilan birga yuborilganidan keyin, ayblov dalolatnomasining yoki ayblov xulosasining koʻchirma nusxasi olingan kundan eʼtiboran uch sutka ichida berilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5305927",
+      "matn": "Iltimosnomaning koʻchirma nusxasi ayblov dalolatnomasini yoki ayblov xulosasini tasdiqlagan prokurorga, shuningdek jabrlanuvchiga iltimosnoma sudga taqdim etilgan kunda yuboriladi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-5305928",
+      "matn": "Iltimosnomada quyidagilar koʻrsatilishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305929",
+          "matn": "taraf chiqarib tashlanishini iltimos qilayotgan dalil;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305930",
+          "matn": "dalilni nomaqbul deb topish va chiqarib tashlash uchun ushbu Kodeksda nazarda tutilgan asoslar."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-5305931",
+      "matn": "Dalillar qonunga xilof usullar bilan yoki jinoyat protsessi ishtirokchilarini qonun bilan kafolatlangan huquqlaridan mahrum qilgan yoki ularning huquqlarini cheklagan yoxud ushbu Kodeks talablarini buzgan holda olinganligiga asoslangan holda ularni chiqarib tashlash toʻgʻrisida himoya tarafi tomonidan berilgan iltimosnomani koʻrib chiqish chogʻida himoya tarafi taqdim etgan vajlarni rad etish prokurorning zimmasida boʻladi. Qolgan hollarda buni isbotlash vazifasi iltimosnoma bergan tarafning zimmasida boʻladi."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-5305932",
+      "matn": "Agar sud dalilni chiqarib tashlash toʻgʻrisida qaror qabul qilsa, mazkur dalil yuridik kuchini yoʻqotadi va u hukmga yoki boshqa sud qaroriga asos boʻlishi, shuningdek sud muhokamasi jarayonida bu dalilni tekshirish va undan foydalanish mumkin emas."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-5305933",
+      "matn": "Ishni mazmunan koʻrish davomida ilgari nomaqbul deb topilgan va chiqarib tashlangan dalilni maqbul deb topish masalasi taraflarning iltimosnomasiga asosan koʻrib chiqilishi mumkin."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "n": 15,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-174974",
+  "sarlavha": "15-modda. Jinoyatlarni tasniflash",
+  "umumiy_sharh": [
+    "Jinoyatlarni u yoki bu belgilariga qarab guruhlarga ajratish jinoyatlarni tasniflashdir. Ushbu modda jinoyatlarni moddiy belgisi, ya'ni jinoyatlarning ijtimoiy xavflilik tabiati va darajasiga qarab tasniflaydi.",
+    "Jinoyatning ijtimoiy xavflilik xususiyati sifat jihatini aks ettiradi. Ijtimoiy xavflilik darajasi bir xil fe'l-atvorli jinoyatlarning yetkazilgan zarar miqdorini ifodalaydi.",
+    "Dastlabki ikki kategoriyaga qasddan va ehtiyotsizlik orqasida sodir etilgan jinoyatlarni kiritish mumkin. Og'ir va o'ta og'ir jinoyatlar faqat qasddan sodir etiladi.",
+    "Og'ir jinoyatlarga qasddan sodir etilib, qonunda besh yildan ortiq, lekin o'n yildan ko'p bo'lmagan muddatga ozodlikdan mahrum qilish jazosi nazarda tutilgan jinoyatlar kiradi. Jazoning eng ko'p qismi hisobga olinadi.",
+    "O'ta og'ir jinoyatlarga qasddan sodir etilib, qonunda o'n yildan ortiq muddatga ozodlikdan mahrum qilish yoxud umrbod ozodlikdan mahrum qilish jazosi nazarda tutilgan jinoyatlar kiradi.",
+    "Jinoyatni tegishli turkumga kiritish huquqiy oqibatlarni keltirib chiqaradi: retsidiv xususiyati, umrbod ozodlikdan mahrum qilish, koloniyaning turi, jazo tayinlash, javobgarlikdan ozod qilish va boshqalar."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-174977",
+      "matn": "Jinoyatlar oʻz xususiyati va ijtimoiy xavflilik darajasiga koʻra: ijtimoiy xavfi katta boʻlmagan; uncha ogʻir boʻlmagan; ogʻir; oʻta ogʻir jinoyatlarga boʻlinadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-281688",
+      "matn": "Ijtimoiy xavfi katta boʻlmagan jinoyatlarga qasddan sodir etilib, qonunda uch yildan koʻp boʻlmagan muddatga ozodlikdan mahrum qilish tarzidagi jazo nazarda tutilgan jinoyatlar, shuningdek ehtiyotsizlik oqibatida sodir etilib, qonunda besh yildan koʻp boʻlmagan muddatga ozodlikdan mahrum qilish tarzidagi jazo nazarda tutilgan jinoyatlar kiradi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-281892",
+      "matn": "Uncha ogʻir boʻlmagan jinoyatlarga qasddan sodir etilib, qonunda uch yildan ortiq, lekin besh yildan koʻp boʻlmagan muddatga ozodlikdan mahrum qilish tarzidagi jazo nazarda tutilgan jinoyatlar, shuningdek ehtiyotsizlik oqibatida sodir etilib, qonunda besh yildan ortiq muddatga ozodlikdan mahrum qilish tarzidagi jazo nazarda tutilgan jinoyatlar kiradi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-175467",
+      "matn": "Ogʻir jinoyatlarga qasddan sodir etilib, qonunda besh yildan ortiq, lekin oʻn yildan koʻp boʻlmagan muddatga ozodlikdan mahrum qilish jazosi nazarda tutilgan jinoyatlar kiradi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-1319409",
+      "matn": "Oʻta ogʻir jinoyatlarga qasddan sodir etilib, qonunda oʻn yildan ortiq muddatga ozodlikdan mahrum qilish yoxud umrbod ozodlikdan mahrum qilish jazosi nazarda tutilgan jinoyatlar kiradi."
+    }
+  ]
+}

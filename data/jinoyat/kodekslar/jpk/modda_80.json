@@ -1,0 +1,72 @@
+﻿{
+  "n": 80,
+  "sarlavha_id": "-253730",
+  "sarlavha": "80-modda. Rad qilish va oʻzini oʻzi rad etish hamda ularni hal qilish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253731",
+      "matn": "Ushbu Kodeksning 76 — 79-moddalarida koʻrsatilgan holatlar mavjud boʻlgan taqdirda sudya, xalq maslahatchisi, prokuror, tergovchi, surishtiruvchi, sud majlisining kotibi, jamoat birlashmasining yoki jamoaning vakili, himoyachi, jabrlanuvchining, fuqaroviy daʼvogarning yoki fuqaroviy javobgarning vakili, ekspert, mutaxassis, tarjimon, xolis oʻzini oʻzi rad etishi shart. Agar oʻzlari bunday qilmasalar, ular shu asosga koʻra gumon qilinuvchi, ayblanuvchi, sudlanuvchi, shuningdek jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari, himoyachi tomonidan, sud majlisida esa, bundan tashqari davlat ayblovchisi, jamoat birlashmasi yoki jamoaning vakili tomonidan rad qilinishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-253732",
+      "matn": "Ishni tergov qilish chogʻida rad etish masalasi prokuror, tergovchi, surishtiruvchi tomonidan, sud majlisida esa, sud tomonidan ham qoʻyilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-253733",
+      "matn": "Rad qilish haqidagi arz asoslantirilgan boʻlishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "-253734",
+      "matn": "Rad qilingan shaxs rad etish haqidagi masala koʻrilguniga qadar tushuntirish berishga haqli."
+    },
+    {
+      "q": 5,
+      "id": "-253735",
+      "matn": "Sudyani rad qilish masalasi qolgan sudyalar tomonidan rad qilingan shaxsning ishtirokisiz koʻrib chiqiladi. Ovozlar teng boʻlinganda sudya rad qilingan hisoblanadi. Koʻpchilik sudyalarni yoki sudning butkul tarkibini yoxud sud majlisining kotibini rad qilish haqidagi masala toʻla tarkibdagi sud tomonidan oddiy koʻpchilik ovoz bilan hal etiladi. Ishni yakka oʻzi koʻrayotgan sudyani rad qilish masalasini uning oʻzi hal qiladi."
+    },
+    {
+      "q": 6,
+      "id": "-253736",
+      "matn": "Prokurorni rad qilish masalasi ishni tergov qilish chogʻida yuqori turuvchi prokuror tomonidan, sud majlisida esa, ishni koʻrayotgan sud tomonidan hal etiladi."
+    },
+    {
+      "q": 7,
+      "id": "-253737",
+      "matn": "Jamoat birlashmasi yoki jamoa vakilini rad qilish masalasi ishni koʻrayotgan sud tomonidan hal etiladi."
+    },
+    {
+      "q": 8,
+      "id": "-253738",
+      "matn": "Surishtiruvchi yoki tergovchini rad qilish masalasi surishtiruv va dastlabki tergov ustidan nazorat olib boruvchi prokuror tomonidan hal etiladi."
+    },
+    {
+      "q": 9,
+      "id": "-253739",
+      "matn": "Ekspertni, mutaxassisni, tarjimonni, himoyachini, jabrlanuvchining, fuqaroviy daʼvogarning, fuqaroviy javobgarning vakillarini rad qilish masalasi ishni tergov qilish chogʻida surishtiruvchi yoki tergovchi tomonidan, sud majlisida esa, ishni koʻrayotgan sud tomonidan hal etiladi."
+    },
+    {
+      "q": 10,
+      "id": "-253740",
+      "matn": "Xolisni rad qilish masalasi surishtiruvchi yoki tergovchi tomonidan hal etiladi."
+    },
+    {
+      "q": 11,
+      "id": "-253741",
+      "matn": "Ishni tergov qilish chogʻida qoʻyilgan rad qilish masalasi surishtiruvchi, tergovchi, prokuror tomonidan yigirma toʻrt soat ichida hal etiladi. Rad qilish sud majlisida qoʻyilgan boʻlsa, bu masala shu majlisda darhol hal etiladi."
+    },
+    {
+      "q": 12,
+      "id": "-253742",
+      "matn": "Rad qilishni qanoatlantirish yoki qanoatlantirmaslik haqida surishtiruvchi, tergovchi, prokuror qaror, sud esa ajrim chiqaradi."
+    },
+    {
+      "q": 13,
+      "id": "-3348887",
+      "matn": "Agar tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi ushbu Kodeksning 76, 79-moddalarida koʻrsatilgan holatlar mavjudligi sababli oʻzini oʻzi rad etmasa, uni rad qilish masalasi manfaatdor shaxslarning arizalariga koʻra tergovga qadar tekshiruvni amalga oshiruvchi organ boshligʻi yoki prokuror tomonidan hal qilinadi. Rad qilishni qanoatlantirish yoki qanoatlantirmaslik haqida qaror chiqariladi."
+    }
+  ]
+}

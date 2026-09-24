@@ -1,0 +1,36 @@
+{
+  "n": 180,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-6820404",
+  "sarlavha": "180-modda. Soxta toʻlovga qobiliyatsizlik",
+  "umumiy_sharh": [
+    "Sharhlanayotgan jinoyatning ijtimoiy xavfliligi shundaki, u sodir etilishi bilan bozor iqtisodiyotining asosiy qonunlari buziladi, xalq xo'jaligining normal faoliyat ko'rsatishi izdan chiqadi.",
+    "Mazkur jinoyatning obyekti bozor iqtisodiyotida o'rnatilgan qoidalarni amalga oshirish bilan bog'liq ijtimoiy munosabatlar, kreditorlar manfaatlari va ba'zi hollarda davlat manfaatlari hisoblanadi.",
+    "Bankrotlik (iqtisodiy nochorlik) deganda, xo'jalik sudi tomonidan e'tirof etilgan, qarzdorning pul majburiyatlari bo'yicha kreditorlar talablarini to'la hajmda qondirishga va (yoki) majburiy to'lovlar bo'yicha o'z majburiyatini to'la hajmda bajarishga qodir emasligi tushuniladi.",
+    "Obyektiv tomondan jinoyat xo'jalik yurituvchi subyektning o'z majburiyatlarini iqtisodiy jihatdan bajara olmasligi haqida bila turib, haqiqatga to'g'ri kelmaydigan e'lon berishi natijasida kreditorlarga ko'p miqdorda zarar yetkazilishida namoyon bo'ladi.",
+    "Bankrot deb e'lon qilish deganda, xo'jalik yurituvchi subyektning iqtisodiy nochor hisoblanishi, ya'ni kreditorlar oldida o'zining majburiyatlari bo'yicha to'liq javob bera olmay qolishi to'g'risida ma'lumotlar tarqatish tushuniladi.",
+    "Soxta bankrotlikning o'ziga xos jihati bankrotlik to'g'risida tarqalayotgan ma'lumotlarning haqiqatga to'g'ri kelmasligini bilish hisoblanadi.",
+    "Xo'jalik yurituvchi subyektning kreditorlarga ko'p miqdorida zarar yetkazilgan paytdan e'tiboran soxta tadbirkorlik tugallangan deb hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi. Aybdor o'zini yoki tijorat tashkilotini bila turib yolg'on ravishda bankrot deb e'lon qilayotganligini anglab yetadi.",
+    "Jinoyatning subyekti o'n olti yoshga to'lgan har qanday shaxs va tadbirkorlik bilan shug'ullanuvchi, xo'jalik subyekti nomidan harakat qila oladigan shaxs hisoblanadi.",
+    "Ushbu moddaning 2-qismiga muvofiq, yetkazilgan moddiy zarar uch karra miqdorida qoplangan taqdirda, ozodlikdan mahrum qilish tariqasidagi jazo qo'llanilmasligi haqidagi rag'batlantiruvchi norma belgilangan.",
+    "Soxta bankrotlikka doir ishlarni ko'rishda ishning barcha holatlarini sinchkovlik bilan, har tomonlama, to'la va xolisona tekshirib chiqish va bunday qalloblikning haqiqiy tashkilotchilarini aniqlash shart."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6820416",
+      "matn": "Soxta toʻlovga qobiliyatsizlik, yaʼni yuridik yoki jismoniy shaxsning yoxud yakka tartibdagi tadbirkorning kreditorlar oldidagi pul majburiyatlarini va (yoki) soliqlar hamda yigʻimlar boʻyicha majburiyatlarini iqtisodiy jihatdan bajara olishi haqida bila turib, ularni toʻliq hajmda bajara olmasligi toʻgʻrisida eʼlon berishi kreditorlarga koʻp miqdorda zarar yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravaridan ikki yuz ellik baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yildan uch yilgacha axloq tuzatish ishlari yoki ikki yildan uch yilgacha ozodlikni cheklash yoki ikki yildan uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2734430",
+      "matn": "Yetkazilgan moddiy zararning oʻrni qoplangan taqdirda ozodlikni cheklash va ozodlikdan mahrum qilish tariqasidagi jazo qoʻllanilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3094850",
+      "matn": "Birinchi marta jinoyat sodir etgan shaxs, agar u jinoyat aniqlangan kundan eʼtiboran oʻttiz kunlik muddatda yetkazilgan moddiy zararning oʻrnini qoplagan boʻlsa, javobgarlikdan ozod etiladi."
+    }
+  ]
+}

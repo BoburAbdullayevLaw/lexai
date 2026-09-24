@@ -1,0 +1,51 @@
+{
+  "n": 227,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1516014",
+  "sarlavha": "227-modda. Hujjatlar, shtamplar, muhrlar, blankalarni, avtomototransport vositalarining va ular tirkamalarining (yarim tirkamalarining) davlat raqam belgilarini egallash, nobud qilish, ularga shikast yetkazish yoki ularni yashirish",
+  "umumiy_sharh": [
+    "Jinoyatning ijtimoiy xavfliligi rasmiy hujjatlarni yuritish tartibini buzib, fuqarolar, korxona, muassasa va tashkilotlarning qonuniy manfaat va huquqlariga zarar yetkazishidir.",
+    "Jinoyatning obyekti qonunchilik va davlat hokimiyati organlarining talablariga binoan o'rnatilgan rasmiy hujjatlarni qayd etish, yuritish va saqlash tartibiga oid munosabatlar hamda fuqaro va yuridik shaxslarning huquqlari hamda qonuniy manfaatlari hisoblanadi.",
+    "Hujjat – yuridik ahamiyatga ega bo'lgan ma'lumotlar mavjud yozma aktdir. Jinoyat predmeti sifatida pasport, harbiy chipta yoki boshqa muhim shaxsiy hujjat ham qayd etiladi.",
+    "Elektron hujjatni ham jinoyat predmetiga kiritish maqsadga muvofiq. Elektron hujjat elektron raqamli imzo bilan tasdiqlangan axborot hisoblanadi.",
+    "Shtamp – axborotni tasdiqlash yoki hujjatlarni ro'yxatga olish vositasi. Shtamplar burchak, ro'yxatga olish, axborot va shaxsiy shtamplarga bo'linadi.",
+    "Muhr – yuridik yoki jismoniy shaxsning to'liq nomi yozilmagan matnning relyefli yoki o'ma tasvirdan iborat bosma qolipdir.",
+    "Blanka – burchak yoki markazda shtamp bosmasi tushirilgan yoki istalgan usulda shtamp matni bosilgan hujjatni tayyorlash uchun foydalaniladigan qog'oz varag'i.",
+    "Pasport – O'zbekiston Respublikasi fuqarosining fuqaroligini va uning egasi shaxsini tasdiqlovchi asosiy hujjat.",
+    "Harbiy bilet – fuqaroning harbiy xizmatga munosabatini, shaxsini va harbiy unvonini tasdiqlovchi hujjat.",
+    "Boshqa muhim shaxsiy hujjatlarga tug'ilganlik to'g'risida guvohnoma, nafaqa guvohnomasi, haydovchi guvohnomasi, diplom va boshqalar kiradi.",
+    "Jinoyat obyektiv tomondan egallash, nobud qilish, shikast yetkazish yoki yashirish harakatlari bilan tavsiflanadi.",
+    "Egallash deganda predmetlarni g'ayriqonuniy chiqarish va ularni o'zlashtirish tushuniladi.",
+    "Nobud qilish deganda predmetlarni identifikatsiya qilish va foydalanish imkoniyatining qoldirilmaganligi tushuniladi.",
+    "Shikast yetkazish deganda predmetlarni qayta tiklab bo'lmaydigan holatga keltirish tushuniladi.",
+    "Yashirish deganda predmetlardan foydalanish imkonini bermaydigan darajada yashirib qo'yish tushuniladi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd shaklida, g'arazli yoki boshqa past niyatlar mavjud bo'lishi shartligi bilan tavsiflanadi.",
+    "Subyekt o'n olti yoshga to'lgan har qanday aqli raso shaxs bo'lishi mumkin.",
+    "2-qism a bandi – pasport, harbiy bilet yoki o'ta muhim hujjatlarga nisbatan sodir etilganda qo'llaniladi.",
+    "2-qism b bandi – og'ir oqibatlarga sabab bo'lganda qo'llaniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1516039",
+      "matn": "Korxonalar, muassasalar, tashkilotlarning qatʼiy hisobidagi hujjatlar, shtamplar, muhrlar, blankalarni, shuningdek avtomototransport vositalarining va ular tirkamalarining (yarim tirkamalarining) davlat raqam belgilarini egallash, xuddi shuningdek ularni nobud qilish, ularga shikast yetkazish, ularni yashirish gʻarazgoʻylik yoki boshqa past niyatlarda sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yigirma besh baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-323698",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-5910868",
+          "matn": "pasport yoki identifikatsiyalovchi ID-karta, harbiy bilet yoki boshqa muhim shaxsiy hujjatlarga nisbatan yoxud oʻta muhim ahamiyatga ega boʻlgan hujjatlar, shtamplar, muhrlar, blankalarga nisbatan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-323700",
+          "matn": "ogʻir oqibatlarga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yildan uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

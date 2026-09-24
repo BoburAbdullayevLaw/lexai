@@ -1,0 +1,36 @@
+{
+  "n": 236,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-267000",
+  "sarlavha": "236-modda. Tergov qilishga yoki sud ishlarini hal etishga aralashish",
+  "umumiy_sharh": [
+    "Konstitutsiyaga ko'ra, sud hokimiyati qonun chiqaruvchi va ijro etuvchi hokimiyatlardan, siyosiy partiyalardan, boshqa jamoat birlashmalaridan mustaqil holda ish yuritadi.",
+    "Sudyalar mustaqildirlar, faqat qonunga bo'ysunadilar. Sudyalarning odil sudlovni amalga oshirish borasidagi faoliyatiga biron-bir tarzda aralashishga yo'l qo'yilmaydi.",
+    "Jinoyatning obyekti sud organlarining mustaqilligi va obro'i, surishtiruv, tergov, prokuratura organlarining normal faoliyati hisoblanadi.",
+    "Obyektiv tomondan jinoyat tergov qilishga yoki sud ishlarini hal etishga aralashishda ifodalanadi.",
+    "Tergov – jinoyat protsessining bir bosqichi bo'lib, dalillarni to'plash, tekshirish va baholashdan iborat faoliyat.",
+    "Sud ishlarini hal etish – sud tomonidan dalillar asosida o'tkaziladigan tekshirish jarayoni.",
+    "Aralashish turli shaklda bo'lishi mumkin: iltimos, talab, tahdid, orqali olib borish va boshqalar.",
+    "Aralashish yoki ta'sir etish ular aniq bir ishga taalluqli bo'lsa, jinoyat tarkibini tashkil etadi.",
+    "Fuqarolar yoki tashkilotlar boshliqlarining murojaatlari aralashish deb topilmaydi.",
+    "Jinoyat to'g'risida xabar berish, yangi dalillarni keltirish aralashish deb topilmaydi.",
+    "Aralashish bevosita boshlanishi hamon tugallangan deb topiladi.",
+    "Subyektiv tomondan jinoyat faqat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyat subyekti o'n olti yoshga to'lgan har qanday aqli raso shaxs.",
+    "Surishtiruvchi, tergovchi, prokuror, sudya faoliyatiga moddiy manfaat taklif qilib aralashish jinoyatlar majmui tariqasida kvalifikatsiya qilinadi.",
+    "2-qism mansabdor shaxs tomonidan sodir etilsa og'irroq javobgarlik belgilaydi.",
+    "Prokurorning tergovchi, surishtiruvchiga ko'rsatmalari aralashish deb topilmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-267002",
+      "matn": "Tergov qilishga yoki sud ishlarini hal etishga aralashish, yaʼni ishni har tomonlama, toʻla va xolisona oʻrganilishiga toʻsqinlik qilish maqsadida surishtiruvchi, tergovchi yoki prokurorga yoxud adolatsiz hukm, hal qiluv qarori, ajrim yoki qaror chiqarilishiga erishish maqsadida sudyaga turli shaklda qonunga xilof ravishda taʼsir oʻtkazish — uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-267005",
+      "matn": "Oʻsha harakat mansabdor shaxs tomonidan sodir etilgan boʻlsa, — muayyan huquqdan mahrum etib, uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

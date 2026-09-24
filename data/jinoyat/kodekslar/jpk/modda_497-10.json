@@ -1,0 +1,27 @@
+{
+  "n": "497¹⁰",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5232653",
+  "sarlavha": "497¹⁰-modda. Apellyatsiya shikoyatini yoki protestini qaytarib olish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5232655",
+      "matn": "Hukm ustidan shikoyat bergan yoki protest bildirgan shaxs oʻz shikoyatini yoki protestini qaytarib olishga haqli. Yuqori turuvchi prokuror ham protestni qaytarib olish huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5232657",
+      "matn": "Mahkumning himoyachisi, qonuniy vakili oʻz shikoyatini faqat mahkumning roziligi bilan qaytarib olishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5232658",
+      "matn": "Mahkum himoyachi tomonidan berilgan shikoyatni qaytarib olishga haqli."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-5232659",
+      "matn": "Apellyatsiya shikoyatini yoki protestini qaytarib olishga apellyatsiya instansiyasi sudi maslahatxonaga kirguniga qadar yoʻl qoʻyiladi."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "n": 57,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195008",
+  "sarlavha": "57-modda. Yengilroq jazo tayinlash",
+  "umumiy_sharh": [
+    "Yengilroq jazo tayinlash — insonparvarlik prinsipidan kelib chiqqan istisno. Faqat alohida holatlarda qo'llaniladi.",
+    "Ikki asos kerak: 1) ijtimoiy xavflilikni jiddiy kamaytiruvchi holatlar; 2) alohida holat.",
+    "Sankisiyada ko'rsatilgan jazodan ham yengilroq turdagi jazo tayinlash mumkin.",
+    "Qo'shimcha jazoni qo'llamaslik mustaqil huquqiy asos sifatida qo'llanilishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195009",
+      "matn": "Sud sodir etilgan jinoyatning ijtimoiy xavflilik darajasini jiddiy kamaytiruvchi holatlarni eʼtiborga olib, alohida hollarda ushbu Kodeks Maxsus qismining moddasida nazarda tutilgan mazkur jinoyat uchun belgilangan jazoning eng kam qismidan ham kamroq yoki shu moddada nazarda tutilmagan boshqa yengilroq turdagi jazoni tayinlashi mumkin.",
+      "sharh": [
+        "Ikki shart birgalikda: ijtimoiy xavflilikni jiddiy kamaytiruvchi holat + alohida holat.",
+        "Eng kam qismidan ham kamroq: masalan, 5 yil o'rniga 6 oy (lekin 6 oydan kam emas).",
+        "Yengilroq turdagi: 43-modda ro'yxatida yuqorida turgan jazo turi (masalan, ozodlikdan mahrum etish o'rniga axloq tuzatish).",
+        "Sanksiyada muqobil jazo bo'lsa, istalganini tanlash mumkin - cheklov yo'q.",
+        "Umumiy qism chegaralaridan chiqib ketmaslik kerak - masalan, 6 oydan kam ozodlikdan mahrum etish mumkin emas."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195010",
+      "matn": "Sud shu asoslarni eʼtiborga olib, ushbu Kodeks Maxsus qismining moddasida qoʻllanilishi shart deb koʻrsatilgan qoʻshimcha jazoni tayinlamasligi ham mumkin.",
+      "sharh": [
+        "Qo'shimcha jazoni qo'llamaslik mustaqil huquqiy asos.",
+        "Faqat sanksiyada shart deb ko'rsatilgan hollarda qo'llaniladi.",
+        "Hukmda asoslar keltirilishi kerak.",
+        "Asosiy jazo almashtirilgan taqdirda ham qo'shimcha jazo qo'llanishi mumkin."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195011",
+      "matn": "Sodir etilgan qilmish xususiyatlarini ifodalovchi holatlar, yaʼni aybdorning shaxsi, aybining shakli va darajasi, jinoyat qilish sharoiti va sabablari, shaxsning jinoyatni sodir qilguncha va undan keyingi xulq-atvori jinoyatning ijtimoiy xavflilik darajasini jiddiy kamaytiruvchi holatlar deb topilishi mumkin.",
+      "sharh": [
+        "Ijtimoiy xavflilikni jiddiy kamaytiruvchi holatlar: shaxs, ayb shakli/darajasi, sharoit/sabab, oldingi/keyingi xulq.",
+        "Jinoyat sodir etish motivi va maqsadi ham kiritiladi.",
+        "Jiddiy kamayish — sodir etilgan jinoyat xavfi va shunday qilmishlar xavfi orasidagi o'ta nomutanosiblik.",
+        "Qonunda yengillashtiruvchi holatlar ham (55-modda), ko'rsatilmaganlar ham bu qatorga kirishi mumkin.",
+        "Zarni kamida 50% qoplaganlik iqtisodiyot sohasida jiddiy kamaytiruvchi holat deb topilishi mumkin.",
+        "Yengilroq jazo har xil qilmishlar uchun tayinlanishi mumkin, lekin og'irlik darajasi qancha yuqori bo'lsa - asos shuncha kuchli bo'lishi kerak.",
+        "Hukmda har bir holat alohida asoslantirilishi shart."
+      ]
+    }
+  ]
+}

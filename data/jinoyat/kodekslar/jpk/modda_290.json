@@ -1,0 +1,67 @@
+﻿{
+  "n": 290,
+  "sarlavha_id": "-7355410",
+  "sarlavha": "290-modda. Mol-mulkni xatlash asoslari va tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7355411",
+      "matn": "Hukmning fuqaroviy daʼvoga va boshqa mulkiy undirishlarga doir qismining ijrosini taʼminlash uchun surishtiruvchi, tergovchi yoki sud gumon qilinuvchi, ayblanuvchi, sudlanuvchi va fuqaroviy javobgarning mol-mulkini xatlashi shart. Ashyoviy dalil deb eʼtirof etilgan mol-mulkni oʻzlashtirishning, xarj qilib yuborishning, yashirishning, yoʻq qilib tashlashning yoki shikastlantirishning oldini olish maqsadida ushbu mol-mulk ham xatlanadi. Shu maqsadda tergovchi yoki surishtiruvchi gumon qilinuvchi, ayblanuvchi va fuqaroviy javobgarning mol-mulkini xatlash haqida iltimosnoma qoʻzgʻatish toʻgʻrisida qaror chiqarib, unda mazkur protsessual harakatni oʻtkazish asoslarini bayon etadi."
+    },
+    {
+      "q": 2,
+      "id": "-7355412",
+      "matn": "Gumon qilinuvchi, ayblanuvchi, sudlanuvchi va fuqaroviy javobgar oilasining normal turmushini taʼminlash uchun zarur boʻlgan uy-joy, kvartira, uy anjomlari va jihozlari, kiyim va boshqa buyumlar xatlanmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-7355413",
+      "matn": "Turar joylar yoki yashash uchun moʻljallanmagan joylar, mulk shaklidan qatʼi nazar, davlatga xoinlik qilish, konstitutsiyaviy tuzumga, Oʻzbekiston Respublikasi Prezidentiga tajovuz qilish, terrorizm, qoʻporuvchilik jinoyatlari sodir etish uchun foydalanilgan yoxud bu jinoyatlar qasddan odam oʻldirish, bosqinchilik, talonchilik yoki boshqa ogʻir, oʻta ogʻir jinoyatlar bilan bogʻliq boʻlgan hollarda — bu joylar xatlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-7355414",
+      "matn": "Xatlash mulkdorga yoki mol-mulkning egasiga mol-mulkni tasarruf qilish, zarur hollarda esa, undan foydalanish man etilganligini eʼlon qilishdan yoxud mol-mulkni tortib olishdan va uni saqlab turish uchun boshqa shaxslarga topshirishdan iboratdir."
+    },
+    {
+      "q": 5,
+      "id": "-7355415",
+      "matn": "Tergovchining yoki surishtiruvchining mol-mulkni xatlash toʻgʻrisida iltimosnoma qoʻzgʻatish haqidagi qaroriga iltimosnomani asoslovchi zarur materiallar ilova qilinadi."
+    },
+    {
+      "q": 6,
+      "id": "-7355416",
+      "matn": "Tergovchining yoki surishtiruvchining mol-mulkni xatlash toʻgʻrisidagi iltimosnomani qoʻzgʻatish haqidagi qarori va zarur materiallar prokurorga yuboriladi."
+    },
+    {
+      "q": 7,
+      "id": "-7355417",
+      "matn": "Prokuror mol-mulkni xatlash toʻgʻrisidagi iltimosnomaning asosliligini tekshirib, unga rozi boʻlgan taqdirda, mol-mulkni xatlash toʻgʻrisidagi iltimosnomani qoʻzgʻatish haqidagi qarorni va zarur materiallarni sudga yuboradi."
+    },
+    {
+      "q": 8,
+      "id": "-7355418",
+      "matn": "Kechiktirib boʻlmaydigan hollarda, mol-mulkni xatlash sudning roziligisiz, tergovchining yoki surishtiruvchining qarori asosida amalga oshirilishi mumkin, lekin keyinchalik sud hamda prokuror qaror va bayonnomaning koʻchirma nusxalari ilova qilingan holda yigirma toʻrt soat ichida xabardor qilinadi. Xabarnomada kechiktirib boʻlmaydigan holatlar aniq koʻrsatilishi kerak. Mazkur xabarnomaga tergovchining yoki surishtiruvchining mol-mulkni xatlash toʻgʻrisidagi qarorining, mol-mulkni xatlash bayonnomasining va zarur materiallarning koʻchirma nusxalari ularni yuritish toʻgʻrisidagi qarorning qonuniyligini tekshirish uchun ilova qilinadi."
+    },
+    {
+      "q": 9,
+      "id": "-7355419",
+      "matn": "Mazkur xabarnomani va unga ilova qilingan materiallarni olganidan keyin sudya mol-mulkni xatlash amalga oshirilganligining qonuniyligini ushbu Kodeks 290¹ va 290²-moddalari tartibida qirq sakkiz soat ichida tekshiradi va uning qonuniyligi yoki qonunga xilofligi toʻgʻrisida ajrim chiqaradi. Agar sudya mol-mulkni xatlash qonunga xilof ravishda amalga oshirilgan deb topsa, uni amalga oshirish davomida olingan barcha dalillar ushbu Kodeksning 95¹-moddasiga muvofiq nomaqbul deb topiladi."
+    },
+    {
+      "q": 10,
+      "id": "-7355420",
+      "matn": "Surishtiruvchi yoki tergovchi hukmning mulkiy undirishlarga oid qismi ijrosini taʼminlovchi choralarni yoki mulkiy yoʻsindagi jazo choralarini koʻrmagan taqdirda, ishni yuritayotgan sud ajrim chiqarib, ularning zimmasiga bunday choralarni koʻrish majburiyatini yuklaydi."
+    },
+    {
+      "q": 11,
+      "id": "-7355421",
+      "matn": "Fuqaroviy daʼvoni qanoatlantirganda yoki boshqa mulkiy undirishlarni qoʻllayotganda hukm qonuniy kuchga kirguniga qadar, basharti oldin chora koʻrilmagan boʻlsa, sud hukmning shu qismi ijrosini taʼminlaydigan choralar koʻrish haqida ajrim chiqarishga va uning ijrosini tergov yoki surishtiruv organiga topshirishga haqli."
+    },
+    {
+      "q": 12,
+      "id": "-7355424",
+      "matn": "Diplomatik vakolatxonalarning binolaridagi va diplomatik vakillarga qarashli mol-mulkni xatlashda ushbu Kodeksning 165-moddasida nazarda tutilgan qoidalarga rioya qilinishi kerak."
+    }
+  ]
+}

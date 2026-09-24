@@ -1,0 +1,29 @@
+﻿{
+  "n": 115,
+  "sarlavha_id": "-253957",
+  "sarlavha": "115-modda. Guvoh va jabrlanuvchi tariqasida soʻroq qilinishi mumkin boʻlmagan shaxslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253958",
+      "matn": "Guvoh va jabrlanuvchi tariqasida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253960",
+          "matn": "hukm va ajrim chiqarish jarayonida kelib chiqqan masalalarni maslahatxonada muhokama qilishga oid holatlar toʻgʻrisida — sudyani va xalq maslahatchisini;"
+        },
+        {
+          "b": 2,
+          "id": "-253961",
+          "matn": "jinoyat ishi yuzasidan oʻz vazifalarini bajarishlari natijasida oʻzlariga maʼlum boʻlgan holatlar toʻgʻrisida — himoyachini, shuningdek jabrlanuvchining, fuqaroviy daʼvogarning, fuqaroviy javobgarning vakilini;"
+        },
+        {
+          "b": 3,
+          "id": "-4516245",
+          "matn": "ruhiy holati buzilganligi yoki jismoniy nuqsoni sababli ish uchun ahamiyatli boʻlgan holatni toʻgʻri idrok etish va bu haqda koʻrsatuv bera olish layoqatiga ega boʻlmagan shaxsni soʻroq qilish mumkin emas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿{
+  "n": 575,
+  "sarlavha_id": "-257213",
+  "sarlavha": "575-modda. Sud muhokamasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-257214",
+      "matn": "Sud muhokamasi ushbu Kodeksning 50 — 52-boblarida nazarda tutilgan qoidalarga muvofiq ravishda oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-257215",
+      "matn": "Sud majlisida prokuror va himoyachi ishtirok etishi shart."
+    },
+    {
+      "q": 3,
+      "id": "-257216",
+      "matn": "Sud tergovi prokurorning ishni sudga oshirish toʻgʻrisidagi qarorni oʻqib eshittirishidan boshlanadi. Shundan soʻng sud taraflarning ishtirokida tibbiy yoʻsindagi majburlov choralarini qoʻllash uchun asoslar mavjudligini tasdiqlaydigan yoki rad etadigan dalillarni tekshiradi: soʻroq qiladi, koʻzdan kechirish oʻtkazadi, hujjatlarni oʻqib eshittiradi, ekspertlarni tinglaydi, haqiqatga erishish uchun zarur boʻlgan boshqa harakatlarni bajaradi."
+    },
+    {
+      "q": 4,
+      "id": "-257218",
+      "matn": "Sud tergovi tamomlanganidan soʻng sud taraflarning muzokarasiga oʻtadi. Muzokarada prokuror, shuningdek jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari ishtirok etadilar. Muzokaraning oxirida himoyachi soʻzga chiqadi. Oxirgi eʼtiroz bildirish huquqi ham unga beriladi."
+    },
+    {
+      "q": 5,
+      "id": "-257219",
+      "matn": "Taraflarning nutqlarini eshitib boʻlgach, sudya ajrim chiqarish uchun alohida xonaga kiradi."
+    }
+  ]
+}

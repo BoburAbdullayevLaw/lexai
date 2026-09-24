@@ -1,0 +1,101 @@
+﻿{
+  "n": 602,
+  "sarlavha_id": "-1687161",
+  "sarlavha": "602-modda. Oʻzbekiston Respublikasi hududida boʻlgan shaxsni ushlab berish toʻgʻrisidagi qaror ustidan shikoyat qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5234697",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokurorining yoki uning oʻrinbosarining Oʻzbekiston Respublikasi hududida boʻlgan shaxsni ushlab berish toʻgʻrisidagi qarori ustidan soʻralayotgan shaxs qamoqda saqlanayotgan joydagi Qoraqalpogʻiston Respublikasi sudiga, viloyat, Toshkent shahar sudiga mazkur shaxs yoxud uning himoyachisi tomonidan xabarnoma olingan paytdan eʼtiboran oʻn sutka ichida shikoyat qilinishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-1687163",
+      "matn": "Soʻralayotgan shaxs qamoqda saqlanayotgan joyning maʼmuriyati shikoyatni olishi bilan uni darhol sudga yuboradi va bu haqda Oʻzbekiston Respublikasi Bosh prokuraturasini yozma ravishda xabardor qiladi."
+    },
+    {
+      "q": 3,
+      "id": "-1687164",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokuraturasi xabarnoma olingan kundan eʼtiboran uch sutkadan kechiktirmay sudga Oʻzbekiston Respublikasi hududida boʻlgan shaxsni ushlab berish toʻgʻrisidagi qarorning qonuniyligi va asosliligini tasdiqlovchi materiallarni yuboradi."
+    },
+    {
+      "q": 4,
+      "id": "-1687165",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokurorining yoki uning oʻrinbosarining Oʻzbekiston Respublikasi hududida boʻlgan shaxsni ushlab berish toʻgʻrisidagi qarori ustidan berilgan shikoyatni koʻrib chiqish shikoyat sud tomonidan olingan kundan eʼtiboran oʻn sutka ichida uch nafar sudyadan iborat tarkibda, ochiq sud majlisida prokuror, oʻziga nisbatan ushlab berish toʻgʻrisidagi qaror qabul qilingan shaxs va, agar ishda ishtirok etayotgan boʻlsa, uning himoyachisi ishtirokida amalga oshiriladi."
+    },
+    {
+      "q": 5,
+      "id": "-1687166",
+      "matn": "Sud majlisi boshlanishida raislik qiluvchi qaysi shikoyat koʻrib chiqilishini eʼlon qiladi, hozir boʻlgan protsess ishtirokchilariga ularning huquqlari va majburiyatlarini tushuntiradi. Arizachi va (yoki) uning himoyachisi shikoyatni asoslab beradi, shundan soʻng soʻz prokurorga beriladi."
+    },
+    {
+      "q": 6,
+      "id": "-5460116",
+      "matn": "Sud muhokamasi davomida sud shikoyat bergan shaxsning aybliligi masalasini muhokama qilmay, ustidan shikoyat berilgan qarorning Oʻzbekiston Respublikasi qonunchiligi va xalqaro shartnomalariga muvofiqligini tekshirish bilan cheklanadi."
+    },
+    {
+      "q": 7,
+      "id": "-1687168",
+      "matn": "Shikoyatni koʻrib chiqish natijasida sud quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1687169",
+          "matn": "shikoyatni qanoatlantirishsiz qoldirish toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "-1687170",
+          "matn": "Oʻzbekiston Respublikasi hududida boʻlgan shaxsni ushlab berish toʻgʻrisidagi qarorni bekor qilish haqida."
+        }
+      ]
+    },
+    {
+      "q": 8,
+      "id": "-1687171",
+      "matn": "Sudning ajrimi apellyatsiya shikoyati berish yoki protesti bildirish muddati tugashi bilan qonuniy kuchga kiradi."
+    },
+    {
+      "q": 9,
+      "id": "-1687172",
+      "matn": "Sudning ajrimi oʻqib eshittirilganidan keyin darhol prokurorga, shuningdek oʻziga nisbatan ushlab berish toʻgʻrisida qaror qabul qilingan shaxsga va, agar ishda ishtirok etgan boʻlsa, uning himoyachisiga yuboriladi."
+    },
+    {
+      "q": 10,
+      "id": "-5234704",
+      "matn": "Sudning ajrimi ustidan u chiqarilgan kundan eʼtiboran yigirma sutka ichida apellyatsiya tartibida Oʻzbekiston Respublikasi Oliy sudiga shikoyat berilishi yoki protest bildirilishi mumkin."
+    },
+    {
+      "q": 11,
+      "id": "-5234718",
+      "matn": "Apellyatsiya shikoyati, protesti ajrimni chiqargan sud orqali berilib, sud uni materiallar bilan birgalikda uch sutka ichida Oʻzbekiston Respublikasi Oliy sudiga yuborishi va bu haqda Oʻzbekiston Respublikasi Bosh prokuraturasini yozma ravishda xabardor qilishi shart."
+    },
+    {
+      "q": 12,
+      "id": "-5234724",
+      "matn": "Apellyatsiya shikoyati, protesti kelib tushgan kundan eʼtiboran oʻn sutkadan kechiktirmay Oʻzbekiston Respublikasi Oliy sudi tomonidan koʻrib chiqiladi."
+    },
+    {
+      "q": 13,
+      "id": "-5234735",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudi apellyatsiya shikoyatini, protestini koʻrib chiqib, quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5234731",
+          "matn": "sud ajrimini oʻzgarishsiz, apellyatsiya shikoyatini, protestini esa qanoatlantirishsiz qoldirish toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "-1687178",
+          "matn": "sudning ajrimini bekor qilish toʻgʻrisida."
+        }
+      ]
+    },
+    {
+      "q": 14,
+      "id": "-1687179",
+      "matn": "Apellyatsiya instansiyasi sudining ajrimi u oʻqib eshittirilgan paytdan eʼtiboran qonuniy kuchga kiradi va darhol ijro etilishi kerak. Apellyatsiya instansiyasi sudining ajrimi prokurorga ijroni tashkil etish uchun, oʻziga nisbatan ushlab berish toʻgʻrisidagi qaror qabul qilingan shaxsga va, agar ishda ishtirok etgan boʻlsa, uning himoyachisiga maʼlumot uchun yuboriladi."
+    }
+  ]
+}

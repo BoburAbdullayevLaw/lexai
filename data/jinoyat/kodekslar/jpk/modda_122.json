@@ -1,0 +1,17 @@
+﻿{
+  "n": 122,
+  "sarlavha_id": "-253993",
+  "sarlavha": "122-modda. Yuzlashtirish uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253995",
+      "matn": "Yuzlashtirish ilgari soʻroq qilingan ikki shaxs koʻrsatuvlari oʻrtasida jiddiy qarama-qarshiliklar boʻlganda bu qarama-qarshiliklarning sababini aniqlash uchun oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-253996",
+      "matn": "Yuzlashtirishda gumon qilinuvchi, ayblanuvchi, sudlanuvchi, jabrlanuvchi va guvoh soʻroq qilinishi mumkin."
+    }
+  ]
+}

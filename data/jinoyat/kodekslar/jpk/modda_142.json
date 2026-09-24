@@ -1,0 +1,24 @@
+﻿{
+  "n": 142,
+  "sarlavha_id": "-254139",
+  "sarlavha": "142-modda. Guvohlantirish uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254140",
+      "matn": "Guvohlantirish:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-254141",
+          "matn": "odamning badanidagi ish uchun ahamiyatga molik xususiyat yoki alomatlarni, alohida belgilarni, uning jismoniy rivojlanganligi toʻgʻrisidagi maʼlumotlarni, dogʻlarni, tirnalgan, shilingan, qontalash joylarni topish zarurati tugʻilgan hollarda, agar buning uchun ekspertiza oʻtkazish lozim boʻlmasa;"
+        },
+        {
+          "b": 2,
+          "id": "-254142",
+          "matn": "ekspertiza oʻtkazishni talab qilmaydigan usullarni qoʻllash yoʻli bilan shaxsning mastlik va boshqa fiziologik holatini aniqlash zarurati tugʻilgan hollarda oʻtkaziladi."
+        }
+      ]
+    }
+  ]
+}

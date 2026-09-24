@@ -1,0 +1,76 @@
+﻿{
+  "n": 247,
+  "sarlavha_id": "-2461290",
+  "sarlavha": "247-modda. Qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-2461300",
+      "matn": "Ayblanuvchini qamoqda saqlab turishning yoki u uy qamogʻida boʻlishining belgilangan muddati tugashidan kamida olti sutka oldin tegishli prokuror qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisida iltimosnoma qoʻzgʻatish haqida qaror chiqaradi, bu qaror sudga yuboriladi."
+    },
+    {
+      "q": 2,
+      "id": "-2461385",
+      "matn": "Qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisida iltimosnoma qoʻzgʻatish haqidagi qarorda tergovning choʻzilib ketganligi sabablari, tekshirilishi lozim boʻlgan tusmollar va holatlar, qoʻshimcha ravishda soʻralayotgan muddat koʻrsatilishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "-7355324",
+      "matn": "Qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisidagi iltimosnoma jinoyat sodir etilgan yoki surishtiruv, dastlabki tergov yuritilayotgan joydagi jinoyat ishlari boʻyicha tuman (shahar) sudining tergov sudyasi tomonidan, mazkur sudning sudyasi boʻlmagan yoxud qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisidagi materialni koʻrib chiqishda uning ishtirokini istisno etuvchi holatlar mavjud boʻlgan taqdirda, Qoraqalpogʻiston Respublikasi sudi, viloyat, Toshkent shahar sudi raisining koʻrsatmasiga binoan boshqa tegishli sudning tergov sudyasi tomonidan yakka tartibda koʻrib chiqiladi."
+    },
+    {
+      "q": 4,
+      "id": "-2461387",
+      "matn": "Qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisidagi iltimosnoma materiallar kelib tushgan paytdan eʼtiboran yetmish ikki soat ichida yopiq sud majlisida koʻrib chiqiladi."
+    },
+    {
+      "q": 5,
+      "id": "-5305220",
+      "matn": "Qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisidagi iltimosnoma prokuror, ayblanuvchi, himoyachi ishtirokida koʻrib chiqiladi. Zarur hollarda surishtiruvchi, tergovchi sudga chaqirilishi mumkin."
+    },
+    {
+      "q": 6,
+      "id": "-2461389",
+      "matn": "Ayblanuvchi statsionar sud-psixiatriya ekspertizasidan oʻtkazish uchun tibbiy muassasaga joylashtirilgan taqdirda, qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisidagi iltimosnoma sud tomonidan ayblanuvchining ishtirokisiz koʻrib chiqilishi mumkin. Bunda ayblanuvchining himoyachisi sud majlisida ishtirok etishi shart."
+    },
+    {
+      "q": 7,
+      "id": "-2461390",
+      "matn": "Sudya qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisidagi iltimosnomani koʻrib chiqib, quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-2461391",
+          "matn": "qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "-2461392",
+          "matn": "qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirishni rad qilish toʻgʻrisida."
+        }
+      ]
+    },
+    {
+      "q": 8,
+      "id": "-2461393",
+      "matn": "Sudyaning qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish haqidagi yoki qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirishni rad qilish toʻgʻrisidagi ajrimi oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi va darhol ijro qilinishi kerak. Sudyaning ajrimi ijro uchun prokurorga, maʼlumot uchun esa ayblanuvchiga, himoyachiga yuboriladi. Sudyaning ajrimi ustidan ushbu Kodeks 241-moddasining ikkinchi qismida nazarda tutilgan qoidalarga binoan yetmish ikki soat ichida apellyatsiya tartibida shikoyat berilishi, protest bildirilishi mumkin."
+    },
+    {
+      "q": 9,
+      "id": "-1325268",
+      "matn": "Apellyatsiya instansiyasi sudi apellyatsiya shikoyatini, protestini koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1325269",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyat yoki protestni esa qanoatlantirmasdan qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "-2461419",
+          "matn": "sudyaning ajrimini bekor qilish va qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirishni rad etishga yoxud qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirishga haqli. Qamoqda saqlab turish yoki uy qamogʻi muddati tugab, ozod etilgan ayblanuvchiga nisbatan qamoqda saqlab turish yoki uy qamogʻi muddati uzaytirilgan taqdirda, sud unga nisbatan qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasini qoʻllashi kerak."
+        }
+      ]
+    }
+  ]
+}

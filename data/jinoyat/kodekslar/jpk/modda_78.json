@@ -1,0 +1,27 @@
+﻿{
+  "n": 78,
+  "sarlavha_id": "-253719",
+  "sarlavha": "78-modda. Ekspertning, mutaxassisning, tarjimonning, xolisning ishda ishtirok etishiga monelik qiladigan holatlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253720",
+      "matn": "Ekspert, mutaxassis, tarjimon, xolis ushbu Kodeksning 76-moddasida nazarda tutilgan holatlar mavjud boʻlgan taqdirda, shuningdek ishda ishtirok etayotgan shaxslardan birortasiga xizmat yuzasidan yoki boshqa jihatdan tobe boʻlsa, jinoyat ishini yuritishda ishtirok etishga haqli emas va rad qilinishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-5704342",
+      "matn": "Bundan tashqari, basharti ekspert, mutaxassis, tarjimonning oʻz kasbiga noloyiqligi ayon boʻlib qolsa, xolislar esa, ichki ishlar organi, Oʻzbekiston Respublikasi Davlat xavfsizlik xizmati, Milliy gvardiyasi, Oʻzbekiston Respublikasi Prezidenti davlat xavfsizlik xizmati, prokuratura, adliya yoki sud xodimi boʻlsalar, rad qilinishlari lozim."
+    },
+    {
+      "q": 3,
+      "id": "-253722",
+      "matn": "Materiallari ishning qoʻzgʻatilishiga asos boʻlgan taftish yoki oʻzga idoraviy tekshiruv oʻtkazgan shaxs ushbu ishda ekspert yoki mutaxassis sifatida ishtirok etishga haqli emas."
+    },
+    {
+      "q": 4,
+      "id": "-253723",
+      "matn": "Ishda mutaxassis sifatida ishtirok etgan shaxs kelgusida ushbu ish boʻyicha ekspert qilib tayinlanishi mumkin."
+    }
+  ]
+}

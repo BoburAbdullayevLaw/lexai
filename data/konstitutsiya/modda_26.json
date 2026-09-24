@@ -1,0 +1,23 @@
+{
+  "n": "26",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445428",
+  "sarlavha": "26-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445430",
+      "matn": "Insonning shaʼni va qadr-qimmati daxlsizdir. Hech narsa ularni kamsitish uchun asos boʻlishi mumkin emas."
+    },
+    {
+      "q": 2,
+      "id": "-6445432",
+      "matn": "Hech kim qiynoqqa solinishi, zoʻravonlikka, boshqa shafqatsiz, gʻayriinsoniy yoki inson qadr-qimmatini kamsituvchi muomalaga yoxud jazoga duchor etilishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-6445433",
+      "matn": "Hech kimda uning roziligisiz tibbiy va ilmiy tajribalar oʻtkazilishi mumkin emas."
+    }
+  ]
+}

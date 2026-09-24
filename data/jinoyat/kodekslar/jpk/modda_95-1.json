@@ -1,0 +1,59 @@
+{
+  "n": "95-1",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-3644484",
+  "sarlavha": "95¹-modda. Dalillarning maqbul emasligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-3644488",
+      "matn": "Agar faktik maʼlumotlar qonunga xilof usullar orqali yoki jinoyat protsessi ishtirokchilarini qonun bilan kafolatlangan huquqlaridan mahrum qilish yoki bu huquqlarni cheklash yoʻli bilan yoxud ushbu Kodeks talablari buzilgan holda olingan boʻlsa, shu jumladan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-3644489",
+          "matn": "jinoyat protsessi ishtirokchilariga yoki ularning yaqin qarindoshlariga nisbatan qiynoqqa solish va boshqa shafqatsiz, gʻayriinsoniy yoki qadr-qimmatni kamsituvchi muomala hamda jazo turlarini qoʻllagan holda;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-3644491",
+          "matn": "ularni soxtalashtirish (qalbakilashtirish) yoʻli bilan;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-3644503",
+          "matn": "gumon qilinuvchining, ayblanuvchining yoki sudlanuvchining himoyaga boʻlgan huquqlari, shuningdek tarjimon xizmatlaridan foydalanish huquqi buzilgan holda;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-3644504",
+          "matn": "jinoyat ishi boʻyicha protsessual harakatning mazkur jinoyat ishini yuritishni amalga oshirish huquqiga ega boʻlmagan shaxs tomonidan bajarilishi natijasida;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-3644508",
+          "matn": "nomaʼlum manbadan yoxud jinoyat ishini yuritish jarayonida aniqlash mumkin boʻlmagan manbadan;"
+        },
+        {
+          "b": 6,
+          "id": "https://lex.uz/docs/-111460#-3644510",
+          "matn": "jabrlanuvchi, guvoh, gumon qilinuvchi, ayblanuvchi, sudlanuvchining surishtiruvdagi, dastlabki tergovdagi sudda dalillar majmui bilan oʻz tasdigʻini topmagan koʻrsatuvlaridan olingan boʻlsa, ular dalil sifatida maqbul emas deb topiladi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-7234133",
+      "matn": "Faktik maʼlumotlardan dalil sifatida foydalanishning maqbul emasligi tergovga qadar tekshiruvni amalga oshirayotgan organning mansabdor shaxsi, surishtiruvchi, tergovchi, prokuror yoki sudning oʻz tashabbusi bilan yoki ishtirokchilarning iltimosnomasi boʻyicha aniqlanadi. Tergovga qadar tekshiruvni amalga oshirayotgan organning mansabdor shaxsi, surishtiruvchi, tergovchi, prokuror yoki sudya dalillarning maqbul emasligi toʻgʻrisidagi masalani hal qilayotganida har bir holatda yoʻl qoʻyilgan buzilish nimada aniq ifodalanganligini aniqlab olishi va asoslantirilgan qaror qabul qilishi shart."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-7234146",
+      "matn": "Guvoh, jabrlanuvchi, gumon qilinuvchi, ayblanuvchi, sudlanuvchidan ushbu Kodeks normalari buzilgan holda olingan koʻrsatuvlardan, ekspert xulosasidan, ashyoviy, yozma va raqamli dalillardan, audio-, videoyozuvlardan va boshqa materiallardan dalil sifatida foydalanish taqiqlanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-7234154",
+      "matn": "Olib qoʻyish yoki koʻzdan kechirish boʻyicha tergov harakatlari olib borilayotganda mutaxassis ishtirokisiz olingan elektron maʼlumotlar nomaqbul dalillar deb topiladi."
+    }
+  ]
+}

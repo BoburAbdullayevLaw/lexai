@@ -1,0 +1,79 @@
+{
+  "n": "255-2",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-2258776",
+  "sarlavha": "255²-modda. Neft quvurlarini, gaz quvurlarini, neft va gaz mahsulotlari quvurlarini yaroqsiz holatga keltirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2258778",
+      "matn": "Neft quvurlarini, gaz quvurlarini, neft va gaz mahsulotlari quvurlarini, shuningdek texnologik jihatdan ular bilan bogʻliq boʻlgan obyektlarni, inshootlarni, aloqa, avtomatika, signalizatsiya vositalarini qasddan buzish, ularga shikast yetkazish yoki boshqa usul bilan ularni foydalanish uchun yaroqsiz holatga keltirish, agar ushbu harakatlar ularning normal ishlashi buzilishiga olib kelsa yoki olib kelishi mumkin boʻlsa, — bazaviy hisoblash miqdorining yuz baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2258788",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2258789",
+          "matn": "takroran;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2258790",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-2258791",
+          "matn": "magistral quvurlarga nisbatan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-2258792",
+          "matn": "koʻp miqdorda zarar yetkazilishiga;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-2258793",
+          "matn": "badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravarigacha miqdorda jarima yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoki uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-2258796",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2258797",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2258798",
+          "matn": "juda koʻp miqdorda zarar yetkazilishiga sabab boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-2258802",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2258803",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2258804",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — sakkiz yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

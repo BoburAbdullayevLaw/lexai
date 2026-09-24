@@ -1,0 +1,33 @@
+{
+  "n": "122",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446054",
+  "sarlavha": "122-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446055",
+      "matn": "Xalq deputatlari Kengashlarining vakolatlari quyidagilardan iborat:"
+    },
+    {
+      "q": 2,
+      "id": "-6446056",
+      "matn": "1) tegishli mahalliy budjetlarni koʻrib chiqish va qabul qilish, ularning ijro etilishi ustidan nazoratni amalga oshirish;"
+    },
+    {
+      "q": 3,
+      "id": "-6446057",
+      "matn": "2) hududlarni ijtimoiy-iqtisodiy rivojlantirish va aholini ijtimoiy himoya qilish dasturlarini tasdiqlash;"
+    },
+    {
+      "q": 4,
+      "id": "-6446058",
+      "matn": "3) hokimni lavozimga tasdiqlash, uning faoliyati toʻgʻrisidagi hisobotlarni eshitish;"
+    },
+    {
+      "q": 5,
+      "id": "-6446059",
+      "matn": "4) ushbu Konstitutsiya va qonunlarda nazarda tutilgan boshqa vakolatlarni amalga oshirish."
+    }
+  ]
+}

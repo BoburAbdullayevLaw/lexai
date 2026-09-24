@@ -1,0 +1,23 @@
+{
+  "n": "7",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5380876",
+  "sarlavha": "7-modda. Oʻzbekiston Respublikasining qonunchiligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5380878",
+      "matn": "Normativ-huquqiy hujjatlar qonunchilik hujjatlari boʻlib, ular Oʻzbekiston Respublikasining qonunchiligini tashkil etadi."
+    },
+    {
+      "q": 2,
+      "id": "-5380882",
+      "matn": "Oʻzbekiston Respublikasining Konstitutsiyasi va qonunlari, Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qarorlari qonun hujjatlaridir."
+    },
+    {
+      "q": 3,
+      "id": "-6687756",
+      "matn": "Oʻzbekiston Respublikasi Prezidentining farmonlari va qarorlari, Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari, vazirliklar va idoralarning buyruqlari hamda qarorlari, mahalliy davlat hokimiyati organlarining qarorlari qonunosti hujjatlaridir."
+    }
+  ]
+}

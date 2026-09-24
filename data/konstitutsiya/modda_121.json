@@ -1,0 +1,23 @@
+{
+  "n": "121",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446049",
+  "sarlavha": "121-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446051",
+      "matn": "Tegishli hududdagi ijro etuvchi hokimiyatga viloyat, tuman va shahar hokimi boshchilik qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6446052",
+      "matn": "Hokimlarning vakolatlari muddati — besh yil. Ayni bir shaxs surunkasiga ikki muddatdan ortiq ayni bir viloyat, tuman, shaharning hokimi etib tayinlanishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-6446053",
+      "matn": "Hokimlarning faoliyatini tashkil etish tartibi qonun bilan belgilanadi."
+    }
+  ]
+}

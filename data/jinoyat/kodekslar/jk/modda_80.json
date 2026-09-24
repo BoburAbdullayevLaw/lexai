@@ -1,0 +1,46 @@
+{
+  "n": 80,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195704",
+  "sarlavha": "80-modda. Sudlanganlik holatining tugallanish yoki sudlanganlikni olib tashlash muddatlarini hisoblash",
+  "umumiy_sharh": [
+    "Sudlanganlik holatining tugallanishi yoki sudlanganlikni olib tashlash muddatlari asosiy va qo'shimcha jazolar o'tab bo'lingan yoki ijro etilgan kundan boshlab hisoblanadi. Agar sudlanuvchiga ham asosiy, ham qo'shimcha jazo tayinlangan bo'lsa, muddatlarni hisoblash yoki sudlanganlikni olib tashlash oxirgi jazoni ijro etish paytidan boshlab amalga oshiriladi.",
+    "Shaxs sodir etgan bir necha jinoyat uchun hukm qilingan vaziyatda sudlanganlik holatining tugash muddati har bir jinoyat uchun alohida emas, balki hamma jinoyatlar uchun tayinlangan jazodan kelib chiqib hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195705",
+      "matn": "Sudlanganlik holatining tugallanish yoki sudlanganlikni olib tashlash muddatlari asosiy va qo'shimcha jazolar o'tab bo'lingan yoki ijro etilgan kundan boshlab hisoblanadi.",
+      "sharh": []
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195706",
+      "matn": "Agar shaxs tayinlangan jazodan qonunda belgilangan tartibda muddatidan ilgari ozod qilingan yoxud jazo yengilrog'i bilan almashtirilgan bo'lsa, sudlanganlik muddati muddatidan ilgari ozod qilingan yoki yengilrog'i bilan almashtirilgan jazoning amalda o'tab bo'lingan qismidan hisoblanadi.",
+      "sharh": [
+        "Muddatidan ilgari ozod qilishda: amalda o'talgan jazodan hisoblanadi.",
+        "Masalan: 6 yilga hukm, 4 yilda ozod — sudlanganlik 4 yildan."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195707",
+      "matn": "Agar ushbu Kodeksning 44, 46-moddalari asosida hukm bo'yicha tayinlangan jazoni sud boshqa jazo bilan almashtirgan bo'lsa, sudlanganlik muddati jazoning amalda o'tab bo'lingan yoki ijro etilgan qismidan hisoblanadi.",
+      "sharh": [
+        "44/46-modda: jazo boshqaga almashtirilganda.",
+        "Sudlanganlik haqiqatda o'talgan jazodan hisoblanadi."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-287090",
+      "matn": "Agar jazoni o'tab chiqqan shaxs sudlanganlik holatining muddati tugamay, yana jinoyat sodir etsa, sudlanganlik holatini tugatuvchi muddatning o'tishi to'xtatiladi. Ilgari sodir etilgan jinoyat uchun sudlanganlik holatining tugash muddati oxirgi sodir etilgan jinoyat uchun (asosiy va qo'shimcha) jazoni amalda o'tab bo'lganidan boshlab hisoblanadi.",
+      "sharh": [
+        "Yangi jinoyat — avvalgi sudlanganlik muddati to'xtaydi.",
+        "Yangi jazoni o'tab bo'lgandan keyin avvalgisining hisobi qayta boshlanadi.",
+        "Parallel ravishda ham birinchi, ham yangi jinoyat uchun muddat o'tadi."
+      ]
+    }
+  ]
+}

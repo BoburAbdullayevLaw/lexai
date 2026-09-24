@@ -1,0 +1,49 @@
+﻿{
+  "n": 495,
+  "sarlavha_id": "-6626490",
+  "sarlavha": "495-modda. Sudning hukmini, ajrimini oʻzgartirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626491",
+      "matn": "Apellyatsiya, kassatsiya yoki taftish instansiyasi sudi sudning ayblov hukmini yoki ajrimini oʻzgartirish chogʻida quyidagilarga haqli:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626493",
+          "matn": "jazoni yengillashtirishga yoki mahkumga nisbatan yengilroq jinoyat toʻgʻrisidagi qonunni qoʻllashga;"
+        },
+        {
+          "b": 2,
+          "id": "-6626495",
+          "matn": "mahkumni oʻta xavfli retsidivist deb topishga;"
+        },
+        {
+          "b": 3,
+          "id": "-6626497",
+          "matn": "jazoni ijro etish muassasasi turini yengilrogʻiga yoki ogʻirrogʻiga oʻzgartirishga;"
+        },
+        {
+          "b": 4,
+          "id": "-6626498",
+          "matn": "jinoyat natijasida yetkazilgan, oʻrni qoplanishi lozim boʻlgan moddiy zarar miqdorini, shuningdek maʼnaviy ziyonni kompensatsiya qilish miqdorini kamaytirishga yoki koʻpaytirishga;"
+        },
+        {
+          "b": 5,
+          "id": "-6626501",
+          "matn": "Jinoyat kodeksining 96-moddasiga muvofiq mahkumga nisbatan tibbiy yoʻsindagi majburlov choralarini qoʻllashga;"
+        },
+        {
+          "b": 6,
+          "id": "-6626502",
+          "matn": "ashyoviy dalillar, protsessual chiqimlar toʻgʻrisidagi masalalarni va boshqa masalalarni hal etishga."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-6626504",
+      "matn": "Oqlov hukmining oqlov asoslariga doir qismi oqlangan shaxsning, uning himoyachisining, qonuniy vakilining shikoyatiga koʻra oʻzgartirilishi mumkin."
+    }
+  ]
+}

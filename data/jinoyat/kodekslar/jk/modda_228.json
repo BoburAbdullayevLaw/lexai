@@ -1,0 +1,51 @@
+{
+  "n": 228,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-266926",
+  "sarlavha": "228-modda. Hujjatlar, shtamplar, muhrlar, blankalar tayyorlash, ularni qalbakilashtirish, sotish yoki ulardan foydalanish",
+  "umumiy_sharh": [
+    "Sharhlanayotgan moddani qo'llash sohasi – hujjatshunoslik, rasmiy hujjatlar, shtamplar, muhrlar va hokazolarning aylanishi. Maqsadi – davlat, korxona, muassasa, tashkilot va fuqarolarning manfaatlarini hujjat, shtamp, muhr, blankalarni g'ayriqonuniy ishlatishdan himoya qilishdir.",
+    "Jinoyatning obyekti hujjatlar, shtamp, muhr, blankalarning aylanishi bilan bog'liq bo'lgan munosabatlar hisoblanadi.",
+    "Jinoyatning predmetlari huquq beruvchi yoki majburiyatdan ozod etuvchi rasmiy hujjatlar, shtamp, muhr, blankalar hisoblanadi. Rasmiy elektron hujjatlar ham bo'lishi mumkin.",
+    "Obyektiv tomondan jinoyat rasmiy hujjatni (shtamp, muhr, blankani) tayyorlash, qalbakilashtirish yoki sotish bilan tavsiflanadi.",
+    "Tayyorlash deganda asl hujjatning nusxalarini g'ayriqonuniy tayyorlash yoki ularni aslida mavjud bo'lmagan yuridik shaxs yoki fuqarolar nomidan tayyorlash tushuniladi.",
+    "Qalbakilashtirish deganda hujjatning mazmuni yoki shaklini to'liq yoki qisman g'ayriqonuniy modifikatsiya qilish tushuniladi.",
+    "Sotish deganda begonalashtirish shaklidan qat'i nazar, uni begonalashtirish uchun qilingan har qanday harakat tushuniladi.",
+    "Jinoyat predmetlar tayyorlangan, qalbakilashtirilgan yoki sotilgan paytdan boshlab tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi. Qalbakilashtiruvchi yoki boshqa shaxs tomonidan undan foydalanish maqsadi bo'lishi lozim.",
+    "Jinoyat subyekti o'n olti yoshga to'lgan aqli raso shaxs hisoblanadi. Mansabdor shaxs tomonidan qalbakilashtirilsa JK 209-modda bo'yicha javobgarlikka tortiladi.",
+    "2-qism a bandi – takroran yoki xavfli retsidivist tomonidan sodir etilganda qo'llaniladi.",
+    "2-qism b bandi – bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilganda qo'llaniladi.",
+    "3-qism – hujjatning qalbaki ekanligini bila turib, undan foydalanish uchun javobgarlikni belgilaydi.",
+    "Foydalanish deganda aybdorning ushbu hujjatdan kelib chiqqan huquqlarga ega bo'lish yoki majburiyatlardan ozod bo'lish uchun qilgan harakatlari tushuniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-266928",
+      "matn": "Soxtalashtiruvchining oʻzi yoki boshqa shaxs foydalanishi maqsadida muayyan huquq beradigan yoki muayyan majburiyatdan ozod etadigan rasmiy hujjatlar tayyorlashi yoki rasmiy hujjatlarni qalbakilashtirishi yoxud bunday hujjatlarni sotishi, shunday maqsadlarda korxona, muassasa yoki tashkilotning qalbaki shtamplari, muhrlari, blankalarini tayyorlash yoxud sotish — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-266931",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-266932",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-266950",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — ikki yildan uch yilgacha axloq tuzatish ishlari yoki uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-266953",
+      "matn": "Hujjatning qalbaki ekanligini bila turib, undan foydalanish — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari yoxud ikki yilgacha ozodlikni cheklash yoki ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

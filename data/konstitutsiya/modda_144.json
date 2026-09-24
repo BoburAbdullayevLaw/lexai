@@ -1,0 +1,33 @@
+{
+  "n": "144",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446167",
+  "sarlavha": "144-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446168",
+      "matn": "Prokuratura organlarining yagona markazlashtirilgan tizimiga Oʻzbekiston Respublikasining Bosh prokurori boshchilik qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6446169",
+      "matn": "Qoraqalpogʻiston Respublikasining prokurori Oʻzbekiston Respublikasining Bosh prokurori bilan kelishilgan holda Qoraqalpogʻiston Respublikasining oliy vakillik organi tomonidan tayinlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6446170",
+      "matn": "Viloyatlarning prokurorlari, tuman va shahar prokurorlari Oʻzbekiston Respublikasining Bosh prokurori tomonidan tayinlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-6446171",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokurorining, Qoraqalpogʻiston Respublikasi prokurorining, viloyat, tuman va shahar prokurorlarining vakolat muddati — besh yil."
+    },
+    {
+      "q": 5,
+      "id": "-6446172",
+      "matn": "Ayni bir shaxs surunkasiga ikki muddatdan ortiq Oʻzbekiston Respublikasining Bosh prokurori lavozimini egallashi mumkin emas."
+    }
+  ]
+}

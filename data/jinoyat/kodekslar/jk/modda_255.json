@@ -1,0 +1,30 @@
+{
+  "n": "255",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-267983",
+  "sarlavha": "255-modda. Yadro qurilmalaridan foydalanish qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268100",
+      "matn": "Yadro energiyasi bilan bogʻliq obyektlardan foydalanish qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268103",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268104",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268105",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — muayyan huquqdan mahrum qilib, besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

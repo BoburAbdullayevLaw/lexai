@@ -1,0 +1,27 @@
+﻿{
+  "n": 379,
+  "sarlavha_id": "-255778",
+  "sarlavha": "379-modda. Ayblov xulosasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255779",
+      "matn": "Ayblanuvchi va uning himoyachisini jinoyat ishidagi barcha materiallar bilan tanishtirib boʻlgach, tergovchi, basharti ishni sudga yuborish uchun yetarli asoslar borligi toʻgʻrisidagi fikri oʻzgarmagan boʻlsa, ayblov xulosasi tuzadi."
+    },
+    {
+      "q": 2,
+      "id": "-255780",
+      "matn": "Ayblov xulosasi tavsif-asoslantirish va xulosa qismlaridan iborat boʻladi. Tavsif qismida dastlabki tergovda aniqlangan holatlar: jabrlanuvchi, shuningdek ayblanuvchi toʻgʻrisidagi maʼlumotlar; ayblanuvchining aybdorligini tasdiqlovchi dalillar, ayblanuvchining oʻzini himoya qilish uchun keltirgan vajlari va ularni tekshirish natijalari bayon qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-255781",
+      "matn": "Xulosa qismida ayblanuvchining shaxsi toʻgʻrisidagi maʼlumotlar keltiriladi hamda eʼlon qilingan ayblovning mazmuni Jinoyat kodeksining shu jinoyatni nazarda tutgan moddasi yoki moddalarini ham koʻrsatgan holda bayon qilinadi."
+    },
+    {
+      "q": 4,
+      "id": "-255782",
+      "matn": "Ayblov xulosasida bayon qilingan holatlarni tasdiqlovchi ish sahifalari koʻrsatilishi kerak. Ayblov xulosasi qayerda va qachon tuzilganligi koʻrsatilib, tergovchi tomonidan imzolanadi."
+    }
+  ]
+}

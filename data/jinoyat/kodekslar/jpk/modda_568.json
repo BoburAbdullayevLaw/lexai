@@ -1,0 +1,49 @@
+﻿{
+  "n": 568,
+  "sarlavha_id": "-257177",
+  "sarlavha": "568-modda. Sud-psixiatriya ekspertizasi aniqlaydigan masalalar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-257178",
+      "matn": "Sud-psixiatriya ekspertizasi oʻtkazishda quyidagi masalalar aniqlanishi lozim:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-4516499",
+          "matn": "shaxs ijtimoiy xavfli qilmish sodir etgan paytda ruhiy holati oʻz harakatlarining (harakatsizligining) ahamiyatini anglay olmaydigan yoki ularni boshqara olmaydigan darajada surunkali yoki vaqtincha buzilganlik, aqli zaiflik yoki ruhiy holatining boshqacha tarzda buzilishi holatida boʻlganligi;"
+        },
+        {
+          "b": 2,
+          "id": "-4516507",
+          "matn": "hozirgi vaqtda shaxsning ruhiy holati buzilganligi oqibatida hukm qilish va jazolashning unga axloq tuzatish jihatidan taʼsir koʻrsata olishi yoki koʻrsata olmasligi;"
+        },
+        {
+          "b": 3,
+          "id": "-4516513",
+          "matn": "ushbu ruhiy holatning buzilishi surunkalimi yoki shaxs muayyan muddat mobaynida tuzalishi mumkinmi;"
+        },
+        {
+          "b": 4,
+          "id": "-4516518",
+          "matn": "shaxs duchor boʻlgan ruhiy holatning buzilishi yangi ijtimoiy xavfli qilmishni keltirib chiqarishi yoki bunga sabab boʻlishi mumkinmi;"
+        },
+        {
+          "b": 5,
+          "id": "-257183",
+          "matn": "shaxs oʻzining ruhiy holatiga koʻra toʻgʻri koʻrsatuv berishga, koʻzdan kechirish, guvohlantirish, eksperiment oʻtkazish va boshqa tergov hamda sud harakatlarida ishtirok etishga qodirmi;"
+        },
+        {
+          "b": 6,
+          "id": "-4516524",
+          "matn": "hozirgi vaqtda shaxsning aqli rasolikni istisno qilmaydigan ruhiy holati buzilganmi va ular nimalardan iborat."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-257185",
+      "matn": "Shaxsni ekspert tadqiqoti oʻtkazish uchun tibbiy muassasaga joylashtirish ushbu Kodeksning 265 — 269-moddalarida nazarda tutilgan qoidalarga rioya qilib amalga oshiriladi."
+    }
+  ]
+}

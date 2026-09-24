@@ -1,0 +1,17 @@
+﻿{
+  "n": 189,
+  "sarlavha_id": "-254476",
+  "sarlavha": "189-modda. Namuna olish huquqiga ega boʻlgan shaxslar va organlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254477",
+      "matn": "Ekspert tekshiruvi namunalar olinadigan shaxsni yechintirib yalangʻochlash bilan bogʻliq boʻlmasa va alohida kasb mahoratini talab qilmasa, surishtiruvchi, tergovchi yoki sudning oʻzi, zarurat boʻlganda esa shifokor, boshqa mutaxassis, ekspert ishtirokida ekspert tekshiruvi uchun namunalar olishga haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-254478",
+      "matn": "Ekspert tekshiruvi uchun namunalar olish yalangʻoch boʻlishni taqozo etsa yoki alohida kasb mahoratini talab qilsa, surishtiruvchi, tergovchi yoki sudning topshirigʻiga binoan tekshiruv uchun namunalarni shifokor yoki boshqa tibbiy mutaxassis oladi."
+    }
+  ]
+}

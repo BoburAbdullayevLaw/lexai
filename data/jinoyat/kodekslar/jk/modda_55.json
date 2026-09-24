@@ -1,0 +1,43 @@
+{
+  "n": 55,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184677",
+  "sarlavha": "55-modda. Jazoni yengillashtiruvchi holatlar",
+  "umumiy_sharh": [
+    "Jazoni yengillashtiruvchi holatlar - jinoyatni sodir etishda aybdorning xavflilik darajasini kamaytiruvchi omillar.",
+    "Bu holatlar mavjud bo'lganda Maxsus qism sanksiyasi doirasida yengilroq jazo qo'llanilishi shart.",
+    "Yengillashtiruvchi holatlar jinoyat tarkibining zaruriy belgisi bo'lsa qo'shimcha hisobga olinmaydi (3-qism).",
+    "Sud ro'yxatdan tashqari boshqa holatlarni ham yengillashtiruvchi deb topishi mumkin (2-qism)."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-194978",
+      "matn": "Quyidagi holatlar jazoni yengillashtiruvchi holatlar deb topiladi:",
+      "sharh": ["9 ta holat sanab o'tilgan. Har biri mustaqil baholanadi.", "Bu holatlar jinoyatning ijtimoiy xavfliligini kamaytiradi."],
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-194978","matn":"aybni boʻyniga olish toʻgʻrisida arz qilish, chin koʻngildan pushaymon boʻlish yoki jinoyatni ochish uchun faol yordam berish;","sharh":["Aybni bo'yniga olish: ixtiyoriy, shaxsan yoki istalgan shaklda. Anonim xabar emas.","Chin ko'ngildan pushaymonlik: to'liq e'tirof, afsuslanish. Hukmgacha amalga oshiriladi.","Faol yordam: tergov/sudda ma'lumot berish, dalil yig'ishga ko'maklashish.","Har biri mustaqil. 66-modda: birinchi marta + 4 ta shart javobgarlikdan ozod."]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-194979","matn":"yetkazilgan zararni ixtiyoriy ravishda bartaraf qilish;","sharh":["Ixtiyoriy bo'lishi kerak - majburiy emas. Musodara qilgani hisoblanmaydi.","Qoplash: jismoniy, mulkiy, ma'naviy zararga nisbatan. Hukmgacha istalgan vaqtda.","Zarar hajmi kvalifikatsiyaga ta'sir qilmaydi - dastlabki hajm asos."]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-194980","matn":"ogʻir shaxsiy, oilaviy sharoitlar oqibatida yoki boshqa mushkul ahvolda jinoyat sodir etish;","sharh":["Sharoit haqiqiy va obyektiv bo'lishi kerak - aybdorning irodasiga bog'liq emas.","Og'irlik muayyan shaxsga bog'liq - mutlaq emas. Har holda alohida aniqlanadi.","Aybdorning o'zi yoki yomon xulqi sababli kelgan sharoit - hisobga olinmaydi.","Sabablar: yashash uchun mablag' yo'qligi, yaqinlar kasalligi, ruhiy iztirob."]},
+        {"b":"g","id":"https://lex.uz/docs/-111453#-194981","matn":"majburlash yoki moddiy tomondan, xizmat jihatidan yoxud boshqa jihatdan qaramlik sababli jinoyat sodir etish;","sharh":["Majburlash: jismoniy (kuch ishlatish) yoki ruhiy (qo'rqitish, psixotrop).","Moddiy qaramlik: ishsizlik, bolalarning ota-onaga qaramligi. Spirtli ichimlik sababli emas.","Xizmat qaramligi: boshliq-xizmatchi munosabati. Boshliqning rafiqasi emas.","Tobelik jinoyatning asosiy sababi bo'lishi kerak. Tahdid mavjudligi aniqlanadi."]},
+        {"b":"d","id":"https://lex.uz/docs/-111453#-194982","matn":"jabrlanuvchining zoʻrlik, ogʻir haqorat yoki boshqacha gʻayriqonuniy harakatlari tufayli vujudga kelgan kuchli ruhiy hayajonlanish holatida jinoyat sodir etish;","sharh":["Fiziologik affekt: qisqa muddatli, kuchli emotsional reaksiya. Ong qisqaradi.","Patologik affekt: javobgarlikni istisno etadi. Faqat fiziologik hisobga olinadi.","Jinoyat aynan o'sha shaxsga qarshi bo'lishi kerak. Boshqaga qarshi bo'lsa hisobga olinmaydi.","Sud-psixiatriya ekspertizasi tayinlanishi shart."]},
+        {"b":"e","id":"https://lex.uz/docs/-111453#-194983","matn":"zaruriy mudofaaning, oxirgi zaruratning asosli chegarasidan chetga chiqib jinoyat sodir etish, ijtimoiy xavfli qilmishni sodir etgan shaxsni ushlashda, kasb yoki xoʻjalik faoliyatiga bogʻliq boʻlgan asosli tavakkalchilikda zarar yetkazish;","sharh":["Shaxs ko'proq ijtimoiy foydali maqsadni ko'zlaydi, lekin chegaradan chiqadi.","Ro'yxat tugallangan - kengaytirib bo'lmaydi.","Tajovuzning xususiyati himoyaga mos kelmasligi - chegaradan chiqish belgisi."]},
+        {"b":"j","id":"https://lex.uz/docs/-111453#-194984","matn":"voyaga yetmaganning jinoyat sodir etishi;","sharh":["Yoshi qanchalik kichik bo'lsa jazo shunchalik yengil. Aniq yosh ko'rsatilishi kerak.","Hukmda voyaga yetmaganlik fakti va aniq yosh qayd etiladi.","Qilmishning og'ir-yengilligidan qat'i nazar hisobga olinadi."]},
+        {"b":"z","id":"https://lex.uz/docs/-111453#-194985","matn":"homilador ayolning jinoyat sodir etishi;","sharh":["Fiziologik o'zgarishlar ruhiyatga ta'sir: jizzakilik, kayfiyat o'zgarishi.","Jinoyat sodir etilgan vaqtda homilador bo'lishi kerak - oldingi emas.","Sababli bog'liqlik ahamiyatsiz - faqat homilador holatda jinoyat aniqlanadi."]},
+        {"b":"i","id":"https://lex.uz/docs/-111453#-194986","matn":"jabrlanuvchining gʻayriqonuniy yoki axloqqa zid xulq-atvori taʼsiri ostida jinoyat sodir etish.","sharh":["Xulq atayin bo'lishi kerak - tasodifiy yoki ongsiz emas.","Jinoyat jabrlanuvchiga qaratilgan bo'lishi shart - boshqaga qaratsa hisobga olinmaydi.","Jinoyat va fuqarolik huquqi normalari buzilishi farqi bor."]}
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-194987",
+      "matn": "Jazo tayinlashda sud ushbu moddada nazarda tutilmagan boshqa holatlarni ham yengillashtiruvchi holat deb topishi mumkin.",
+      "sharh": ["Oliy sud Plenumi: ro'yxat cheklangan emas.","Masalan: birinchi marta, yosh bola borligi, rahmdillik, jabrlanuvchiga yordam.","Bunday holat hukmda asoslantirilishi shart."]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-194988",
+      "matn": "Yengillashtiruvchi holat ushbu Kodeks Maxsus qismining moddasida jinoyat tarkibining zaruriy belgisi sifatida nazarda tutilgan boʻlsa, jazo tayinlashda hisobga olinmaydi.",
+      "sharh": ["Jinoyat tarkibi belgisi bo'lsa - qo'shimcha hisobga olinmaydi.","Bu qonuniy cheklov - lekin boshqa yengillashtiruvchi holatlarni ko'rishga xalal bermaydi.","Masalan: 98, 101, 106-moddalardagi hollar."]
+    }
+  ]
+}

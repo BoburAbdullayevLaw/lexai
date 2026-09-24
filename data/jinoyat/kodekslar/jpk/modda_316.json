@@ -1,0 +1,17 @@
+﻿{
+  "n": 316,
+  "sarlavha_id": "-255233",
+  "sarlavha": "316-modda. Muddatni uzaytirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255234",
+      "matn": "Ushbu Kodeksda belgilangan muddatlar unda nazarda tutilgan hollardagina uzaytirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-255235",
+      "matn": "Qonunda nazarda tutilgan hollarda surishtiruvchi, tergovchi, prokurorning qarori yoki sudning ajrimi bilan muayyan harakatni bajarish uchun belgilangan muddat protsessning manfaatdor ishtirokchisi qilgan iltimosga binoan muddatni belgilagan surishtiruvchi, tergovchi, prokurorning qarori yoki sudning ajrimi bilan uzaytirilishi mumkin."
+    }
+  ]
+}

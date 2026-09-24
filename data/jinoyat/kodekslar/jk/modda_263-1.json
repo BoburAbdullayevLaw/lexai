@@ -1,0 +1,40 @@
+{
+  "n": "263-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-2966260",
+  "sarlavha": "263¹-modda. Havo kemasidan foydalanish vaqtida lazer nurini yoʻnaltirish orqali xalaqit berish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2966264",
+      "matn": "Havo kemasidan foydalanish vaqtida havo kemasiga lazer nurini yoʻnaltirish orqali xalaqit berish, shunday harakat uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, shuningdek badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — uch yuz soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari yoxud bir yilgacha ozodlikni cheklash yoki bir yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2966271",
+      "matn": "Oʻsha harakat odam oʻlishiga sabab boʻlsa, — uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-2966278",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2966281",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2966282",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-2966284",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

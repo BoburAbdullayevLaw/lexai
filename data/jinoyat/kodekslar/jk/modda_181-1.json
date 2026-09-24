@@ -1,0 +1,35 @@
+{
+  "n": "181-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-6820460",
+  "sarlavha": "181-1-modda. Qasddan toʻlovga qobiliyatsizlikka olib kelish",
+  "umumiy_sharh": [
+    "Jinoyatning asosiy obyekti – xo'jalik yurituvchi subyektlar o'rtasidagi moliyaviy, iqtisodiy munosabatlar, ayniqsa kreditorlarning mulkiy manfaatlari va to'lov intizomini himoya qiluvchi tartibdir.",
+    "Qo'shimcha obyekti – moliyaviy bozorlar barqarorligi, iqtisodiy ishonch muhiti.",
+    "Jinoyatning predmeti yuridik yoki jismoniy shaxsga tegishli mol-mulk, aktivlar, moliyaviy mablag'lar, kredit majburiyatlari.",
+    "Obyektiv tomondan qasddan harakat: mol-mulkni yashirish, noto'g'ri yo'naltirish, noqonuniy moliyaviy operatsiyalar yoki qarzlarni asossiz ko'paytirish; natijada to'lovga qobiliyatsizlik (bankrotlik) holati yuzaga keladi; kreditorlarga ko'p miqdorda zarar yetadi.",
+    "Bu jinoyatning moddiy tarkibli jinoyat ekanini bildiradi, chunki javobgarlik faqat salbiy oqibatlar (to'lovga qobiliyatsizlik + zarar) yuzaga kelganda vujudga keladi.",
+    "Jinoyat shaxsning harakatlari haqiqiy tarzda to'lovga qobiliyatsizlikka olib kelgan va zarar yetkazilgan vaqtda tugallangan deb hisoblanadi.",
+    "Subyekt umumiy subyekt emas, balki maxsus subyekt: yuridik shaxsning mansabdor shaxsi; muassisi (ishtirokchisi); mol-mulk egasi; yakka tartibdagi tadbirkor yoki jismoniy shaxs.",
+    "Subyektiv tomondan to'g'ridan-to'g'ri qasd bilan amalga oshiriladi. Shaxs moliyaviy sharoitni atayin yomonlashtiradi, bu orqali o'z yoki boshqalar manfaatini ko'zlaydi.",
+    "Jinoyat sodir etilganidan so'ng zarar o'rnini qoplagan bo'lsa, ozodlikni cheklash yoki ozodlikdan mahrum qilish qo'llanilmasligi mumkin (2-qism).",
+    "Birinchi marta jinoyat sodir etgan shaxs, agar 30 kun ichida zarar qoplansa, javobgarlikdan ozod qilinadi (3-qism)."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6820464",
+      "matn": "Yuridik shaxsning mansabdor shaxsi, muassisi (ishtirokchisi) yoxud mol-mulkining mulkdori yoki jismoniy shaxs yoxud yakka tartibdagi tadbirkor tomonidan shaxsiy manfaatlarini yoki boshqa shaxslarning manfaatlarini koʻzlab sodir etilgan qasddan toʻlovga qobiliyatsizlikka olib kelish, yaʼni toʻlovga qobiliyatsizlikni qasddan yuzaga keltirish yoki koʻpaytirish, ushbu yuridik shaxsning yoki jismoniy shaxsning yoxud yakka tartibdagi tadbirkorning toʻlovga qobiliyatsizligiga olib kelsa, kreditorlarga koʻp miqdorda zarar yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravaridan ikki yuz ellik baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yildan uch yilgacha axloq tuzatish ishlari yoki ikki yildan uch yilgacha ozodlikni cheklash yoki ikki yildan uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-8121372",
+      "matn": "Yetkazilgan moddiy zararning oʻrni qoplangan taqdirda, ozodlikni cheklash va ozodlikdan mahrum qilish tariqasidagi jazo qoʻllanilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3094858",
+      "matn": "Birinchi marta jinoyat sodir etgan shaxs, agar u jinoyat aniqlangan kundan eʼtiboran oʻttiz kunlik muddatda yetkazilgan moddiy zararning oʻrnini qoplagan boʻlsa, javobgarlikdan ozod etiladi."
+    }
+  ]
+}

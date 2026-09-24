@@ -1,0 +1,27 @@
+﻿{
+  "n": 195,
+  "sarlavha_id": "-254497",
+  "sarlavha": "195-modda. Ekspert tomonidan tajriba uchun namunalar olish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254498",
+      "matn": "Tekshiruv oʻtkazish jarayonida ekspert tomonidan ushbu Kodeks 188-moddasining toʻrtinchi qismida nazarda tutilgan tajriba namunalari tayyorlanishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-254499",
+      "matn": "Surishtiruvchi yoki tergovchi bunday namunalarni tayyorlash chogʻida hozir boʻlishga haqli boʻlib, bu hol ular tomonidan tuziladigan bayonnomada aks ettiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-254500",
+      "matn": "Ekspert tekshiruv oʻtkazib boʻlganidan keyin namunalarni muhrlangan holda oʻz xulosasiga qoʻshib qoʻyadi."
+    },
+    {
+      "q": 4,
+      "id": "-254501",
+      "matn": "Surishtiruvchi yoki tergovchi, sud muhokamasida esa sud va taraflar ekspert taqdim qilgan tajriba namunalarini koʻzdan kechiradilar, shundan soʻng ular ashyoviy dalil sifatida jinoyat ishiga qoʻshib qoʻyiladi."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "n": 221,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-266645",
+  "sarlavha": "221-modda. Jazoni ijro etish muassasasi maʼmuriyatining qonuniy talablariga boʻysunmaslik",
+  "umumiy_sharh": [
+    "Ozodlikdan mahrum qilish jazosini ijro etish muassasasining bir me'yordagi faoliyati jinoyat obyekti hisoblanadi.",
+    "Bo'ysunmaslik – bu mahkum tomonidan ma'muriyat vakilining qonuniy farmoyishi yoki talabini oshkora rad etish. Tuzum talablariga rioya etmaslik, mehnat majburiyatlarini bajarishdan bo'yin tovlash kabi ko'rinishlarda bo'lishi mumkin.",
+    "Ma'muriyatning o'z faoliyatini amalga oshirishiga to'sqinlik qilish deganda, mahbuslarning ma'muriyat qonuniy talablarini bajarmaslikka yo'naltirilgan bevosita harakati tushuniladi.",
+    "Jinoyat sodir etilgan vaqtdan boshlab jinoyat tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat qasddan sodir etiladi. Jinoyatni sodir etish motivlari kvalifikatsiyada ahamiyatga ega emas.",
+    "JK 221-moddasi 1-qismi subyekti – bir yil mobaynida tartibni buzganligi uchun karterga o'tkazilgan yoki turmaga o'tkazilgan mahkum.",
+    "JK 221-moddasi 2-qismi subyekti – o'ta xavfli retsidivist yoki og'ir yoki o'ta og'ir jinoyati uchun hukm etilgan shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-321196",
+      "matn": "Ozodlikdan mahrum qilish joyida jazoni oʻtayotgan shaxsning jazoni ijro etish muassasasi maʼmuriyatining qonuniy talablariga boʻysunmasligi yoxud maʼmuriyatning oʻz faoliyatini amalga oshirishiga boshqacha yoʻsinda toʻsqinlik qilishi, basharti, mahkumga nisbatan bir yil mobaynida jazoni oʻtash tartibi talablarini buzganligi uchun jazoni ijro etish koloniyasining karseriga oʻtkazish tariqasidagi jazo qoʻllanilganidan yoki turmaga oʻtkazilganidan keyin sodir etilsa, — uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-266650",
+      "matn": "Oʻsha qilmishlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-266651",
+          "matn": "oʻta xavfli retsidivist;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-266652",
+          "matn": "ogʻir yoki oʻta ogʻir jinoyati uchun hukm etilgan shaxs tomonidan sodir etilgan boʻlsa, — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

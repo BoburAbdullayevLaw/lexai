@@ -1,0 +1,53 @@
+{
+  "n": 117,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-240493",
+  "sarlavha": "117-modda. Xavf ostida qoldirish",
+  "umumiy_sharh": [
+    "Jinoyat obyekti o'zi haqida g'amxo'rlik qilish imkoniyati bo'lmagan shaxsning hayoti yoki xavfsizligini ta'minlovchi ijtimoiy munosabatlar hisoblanadi.",
+    "Obyektiv tomondan jinoyat harakatsizlikda, ya'ni hayoti yoki sog'lig'i xavf ostida qolgan va o'zini o'zi himoya qilish imkoniyatidan mahrum bo'lgan shaxsga yordam ko'rsatmaslikda, uni qutqarish uchun choralar ko'rmaslikda ifodalanadi.",
+    "Hayot va sog'lik uchun xavfli holat inson organizmida yuz beradigan fiziologik yoki patologik jarayonlar (bolaning kichik yoshda ekanligi, qarilik, kasallik, boshlangan tug'ush, tutqanoq tutib qolishi va hokazo), tabiiy ofat hamda jabrlanuvchi shaxsning hayoti yoki sog'lig'iga xavf tug'diruvchi boshqa holatlar tufayli yuzaga kelishi mumkin.",
+    "Aybdor jabrlanuvchiga yordam ko'rsatishga majbur bo'lgan hollarda JKning 117-moddasi 1-qismi bo'yicha javobgarlik vujudga keladi. Bunday majburiyat qonunda nazarda tutilgan yoki shartnomada mustahkamlangan bo'lishi, shuningdek shaxsning kasbidan kelib chiqishi mumkin.",
+    "Aybdor jabrlanuvchiga yordam ko'rsatishga majbur bo'lmagan, ammo uning o'zi jabrlanuvchini hayoti va sog'lig'i uchun xavfli ahvolga solib qo'ygan hollarda ham u jabrlanuvchini yordamsiz qoldirsa, sharhlanayotgan jinoyatning tarkibi mavjud bo'ladi.",
+    "JKning 117-moddasi 1-qismida nazarda tutilgan jinoyat badanga o'rtacha og'ir yoki og'ir shikast yetkazish ko'rinishidagi oqibatlar yuzaga kelgan paytdan e'tiboran tugallangan deb topiladi.",
+    "Xavf ostida qoldirish bilan JKning 117-moddasi 1-qismida ko'rsatilgan oqibatlarning kelib chiqishi o'rtasida sababiy bog'lanish mavjudligini aniqlash jinoyatni qayd etilgan qism bilan kvalifikatsiya qilishning zaruriy sharti hisoblanadi.",
+    "Subyektiv tomondan jinoyat jabrlanuvchini hayoti yoki sog'lig'i uchun xavfli ahvolda qoldirish faktiga nisbatan to'g'ri qasd bilan va buning natijasida kelib chiqqan oqibatlarga nisbatan ehtiyotsizlik orqasida sodir etiladi.",
+    "Quyidagilar jinoyatning subyekti bo'lishi mumkin: yordamga muhtoj bo'lgan shaxsga g'amxo'rlik qilishi shart bo'lgan shaxs; jabrlanuvchini hayoti yoki sog'lig'i uchun xavfli ahvolga solib qo'ygan shaxs.",
+    "Sharhlanayotgan moddada ko'rsatilgan oqibatlarga nisbatan aybdorning subyektiv munosabati to'g'ri yoki egri qasd bilan tavsiflanganda, uning harakatlari JKning badanga o'rtacha og'ir yoki og'ir shikast yetkazish yoki qasddan odam o'ldirish uchun javobgarlikni nazarda tutadigan moddalari bilan kvalifikatsiya qilinadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-240495",
+      "matn": "Hayoti yoki sogʻligʻi xavf ostida qolgan va oʻzini oʻzi himoya qilish imkoniyatidan mahrum boʻlgan shaxsga yordam koʻrsatmaslik, basharti, aybdor bunday ahvoldagi shaxsga yordam berishi shart va bunday imkoniyatga ega boʻlsa yoxud aybdorning oʻzi jabrlanuvchini xavfli ahvolga solib qoʻygan va bu hol badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga olib kelsa, — uch yuz soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-240498",
+      "matn": "Oʻsha qilmish odam oʻlishiga sabab boʻlsa, — ikki yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+      "sharh": [
+        "Jinoyat oqibatida hayot uchun xavfli holatda qoldirilgan shaxsning o'limi yuzaga kelsa, aybdorning harakatlari JKning 117-moddasi 2-kismi bo'yicha kvalifikatsiya qilinishi lozim."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-240501",
+      "matn": "Oʻsha qilmishlar:",
+      "sharh": [
+        "Xavf ostida qoldirish odamlar o'limiga yoki boshqacha og'ir oqibatlarga olib kelgan bo'lsa, aybdor JKning 117-moddasi 3-qismi bilan javobgarlikka tortiladi."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-240502",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-240503",
+          "matn": "boshqacha ogʻir oqibatlarga sabab boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

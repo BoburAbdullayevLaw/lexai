@@ -1,0 +1,32 @@
+﻿{
+  "n": 412,
+  "sarlavha_id": "-256289",
+  "sarlavha": "412-modda. Prokurorning, himoyachining, jamoat ayblovchisining, jamoat himoyachisining sud majlisiga kelmasligi oqibatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256291",
+      "matn": "Prokuror sud majlisiga kelmay qolgan taqdirda jinoyat ishini muhokama qilish keyinga qoldiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-256292",
+      "matn": "Himoyachi sud majlisiga kelmasa, uni boshqa himoyachi bilan almashtirishga faqat sudlanuvchining roziligi bilan yoʻl qoʻyiladi. Shu sud majlisida himoyachini almashtirish imkoniyati boʻlmasa, ishni muhokama qilish keyinga qoldiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-256294",
+      "matn": "Jamoat ayblovchisi yoki jamoat himoyachisi sudga kelmay qolsa, ishning holatlariga qarab, sud ishni ular ishtirokisiz koʻrish mumkinligi yoki muhokamani keyinga qoldirish masalasini hal etadi."
+    },
+    {
+      "q": 4,
+      "id": "-256295",
+      "matn": "Ishga yangi kirishgan prokurorga yoki himoyachiga sud muhokamasida ishtirok etishga tayyorgarlik koʻrish uchun zarur vaqt berilishi lozim."
+    },
+    {
+      "q": 5,
+      "id": "-1778334",
+      "matn": "Prokuror yoki himoyachining uzrsiz sabablarga koʻra sudga kelmaganligi toʻgʻrisida sud tegishlicha yuqori turuvchi prokurorga yoki Oʻzbekiston Respublikasi Advokatlar palatasining hududiy boshqarmasi huzuridagi malaka komissiyasiga xabar qiladi. Jamoat ayblovchisi yoki jamoat himoyachisi uzrsiz sabablarga koʻra kelmagan taqdirda sud bu haqda tegishli jamoat birlashmasiga yoki jamoaga xabar qiladi."
+    }
+  ]
+}

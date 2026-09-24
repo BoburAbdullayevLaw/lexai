@@ -1,0 +1,71 @@
+{
+  "n": "243¹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-3696101",
+  "sarlavha": "243¹-modda. Uy qamogʻi boʻyicha belgilangan taqiqlarni (cheklovlarni) bekor qilish yoki oʻzgartirish yoxud qoʻshimcha taqiqlar (cheklovlar) belgilash tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-3696103",
+      "matn": "Uy qamogʻi boʻyicha taqiqlar (cheklovlar) asoslar mavjud boʻlganda prokuror tomonidan, shuningdek prokurorning roziligi bilan surishtiruvchi yoki tergovchi tomonidan qisman bekor qilinishi yoki oʻzgartirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-3696104",
+      "matn": "Ushbu Kodeks 242¹-moddasining beshinchi qismi doirasidagi uy qamogʻi boʻyicha qoʻshimcha taqiqlar (cheklovlar) prokurorning yoki prokurorning roziligi bilan surishtiruvchining yoxud tergovchining iltimosnomasiga koʻra sudyaning ajrimi asosida belgilanishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-3696105",
+      "matn": "Uy qamogʻi boʻyicha qoʻshimcha taqiqlar (cheklovlar) belgilash toʻgʻrisidagi iltimosnoma ushbu Kodeks 243-moddasining beshinchi, oltinchi va yettinchi qismlarida nazarda tutilgan tartibda tegishli sudning sudyasi tomonidan koʻrib chiqiladi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-3696108",
+      "matn": "Uy qamogʻi boʻyicha qoʻshimcha taqiqlar (cheklovlar) belgilash toʻgʻrisidagi iltimosnomani koʻrib chiqish prokurorning maʼruzasi bilan boshlanadi, u qoʻshimcha taqiqlar (cheklovlar) belgilash zarurligini asoslab beradi. Shundan soʻng gumon qilinuvchi yoki ayblanuvchi, himoyachi, sudda hozir boʻlgan boshqa shaxslar eshitiladi, taqdim etilgan materiallar tekshiriladi. Shundan keyin sudya ajrim chiqarish uchun alohida xonaga kiradi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-3696109",
+      "matn": "Sud gumon qilinuvchiga yoki ayblanuvchiga nisbatan uy qamogʻi boʻyicha qoʻshimcha taqiqlar (cheklovlar) belgilash toʻgʻrisidagi iltimosnomani koʻrib chiqib, quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-3696110",
+          "matn": "qoʻshimcha taqiq (cheklov) belgilash haqida;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-3696111",
+          "matn": "qoʻshimcha taqiq (cheklov) belgilashni rad qilish toʻgʻrisida."
+        }
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-3696113",
+      "matn": "Sudyaning uy qamogʻi boʻyicha qoʻshimcha taqiq (cheklov) belgilash haqidagi yoki qoʻshimcha taqiq (cheklov) belgilashni rad qilish toʻgʻrisidagi ajrimi oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi va darhol ijro etilishi lozim. Sudyaning ajrimi ijro etish uchun prokurorga, maʼlumot uchun esa — gumon qilinuvchiga, ayblanuvchiga va himoyachiga yuboriladi. Sudyaning ajrimi ustidan ushbu Kodeks 241-moddasining ikkinchi qismida nazarda tutilgan qoidalarga binoan apellyatsiya tartibida shikoyat qilinishi, protest bildirilishi mumkin."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-3696115",
+      "matn": "Apellyatsiya instansiyasi sudi apellyatsiya shikoyatini, protestni koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-3696118",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni yoki protestni esa qanoatlantirmay qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-3696119",
+          "matn": "sudyaning ajrimini bekor qilishga va gumon qilinuvchiga yoki ayblanuvchiga nisbatan uy qamogʻi boʻyicha qoʻshimcha taqiq (cheklov) belgilashga;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-3696120",
+          "matn": "sudyaning gumon qilinuvchiga yoki ayblanuvchiga nisbatan uy qamogʻi boʻyicha qoʻshimcha taqiq (cheklov) belgilash toʻgʻrisidagi ajrimini bekor qilishga haqli."
+        }
+      ]
+    }
+  ]
+}

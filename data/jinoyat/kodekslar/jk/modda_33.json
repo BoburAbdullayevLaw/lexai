@@ -1,0 +1,38 @@
+{
+  "n": 33,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179969",
+  "sarlavha": "33-modda. Jinoyatlar majmui",
+  "umumiy_sharh": [
+    "Jinoyatlar majmui — turli moddalarda yoki bitta moddaning turli qismlarida nazarda tutilgan ikki yoki bir necha jinoyatni sodir etish, ulardan birortasi uchun ham sudlanmagan bo'lsa.",
+    "Jinoyatlar majmuining belgilari: ikki yoki undan ortiq jinoyatning sodir etilishi, ular turli moddalar bo'yicha baholanishi, hech birortasi uchun sudlanmaganlik.",
+    "Jinoyatlar majmui bir vaqtda sodir etilgan jinoyatlarda ham bo'lishi mumkin — bu jinoyatlarning ideal majmui (jami) deb ataladi.",
+    "Jinoyatlar majmui va takroran jinoyat farqi: majmuida qilmishlar mustaqil kvalifikatsiya qilinadi, takroran jinoyatda esa o'xshash yoki turdosh jinoyatlar sodir etiladi.",
+    "Jinoyat-huquqiy normalar raqobati — bitta qilmish ikki yoki undan ortiq modda bilan qamrab olinishi. Bu holda maxsus norma qo'llaniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179970",
+      "matn": "Ushbu Kodeks Maxsus qismining turli moddalarida yoki bitta moddasining turli qismlarida nazarda tutilgan, javobgarlikka tortiladigan ikki yoki bir necha jinoiy qilmishni sodir etish, agarda ulardan birortasi uchun ham shaxs sudlangan boʻlmasa, jinoyatlar majmui deb topiladi.",
+      "sharh": [
+        "Jinoyatlar majmuining birinchi belgisi — ikki yoki undan ortiq jinoyatning sodir etilishi. Har bir jinoyat mustaqil kvalifikatsiya qilinadi va alohida jazo tayinlanadi.",
+        "Jinoyatlar majmuining ikkinchi belgisi — jinoyatlar turli moddalar bo'yicha baholanishi, ya'ni turli xil yoki bir turdagi jinoyatlar bo'lishi mumkin.",
+        "Jinoyatlar majmuining uchinchi belgisi — jinoyatlarning birortasi uchun ham sudlanmaganligi. Faqat o'z kuchini yo'qotmagan jinoyatlar tashkil qilishi mumkin.",
+        "Jinoyatlarning ideal majmui — bir qilmish bilan ikki yoki undan ortiq jinoyat sodir etish. Bitta harakatdan ikki yoki undan ortiq oqibat kelib chiqadi.",
+        "Ideal majmui holatida shaxs har ikkala natijaga qasd bilan qamrab olingan ruhiy munosabatda bo'lishi kerak. Agar bittasiga qasd, boshqasiga ehtiyotsizlik bo'lsa, og'ir oqibat bilan yagona jinoyat hisoblanadi.",
+        "Bitta qilmish boshqasini sodir etish vositasi yoki usuli bo'lsa, faqat og'irroq jinoyat uchun javobgarlik belgilovchi bitta modda bilan kvalifikatsiya qilinadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179971",
+      "matn": "Agar shaxs sodir etgan qilmishda ushbu Kodeks Maxsus qismi ayni bir moddasining turli qismlarida nazarda tutilgan jinoyatlarning alomatlari mavjud boʻlsa, u moddaning ogʻirroq jazo belgilangan qismi boʻyicha javobgarlikka tortiladi.",
+      "sharh": [
+        "Bitta moddaning turli qismlarida nazarda tutilgan og'irlashtiruvchi va yengillashtiruvchi belgilar bir qilmishda mujassam bo'lsa, moddaning og'irroq javobgarlikni nazarda tutuvchi qismi bo'yicha kvalifikatsiya qilinadi.",
+        "Jinoyatlar majmui mavjud bo'lmaydigan holat: og'irlashtiruvchi (masalan, o'ta shafqatsizlik) va yengillashtiruvchi (masalan, kuchli ruhiy hayajon) belgilar bir paytda sodir etilganda, yengilroq modda qo'llaniladi.",
+        "Raqobatlashuvchi normalar orasida maxsus norma umumiy normaga nisbatan qo'llaniladi. Maxsus norma qilmishning spetsifik belgilarini ifodalaydi."
+      ]
+    }
+  ]
+}

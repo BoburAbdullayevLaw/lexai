@@ -1,0 +1,34 @@
+﻿{
+  "n": 79,
+  "sarlavha_id": "-253724",
+  "sarlavha": "79-modda. Himoyachining, jabrlanuvchi, fuqaroviy daʼvogar yoki fuqaroviy javobgar vakilining ishda ishtirok etishiga monelik qiladigan holatlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253725",
+      "matn": "Himoyachi, shuningdek jabrlanuvchining, fuqaroviy daʼvogarning yoki fuqaroviy javobgarning vakili quyidagi hollarda jinoyat ishini yuritishda ishtirok etishga haqli emas, basharti u:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3348831",
+          "matn": "ilgari shu ish boʻyicha sudya, xalq maslahatchisi, prokuror, tergovchi, surishtiruvchi tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, sud majlisining kotibi, guvoh, ekspert, mutaxassis, tarjimon yoki xolis sifatida ishtirok etgan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-253727",
+          "matn": "ushbu ishning tergovida yoki sudda koʻrilishida ishtirok etgan yoxud ishtirok etayotgan sudya, prokuror, tergovchi, surishtiruvchi yoki sud majlisining kotibi bilan qarindoshlik munosabatida boʻlsa yoxud yuridik yordam koʻrsatish toʻgʻrisida u bilan bitim tuzgan protsess ishtirokchisining manfaatlariga manfaati qarama-qarshi boʻlgan shaxs bilan qarindoshlik munosabatida boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-253728",
+          "matn": "sudya, prokuror, tergovchi, surishtiruvchi lavozimida boʻlsa, quyidagi hollar bundan mustasno: basharti u muomalaga layoqatsiz shaxslarning vakili boʻlsa yoki oʻzi ishlaydigan va fuqaroviy daʼvogar deb eʼtirof etilgan yoki fuqaroviy javobgar tariqasida ishga jalb qilingan muassasaning vakili sifatida qatnashsa;"
+        },
+        {
+          "b": 4,
+          "id": "-253729",
+          "matn": "oʻz himoyasidagi gumon qilinuvchining, ayblanuvchining, sudlanuvchining yoki oʻzi vakillik qilayotgan jabrlanuvchining, fuqaroviy daʼvogarning, fuqaroviy javobgarning manfaatlariga manfaati qarama-qarshi boʻlgan shaxsga yuridik yordam koʻrsatayotgan yoki muqaddam shunday yordam koʻrsatgan boʻlsa."
+        }
+      ]
+    }
+  ]
+}

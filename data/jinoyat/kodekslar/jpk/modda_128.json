@@ -1,0 +1,22 @@
+﻿{
+  "n": 128,
+  "sarlavha_id": "-254030",
+  "sarlavha": "128-modda. Koʻchar narsalarni tanib olish uchun koʻrsatish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254031",
+      "matn": "Tergov olib borilayotgan joyga, sudga yoki boshqa joyga olib borilishi mumkin boʻlgan narsalar, narsalarning boʻlagi va hayvonlar ushbu ishga aloqasi boʻlmagan boshqa turdosh narsalar orasida tanib olish uchun koʻrsatiladi."
+    },
+    {
+      "q": 2,
+      "id": "-254032",
+      "matn": "Tanib oluvchi soʻroq qilinganda tasvirlaganidan tashqi belgilari, alomatlari, xususiyatlari boʻyicha jiddiy farq qilmaydigan narsalar turdosh deb hisoblanadi. Tanib olish uchun koʻrsatilayotgan narsalarni joylashtirish tartibi surishtiruvchi, tergovchi tomonidan xolislar huzurida belgilanadi."
+    },
+    {
+      "q": 3,
+      "id": "-254033",
+      "matn": "Turdosh obyektlar orasidan tanib olish toʻgʻrisidagi qoida murdani tanib olishda qoʻllanilmaydi."
+    }
+  ]
+}

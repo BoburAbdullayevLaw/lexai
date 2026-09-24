@@ -1,0 +1,38 @@
+{
+  "n": "50",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445614",
+  "sarlavha": "50-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445615",
+      "matn": "Har kim taʼlim olish huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445617",
+      "matn": "Davlat uzluksiz taʼlim tizimi, uning har xil turlari va shakllari, davlat va nodavlat taʼlim tashkilotlari rivojlanishini taʼminlaydi."
+    },
+    {
+      "q": 3,
+      "id": "-6445619",
+      "matn": "Davlat maktabgacha taʼlim va tarbiyani rivojlantirish uchun shart-sharoitlar yaratadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445621",
+      "matn": "Davlat bepul umumiy oʻrta taʼlim va boshlangʻich professional taʼlim olishni kafolatlaydi. Umumiy oʻrta taʼlim majburiydir."
+    },
+    {
+      "q": 5,
+      "id": "-6445622",
+      "matn": "Maktabgacha taʼlim va tarbiya, umumiy oʻrta taʼlim davlat nazoratidadir."
+    },
+    {
+      "q": 6,
+      "id": "-6445624",
+      "matn": "Taʼlim tashkilotlarida alohida taʼlim ehtiyojlariga ega boʻlgan bolalar uchun inklyuziv taʼlim va tarbiya taʼminlanadi."
+    }
+  ]
+}

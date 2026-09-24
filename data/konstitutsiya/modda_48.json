@@ -1,0 +1,28 @@
+{
+  "n": "48",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445603",
+  "sarlavha": "48-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445604",
+      "matn": "Har kim sogʻligʻini saqlash va malakali tibbiy xizmatdan foydalanish huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445605",
+      "matn": "Oʻzbekiston Respublikasi fuqarolari tibbiy yordamning kafolatlangan hajmini qonunda belgilangan tartibda davlat hisobidan olishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-6445606",
+      "matn": "Davlat sogʻliqni saqlash tizimini, uning davlat va nodavlat shakllarini, tibbiy sugʻurtaning har xil turlarini rivojlantirish, aholining sanitariya-epidemiologik osoyishtaligini taʼminlash choralarini koʻradi."
+    },
+    {
+      "q": 4,
+      "id": "-6445607",
+      "matn": "Davlat jismoniy tarbiya va sportni rivojlantirish, aholi oʻrtasida sogʻlom turmush tarzini shakllantirish uchun shart-sharoitlar yaratadi."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿{
+  "n": 527,
+  "sarlavha_id": "-5234499",
+  "sarlavha": "527-modda. Yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash toʻgʻrisidagi masala boʻyicha sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627775",
+      "matn": "Yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash toʻgʻrisidagi masalani koʻrib chiqib, taftish instansiyasi sudi quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6628973",
+          "matn": "sud hukmini, ajrimini bekor qilish, yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash va ishni yangidan koʻrib chiqish uchun birinchi instansiya, apellyatsiya, kassatsiya yoki taftish instansiyasi sudiga yuborish toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "-6628974",
+          "matn": "ish boʻyicha qabul qilingan barcha sud qarorlarini bekor qilish, yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash va ishni ushbu Kodeksning 416, 417-moddalarida nazarda tutilgan holatlar aniqlangan taqdirda prokurorga yuborish toʻgʻrisida;"
+        },
+        {
+          "b": 3,
+          "id": "-6628976",
+          "matn": "agar yangi tergov ishini yuritishga yoki jinoyat ishini sudda koʻrishga zarurat boʻlmasa, sud hukmini, ajrimini bekor qilish va jinoyat ishini tugatish toʻgʻrisida;"
+        },
+        {
+          "b": 4,
+          "id": "-6628977",
+          "matn": "yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlashni rad etish toʻgʻrisida."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-6628979",
+      "matn": "Yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash toʻgʻrisidagi masala boʻyicha taftish instansiyasi sudi ajrimining koʻchirma nusxasi prokurorga va arizachiga yuboriladi. Ajrimning koʻchirma nusxasi boshqa manfaatdor shaxslarga ularning iltimosiga koʻra yuboriladi."
+    }
+  ]
+}

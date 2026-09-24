@@ -1,0 +1,27 @@
+﻿{
+  "n": 528,
+  "sarlavha_id": "-5234582",
+  "sarlavha": "528-modda. Hukmning qonuniy kuchga kirishi va uni ijro ettirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5234583",
+      "matn": "Agar birinchi instansiya sudining hukmi ustidan taraflar shikoyat bermagan boʻlsa, ushbu hukm uning ustidan apellyatsiya tartibida shikoyat va protest berish muddati oʻtishi bilan qonuniy kuchga kiradi. Apellyatsiya shikoyati yoki protest berilgan taqdirda hukm, agar u bekor qilinmagan boʻlsa, ish yuqori sud tomonidan koʻrib chiqilgan kunda qonuniy kuchga kiradi."
+    },
+    {
+      "q": 2,
+      "id": "-5234584",
+      "matn": "Apellyatsiya instansiyasi sudining hukmi eʼlon qilingan paytdan eʼtiboran qonuniy kuchga kiradi."
+    },
+    {
+      "q": 3,
+      "id": "-5234585",
+      "matn": "Mahkumlar ikki va undan ortiq boʻlgan taqdirda, agar ulardan loaqal bittasiga taalluqli hukm ustidan shikoyat yoki protest berilgan boʻlsa, apellyatsiya instansiyasi sudi ishni koʻrib chiqquniga qadar mahkumlarning hammasiga nisbatan hukm qonuniy kuchga kirmay turadi."
+    },
+    {
+      "q": 4,
+      "id": "-5234586",
+      "matn": "Hukm qonuniy kuchga kirgan yoki jinoyat ishi apellyatsiya instansiyasi sudidan qaytarilgan kundan eʼtiboran uch sutka ichida hukm birinchi instansiya sudi tomonidan ijro ettiriladi. Ish faqat birinchi instansiya sudiga yuborilishi lozim va prokurorga yoki boshqa sudga yuborilishi mumkin emas."
+    }
+  ]
+}

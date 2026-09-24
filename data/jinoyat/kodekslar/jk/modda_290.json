@@ -1,0 +1,37 @@
+{
+  "n": 290,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271503",
+  "sarlavha": "290-modda. O'zining biron a'zosini mayib qilish yo'li bilan yoki boshqa usulda harbiy xizmatdan bo'yin tovlash",
+  "umumiy_sharh": [
+    "Jinoyatning bevosita obyekti harbiy xizmat o'tashning o'rnatilgan tartiblarini ta'minlovchi ijtimoiy munosabatlardir.",
+    "Obyektiv tomondan o'zining biron a'zosini mayib qilish, o'zini yolg'ondan kasallikka solib, hujjatlarni qalbakilashtirish yoki boshqacha aldash yo'li bilan harbiy xizmat vazifalarini bajarishdan bo'yin tovlashda ifodalanadi.",
+    "A'zoni mayib qilish — harbiy xizmatchining o'z badaniga shikast yetkazish, kasallikning simulyatsiyasi, medikamentlardan noto'g'ri foydalanish, sun'iy ravishda kasallik holatiga keltirishdan iborat.",
+    "A'zolarga shikast yetkazishda aybdorning sog'lig'iga zarar yetadi. Sog'liqqa zarar o'zi tomonidan yoki uning iltimosiga ko'ra boshqa shaxs tomonidan yetkazilishi kvalifikatsiyaga ta'sir ko'rsatmaydi.",
+    "O'zini yolg'ondan kasallikka solish — tibbiy komissiyani aldash, kasallik belgilarini ongli ravishda oshirib ko'rsatishdan iborat.",
+    "Hujjatlarni qalbakilashtirish — qonunga xilof ravishda harbiy xizmatdan ozod bo'lish uchun qalbaki hujjatlarni taqdim etish.",
+    "Qalbaki hujjat aybdor tomonidan yoki uning iltimosiga ko'ra boshqa shaxs tomonidan tayyorlanishi mumkin.",
+    "Boshqa aldash — voqea yoki hodisalar to'g'risida bila turib, yolg'on ma'lumot yetkazish yoki ongli ravishda xabar bermaslikdan iborat.",
+    "Bosh tortish ochiqdan-ochiq og'zaki, yozma yoki boshqa yo'l bilan harbiy xizmatni o'tashni istamaslikda namoyon bo'ladi.",
+    "Komandirning aniq talabini bajarishni istamaslik yoki bajarmaslik harbiy xizmat vazifalarini o'tashdan bosh tortish bo'lmaydi.",
+    "Agar maxsus vazifalar yuklangan davrda (jangovar navbatchilik, naryad) bosh tortilsa, javobgarlik 291-294-moddalar bo'yicha belgilanadi.",
+    "Biron a'zoni mayib qilish, kasallikni simulyatsiya qilish, hujjatlarni qalbakilashtirish jinoyatni paydo qilmaydi, harbiy xizmat vazifalarini bajarishdan bo'yin tovlashni paydo qiladi.",
+    "Jinoyat harbiy xizmat o'tashdan bosh tortilgan vaqtdan boshlab tugallangan deb topiladi.",
+    "Subyektiv tomondan to'g'ri qasd bilan sodir etiladi. Aybdor harbiy xizmatdan qonunga xilof ozod etilishga yetishmoqchiligini anglaydi.",
+    "Subyekti harbiy xizmatni o'tayotgan shaxs — askar, serjant, starshina, kontraktchilar, chaqiruvchilar, zaxiradagi fuqarolar.",
+    "Jinoyat ishtirokchilari harbiy xizmatchilar va harbiy xizmatchi bo'lmagan shaxslar bo'lishi mumkin.",
+    "2-qism jangovar vaziyatda sodir etilganlik uchun javobgarlikni nazarda tutadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271505",
+      "matn": "O'zining biron a'zosini mayib qilish, ya'ni harbiy xizmatchining o'z badaniga biron shikast yetkazish yo'li bilan, shuningdek, o'zini yolg'ondan kasallikka solib, hujjatlarni qalbakilashtirish yoki boshqacha aldash yo'li bilan harbiy xizmat vazifalarini bajarishdan bo'yin tovlashi yoki bu vazifalarni bajarishdan bosh tortishi — bir yilgacha intizomiy qismga yuborish yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271508",
+      "matn": "O'sha harakat jangovar vaziyatda sodir etilgan bo'lsa, — besh yildan o'n yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

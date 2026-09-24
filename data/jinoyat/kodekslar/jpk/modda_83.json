@@ -1,0 +1,29 @@
+﻿{
+  "n": 83,
+  "sarlavha_id": "-253758",
+  "sarlavha": "83-modda. Reabilitatsiya uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253759",
+      "matn": "Gumon qilinuvchi, ayblanuvchi, sudlanuvchi quyidagi hollarda aybsiz deb topiladi va reabilitatsiya etilishi lozim:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253760",
+          "matn": "ish qoʻzgʻatilgan va tergov harakatlari yoki sud muhokamasi oʻtkazilgan ish boʻyicha jinoiy hodisa yuz bermagan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-253761",
+          "matn": "uning qilmishida jinoyat tarkibi boʻlmasa;"
+        },
+        {
+          "b": 3,
+          "id": "-253762",
+          "matn": "uning sodir etilgan jinoyatga daxli boʻlmasa."
+        }
+      ]
+    }
+  ]
+}

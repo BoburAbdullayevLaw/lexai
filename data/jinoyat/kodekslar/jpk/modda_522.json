@@ -1,0 +1,44 @@
+﻿{
+  "n": 522,
+  "sarlavha_id": "-5234410",
+  "sarlavha": "522-modda. Yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5234412",
+      "matn": "Sudning qonuniy kuchga kirgan hukmi va ajrimi yangi ochilgan holatlar tufayli bekor qilinishi hamda ish yuritish qaytadan boshlanishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-5234414",
+      "matn": "Yangi ochilgan holatlar sudning hukmi yoki ajrimi qonuniy kuchga kirgan paytda mavjud boʻlgan, biroq sudga maʼlum boʻlmagan holatlardir."
+    },
+    {
+      "q": 3,
+      "id": "-5234415",
+      "matn": "Yangi ochilgan holatlar quyidagilardan iborat:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-7235324",
+          "matn": "jabrlanuvchining yoki guvohning bila turib yolgʻon koʻrsatuv yoxud ekspertning bila turib yolgʻon xulosa berganligi, xuddi shuningdek ashyoviy, yozma va raqamli dalillar, tergov va sud harakatlari bayonnomalarining hamda boshqa hujjatlarning soxta ekanligi yoki bila turib notoʻgʻri tarjima qilinganligi qonunga xilof, asossiz yoki adolatsiz hukm, qonunga xilof yoki asossiz ajrim chiqarilishiga sabab boʻlganligi sudning qonuniy kuchga kirgan hukmi bilan aniqlanganligi;"
+        },
+        {
+          "b": 2,
+          "id": "-5234417",
+          "matn": "surishtiruvchining, tergovchining yoki prokurorning qonunga xilof, asossiz yoki adolatsiz hukm, qonunga xilof yoki asossiz ajrim chiqarilishiga olib kelgan jinoiy xatti-harakatlarga yoʻl qoʻyganligi sudning qonuniy kuchga kirgan hukmi bilan aniqlanganligi;"
+        },
+        {
+          "b": 3,
+          "id": "-5234418",
+          "matn": "muayyan jinoyat ishini koʻrish chogʻida sudya tomonidan sodir etilgan jinoiy xatti-harakatlar sudning qonuniy kuchga kirgan hukmi bilan aniqlanganligi;"
+        },
+        {
+          "b": 4,
+          "id": "-5234419",
+          "matn": "oʻz holicha yoki ilgari aniqlangan holatlar bilan birgalikda mahkumning aybsizligidan yoxud u hukm etilganiga nisbatan ogʻirligi darajasi boʻyicha boshqa jinoyat sodir etganligidan yoxud oqlangan shaxsning yoki oʻziga nisbatan ish tugatilgan shaxsning aybdorligidan dalolat beradigan boshqa holatlar."
+        }
+      ]
+    }
+  ]
+}

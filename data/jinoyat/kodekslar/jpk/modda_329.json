@@ -1,0 +1,44 @@
+﻿{
+  "n": 329,
+  "sarlavha_id": "-1562985",
+  "sarlavha": "329-modda. Jinoyatga oid arizalar, xabarlar va boshqa maʼlumotlarni koʻrib chiqish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3351066",
+      "matn": "Jinoyatga oid arizalar, xabarlar va boshqa maʼlumotlar roʻyxatga olinishi va darhol, jinoyat ishini qoʻzgʻatish uchun sabab qonuniyligini va asoslar yetarli ekanligini tekshirish zarurati boʻlgan taqdirda esa, oʻn sutkadan kechiktirmasdan hal qilinishi lozim. Ushbu muddat jinoyatga oid arizalar, xabarlar va boshqa maʼlumotlar olingan paytdan boshlab hamda to ishni qoʻzgʻatish yoki qoʻzgʻatishni rad qilish toʻgʻrisida qaror chiqarilguniga qadar yoxud tergovga qadar tekshiruv materiallari ushbu Kodeksning 587-moddasiga muvofiq prokurorga yuborilguniga qadar boʻlgan vaqtni oʻz ichiga oladi."
+    },
+    {
+      "q": 2,
+      "id": "-3351075",
+      "matn": "Ushbu modda birinchi qismida koʻrsatilgan muddat ichida tergovga qadar tekshiruv oʻtkazilib, uning davomida qoʻshimcha hujjatlar, tushuntirishlar talab qilib olish, shuningdek shaxsni ushlab turish ushbu Kodeks 162-moddasining ikkinchi qismiga muvofiq shaxsiy tintuv va olib qoʻyish, hodisa sodir boʻlgan joyni koʻzdan kechirish, ekspertiza oʻtkazish, taftish tayinlash, tezkor-qidiruv tadbirlarini oʻtkazish haqida topshiriqlar berish mumkin. Tergovga qadar tekshiruv vaqtida boshqa tergov harakatlarini oʻtkazish man qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-3351089",
+      "matn": "Alohida hollarda, tergovga qadar tekshiruv muddati quyidagi holatlardan biri mavjud boʻlgan taqdirda, surishtiruvchi, tergovchi yoki tergovga qadar tekshiruvni amalga oshiruvchi organ mansabdor shaxsining asoslantirilgan qaroriga koʻra prokuror tomonidan bir oygacha uzaytirilishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3093005",
+          "matn": "oʻtkazish uchun koʻp vaqt talab qiladigan ekspertiza, xizmat tekshiruvi, taftish yoki boshqa tekshiruv tayinlangan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-1562993",
+          "matn": "olis joylarda boʻlgan yoki chaqiruvga binoan hozir boʻlishdan boʻyin tovlayotgan shaxslardan tushuntirishlar talab qilib olish zarur boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-1562994",
+          "matn": "yangi holatlar aniqlanib, ularni qoʻshimcha tarzda tekshirmasdan turib qaror qabul qilishning imkoni boʻlmasa;"
+        },
+        {
+          "b": 4,
+          "id": "-3093009",
+          "matn": "yetkazilgan moddiy zararning oʻrnini ixtiyoriy ravishda qoplash va (yoki) jinoyat oqibatlarini bartaraf etish uchun Oʻzbekiston Respublikasi Jinoyat kodeksi Maxsus qismining tegishli moddasida belgilangan muddat oʻtmagan boʻlsa."
+        }
+      ]
+    }
+  ]
+}

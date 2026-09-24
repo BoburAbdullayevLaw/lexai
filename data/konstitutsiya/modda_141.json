@@ -1,0 +1,23 @@
+{
+  "n": "141",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446156",
+  "sarlavha": "141-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446157",
+      "matn": "Jismoniy va yuridik shaxslarga malakali yuridik yordam koʻrsatish uchun advokatura faoliyat koʻrsatadi."
+    },
+    {
+      "q": 2,
+      "id": "-6446158",
+      "matn": "Advokatura faoliyati qonuniylik, mustaqillik va oʻzini oʻzi boshqarish prinsiplariga asoslanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6446159",
+      "matn": "Advokaturani tashkil etish va uning faoliyati tartibi qonun bilan belgilanadi."
+    }
+  ]
+}

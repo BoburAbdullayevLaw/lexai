@@ -1,0 +1,28 @@
+{
+  "n": 16,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179897",
+  "sarlavha": "16-modda. Jinoyat uchun javobgarlik va uning asoslari",
+  "umumiy_sharh": [
+    "Jinoiy javobgarlik jinoyat sodir etishning huquqiy oqibatidir. Bu shaxsni dastlabki tergovga jalb qilish, ishni sudda ko'rish, ayblov hukmini chiqarish va shartli hukm qilish shakllarida amalga oshiriladi.",
+    "Jinoiy javobgarlikning huquqiy oqibatlari: ijtimoiy xavfli qilmishni sodir etganlikda sudlanganlik vujudga keladi; aybdor shaxsga nisbatan jazo yoki boshqa ta'sir chorasi qo'llaniladi; sud hukmi natijasida ma'lum bir huquqiy oqibatlar kelib chiqadi.",
+    "Jinoiy javobgarlik faqat davlat nomidan sud tomonidan qo'llanadigan javobgarlikdir. Suddan boshqa biror mansabdor shaxs shaxsni jinoyatda ayblab javobgarlikka tortishga haqli emas.",
+    "Jinoyat-huquqiy ta'sirning boshqa turlariga tibbiy yo'sindagi va voyaga yetmaganlarga nisbatan tarbiya yo'sinidagi majburlov choralari kiradi. Ular sudlanganlikni keltirib chiqarmaydi, lekin jinoiy javobgarlikni istisno qilmaydi.",
+    "Sud hukmi kuchga kirishi bilan jinoiy javobgarlik boshlanadi. Sud ayblov hukmining chiqarilishi jinoiy javobgarlikni yuzaga keltiruvchi formal tarkibning oxirgi belgisi hisoblanadi.",
+    "Jinoiy javobgarlik quyidagi shakllarda amalga oshirilishi mumkin: aybdorni jazo qo'llamasdan sud qilish; jazo belgilab sudlangan deb topish; jazo belgilab ijro etish; jazo va tibbiy yo'sindagi chorani birgalikda qo'llash.",
+    "Jinoiy javobgarlikning yagona asosi qilmishda jinoyat tarkibining barcha alomatlari bo'lishidir. Agar qilmishda jinoyat tarkibining aqalli bitta elementi bo'lmasa, bunday qilmish jinoyat hisoblanmaydi.",
+    "Jinoyat tarkibi jinoiy javobgarlikning asosi bo'la turib, istalgan jinoyatni kvalifikatsiya qilishning muhim sharti va yuridik asosi bo'lib xizmat qiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179898",
+      "matn": "Jinoyat uchun javobgarlik — jinoyat sodir etishda aybdor boʻlgan shaxsga nisbatan sud tomonidan hukm qilish, jazo yoki boshqa huquqiy taʼsir chorasi qoʻllanilishida ifodalanadigan jinoyat sodir etishning huquqiy oqibatidir."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179899",
+      "matn": "Ushbu Kodeksda nazarda tutilgan jinoyat tarkibining barcha alomatlari mavjud boʻlgan qilmishni sodir etish javobgarlikka tortish uchun asos boʻladi."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "n": "14",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-6687762",
+  "sarlavha": "14-modda. Vazirliklar va idoralarning buyruqlari hamda qarorlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6687769",
+      "matn": "Vazirliklar va idoralar, agar ularga qonun hujjatlari, Oʻzbekiston Respublikasi Prezidentining farmonlari va qarorlari, Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari bilan tegishli normativ-huquqiy hujjatlarni qabul qilish yoki ijtimoiy munosabatlarni huquqiy jihatdan tartibga solish boʻyicha vakolatlar berilgan boʻlsa, normativ-huquqiy hujjatlar qabul qilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-6687782",
+      "matn": "Vazirliklar va idoralar oʻz vakolatlari doirasida buyruqlar va qarorlar tarzidagi normativ-huquqiy hujjatlar qabul qiladi."
+    },
+    {
+      "q": 3,
+      "id": "-5380911",
+      "matn": "Buyruqlar vazirlik va idora nomidan qaror qabul qilish yakka tartibda amalga oshiriladigan vazirlik yoki idoralar rahbarlari tomonidan qabul qilinadi."
+    },
+    {
+      "q": 4,
+      "id": "-6687787",
+      "matn": "Qarorlar idoralar nomidan qaror qabul qilish kollegial organlari tomonidan amalga oshiriladigan idoralar tomonidan qabul qilinadi."
+    },
+    {
+      "q": 5,
+      "id": "-6687792",
+      "matn": "Vazirliklar va idoralarning buyruqlari hamda qarorlari boshqa vazirliklar yoki idoralar bilan kelishilgan holda qabul qilinishi mumkin."
+    },
+    {
+      "q": 6,
+      "id": "-6687795",
+      "matn": "Vazirliklar va idoralar tomonidan qoʻshma qarorlar tarzida normativ-huquqiy hujjatlar qabul qilinishi mumkin."
+    },
+    {
+      "q": 7,
+      "id": "-6687866",
+      "matn": "Vazirliklar va idoralarning tarkibiy boʻlinmalari hamda hududiy organlari normativ-huquqiy hujjatlar qabul qilishga haqli emas."
+    }
+  ]
+}

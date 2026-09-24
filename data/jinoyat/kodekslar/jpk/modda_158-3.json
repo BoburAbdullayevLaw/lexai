@@ -1,0 +1,49 @@
+{
+  "n": "158-3",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-7355104",
+  "sarlavha": "158³-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-7355108",
+      "matn": "Sudya tintuv oʻtkazish toʻgʻrisidagi iltimosnomani koʻrib chiqib, tintuv oʻtkazish toʻgʻrisida yoki tintuv oʻtkazishni rad etish haqida ajrim chiqaradi. Sudyaning tintuv oʻtkazishni rad etish toʻgʻrisidagi ajrimi asoslantirilgan boʻlishi kerak."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-7355110",
+      "matn": "Sudyaning tintuv oʻtkazish toʻgʻrisidagi ajrimi oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi. Sud tintuv oʻtkazishni prokurorga, surishtiruvchiga yoki tergovchiga topshiradi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-7355112",
+      "matn": "Sudyaning tintuv oʻtkazish toʻgʻrisidagi yoki tintuv oʻtkazishni rad etish haqidagi ajrimi ustidan oʻziga nisbatan tintuv oʻtkazilgan shaxs ajrim ijro etilgan kundan eʼtiboran yigirma toʻrt soat ichida apellyatsiya tartibida shikoyat berishi, prokuror ajrim chiqarilgan kundan eʼtiboran shu muddat ichida apellyatsiya tartibida protest bildirishi mumkin. Apellyatsiya shikoyati (protesti) ajrimni chiqargan sud orqali beriladi, mazkur sud yigirma toʻrt soat ichida ularni materiallar bilan birga apellyatsiya instansiyasi sudiga yuborishi shart. Apellyatsiya instansiyasi sudining sudyasi mazkur materiallarni shikoyat (protest) bilan birga kelib tushgan paytdan eʼtiboran yigirma toʻrt soatdan kechiktirmay yakka tartibda koʻrib chiqishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-7355115",
+      "matn": "Apellyatsiya shikoyati (protesti) berilishi sudning tintuv oʻtkazish toʻgʻrisidagi ajrimi ijrosini toʻxtatib turmaydi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-7355117",
+      "matn": "Apellyatsiya instansiyasi sudining sudyasi apellyatsiya shikoyatini (protestini) koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-7355122",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni (protestni) esa qanoatlantirmay qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-7355125",
+          "matn": "sudyaning ajrimini bekor qilishga va tintuv oʻtkazishga rozilik berishga yoki tintuv oʻtkazishni rad etishga haqli."
+        }
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-7355126",
+      "matn": "Tintuv oʻtkazish rad etilgan taqdirda, mazkur masala boʻyicha takroran sudga murojaat qilishga tintuv oʻtkazishni taqozo etadigan yangi holatlar yuzaga kelganda yoʻl qoʻyiladi."
+    }
+  ]
+}

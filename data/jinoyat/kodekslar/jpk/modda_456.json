@@ -1,0 +1,17 @@
+﻿{
+  "n": 456,
+  "sarlavha_id": "-256511",
+  "sarlavha": "456-modda. Sudyalar maslahatlashuvining sir tutilishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256512",
+      "matn": "Sudya hukmni alohida xonada, sud esa maslahatxonada chiqaradi. Bunday paytda mazkur xonada faqat sudyaning oʻzi yoki ushbu ish boʻyicha sud tarkibiga kirgan sudyalar hozir boʻlishlari mumkin. Boshqa shaxslarning hozir boʻlishlariga yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 2,
+      "id": "-256513",
+      "matn": "Kech kirishi bilan, zarurat boʻlgan taqdirda esa, kun davomida ham sud maslahatni toʻxtatishga haqlidir. Maslahatlashuv dam olish kuni va bayram kunida ham toʻxtatiladi. Sudyalar maslahatlashuv vaqtida aytilgan mulohazalarni oshkor qilishga haqli emas."
+    }
+  ]
+}

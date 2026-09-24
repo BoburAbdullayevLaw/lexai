@@ -1,0 +1,65 @@
+{
+  "n": 45,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184581",
+  "sarlavha": "45-modda. Muayyan huquqdan mahrum qilish",
+  "umumiy_sharh": [
+    "Muayyan huquqdan mahrum qilish — sud tayinlagan muddat davomida mansabni egallash yoki faoliyat bilan shug'ullanishni taqiqlash. Jinoyat takrorlanishining oldini olishga qaratilgan.",
+    "Bu jazo faqat jinoyat shaxsning bevosita muayyan huquqi bilan bog'liq bo'lgandagina qo'llaniladi. Birdaniga ikkala huquqni (mansab va faoliyat) ham man etish mumkin emas.",
+    "Muayyan huquqdan mahrum qilish asosiy yoki qo'shimcha jazo sifatida tayinlanishi mumkin. Asosiy jazo sifatida faqat sanksiyada ko'rsatilgan hollarda qo'llaniladi.",
+    "Bu jazo jinoiy faoliyatni davom ettirishning oldini olish va jazoning ogohlantirish funksiyasini amalga oshirishga qaratilgan."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184582",
+      "matn": "Shaxsni muayyan huquqdan mahrum qilish sud tayinlagan muddat davomida aybdorning korxonalar, muassasalar yoki tashkilotlarda u yoki bu mansabni egallashini yoxud u yoki bu faoliyat bilan shugʻullanishini taqiqlashdan iboratdir.",
+      "sharh": [
+        "Muayyan huquqdan mahrum qilishning mazmuni — mansabni egallash yoki faoliyat bilan shug'ullanishni taqiqlash. Bu taqiqlash hukmda aniq ko'rsatilishi shart.",
+        "Bu jazo faqat jinoyat sodir etish vaqtida ushbu huquqqa ega bo'lgan shaxsga nisbatan qo'llaniladi. Keyinchalik ega bo'lgan bo'lsa — qo'llanilmaydi.",
+        "Muayyan huquqdan mahrum qilish muddatli jazo — hukmda belgilangan muddat davomida amal qiladi.",
+        "Sud faqat bitta (aniq) faoliyat turini taqiqlashi mumkin. Jinoyiy faoliyatni amalga oshirish huquqidan mahrum qilish mumkin emas — bu shaxs umuman haqli emas."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184583",
+      "matn": "Muayyan huquqdan mahrum qilish aybdorning mansabi yoki ish faoliyati bilan bevosita bogʻliq boʻlgan jinoyatni sodir etganligi uchun asosiy jazo tariqasida tayinlanganda — bir yildan besh yilgacha muddatga, qoʻshimcha jazo tariqasida tayinlanganda — bir yildan uch yilgacha muddatga belgilanadi.",
+      "sharh": [
+        "Asosiy jazo sifatida: 1 yildan 5 yilgacha. Qo'shimcha jazo sifatida: 1 yildan 3 yilgacha.",
+        "Jinoyatning mansab yoki faoliyat bilan bevosita bog'liq bo'lishi shart. Bog'liq bo'lmasa — bu jazo qo'llanilmaydi.",
+        "Oliy sud Plenumi ko'rsatmasi: aybdor lavozim yoki faoliyat bilan bog'liq holda jinoyat sodir etgan har bir holda, sud jazoni tayinlash masalasini muhokama qilishi shart."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-184584",
+      "matn": "Agar muayyan huquqdan mahrum qilish aybdorga asosiy jazo tariqasida tayinlanmagan boʻlsa, bunday jazo sud tomonidan ushbu Kodeks Maxsus qismining tegishli moddasida nazarda tutilgan har qanday turdagi jazoga qoʻshimcha jazo tariqasida tayinlanishi mumkin.",
+      "sharh": [
+        "Qo'shimcha jazo sifatida har qanday asosiy jazoga qo'shib tayinlanishi mumkin.",
+        "Asosiy jazo sifatida faqat sanksiyada ko'rsatilgan hollarda qo'llaniladi. Sanksiyada ko'rsatilmagan bo'lsa — faqat qo'shimcha.",
+        "Qo'shimcha jazo tariqasida tayinlanganda hukmning tavsif qismida albatta ko'rsatilishi shart."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-3165778",
+      "matn": "Muayyan huquqdan mahrum qilish jazosi ozodlikdan mahrum qilish, intizomiy qismga joʻnatish jazosiga qoʻshimcha jazo tariqasida tayinlangan boʻlsa, asosiy jazoning butun muddatiga, bundan tashqari sud hukmi bilan tayinlangan muddatga joriy etiladi.",
+      "sharh": [
+        "Ozodlikdan mahrum qilish yoki intizomiy qismga jo'natishga qo'shimcha: asosiy jazoning butun muddatiga + hukmda belgilangan muddatgacha.",
+        "Boshqa asosiy jazolarga qo'shimcha: hukm qonuniy kuchga kirgan kundan boshlab hisoblanadi.",
+        "Shartli hukm qilinganda: muddat hukm chiqarilgan kundan boshlab hisoblanadi."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-3094842",
+      "matn": "Tadbirkorlik faoliyati bilan shugʻullanayotgan shaxslarga nisbatan tadbirkorlik faoliyati bilan shugʻullanish huquqidan mahrum qilish tarzidagi jazo tayinlanmaydi, bundan odam oʻlishiga yoki boshqa ogʻir oqibatlarga sabab boʻlgan hollar mustasno.",
+      "sharh": [
+        "Tadbirkorlarga tadbirkorlik faoliyatidan mahrum qilish jazosi tayinlanmaydi — bu ularning yagona kasbiy faoliyati bo'lishi mumkin.",
+        "Mustasno: odam o'lishiga yoki boshqa og'ir oqibatlarga sabab bo'lgan hollarda bu jazo qo'llanilishi mumkin.",
+        "Sud tayinlanayotgan jazoning maqsadga muvofiqligini, ayniqsa yagona kasbiy faoliyat bilan shug'ullanuvchilarga nisbatan muhokama qilishi lozim."
+      ]
+    }
+  ]
+}

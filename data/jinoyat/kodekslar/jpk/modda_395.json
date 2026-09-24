@@ -1,0 +1,34 @@
+﻿{
+  "n": 395,
+  "sarlavha_id": "-5305445",
+  "sarlavha": "395-modda. Kelib tushgan jinoyat ishi boʻyicha sudyaning harakatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5305447",
+      "matn": "Sudya jinoyat ishini ayblov dalolatnomasi yoki ayblov xulosasi yoxud tibbiy yoʻsindagi majburlov choralarini qoʻllash haqidagi masalani koʻrib chiqish uchun ishni sudga yuborish toʻgʻrisidagi qaror bilan qabul qilib olgach, quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5305449",
+          "matn": "ishni sudlovga tegishliligiga koʻra oʻtkazish toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "-5305450",
+          "matn": "ishni sudda koʻrish uchun tayinlash haqida;"
+        },
+        {
+          "b": 3,
+          "id": "-5305451",
+          "matn": "dastlabki eshituv oʻtkazish toʻgʻrisida."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-5305452",
+      "matn": "Ushbu moddaning birinchi qismida nazarda tutilgan masalalarga doir ajrim sudya tomonidan ish sudga kelib tushgan paytdan eʼtiboran yetti sutkadan kechiktirmay qabul qilinadi. Bu muddat shu sudning raisi tomonidan koʻpi bilan uch sutkagacha uzaytirilishi mumkin."
+    }
+  ]
+}

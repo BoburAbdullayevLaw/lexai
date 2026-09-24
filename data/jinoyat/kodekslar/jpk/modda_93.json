@@ -1,0 +1,27 @@
+﻿{
+  "n": 93,
+  "sarlavha_id": "-253826",
+  "sarlavha": "93-modda. Bayonnomaga imzo chekishdan bosh tortish yoki imzo cheka olmaslik hollarini tasdiqlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253827",
+      "matn": "Surishtiruvchi yoki tergovchi protsess ishtirokchilaridan birontasining yoki boshqa shaxslarning ushbu Kodeksda nazarda tutilgan hollarda tergov harakatlari bayonnomasiga imzo chekishdan bosh tortganligi toʻgʻrisida bayonnomaga yozib qoʻyib, uni oʻz imzosi bilan tasdiqlaydi."
+    },
+    {
+      "q": 2,
+      "id": "-253828",
+      "matn": "Yuqorida nazarda tutilgan hollarda sud majlisi bayonnomasining sud harakatlari toʻgʻrisidagi yozuvlarini imzolashdan bosh tortilganligi haqida shu bayonnomaga yoziladi hamda uni raislik qiluvchi va sud majlisi kotibi oʻz imzosi bilan tasdiqlaydilar."
+    },
+    {
+      "q": 3,
+      "id": "-253829",
+      "matn": "Bayonnomaga imzo chekishdan bosh tortgan shaxs bosh tortish sababini tushuntirishga haqli. Bu tushuntirish bayonnomaga kiritilishi lozim."
+    },
+    {
+      "q": 4,
+      "id": "-253830",
+      "matn": "Tergov yoki sud harakati ishtirokchisi oʻzining jismoniy nuqsoni tufayli bayonnomani oʻqib, imzolay olmasa, bayonnomani uning roziligi bilan himoyachi, vakil yoki mazkur shaxs ishonadigan boshqa fuqaro oʻqib beradi va imzo chekadi. Bu haqda bayonnomaga yozib qoʻyiladi."
+    }
+  ]
+}

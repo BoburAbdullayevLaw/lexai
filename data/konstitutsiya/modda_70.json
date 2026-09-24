@@ -1,0 +1,18 @@
+{
+  "n": "70",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445699",
+  "sarlavha": "70-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445700",
+      "matn": "Oʻzbekiston Respublikasida kasaba uyushmalari, siyosiy partiyalar, olimlarning jamiyatlari, xotin-qizlar tashkilotlari, faxriylar, yoshlar va nogironligi boʻlgan shaxslar tashkilotlari, ijodiy uyushmalar, ommaviy harakatlar hamda fuqarolarning boshqa birlashmalari jamoat birlashmalari sifatida eʼtirof etiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6445701",
+      "matn": "Jamoat birlashmalarini tarqatib yuborish, ularning faoliyatini taqiqlab yoki cheklab qoʻyish faqat sud qarori asosidagina amalga oshiriladi."
+    }
+  ]
+}

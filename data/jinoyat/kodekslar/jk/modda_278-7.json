@@ -1,0 +1,50 @@
+{
+  "n": "278-7",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-4021810",
+  "sarlavha": "278\u2077-modda. Telekommunikatsiya tarmogʻidan qonunga xilof ravishda (ruxsatsiz) foydalanish",
+  "umumiy_sharh": [
+    "Ko'rib chiqilayotgan moddaning umumiy obyekti telekommunikatsiyalar tarmog'i sohasida shaxs, jamiyat va davlat xavfsizligini ta'minlash sohasiga doir ijtimoiy munosabatlar hisoblanadi.",
+    "Telekommunikatsiya signallar, belgilar, matnlar, tasvirlar, tovushlar yoki axborotning boshqa turlarini o'tkazgichli, radio, optik yoki boshqa elektrmagnit tizimlaridan foydalangan holda uzatish, qabul qilish, qayta ishlash degan ma'noni anglatadi.",
+    "Obyektiv tomondan o'rnatilgan himoya tizimlarini chetlab o'tgan holda telekommunikatsiya tarmog'idan foydalanish va xalqaro trafikni o'tkazish maqsadida qonunga xilof ravishda foydalanish, shuningdek maxsus dasturiy yoki apparat vositalarini qonunga xilof ravishda saqlash va ularning faoliyat ko'rsatishi uchun sharoitlar yaratishda ifodalanadi.",
+    "Subyektiv tomondan to'g'ri qasd bilan sodir etiladi. O'rnatilgan himoya tizimlarini chetlab o'tgan holda telekommunikatsiya tarmog'idan foydalanishni va xalqaro trafikni o'tkazishni maqsad qilganligi zaruriy belgi hisoblanadi.",
+    "Subyekti 16 yoshga to'lgan har qanday aqli raso jismoniy shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4021815",
+      "matn": "Oʻrnatilgan himoya tizimlarini chetlab oʻtgan holda telekommunikatsiya tarmogʻidan foydalanish va xalqaro trafikni oʻtkazish maqsadida telekommunikatsiya tarmogʻidan qonunga xilof ravishda (ruxsatsiz) foydalanish, shuningdek mazkur maqsadlar uchun moʻljallangan maxsus dasturiy yoki apparat vositalarini qonunga xilof ravishda (ruxsatsiz) saqlash va ularning faoliyat koʻrsatishi uchun sharoitlar yaratish — bazaviy hisoblash miqdorining yuz baravaridan uch yuz baravarigacha miqdorda jarima yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-4021822",
+      "matn": "Oʻsha harakatlar:",
+      "sharh": [
+        "2-qismda bir guruh shaxslar tomonidan oldindan til biriktirib, takroran yoki xavfli retsidivist tomonidan, xizmat mavqeyidan foydalanib, uyushgan guruh tomonidan yoki uning manfaatlarini ko'zlab sodir etilganda og'irroq javobgarlik nazarda tutilgan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-4021825",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4021826",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-4021828",
+          "matn": "xizmat mavqeyidan foydalanib;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-4021830",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "n": "4",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445179",
+  "sarlavha": "4-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445180",
+      "matn": "Oʻzbekiston Respublikasining davlat tili oʻzbek tilidir."
+    },
+    {
+      "q": 2,
+      "id": "-6445181",
+      "matn": "Oʻzbekiston Respublikasi oʻz hududida istiqomat qiluvchi millat va elatlarning tillari, urf-odatlari va anʼanalari hurmat qilinishini taʼminlaydi, ularning rivojlanishi uchun sharoit yaratadi."
+    }
+  ]
+}

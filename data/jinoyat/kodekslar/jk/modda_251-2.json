@@ -1,0 +1,37 @@
+{
+  "n": "251-2",
+  "kod": "JK",
+  "sarlavha_id": "",
+  "sarlavha": "251-2-modda. Giyohvandlik vositalarini, psixotrop moddalarni yoki ularning analoglarini o'tkazish maqsadini ko'zlamay saqlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "",
+      "matn": "Giyohvandlik vositalarini, psixotrop moddalarni yoki ularning analoglarini o'tkazish maqsadini ko'zlamay saqlash — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "",
+      "matn": "O'sha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "matn": "guruh tomonidan oldindan kelishib olib sodir etilgan bo'lsa;"
+        },
+        {
+          "b": "c",
+          "matn": "katta miqdorda sodir etilgan bo'lsa;"
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "",
+      "matn": "Ushbu moddaning birinchi yoki ikkinchi qismida nazarda tutilgan harakatlar tegishli litsenziyasiz yoki ruxsatsiz tashkilot tomonidan sodir etilgan bo'lsa — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

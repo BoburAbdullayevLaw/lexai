@@ -1,0 +1,27 @@
+﻿{
+  "n": 188,
+  "sarlavha_id": "-254470",
+  "sarlavha": "188-modda. Namunalarning turlari va ularni olish usullari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1634896",
+      "matn": "Surishtiruvchi, tergovchi yoki sud tirik odamning, murdaning, hayvonning, oʻsimlikning, buyumning, materialning yoki moddaning xususiyatlarini oʻzida aks ettiruvchi namunalar olishga, basharti ularning ekspert tekshiruvi ekspert oldiga qoʻyilgan savollarni hal qilish uchun zarur boʻlsa, haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-254472",
+      "matn": "Tirik odamdan oʻzida uning xususiyatlarini aks ettiruvchi: biologik — qon, soch, soʻlak, inson organizmidan ajralib chiqadigan moddalar; psixofizik — dastxat; anatomik — teri naqshining chiziqlari, tish qoliplari; shuningdek ovozning xususiyatlari, kasb malakasini aks ettiruvchi namunalar olinishi mumkin. Murdani koʻzdan kechirishda ham tekshiruv oʻtkazish uchun kerakli moddiy namunalar olinishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254473",
+      "matn": "Namuna tariqasida xom ashyo, mahsulot va boshqa materiallardan moddaning turga oid yoki oʻziga xos fizik yoxud kimyoviy xossalarini aks ettiruvchi namunalar olinishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-254474",
+      "matn": "Tekshiruv oʻtkazish jarayonida ekspert gilza, oʻq, buzish asboblari va boshqa obyektlarning tajriba namunalarini tayyorlashga va ularning eksperimental izlariga qarab, oʻxshashlik yoki farqlanish masalasini hal etishga haqlidir."
+    }
+  ]
+}

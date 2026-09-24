@@ -1,0 +1,27 @@
+{
+  "n": "204¹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-7235150",
+  "sarlavha": "204¹-modda. Elektron maʼlumotlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-7235151",
+      "matn": "Elektron maʼlumotlar elektron qurilmalardan va axborot tizimlaridan, shuningdek axborot texnologiyalaridan foydalangan holda yaratiladigan, ishlov beriladigan hamda saqlanadigan maʼlumotlardir."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-7235152",
+      "matn": "Guvoh, jabrlanuvchi, gumon qilinuvchi, ayblanuvchi, sudlanuvchi va boshqa shaxslar elektron maʼlumotlarni ushbu maʼlumotlarning koʻchirma nusxasini elektron jismdan elektron maʼlumotlar mavjud boʻlgan boshqa elektron jismga olish orqali taqdim etishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-7235154",
+      "matn": "Tergovga qadar tekshiruvni amalga oshirayotgan organning mansabdor shaxsi, surishtiruvchi, tergovchi, prokuror yoki sud taqdim etilgan elektron maʼlumotlarni mutaxassis ishtirokida qabul qilib oladi hamda elektron maʼlumotlar mavjud boʻlgan birlamchi elektron jismlarni koʻzdan kechiradi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-7235155",
+      "matn": "Ish uchun ahamiyatga ega boʻlmagan elektron maʼlumotlar mavjud boʻlgan elektron jismlar egalariga darhol qaytarib beriladi."
+    }
+  ]
+}

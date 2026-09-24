@@ -1,0 +1,83 @@
+{
+  "n": 137,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-262203",
+  "sarlavha": "137-modda. Odam oʻgʻrilash",
+  "umumiy_sharh": [
+    "Sharhlanayotgan jinoyatning obyekti insonning shaxsiy erkinligi, ya'ni qayerda bo'lishni tanlash erkinligi hisoblanadi.",
+    "Obyektiv tomondan jinoyat JK 245-moddasida nazarda tutilgan alomatlar mavjud bo'lmagan holda odam o'g'irlashda ifodalanadi.",
+    "Odam o'g'irlash deganda yashirin, oshkora, aldov yo'li bilan yoki ishonchni suiiste'mol qilib yoki boshqa usulda uni shaxsiy erkinligidan mahrum etish tushuniladi.",
+    "O'g'irlash usullari jinoyatni kvalifikatsiya qilishga ta'sir etmaydi.",
+    "Odam o'g'irlaganda unga nisbatan jismoniy yoki ruhiy zo'rlash ishlatilishi mumkin.",
+    "Odamni uning shaxsiy erkinligidan mahrum qilish vaqtidan boshlab jinoyat tugallangan hisoblanadi.",
+    "Agar bolani o'g'irlash uni almashtirish bilan bog'liq bo'lsa, aybdorning harakatlarini jinoyatlar majmui tariqasida JK 124-moddasi va 136-moddasining 2-qismi bo'yicha kvalifikatsiya qilish lozim.",
+    "Subyektiv tomondan jinoyat bila turib, qasd bilan sodir etiladi.",
+    "Jinoyat subyekti 16 yoshga to'lgan har qanday shaxs bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-262206",
+      "matn": "Ushbu Kodeksning 245-moddasida nazarda tutilgan alomatlar mavjud boʻlmagani holda odam oʻgʻrilash — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-262210",
+      "matn": "Oʻsha harakat:",
+      "sharh": [
+        "Odamni g'arazli yoki boshqa past niyatlarda o'g'irlashni JK 137-moddasi 2-qismining «b» bandi bo'yicha kvalifikatsiya qilish kerak.",
+        "Bir guruh shaxslar tomonidan oldindan til biriktirib odam o'g'irlashni JK 137-moddasi 2-qismining «v» bandi bo'yicha kvalifikatsiya qilish lozim.",
+        "Takroran yoki xavfli retsidivist tomonidan odam o'g'irlash JK 137-moddasi 2-qismining «g» bandi bilan kvalifikatsiya qilinadi."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-262211",
+          "matn": "voyaga yetmagan shaxsga nisbatan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-262212",
+          "matn": "gʻarazgoʻylik yoki boshqa past niyatlarda;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-262213",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-262214",
+          "matn": "takroran yoki xavfli retsidivist tomonidan sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-262222",
+      "matn": "Oʻsha harakat:",
+      "sharh": [
+        "O'ta xavfli retsidivist tomonidan odam o'g'irlash JK 137-moddasining 3-qismida nazarda tutilgan maxsus kvalifikatsiyalangan tarkibni vujudga keltiradi.",
+        "JK 137-moddasi 3-qismining «b» bandida nazarda tutilgan og'ir oqibatlar deganda o'g'irlangan odamni ehtiyotsizlik oqibatida o'ldirish yoki uning o'zini o'zi yoki uning ota-onasi yoki yaqin kishilarining o'ldirilishiga sababchi bo'lish yoki ularni ruhiy kasallikka chalintirish va boshqalarni tushunish zarur.",
+        "Odam o'g'irlash zo'rlik ishlatib g'ayriqonuniy tarzda uni o'z erkindan mahrum etish bilan bog'liq holatlarda sodir etilganda, jinoyatlar majmui tariqasida JK 137 va 138-moddalari bo'yicha kvalifikatsiya qilinadi. Zo'rlik ishlatib ozodlikdan mahrum qilish (JK 138-moddasi) jabrlanuvchini uning doimiy yoki muvaqqat yashash joyida zo'rlik bilan ushlab turishni anglatadi. Odamni o'g'irlash esa odamni doimiy va muvaqqat yashab turgan joyidan o'g'irilar uchun kerak joyga ko'chirilishidan iborat bo'ladi."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-262223",
+          "matn": "oʻta xavfli retsidivist tomonidan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-262224",
+          "matn": "ogʻir oqibatlarga sabab boʻlsa;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-6082045",
+          "matn": "inson aʼzolarini va (yoki) toʻqimalarini olish maqsadida sodir etilgan boʻlsa, — oʻn yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

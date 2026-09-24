@@ -1,0 +1,45 @@
+{
+  "n": "141-2",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-5449814",
+  "sarlavha": "141²-modda. Shaxsga doir maʼlumotlar toʻgʻrisidagi qonunchilikni buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-5841068",
+      "matn": "Shaxsga doir maʼlumotlarni qonunga xilof ravishda yigʻish, tizimlashtirish, saqlash, oʻzgartirish, toʻldirish, ulardan foydalanish, ularni berish, tarqatish, uzatish, egasizlantirish va yoʻq qilish, xuddi shuningdek axborot texnologiyalaridan foydalangan holda, shu jumladan Internet jahon axborot tarmogʻida Oʻzbekiston Respublikasi fuqarolarining shaxsga doir maʼlumotlariga ishlov berilayotganda jisman Oʻzbekiston Respublikasi hududida joylashgan texnik vositalarda hamda Shaxsga doir maʼlumotlar bazalarining davlat reyestrida belgilangan tartibda roʻyxatdan oʻtkazilgan shaxsga doir maʼlumotlar bazalarida shaxsga doir maʼlumotlarni yigʻishga, tizimlashtirishga va saqlashga oid talablarga rioya etmaslik, oʻsha harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan bir yuz ellik baravarigacha miqdorda jarima yoki uch yilgacha muayyan huquqdan mahrum qilish yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-5841072",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-5841073",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-5841075",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-5841076",
+          "matn": "gʻarazli yoki boshqa past niyatlarda;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-5841080",
+          "matn": "xizmat mavqeyidan foydalangan holda sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-5841083",
+          "matn": "ogʻir oqibatlarga sabab boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravaridan ikki yuz baravarigacha miqdorda jarima yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

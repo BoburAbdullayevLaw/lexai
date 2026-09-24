@@ -1,0 +1,40 @@
+{
+  "n": "263",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268375",
+  "sarlavha": "263-modda. Temir yoʻl, dengiz, daryo, havo transporti vositasi yoki aloqa yoʻllarini yaroqsiz holatga keltirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268385",
+      "matn": "Temir yoʻl, dengiz, daryo yoki havo transporti vositalari, aloqa yoʻllari, ulardagi inshootlar, signalizatsiya qurilmalari, aloqa yoki boshqa transport uskunalarini qasddan buzish, ularga shikast yetkazish yoxud ularni boshqa usulda foydalanish uchun yaroqsiz holatga keltirish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yuz baravarigacha miqdorda jarima yoki uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268398",
+      "matn": "Oʻsha harakat odam oʻlishiga sabab boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268401",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268402",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268403",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268404",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — oʻn yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

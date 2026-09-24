@@ -1,0 +1,32 @@
+﻿{
+  "n": 95,
+  "sarlavha_id": "-253833",
+  "sarlavha": "95-modda. Dalillarga baho berish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253834",
+      "matn": "Surishtiruvchi, tergovchi, prokuror va sud ishdagi barcha holatlarni sinchkovlik bilan, toʻla, har tomonlama va xolisona koʻrib chiqishga asoslangan holda qonunga va huquqiy ongga amal qilib oʻzlarining ichki ishonchlari boʻyicha dalillarga baho beradilar. Har bir dalil ishga aloqadorligi, maqbulligi va ishonchliligi nuqtai nazaridan baholanishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-253835",
+      "matn": "Dalillar jinoyat ishi uchun ahamiyatli boʻlgan mavjud holatlar haqidagi xulosalarni tasdiqlovchi, rad etuvchi yoki shubha ostiga oluvchi faktlar yoki narsalar toʻgʻrisidagi maʼlumotlarni aks ettirgan taqdirdagina ishga aloqador deb eʼtirof etiladi."
+    },
+    {
+      "q": 3,
+      "id": "-1429098",
+      "matn": "Dalillar belgilangan tartibda toʻplangan va ushbu Kodeksning 88, 90, 92 — 94-moddalarida nazarda tutilgan shartlarga muvofiq boʻlsagina, ular maqbul deb eʼtirof etiladi."
+    },
+    {
+      "q": 4,
+      "id": "-253836",
+      "matn": "Tekshiruv natijasida haqiqatga muvofiq ekanligi aniqlangan dalillar ishonchli deb hisoblanadi."
+    },
+    {
+      "q": 5,
+      "id": "-253837",
+      "matn": "Isbotlanishi kerak boʻlgan barcha va har bir holatning haqiqiyligini soʻzsiz tasdiqlovchi ishga oid barcha ishonchli dalillar toʻplangan boʻlsa, ularning jami ishni hal qilish uchun yetarli deb hisoblanadi."
+    }
+  ]
+}

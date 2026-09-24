@@ -1,0 +1,68 @@
+{
+  "n": 75,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195589",
+  "sarlavha": "75-modda. Kasallik yoki mehnat qobiliyatini yoqotish oqibatida jazodan ozod qilish",
+  "umumiy_sharh": [
+    "Kasallik tufayli jazodan ozod qilish — sudning majburiyati, huquqi emas.",
+    "Ruhiy buzilish + ogir kasallik — asosiy shartlar.",
+    "Tibbiy komissiya xulosasi — asos.",
+    "Tuzalgandan keyin 69-modda muddatlari o'tmagan bo'lsa — jazo ijro etiladi.",
+    "Harbiylar: sog'lig'i yaroqsiz bo'lsa yoki ayollar homiladorlik ta'tilida."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4518389",
+      "matn": "Hukm chiqarilganidan keyin o'z harakatlarining ahamiyatini anglay olmaydigan yoki ularni boshqara olmaydigan tarzda ruhiy holatining buzilishi yuzaga kelgan shaxs, shuningdek jazoni o'tashga to'sqinlik qiladigan boshqa ogir kasallikka chalingan shaxs jazoni o'tashdan ozod qilinishi lozim.",
+      "sharh": [
+        "Hukmdan keyin ruhiy holat buzilishi — majburiy ozod qilish.",
+        "Boshqa ogir kasallik — ham ozod qilish.",
+        "Surunkali, davolash qiyin kasalliklar.",
+        "Vaqtinchalik buzilish — asos bo'lmaydi.",
+        "Sudning majburiyati — huquqi emas."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195676",
+      "matn": "Ushbu moddaning birinchi qismida ko'rsatilgan shaxslarga nisbatan sud tibbiy yo'sindagi majburlov choralari qo'llashi mumkin.",
+      "sharh": [
+        "Ruhiy buzilgan → 92-modda (tibbiy majburlash).",
+        "Boshqa kasallik → tibbiy muassasa yoki sog'liqni saqlash organiga topshirish.",
+        "OIV/Tanosil kasallik — ham qo'llanilishi mumkin."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195677",
+      "matn": "Bunday shaxslar tuzalganidan keyin, ushbu Kodeksning 69-moddasida nazarda tutilgan ... muddatlar o'tib ketmagan bo'lsa, jazo ijro etiladi.",
+      "sharh": [
+        "Tuzalgandan keyin: 69-modda muddatlari saqlanadi.",
+        "Tibbiy majburlash qo'llanilgan kundan hisoblanadi.",
+        "Sud hal qiladi — ijro yoki ozod."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195678",
+      "matn": "Intizomiy qismga jo'natish yoxud xizmat bo'yicha cheklash jazosiga hukm qilingan harbiy xizmatchilar, ularning sog'lig'i harbiy xizmat uchun yaroqsiz deb topilgan bo'lsa, jazoni o'tashdan ozod qilinadilar.",
+      "sharh": [
+        "Harbiy: sog'lig'i yaroqsiz → ozod.",
+        "Ayollar: xizmat cheklash + homiladorlik ta'tili → ozod.",
+        "Majburiy — sud ixtiyoriga bog'liq emas."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-3165895",
+      "matn": "Majburiy jamoat ishlariga yoki axloq tuzatish ishlariga hukm qilingan shaxslar jazoni o'tash vaqtida mehnatga yaroqsiz bo'lib qolsalar yoxud pensiya yoshiga yetgan bo'lsalar, shuningdek ayollar bu turdagi jazoni o'tayotgan vaqtda homiladorlik va tug'ish ta'tiliga chiqsalar, jazoni o'tashdan ozod qilinadilar.",
+      "sharh": [
+        "Mehnatga yaroqsiz → ozod.",
+        "Nafaqa yoshi → ozod.",
+        "Ayollar: homiladorlik ta'tili → ozod.",
+        "46/3-modda bilan bog'liq."
+      ]
+    }
+  ]
+}

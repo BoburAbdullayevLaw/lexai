@@ -1,0 +1,42 @@
+﻿{
+  "n": 614,
+  "sarlavha_id": "-7250872",
+  "sarlavha": "614-modda. Ozodlikdan mahrum etilgan shaxsni jazoni oʻtashni davom ettirish uchun, shuningdek oʻziga nisbatan tibbiy yoʻsindagi majburlov chorasi qoʻllanilgan shaxsni majburiy davolashni davom ettirish uchun qabul qilib olishda jazoni belgilash tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7250873",
+      "matn": "Jazoni oʻtash uchun xalqaro shartnomalarga muvofiq xorijiy davlat tomonidan topshirilgan mahkumga nisbatan jazo muddati xorijiy davlat sudining hukmi bilan tayinlangan muddatga mutanosib ravishda hisoblanadi."
+    },
+    {
+      "q": 2,
+      "id": "-7250874",
+      "matn": "Agar Oʻzbekiston Respublikasining Jinoyat kodeksiga muvofiq sodir etilgan jinoyat uchun ozodlikdan mahrum qilish tarzidagi jazoning eng koʻp muddati xorijiy davlat sudining hukmi bilan tayinlangan muddatdan kam boʻlsa, sud Oʻzbekiston Respublikasining Jinoyat kodeksida mazkur jinoyatni sodir etganlik uchun ozodlikdan mahrum qilish tarzidagi jazoning eng koʻp muddatini belgilaydi."
+    },
+    {
+      "q": 3,
+      "id": "-7250875",
+      "matn": "Agar xorijiy davlat sudi tomonidan shaxsga xorijiy davlat hududida sodir etgan jinoyati uchun ozodlikdan mahrum qilish tarzidagi jazo tayinlangan boʻlsa, Oʻzbekiston Respublikasining Jinoyat kodeksida esa ushbu jinoyat uchun ozodlikdan mahrum qilish tarzidagi jazo nazarda tutilmagan boʻlsa, sud mazkur jinoyat uchun Oʻzbekiston Respublikasi Jinoyat kodeksi Maxsus qismining tegishli moddasida nazarda tutilgan ogʻirroq jazo turini tayinlaydi."
+    },
+    {
+      "q": 4,
+      "id": "-7250876",
+      "matn": "Shaxsning xorijiy davlat hududida sodir etgan jinoyati uchun tayinlangan jazo turi Oʻzbekiston Respublikasining Jinoyat kodeksida nazarda tutilmagan hollarda, sud xorijiy davlat sudi tomonidan tayinlangan jazo turiga mos keladigan, Oʻzbekiston Respublikasining Jinoyat kodeksida nazarda tutilgan boshqa jazo turini tayinlaydi."
+    },
+    {
+      "q": 5,
+      "id": "-7250877",
+      "matn": "Agar xorijiy davlat sudining hukmi bilan shaxsga bir necha qilmish uchun jazo tayinlangan boʻlib, ularning ayrimlari Oʻzbekiston Respublikasida jinoyat hisoblanmasa, sud xorijiy davlat sudining hukmi boʻyicha tayinlangan jazoning qaysi qismi Oʻzbekiston Respublikasining qonunchiligiga muvofiq jinoyat hisoblanadigan qilmishga nisbatan qoʻllanilishini belgilaydi."
+    },
+    {
+      "q": 6,
+      "id": "-7250878",
+      "matn": "Xorijiy davlat sudining qarori bilan tayinlangan qoʻshimcha jazoni tan olish va ijroga qaratish sud tomonidan ushbu jinoyatning xususiyatidan kelib chiqqan holda, Oʻzbekiston Respublikasining Jinoyat kodeksiga va ushbu Kodeksga muvofiq hal qilinadi."
+    },
+    {
+      "q": 7,
+      "id": "-7250879",
+      "matn": "Xorijiy davlat sudining qarori bilan tayinlangan jazoning mahkum tomonidan oʻtalgan qismi sud tomonidan ajrim chiqarishda jazo muddatiga qoʻshib hisoblanadi."
+    }
+  ]
+}

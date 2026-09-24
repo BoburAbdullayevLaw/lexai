@@ -1,0 +1,32 @@
+﻿{
+  "n": 376,
+  "sarlavha_id": "-255766",
+  "sarlavha": "376-modda. Jinoyat ishidagi materiallar bilan tanishib chiqish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255767",
+      "matn": "Tergovchi ishdagi materiallarni tanishib chiqish uchun tikilgan va raqamlangan koʻrinishda, har bir jilddagi hujjatlarni roʻyxat qilgan tarzda taqdim etadi."
+    },
+    {
+      "q": 2,
+      "id": "-255768",
+      "matn": "Ish bilan tanishib chiqish uchun zarur boʻlgan muddat cheklanmaydi. Lekin protsess ishtirokchilari ishdagi materiallar bilan tanishishni ataylab choʻzishga urinayotgan boʻlsalar, tergovchi oʻz qarorida ishdagi materiallar bilan tanishish uchun muayyan muddat belgilashga haqlidir."
+    },
+    {
+      "q": 3,
+      "id": "-255769",
+      "matn": "Ish bilan tanishib chiqayotgan shaxs ishdagi hujjatlardan koʻchirmalar yozib olishga haqlidir, davlat sirlarini oʻz ichiga olgan maʼlumotlar bundan mustasno."
+    },
+    {
+      "q": 4,
+      "id": "-255770",
+      "matn": "Tergovchi ishdagi materiallar bilan tanishib chiqqanlik toʻgʻrisida bayonnoma tuzadi."
+    },
+    {
+      "q": 5,
+      "id": "-255771",
+      "matn": "Ish bilan tanishib chiqqandan keyingi ogʻzaki iltimoslarni tergovchi bayonnomaga kiritadi. Protsess ishtirokchisi yozma tarzda alohida iltimosnoma berishi mumkin, bu haqda bayonnomada yozib qoʻyiladi."
+    }
+  ]
+}

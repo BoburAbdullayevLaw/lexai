@@ -1,0 +1,48 @@
+{
+  "n": 110,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-234128",
+  "sarlavha": "110-modda. Qiynash",
+  "umumiy_sharh": [
+    "Qiynashning obyekti deb jabrlanuvchining sog'lig'i yoki badanining daxlsizligini hisoblash lozim.",
+    "Obyektiv tomondan jinoyat JKning 104, 105-moddalarida, 126-moddasining to'rtinchi sakkizinchi qismlarida nazarda tutilgan oqibatlarga olib kelmagan muttasil ravishda do'pposlash yoki qiynash xususiyatiga ega bo'lgan boshqa harakatlar sodir etishda ifodalanadi. Qiynash deganda muttasil ravishda do'pposlash yoki jabrlanuvchiga og'ir jismoniy va ruhiy azob, og'riq, aziyat beradigan boshqa harakatlarni (chimchilash, xipchin bilan kesish, o'tmas yoki o'tkir-sanchiluvchi predmetlar bilan ko'p sonli, biroq chuqur bo'lmagan jarohatlar yetkazish, termik ta'sir ko'rsatish va hokazo bilan bog'liq harakatlar) sodir etish bilan bog'liq qilmish tushuniladi.",
+    "Do'pposlash deganda jabrlanuvchiga ko'plab zarba berish, uning kaltaklanishi tushuniladi. Qiynash xususiyatiga ega bo'lgan boshqa harakatlar deganda sanab o'tilganlardan tashqari uykudan, ovqatdan, suvdan mahrum qilish, sovuq joyda saqlash, bog'lash, tishlash va boshqalarni tushunish lozim.",
+    "Qiynashda muttasillik huquqqa xilof harakatlarni uch karra va undan ortiq marta sodir etishdan iborat bo'lib, bu aybdor shaxs jinoiy xulq-atvorining doimiyligidan dalolat beradi. Aybdorning harakatlarini JK 110-moddasi bilan kvalifikatsiya qilish uchun do'pposlash yoki qiynash xususiyatiga ega bo'lgan boshqa harakatlar qasddan, muttasil, ya'ni jabrlanuvchiga jismoniy yoki ruhiy azob berish maqsadida yagona qasd bilan qamrab olingan va kamida uch marta sodir etilganligi aniqlanishi lozim.",
+    "Qiynashni sodir etishda aybdor jinoyat obyektiv tomonini bajarishning aynan shunday usulini ongli ravishda tanlaydiki, bunda u o'zi xohlagan oqibatlarga jabrlanuvchiga juda qattiq og'riq yetkazishga yoki uni azob-uqubatga solishga erishadi.",
+    "Qiynash badanga yengil shikast yetkazish bilan bog'liq bo'lishi yoki bog'liq bo'lmasligi mumkin. Badanga bunday shikast yetkazilgan taqdirda qilmish JKning 110-moddasi bilan qamrab olinadi va JKning 109-moddasi bilan qo'shimcha kvalifikatsiya qilinishini talab etmaydi.",
+    "Jinoyat muttasil ravishda do'pposlash yoki qiynash xususiyatiga ega bo'lgan boshqa harakatlar sodir etilgan paytdan e'tiboran tugallangan deb topiladi.",
+    "Qiynash subyektiv tomondan to'g'ri qasd bilan sodir etiladi, ya'ni shaxs o'z harakatlari bilan jabrlanuvchiga jismoniy va (yoki) ma'naviy qiynoqlar va uqubatlar yetkazayotganligini anglab yetadi va buni istaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6436800",
+      "matn": "Muttasil ravishda doʻpposlash yoki boshqacha harakatlar bilan qiynash, agar ushbu Kodeksning 104, 105-moddalarida, 126¹-moddasining toʻrtinchi — sakkizinchi qismlarida nazarda tutilgan oqibatlarni keltirib chiqarmagan boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-234136",
+      "matn": "Oʻsha harakatlar:",
+      "sharh": [
+        "Sharhlanayotgan moddaning 2-qismida: voyaga yetmagan shaxsga nisbatan; homiladorligi aybdorga ayon bo'lgan ayolga nisbatan; ojiz ahvoldaligi aybdorga ayon bo'lgan shaxsga nisbatan sodir etilgan qiynash uchun javobgarlik nazarda tutilgan. Agar jabrlanuvchi o'n sakkiz yoshga to'lmagan bo'lsa va bundan aybdor do'pposlash yoki qiynash xususiyatiga ega bo'lgan boshqa harakatlarni sodir etish vaqtida xabardor bo'lsa, qilmish JKning 110-moddasi 2-qismi «a» bandi bo'yicha kvalifikatsiya qilinadi. Aybdorning harakatlarini JKning 110-moddasi 2-qismi «b» bandi bo'yicha kvalifikatsiya qilishda aybdor qiynashni sodir etishidan oldin ayolning homiladorligini bilganligini aniqlash zarur. Bunda homiladorlik muddatlari jinoyatni kvalifikatsiya qilish uchun ahamiyatga ega emas. JKning 110-moddasi 2-qismi «v» bandini shaxsning aybiga qo'yish uchun aybdor jabrlanuvchining ojiz ahvoldaligini aniq bilgan yoki bilmaganligini aniqlash lozimdir."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-234139",
+          "matn": "voyaga yetmagan shaxsga nisbatan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-234140",
+          "matn": "homiladorligi aybdorga ayon boʻlgan ayolga nisbatan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-234144",
+          "matn": "ojiz ahvoldaligi aybdorga ayon boʻlgan shaxsga nisbatan sodir etilgan boʻlsa, — uch yuz oltmish soatdan toʻrt yuz sakson soatgacha majburiy jamoat ishlari yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoxud ikki yildan besh yilgacha ozodlikni cheklash yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

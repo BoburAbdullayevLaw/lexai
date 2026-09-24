@@ -1,0 +1,41 @@
+{
+  "n": "125-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-6650446",
+  "sarlavha": "125¹-modda. Nikoh yoshi toʻgʻrisidagi qonunchilikni yoki nikoh tuzish tartibini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2164872",
+      "matn": "Nikoh yoshiga yetmagan shaxs bilan haqiqatda nikoh munosabatlariga kirishish, shunday qilmish uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yigirma baravaridan oʻttiz baravarigacha miqdorda jarima yoki ikki yuz qirq soatgacha majburiy jamoat ishlari yoxud bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2164874",
+      "matn": "Ota-ona yoki ularning oʻrnini bosuvchi shaxslar tomonidan nikoh yoshiga yetmagan shaxsni erga berish yoxud uylantirish, shunday qilmish uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining oʻttiz baravaridan ellik baravarigacha miqdorda jarima yoki ikki yuz qirq soatdan uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-8104718",
+      "matn": "Nikohi qonunda belgilangan tartibda qayd etilmagan shaxslar oʻrtasida, shu jumladan nikoh yoshiga yetmagan shaxs bilan nikoh tuzishga doir diniy marosimni amalga oshirish, shunday qilmish uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yetmish besh baravaridan bir yuz ellik baravarigacha miqdorda jarima yoki uch yuz oltmish soatdan toʻrt yuz soatgacha majburiy jamoat ishlari yoxud ikki yildan uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    }
+  ],
+  "sharh": {
+    "qism_1": [
+      "125-1-modda — nikoh yoshi to'g'risidagi qonunchilikni buzish jinoyati.",
+      "Sog'liqni saqlash ekspertlari: erta turmush qurish ona va bola hayoti va sog'lig'iga xavf yetkazadi, nogiron, aqliy va jismoniy nuqsonli bolalar tug'ilishiga sabab bo'ladi.",
+      "Oila kodeksi 15-modda: nikoh yoshi erkaklar va ayollar uchun 18 yosh. Hokim 1 yilga kamaytirishi mumkin.",
+      "Modda uch qismdan iborat: 1) nikoh yoshiga yetmagan bilan haqiqatda nikoh munosabatlariga kirishish; 2) ota-ona tomonidan erga berish yoki uylantirish; 3) diniy marosimni o'tkazish.",
+      "Har bir qism uchun ma'muriy jazo qo'llanilganidan keyin 1 yil ichida sodir etilgan bo'lishi kerak.",
+      "Haqiqatda nikoh munosabatlariga kirish deganda er-xotin bo'lib yashash, er-xotinlik munosabatlarida bo'lish tushuniladi.",
+      "Javobgarlik faqat ixtiyoriy nikoh munosabatlariga kirishda vujudga keladi.",
+      "Ota-ona tomonidan erga berish — bila turib nikoh marosimlarini o'tkazish, birga yashash uchun shart-sharoit yaratish.",
+      "Agar ota-ona ayolni erga tegishga majbur qilsa — 136-modda (erga tegishga majbur qilish) bilan kvalifikatsiya qilinishi mumkin.",
+      "Diniy marosimni maxsus diniy ma'lumotga ega va diniy tashkilot markaziy organining ruxsatiga ega shaxs (masjid imomi, imom-xatib) o'tkazishi mumkin.",
+      "Maxsus diniy ma'lumotsiz ruxsatisiz o'tkazilsa — 229-1-modda (diniy ta'limot tartibini buzish) bilan kvalifikatsiya qilinishi mumkin.",
+      "Subyekt: 1-qism — 18 yoshga to'lgan nikoh yoshiga yetmagan shaxs; 2-qism — 18 yoshga to'lgan ota-ona yoki ularning o'rnini bosuvchi; 3-qism — maxsus diniy ma'lumotga ega shaxs.",
+      "Subyektiv tomondan qasddan. Nikoh yoshiga yetmaganligi aybdorga ayon bo'lishi kerak.",
+      "Jinoyat tamom bo'lgan vaqti: 1-qism — nikoh munosabatlariga kirishilgan vaqtdan; 2-qism — erga bergan yoki uylantirgan vaqtdan; 3-qism — diniy marosim o'tkazilgan vaqtdan."
+    ]
+  }
+}

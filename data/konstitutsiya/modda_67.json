@@ -1,0 +1,28 @@
+{
+  "n": "67",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445684",
+  "sarlavha": "67-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445686",
+      "matn": "Davlat qulay investitsiyaviy va ishbilarmonlik muhitini taʼminlaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6445687",
+      "matn": "Tadbirkorlar qonunchilikka muvofiq har qanday faoliyatni amalga oshirishga va oʻz faoliyati yoʻnalishlarini mustaqil ravishda tanlashga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-6445689",
+      "matn": "Oʻzbekiston Respublikasi hududida iqtisodiy makon birligi, tovarlar, xizmatlar, mehnat resurslari va moliyaviy mablagʻlarning erkin harakatlanishi kafolatlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445691",
+      "matn": "Monopol faoliyat qonun bilan tartibga solinadi va cheklanadi."
+    }
+  ]
+}

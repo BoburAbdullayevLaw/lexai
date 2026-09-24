@@ -1,0 +1,44 @@
+{
+  "n": "405¹⁰",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305914",
+  "sarlavha": "405¹⁰-modda. Jinoyat ishini tugatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5305916",
+      "matn": "Ushbu Kodeksning 83-moddasida, 84-moddasining birinchi qismida nazarda tutilgan holatlar mavjud boʻlganda sud jinoyat ishini tugatadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5305917",
+      "matn": "Sud ajrimida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305918",
+          "matn": "jinoyat ishini tugatish asoslari koʻrsatiladi;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305919",
+          "matn": "ehtiyot choralarini, shuningdek fuqaroviy daʼvoni taʼminlash choralarini bekor qilish haqidagi masalalar hal etiladi;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-7235286",
+          "matn": "ashyoviy, yozma va raqamli dalillar toʻgʻrisidagi masala hal etiladi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5305921",
+      "matn": "Sud ushbu Kodeks 84-moddasining beshinchi qismida nazarda tutilgan asoslar boʻyicha ishni tugatishga haqlidir."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-5305922",
+      "matn": "Jinoyat ishini tugatish toʻgʻrisidagi ajrimning koʻchirma nusxasi ajrim chiqarilgan kundan eʼtiboran besh sutka ichida prokurorga yuboriladi, oʻziga nisbatan ish tugatilgan shaxsga va jabrlanuvchiga topshiriladi."
+    }
+  ]
+}

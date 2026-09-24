@@ -1,0 +1,22 @@
+﻿{
+  "n": 519,
+  "sarlavha_id": "-6627533",
+  "sarlavha": "519-modda. Taftish tartibida berilgan shikoyatni, protestni (xususiy shikoyatni, xususiy protestni) oʻzgartirish va unga qoʻshimcha kiritish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627534",
+      "matn": "Taftish tartibida shikoyat, protest (xususiy shikoyat, xususiy protest) bergan shaxs jinoyat ishini taftish tartibida sud majlisida koʻrish boshlanguniga qadar uni oʻzgartirishga yoki yangi vajlar bilan toʻldirishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6627535",
+      "matn": "Taftish tartibidagi protestga (xususiy protestga), jabrlanuvchining yoki uning vakilining taftish tartibidagi shikoyatiga (xususiy shikoyatiga) mahkumning ahvolini ogʻirlashtirishga qaratilgan oʻzgartirish va qoʻshimchalar kiritishga, agar bunday talab taftish tartibida berilgan dastlabki shikoyatda, protestda (xususiy shikoyatda, xususiy protestda) koʻrsatilmagan boʻlsa, yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-6627536",
+      "matn": "Taftish tartibidagi shikoyat (xususiy shikoyat) berilganidan keyin jinoyat ishini yuritishga kirishgan himoyachi shikoyatni (xususiy shikoyatni) oʻzgartirishi yoki yangi vajlar bilan toʻldirishi, ilgari ishda ishtirok etgan himoyachi tomonidan berilgan shikoyat (xususiy shikoyat) vajlarining qoʻshimcha asoslarini taqdim etishi mumkin."
+    }
+  ]
+}

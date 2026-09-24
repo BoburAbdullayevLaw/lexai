@@ -1,0 +1,52 @@
+﻿{
+  "n": 446,
+  "sarlavha_id": "-256458",
+  "sarlavha": "446-modda. Ekspertiza",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256459",
+      "matn": "Sud tergovida ekspertiza ushbu Kodeksning 172 — 187-moddalarida nazarda tutilgan talablarga va quyida belgilangan qoidalarga amal qilgan holda tayinlanadi va oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-3352366",
+      "matn": "Sud majlisida ekspertizani ilgari sudgacha ish yuritish bosqichida xulosa bergan ekspertlar yoki sud tayinlagan yangi ekspertlar yoxud ham ilgarigi, ham keyin tayinlangan ekspertlar birgalikda oʻtkazadi."
+    },
+    {
+      "q": 3,
+      "id": "-256461",
+      "matn": "Taraflardan birortasining iltimosi boʻyicha yoki oʻz tashabbusi bilan sud ekspertiza tayinlash toʻgʻrisida ajrim chiqaradi va uni sud majlisida oʻqib eshittiradi. Ajrimda ekspertiza oʻtkazish topshirilgan shaxs yoki ekspertiza muassasasi koʻrsatiladi va ekspert oldiga savollar qoʻyiladi. Bunda sud taraflarga ularning ekspertni rad etish, taraf koʻrsatgan qoʻshimcha shaxsni ekspertlar safiga kiritish, ekspert oldiga qoʻshimcha savollar qoʻyish, ekspertizani taraflarning ishtirokida oʻtkazish toʻgʻrisida iltimoslar qilish, shuningdek ekspertiza davomida izohot berib borish huquqiga ega ekanliklarini tushuntiradi."
+    },
+    {
+      "q": 4,
+      "id": "-256464",
+      "matn": "Iltimoslar yoki ekspertni rad qilish toʻgʻrisidagi arzlarni sud ushbu Kodeksning 80-moddasida nazarda tutilgan qoidalarga muvofiq holda koʻrib chiqadi."
+    },
+    {
+      "q": 5,
+      "id": "-7235299",
+      "matn": "Sud tergovida ekspert soʻroq qilinayotgan shaxslarga savollar berishga, ashyoviy, yozma va raqamli dalillar, tergov harakatlarining bayonnomalari, boshqa ekspertlarning xulosalari bilan tanishishga, koʻzdan kechirishlar, eksperimentlarda va ekspertiza predmetiga oid sudning boshqa harakatlarida ishtirok etishga haqlidir."
+    },
+    {
+      "q": 6,
+      "id": "-256466",
+      "matn": "Sud tergovi davomida ekspertning oldiga qoʻshimcha savollar qoʻyilishi mumkin."
+    },
+    {
+      "q": 7,
+      "id": "-256467",
+      "matn": "Ekspertiza predmetiga oid holatlar tekshiruvi tugallangach, sud xulosa tayyorlash uchun ekspertga muhlat beradi. Basharti buning uchun laboratoriya tadqiqotlari oʻtkazish lozim boʻlsa, sud ekspertga tegishli obyektlarni beradi."
+    },
+    {
+      "q": 8,
+      "id": "-256468",
+      "matn": "Ekspert oʻz xulosasini sud majlisida oʻqib eshittiradi. Xulosa sud majlisining bayonnomasiga ilova qilinadi."
+    },
+    {
+      "q": 9,
+      "id": "-256469",
+      "matn": "Ekspert xulosa berganidan soʻng, xulosada bayon qilingan holatlar boʻyicha u sud majlisida soʻroq qilinishi mumkin."
+    }
+  ]
+}

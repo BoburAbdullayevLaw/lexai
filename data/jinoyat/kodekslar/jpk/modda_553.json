@@ -1,0 +1,22 @@
+﻿{
+  "n": 553,
+  "sarlavha_id": "-4748936",
+  "sarlavha": "553-modda. Voyaga yetmagan gumon qilinuvchi va ayblanuvchini soʻroq qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4748938",
+      "matn": "Voyaga yetmagan gumon qilinuvchini va ayblanuvchini soʻroq qilish himoyachi, qonuniy vakil ishtirokida amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-4748939",
+      "matn": "Himoyachi va qonuniy vakil gumon qilinuvchiga va ayblanuvchiga savollar berishga haqli. Soʻroq yakunlangach, himoyachi va qonuniy vakil bayonnoma bilan tanishishga va u haqda oʻz mulohazalarini bildirishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-4748940",
+      "matn": "Voyaga yetmagan gumon qilinuvchini, ayblanuvchini soʻroq qilishning umumiy davomiyligi kun davomida dam olish va ovqatlanish uchun bir soatlik tanaffusni hisobga olmaganda olti soatdan oshmasligi kerak."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+  "n": 194,
+  "sarlavha_id": "-254493",
+  "sarlavha": "194-modda. Shifokor yoki boshqa mutaxassis tomonidan namunalar olish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254494",
+      "matn": "Surishtiruvchi, tergovchi yoki sud tegishli shaxsni, shuningdek undan namuna olish toʻgʻrisidagi qarorni yoki ajrimni shifokorga yoki boshqa mutaxassisga yuboradi. Shifokorni, boshqa mutaxassisni, xolislarni rad etish masalasini qaror yoki ajrim chiqargan surishtiruvchi, tergovchi yoki sud hal qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-254495",
+      "matn": "Shifokor yoki boshqa mutaxassis zarur harakatlarni bajaradi va ekspert tekshiruvi uchun namunalar oladi. Bunda ogʻriq bermaydigan hamda inson hayoti va salomatligi uchun xavfli boʻlmagan ilmiy-texnikaviy vositalardan foydalanilishi mumkin. Namunalar oʻralib va muhrlanib, surishtiruvchi, tergovchi yoki sudga yuboriladi."
+    },
+    {
+      "q": 3,
+      "id": "-254496",
+      "matn": "Tekshirish uchun hayvonlardan namunalar olish zarurati tugʻilsa, surishtiruvchi, tergovchi yoki sud tegishli qarorni yoxud ajrimni veterinarga yoki boshqa mutaxassisga yuboradi."
+    }
+  ]
+}

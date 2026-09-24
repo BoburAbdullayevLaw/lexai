@@ -1,0 +1,64 @@
+﻿{
+  "n": 318,
+  "sarlavha_id": "-255244",
+  "sarlavha": "318-modda. Protsessual chiqimlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255246",
+      "matn": "Protsessual chiqimlar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255249",
+          "matn": "jabrlanuvchilarga va ularning vakillariga, guvohlarga, ekspertlarga, mutaxassislarga, tarjimonlarga, xolislarga ularning protsessual harakatlar oʻtkaziladigan joyga kelib ketish, turar joyni ijaraga olish xarajatlarini qoplash uchun, shuningdek sutkalik xarajat puli tariqasida beriladigan summadan;"
+        },
+        {
+          "b": 2,
+          "id": "-255251",
+          "matn": "doimiy ish haqi olmaydigan jabrlanuvchilarga va ularning vakillariga, guvohlarga, xolislarga ularni odatdagi mashgʻulotidan chalgʻitganlik uchun toʻlanadigan summadan;"
+        },
+        {
+          "b": 3,
+          "id": "-255253",
+          "matn": "ekspertlarga, tarjimonlarga, mutaxassislarga ular surishtiruv, dastlabki tergov yoki sudda oʻz vazifalarini bajarganligi uchun toʻlanadigan haqdan, ana shu vazifalar xizmat topshirigʻi tartibida bajarilgan hollar bundan mustasno;"
+        },
+        {
+          "b": 4,
+          "id": "-255256",
+          "matn": "ushbu Kodeksning 50-moddasiga muvofiq sudlanuvchi toʻlovdan ozod qilingan taqdirda yuridik yordam koʻrsatganlik uchun himoyachiga toʻlanadigan haqdan;"
+        },
+        {
+          "b": 5,
+          "id": "-255259",
+          "matn": "ashyoviy dalillarni saqlash va joʻnatish bilan bogʻliq xarajatlar summasidan;"
+        },
+        {
+          "b": 6,
+          "id": "-255260",
+          "matn": "ekspertiza muassasalarida ekspertiza oʻtkazish uchun sarflangan summadan;"
+        },
+        {
+          "b": 7,
+          "id": "-255261",
+          "matn": "shaxslarni ushlash, majburiy keltirish va qidirish uchun qilingan xarajatlardan;"
+        },
+        {
+          "b": "7¹",
+          "id": "-4354633",
+          "matn": "surishtiruv, dastlabki tergov yoki sud majlisini videokonferensaloqadan foydalangan holda oʻtkazish chogʻida qilingan xarajatlardan;"
+        },
+        {
+          "b": 8,
+          "id": "-255264",
+          "matn": "jinoyat ishini yuritishda qilingan boshqa xarajatlardan iborat boʻladi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-3696309",
+      "matn": "Ushbu moddaning 1, 2, 3, 4 va 7¹-bandlarida koʻrsatilgan summalar surishtiruvchining, tergovchining, prokurorning qarori yoki sudning ajrimiga muvofiq budjet mablagʻlari hisobidan toʻlanadi."
+    }
+  ]
+}

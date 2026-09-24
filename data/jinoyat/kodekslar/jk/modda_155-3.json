@@ -1,0 +1,40 @@
+{
+  "n": "155-3",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-2965715",
+  "sarlavha": "155³-modda. Terrorizmni moliyalashtirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2965720",
+      "matn": "Terrorizmni moliyalashtirish, yaʼni terrorchilik tashkilotining mavjud boʻlishini, faoliyat koʻrsatishini, moliyalashtirilishini, terrorchilik faoliyatida ishtirok etish uchun xorijga chiqib ketishni yoki Oʻzbekiston Respublikasi hududi orqali harakatlanishni taʼminlashga, terrorchilik harakatini tayyorlash va sodir etishga, terrorchilik tashkilotlariga yoxud terrorchilik faoliyatiga koʻmaklashayotgan yoki bunday faoliyatda ishtirok etayotgan shaxslarga bevosita yoki bilvosita har qanday mablagʻ-vositalarni, resurslarni berishga yoki yigʻishga, boshqa xizmatlar koʻrsatishga qaratilgan faoliyat — sakkiz yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2965727",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2965729",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2965732",
+          "matn": "mansabdor shaxs tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-2965735",
+          "matn": "uyushgan guruh tomonidan sodir etilgan boʻlsa, — oʻn yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-2965739",
+      "matn": "Terrorizmni moliyalashtirishda ishtirok etgan shaxs, agar u hokimiyat organlariga oʻz vaqtida xabar berish yoki boshqa usul bilan ogʻir oqibatlar yuzaga kelishining hamda terrorchilar maqsadlari amalga oshirilishining oldini olishga faol koʻmaklashgan boʻlsa, basharti bu shaxsning harakatlarida jinoyatning boshqa tarkibi boʻlmasa, jinoiy javobgarlikdan ozod etiladi."
+    }
+  ]
+}

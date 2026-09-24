@@ -1,0 +1,22 @@
+﻿{
+  "n": 90,
+  "sarlavha_id": "-253813",
+  "sarlavha": "90-modda. Dalillarni bayonnomada qayd etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253814",
+      "matn": "Maʼlumotlar va narsalardan, ular tergov harakati bayonnomasi yoki sud majlisi bayonnomasida qayd etilganidan keyingina dalil sifatida foydalanish mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-253815",
+      "matn": "Bayonnomalar yuritish uchun masʼuliyat surishtiruv va dastlabki tergov bosqichida surishtiruvchi va tergovchi, sudda esa, raislik qiluvchi va sud majlisi kotibi zimmasiga yuklatiladi."
+    },
+    {
+      "q": 3,
+      "id": "-253816",
+      "matn": "Bayonnomalarga: tergov yoki sud harakatining ishtirokchilari toʻgʻrisidagi maʼlumotlar, bu shaxslarga ularning huquq va majburiyatlari tushuntirilgani; tergov yoki sud harakatining oʻtkazilish joyi va vaqti, shart-sharoitlari, jarayoni va natijalari, bunda topilgan moddiy obyektlar tavsifi va ularning ish uchun ahamiyatli boʻlgan belgilari; tergov harakatlari yoki sud muhokamasi ishtirokchilari tasdiqlashni soʻragan faktlar; ularning yuz berayotgan hodisa sabablari xususidagi koʻrsatuvlari, tushuntirishlari, mulohazalari; ular tomonidan berilgan iltimosnomalar, shikoyatlar, rad etishlar; tergov harakatini olib borish yoki sud muhokamasi jarayonidagi tartibbuzarlik hollari, shuningdek bu tartibbuzarliklarni bartaraf etish va oldini olish uchun koʻrilgan chora-tadbirlar kiritiladi."
+    }
+  ]
+}

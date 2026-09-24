@@ -1,0 +1,53 @@
+{
+  "n": 237,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3642858",
+  "sarlavha": "237-modda. Yolgʻon xabar berish",
+  "umumiy_sharh": [
+    "Jinoyatning obyekti odil sudlov organlarining normal faoliyati, fuqarolarning qonun bilan himoya qilinadigan huquq va manfaatlari hisoblanadi.",
+    "Obyektiv tomondan bila turib, jinoyat sodir etilgani haqida yolg'on xabar berishda ifodalanadi.",
+    "Yolg'on xabar berish deganda, haqiqatga to'g'ri kelmaydigan xabar berish tushuniladi.",
+    "Bila turib yolg'on xabar berish, oqibatlaridan qat'i nazar, tegishli organlarga xabar qilingan paytdan tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyatning subyekti o'n olti yoshga to'lgan aqli raso shaxs bo'ladi."
+],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3642866",
+      "matn": "Yolgʻon xabar berish, yaʼni jinoyat toʻgʻrisida bila turib yolgʻon xabar berish — bazaviy hisoblash miqdorining ellik baravaridan yetmish besh baravarigacha miqdorda jarima yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3642878",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3642882",
+          "matn": "ayblovning sunʼiy dalillarini vujudga keltirgan holda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3642886",
+          "matn": "gʻarazgoʻylik niyatlarida;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3642889",
+          "matn": "uyushgan guruh manfaatlarini koʻzlab;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-3642892",
+          "matn": "ogʻir yoki oʻta ogʻir jinoyat sodir etishda ayblab sodir etilgan boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3642902",
+      "matn": "Oʻsha harakat ogʻir oqibatlarga sabab boʻlsa, — sakkiz yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

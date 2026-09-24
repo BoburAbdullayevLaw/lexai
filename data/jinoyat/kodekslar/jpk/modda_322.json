@@ -1,0 +1,44 @@
+﻿{
+  "n": 322,
+  "sarlavha_id": "-255364",
+  "sarlavha": "322-modda. Jinoyat ishini qoʻzgʻatish sabablari va asoslari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255367",
+      "matn": "Jinoyat ishini qoʻzgʻatish uchun:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255369",
+          "matn": "shaxslarning arizalari;"
+        },
+        {
+          "b": 2,
+          "id": "-255371",
+          "matn": "korxonalar, muassasalar, tashkilotlar, jamoat birlashmalari va mansabdor shaxslar bergan xabarlar;"
+        },
+        {
+          "b": 3,
+          "id": "-255374",
+          "matn": "ommaviy axborot vositalari bergan xabarlar;"
+        },
+        {
+          "b": 4,
+          "id": "-3350948",
+          "matn": "jinoyat sodir etilganligini koʻrsatuvchi maʼlumotlar va izlarni surishtiruvchi, tergovchi, prokuror, shuningdek tergovga qadar tekshiruvni amalga oshiruvchi organning bevosita oʻzi aniqlashi;"
+        },
+        {
+          "b": 5,
+          "id": "-255379",
+          "matn": "aybini boʻyniga olish haqidagi arz sabab boʻladi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-255382",
+      "matn": "Jinoyat belgilari mavjudligini koʻrsatuvchi maʼlumotlar jinoyat ishini qoʻzgʻatish uchun asos boʻladi."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "n": "33",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381139",
+  "sarlavha": "33-modda. Normativ-huquqiy hujjatni qabul qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381142",
+      "matn": "Normativ-huquqiy hujjat koʻrib chiqilganidan soʻng normativ-huquqiy hujjatlar qabul qilish huquqiga ega boʻlgan organ tomonidan qabul qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-5381143",
+      "matn": "Qoidalari qonunda aks etgan qonunosti hujjatlari oʻz kuchini yoʻqotgan deb topilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-5381145",
+      "matn": "Normativ-huquqiy hujjatlar qabul qilish huquqiga ega boʻlgan organ tomonidan normativ-huquqiy hujjat davlat tilida qabul qilinadi. Zarur boʻlganda u boshqa tillarga tarjima qilinishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-5381147",
+      "matn": "Davlat tilidagi normativ-huquqiy hujjat matni bilan uning boshqa tildagi matni oʻrtasida tafovut boʻlgan taqdirda, normativ-huquqiy hujjatning davlat tilidagi matni qoʻllaniladi."
+    }
+  ]
+}

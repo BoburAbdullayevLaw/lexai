@@ -1,0 +1,44 @@
+﻿{
+  "n": 529,
+  "sarlavha_id": "-3696687",
+  "sarlavha": "529-modda. Sud majlisi zalida qamoqdan yoki uy qamogʻidan ozod etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3696689",
+      "matn": "Sud hukmni eʼlon qilgach sud majlisi zalida quyidagilarni qamoqdan yoki uy qamogʻidan darhol ozod qiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3696691",
+          "matn": "oqlangan shaxsni;"
+        },
+        {
+          "b": 2,
+          "id": "-3696694",
+          "matn": "jazo tayinlanmagan mahkumni;"
+        },
+        {
+          "b": 3,
+          "id": "-3696696",
+          "matn": "jazodan ozod etilgan mahkumni;"
+        },
+        {
+          "b": 4,
+          "id": "-3696698",
+          "matn": "ushlab turish yoki ehtiyot chorasini qoʻllash oqibatida qamoqda yoki uy qamogʻida boʻlgan vaqtdan yoxud kassatsiya yoki nazorat tartibida bekor qilingan hukmga binoan shu ish boʻyicha jazoni oʻtagan vaqtdan koʻp boʻlmagan muddatga ozodlikdan mahrum etilgan yoki ozodligi cheklangan mahkumni;"
+        },
+        {
+          "b": 5,
+          "id": "-3696700",
+          "matn": "shartli ravishda ozodlikdan mahrum etilgan mahkumni;"
+        },
+        {
+          "b": 6,
+          "id": "-3696702",
+          "matn": "ozodlikdan mahrum etish bilan bogʻliq boʻlmagan jazoga mahkum etilgan shaxsni."
+        }
+      ]
+    }
+  ]
+}

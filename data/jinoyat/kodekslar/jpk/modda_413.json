@@ -1,0 +1,27 @@
+﻿{
+  "n": 413,
+  "sarlavha_id": "-256298",
+  "sarlavha": "413-modda. Fuqaroviy daʼvogar yoki fuqaroviy javobgarning sud majlisiga kelmasligi oqibatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256299",
+      "matn": "Fuqaroviy daʼvogar yoki uning vakili sud majlisiga kelmagan taqdirda, sud fuqaroviy daʼvoni koʻrmaydi; bu holda mulkiy zarar koʻrgan shaxsning fuqaroviy sud ishlarini yuritish tartibida daʼvo qilish huquqi saqlanadi."
+    },
+    {
+      "q": 2,
+      "id": "-256300",
+      "matn": "Sud fuqaroviy daʼvoni fuqaroviy daʼvogarning iltimosiga koʻra uning ishtirokisiz koʻrishga haqlidir."
+    },
+    {
+      "q": 3,
+      "id": "-256301",
+      "matn": "Basharti fuqaroviy daʼvoni prokuror quvvatlasa yoki sud uni koʻrish zarur deb topsa, fuqaroviy daʼvogar yoki uning vakili kelish-kelmasligidan qatʼi nazar, sud fuqaroviy daʼvoni koʻraveradi."
+    },
+    {
+      "q": 4,
+      "id": "-256302",
+      "matn": "Fuqaroviy javobgar yoki uning vakilining sud majlisiga kelmasligi fuqaroviy daʼvoni koʻrishni toʻxtatmaydi."
+    }
+  ]
+}

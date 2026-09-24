@@ -1,0 +1,49 @@
+{
+  "n": "405⁴",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305789",
+  "sarlavha": "405⁴-modda. Jinoyat ishi boʻyicha dastlabki eshituv oʻtkazish toʻgʻrisidagi ajrim",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5305816",
+      "matn": "Jinoyat ishi boʻyicha dastlabki eshituv oʻtkazish toʻgʻrisidagi ajrimda quyidagilar koʻrsatiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5655235",
+          "matn": "sud ishining raqami, ajrim chiqarilgan vaqt va joy;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305853",
+          "matn": "sudyaning lavozimi va familiyasi;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5305854",
+          "matn": "ayblanuvchining familiyasi, ismi, otasining ismi va Jinoyat kodeksining unga nisbatan ayblov qoʻyilayotgan moddasi;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-5305856",
+          "matn": "iltimosnoma kiritgan shaxsning familiyasi, ismi, otasining ismi va protsessual maqomi;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-5305858",
+          "matn": "dastlabki eshituvni oʻtkazish uchun asoslar;"
+        },
+        {
+          "b": 6,
+          "id": "https://lex.uz/docs/-111460#-5305859",
+          "matn": "dastlabki eshituv ishtirokchilari;"
+        },
+        {
+          "b": 7,
+          "id": "https://lex.uz/docs/-111460#-5305861",
+          "matn": "dastlabki eshituv oʻtkaziladigan joy va vaqt."
+        }
+      ]
+    }
+  ]
+}

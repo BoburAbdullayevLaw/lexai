@@ -1,0 +1,27 @@
+﻿{
+  "n": 332,
+  "sarlavha_id": "-255474",
+  "sarlavha": "332-modda. Jinoyat ishlarini birlashtirish va ajratish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255475",
+      "matn": "Bitta tergov yoki sud ish yurituviga faqat bir necha shaxsning bir yoki bir necha jinoyatni birgalashib sodir etganlikda ayblanishiga doir ishlar yoxud bir shaxsning bir necha jinoyatni sodir etganlikda ayblanishiga doir ishlar birlashtirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-255476",
+      "matn": "Bir yoki bir necha jinoyatni birgalashib sodir etishda ayblanayotgan shaxslarga nisbatan ishni ajratishga, basharti bu ish holatlari boʻyicha zarur boʻlib qolsa hamda bunday ajratish surishtiruvning, dastlabki tergovning va sud tomonidan ishni koʻrib chiqishning toʻliq va xolisona boʻlishiga taʼsir qilmasa, yoʻl qoʻyiladi."
+    },
+    {
+      "q": 3,
+      "id": "-1286052",
+      "matn": "Tergov qilinayotgan jinoyat ishi bilan bogʻliq boʻlmagan yangi jinoyat aniqlangan taqdirda, jinoyat ishining mazkur holatga doir qismi jinoyat ishi qoʻzgʻatilgan holda alohida ish yurituvga ajratiladi."
+    },
+    {
+      "q": 4,
+      "id": "-1286055",
+      "matn": "Ishlarni birlashtirish va ajratish surishtiruvchining, tergovchining, prokurorning qarori yoki sudning ajrimi bilan amalga oshiriladi."
+    }
+  ]
+}

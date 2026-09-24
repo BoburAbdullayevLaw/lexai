@@ -1,0 +1,27 @@
+﻿{
+  "n": 460,
+  "sarlavha_id": "-256542",
+  "sarlavha": "460-modda. Sudyalarning maslahatlashuv tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256543",
+      "matn": "Ish sud tarkibi tomonidan koʻrilayotgan boʻlsa, hukm chiqarish oldidan raislik qiluvchi boshchiligida sudyalarning maslahatlashuvi oʻtkazilib, raislik qiluvchi sud hal qilishi lozim boʻlgan savollarni ushbu Kodeksning 457-moddasida koʻrsatilgan izchillikda qoʻyadi. Har bir savol shunday shaklda qoʻyilishi kerakki, toki bu savolga maʼqullovchi, yoki rad etuvchi javob qaytariladigan boʻlsin. Javob qaytarganidan soʻng sudya javobning sabab-asoslarini ifodalashi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-256544",
+      "matn": "Har bir savolni hal qilishda sudyalardan hech biri ovoz berishda betaraf qolishga haqli emas. Barcha masalalar ovozlarning oddiy koʻpchiligi bilan hal qilinadi. Raislik qiluvchi hammadan keyin ovoz beradi."
+    },
+    {
+      "q": 3,
+      "id": "-256545",
+      "matn": "Birinchi navbatda sudlanuvchining manfaatiga toʻlaroq mos keladigan fikr ovozga qoʻyiladi. Basharti oqlash toʻgʻrisida ovoz bergan sudya yoki sudyalar ozchilikni tashkil qilib, boshqa sudyalar esa jinoyatning tavsifi yoki jazo chorasi toʻgʻrisida har xil fikrda boʻlsalar, oqlash uchun berilgan ovoz yoki ovozlar Jinoyat kodeksining yengilroq jazo chorasini nazarda tutgan tegishli moddasi boʻyicha tavsif qilish uchun berilgan ovozga qoʻshiladi."
+    },
+    {
+      "q": 4,
+      "id": "-256546",
+      "matn": "Ishni sudya koʻrayotgan boʻlsa, ushbu Kodeksning 457 — 459-moddalarida koʻrsatilgan masalalarni yakka oʻzi hal qiladi."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿{
+  "n": 234,
+  "sarlavha_id": "-1325080",
+  "sarlavha": "234-modda. Ushlab turilganni ozod qilish asoslari va tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1325085",
+      "matn": "Jinoyat sodir etishda gumon qilinib ushlab turilgan shaxs, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1325088",
+          "matn": "jinoyat sodir etganligi haqidagi gumon tasdiqlanmasa;"
+        },
+        {
+          "b": 2,
+          "id": "-1325090",
+          "matn": "ushlab turilganga nisbatan qamoqqa olish tarzidagi ehtiyot chorasini qoʻllash zarurati boʻlmasa yoki uni qoʻllash sud tomonidan rad etilsa;"
+        },
+        {
+          "b": 3,
+          "id": "-1325092",
+          "matn": "ushlab turishning belgilangan muddati tugagan boʻlsa va ushlab turilganga nisbatan qamoqqa olish tarzidagi ehtiyot chorasi qoʻllanilmagan yoxud ushbu Kodeks 243-moddasi oʻninchi qismining 3-bandiga muvofiq ushlab turish muddati uzaytirilmagan boʻlsa, ozod qilinadi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-1325094",
+      "matn": "Ushlab turilgan shaxsni ozod qilish surishtiruvchi, tergovchi, prokurorning qaroriga yoxud sudning ajrimiga binoan ushlab turilganlar saqlanadigan joyning boshligʻi tomonidan amalga oshiriladi. Ozod qilish toʻgʻrisidagi qaror yoki ajrim ushlab turilganlar saqlanadigan joyga kelib tushishi bilan darhol ijro etiladi."
+    },
+    {
+      "q": 3,
+      "id": "-1325096",
+      "matn": "Ushlab turilgan shaxsni bundan buyon ushlab turish uchun asoslar yoʻqligi aniqlanishi bilanoq surishtiruvchi va tergovchi uni darhol ozod qilishlari shart."
+    },
+    {
+      "q": 4,
+      "id": "-1325098",
+      "matn": "Prokurorning, tergovchining yoki surishtiruvchining ushlab turilgan shaxsni ozod qilish haqidagi qarori yoxud sudning uni ushlab turish muddatini uzaytirish toʻgʻrisidagi yoki unga nisbatan qamoqqa olish tarzidagi ehtiyot chorasini qoʻllash haqidagi ajrimi qonunda belgilangan ushlab turish muddati ichida ushlab turilganlar saqlanadigan joyga kelib tushmasa, ushlab turilganlar saqlanadigan joyning boshligʻi bu shaxsni ozod qiladi va uning ozod qilinganligi toʻgʻrisida prokurorga, tergovchiga yoki surishtiruvchiga bildirish xati yuboradi."
+    },
+    {
+      "q": 5,
+      "id": "-1325100",
+      "matn": "Zarur hollarda ushlab turilganlar saqlanadigan joyning maʼmuriyati ozod qilingan shaxslarning yashash joyiga tekin joʻnab ketishini taʼminlaydi; ularning iltimosiga koʻra, ushlab turilganlar saqlanadigan joyda boʻlgan vaqti haqida maʼlumotnoma beradi."
+    }
+  ]
+}

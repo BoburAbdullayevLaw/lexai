@@ -1,0 +1,25 @@
+{
+  "n": "57-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1723291",
+  "sarlavha": "57¹-modda. Aybdor oʻz qilmishiga amalda pushaymon boʻlganida jazo tayinlash",
+  "umumiy_sharh": [
+    "Pushaymonlik + zararni qoplash mavjud bo'lsa va og'irlashtiruvchi holatlar yo'q bo'lsa — jazo eng ko'p muddatning 2/3 dan oshmasligi kerak.",
+    "Bu qoida javobgarlikni og'irlashtiruvchi holatlarda qasddan odam o'ldirish (97/2) va terrorizm (155/3) uchun qo'llanilmaydi.",
+    "Bir nechta jinoyat uchun ham qo'llaniladi — umumiy muddat 2/3 dan oshmasligi kerak."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1628020",
+      "matn": "Ushbu Kodeks 55-moddasi birinchi qismining \"a\" va \"b\" bandlarida nazarda tutilgan jazoni yengillashtiruvchi holatlar mavjud boʻlgan va ushbu Kodeks 56-moddasining birinchi qismida nazarda tutilgan jazoni ogʻirlashtiruvchi holatlar mavjud boʻlmagan taqdirda jazo muddati yoki miqdori ushbu Kodeks Maxsus qismining tegishli moddasida nazarda tutilgan eng koʻp jazoning uchdan ikki qismidan oshmasligi kerak.",
+      "sharh": [
+        "Shart: 55/1-a (aybni bo'yniga olish/pushaymonlik/faol yordam) + 55/1-b (zararni qoplash) mavjud + 56/1 og'irlashtiruvchi yo'q.",
+        "Cheklov: eng ko'p jazoning 2/3 dan oshmasligi. Masalan: 15 yil eng ko'p → maksimum 10 yil.",
+        "Bir nechta jinoyat uchun: umumiy muddat sanksiyadagi eng ko'p muddatlarning qo'shilmasidan hosil bo'lgan eng ko'p jazoning 2/3 dan oshmasligi kerak.",
+        "Jismoniy hisoblash: 20 yil → 13 yil 4 oy; 25 yil → 16 yil 4 oy.",
+        "Mustasno: 97/2 (qasddan o'ldirish) va 155/3 (terrorizm) — bu qoida ularga qo'llanilmaydi."
+      ]
+    }
+  ]
+}

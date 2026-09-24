@@ -1,0 +1,64 @@
+{
+  "n": 291,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271510",
+  "sarlavha": "291-modda. Qorovul xizmatini o'tash qoidalarini buzish",
+  "umumiy_sharh": [
+    "Jinoyatning asosiy bevosita obyekti qorovul xizmatini o'tashning o'rnatilgan tartibini ta'minlovchi ijtimoiy munosabatlardir.",
+    "Obyektiv tomondan qorovul tarkibiga kirgan shaxs tomonidan qorovul xizmatini o'tash nizom qoidalarining zararli oqibatlar keltirib chiqaradigan tarzda buzilishida ifodalanadi.",
+    "Moddaning dispozitsiyasi blanketdir. Qaysi aniq qoidalar buzilganligini har tomonlama aniqlash lozim.",
+    "Buzilish ham harakatda, ham harakatsizlikda ifodalanishi mumkin: postdan ketish, postdagi uyqu, e'tiborsizlik, begonalar bo'lishiga yo'l qo'yish va h.k.",
+    "Qorovul xizmatini o'tashning boshlanishi — razvod vaqtida navbatchini kutib olish uchun 'yig'il' komandasi berilgan vaqt. Tamom bo'lishi — navbatchilikdan so'ng qismga ketish uchun buyruq berilgan vaqt.",
+    "Qorovul xizmati qoidalarining buzilishi va kelib chiqqan zararli oqibatlar orasidagi sababiy bog'lanish jinoyat tarkibining zaruriy belgisi hisoblanadi.",
+    "Zararli oqibatlar qorovul tarkibidagi shaxslar ogohlantirishi lozim bo'lgan vazifalarga kirgan oqibatlardir. Bu qo'riqlanayotgan obyektdan o'g'irlik, qamoqdan qochish, jamoat tartibini buzish va h.k.",
+    "Qo'riqlanayotgan obyektdagi muhr yoki plombani buzish, qulflarni sindirish, obyektga haqiqiy zarar yetkazmasdan kirish zararli oqibatlar deb topilmaydi.",
+    "Zararli oqibatlar kelib chiqmasa, jinoiy javobgarlik istisno etiladi. Buzilishlar uchun intizomiy javobgarlikka tortilishi mumkin.",
+    "Subyektiv tomondan qasddan yoki ehtiyotsizlik orqasida sodir etilishi mumkin.",
+    "Subyekti faqat qorovul yoki soqchilik tarkibidagi shaxslar bo'lishlari mumkin. Qorovulni tashkil etishga javobgar, ammo tarkibga kirmaydigan lavozimli shaxslar bu jinoyatning subyekti bo'la olmaydi.",
+    "Qasamyod qabul qilmaganlarni qorovulga tayinlash taqiqlanadi. Qasamyod qabul qilish shaxsning subyekti deb topilishi uchun zaruriy shartdir.",
+    "Qorovul tomonidan unga topshirilgan mulkni talon-toroj qilish jinoyatlar jami bo'yicha kvalifikatsiya qilinishi lozim."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271512",
+      "matn": "Qorovul (soqchilik) xizmati ustav qoidalarini qorovul tarkibiga kirgan shaxs tomonidan zararli oqibatlar keltirib chiqaradigan tarzda buzish, basharti, mazkur qorovul bunday oqibatlarning oldini olish uchun tayinlangan boʻlsa, — ikki yilgacha xizmat boʻyicha cheklash yoki bir yilgacha intizomiy qismga yuborish yoxud bir yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271515",
+      "matn": "O'sha qilmish:",
+      "sharh": [
+        "2-qismda og'ir oqibatlarga olib kelgan qorovullik xizmatini o'tash qoidalarining buzilishi uchun og'irroq javobgarlik belgilangan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-271516",
+          "matn": "badanga og'ir shikast yetkazilishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-271517",
+          "matn": "odam o'lishiga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-271518",
+          "matn": "boshqa og'ir oqibatlarga sabab bo'lsa, — besh yildan o'n yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+          "sharh": [
+            "Boshqa og'ir oqibatlar: bir necha shaxslarga o'rta va og'ir tan jarohatlari yetkazish, bir necha kishining halok bo'lishi, obyektga ko'p miqdorda zarar yetkazish, obyektning jangovar tayyorgarligini buzish, qurol, o'q-dorini o'g'irlash, jangovar texnikani ishdan chiqarish, harbiy qism bayrog'ini yo'qotish, qamoqdan qochish va h.k."
+          ]
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-271521",
+      "matn": "O'sha qilmish jangovar vaziyatda sodir etilgan bo'lsa, — o'n yildan o'n besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+      "sharh": [
+        "Jangovar vaziyat tushunchasi haqida JK 279-moddasi sharhiga qarang."
+      ]
+    }
+  ]
+}

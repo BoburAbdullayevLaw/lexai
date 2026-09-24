@@ -1,0 +1,55 @@
+{
+  "n": "192-3",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-2734605",
+  "sarlavha": "192-3-modda. Tadbirkorlik subyektlarining faoliyatini va (yoki) ularning banklardagi hisobvaraqlari boʻyicha operatsiyalarni qonunga xilof ravishda toʻxtatib turish",
+  "umumiy_sharh": [
+    "Jinoyatning bevosita sita obyekti tadbirkorlik subyektlarining faoliyatini va ularning banklardagi hisobvaraqlari bo'yicha operatsiyalarni qonuniy amalga oshirishni ta'minlash bilan bog'liq bo'lgan ijtimoiy munosabatlardir.",
+    "Mazkur jinoyat obyektiv tomondan tadbirkorlik subyektlarining faoliyatini yoki ularning banklardagi hisobvaraqlari bo'yicha operatsiyalarni qonunga xilof ravishda to'xtatib turish orqali sodir etishda ifodalanadi.",
+    "Bu jinoyatning zaruriy belgisi tadbirkorlik subyektlarining faoliyatini yoki ularning banklardagi hisobvaraqlari bo'yicha operatsiyalarni qonunga xilof ravishda to'xtatib turganlik uchun MJtKning 241-3-moddasiga ko'ra, ma'muriy jazo qo'llanilganidan keyin shaxs bir yil ichida takroran ushbu qilmishni sodir etgan bo'lishidir.",
+    "Bank operatsiyalari deganda, tadbirkorlik subyektining bankda joylashgan o'z hisob raqami orqali moddiy mablag'larini tadbirkorlik faoliyati natijasida ushbu hisob raqamga kiritish yoki chiqarish bilan bog'liq operatsiyalar tushuniladi.",
+    "Mazkur jinoyat subyektiv tomondan qasddan sodir etiladi. Bunda subyektning harakatlarida qasdning to'g'ri qasd shakli namoyon bo'ladi.",
+    "Jinoyatning subyekti maxsus hisoblanadi, zero ushbu jinoyat ham mansabdor shaxslar tomonidan sodir etiladigan jinoyat hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2734607",
+      "matn": "Tadbirkorlik subyektlarining faoliyatini va (yoki) ularning banklardagi hisobvaraqlari boʻyicha operatsiyalarni qonunga xilof ravishda toʻxtatib turish, shunday harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ikki yuz baravaridan uch yuz baravarigacha miqdorda jarima yoki uch yilgacha muayyan huquqdan mahrum qilish yoxud uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2734610",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2734611",
+          "matn": "koʻp miqdorda zarar yetkazgan holda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2734612",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravaridan besh yuz baravarigacha miqdorda jarima yoki muayyan huquqdan mahrum qilib, uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-2734615",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2734616",
+          "matn": "juda koʻp miqdorda zarar yetkazgan holda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2734617",
+          "matn": "uyushgan guruh manfaatlarini koʻzlab sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining besh yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki muayyan huquqdan mahrum qilib, besh yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

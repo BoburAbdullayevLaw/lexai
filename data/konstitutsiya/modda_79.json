@@ -1,0 +1,18 @@
+{
+  "n": "79",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445729",
+  "sarlavha": "79-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445730",
+      "matn": "Davlat yoshlarning shaxsiy, siyosiy, iqtisodiy, ijtimoiy, madaniy, ekologik huquqlari himoya qilinishini taʼminlaydi, ularning jamiyat va davlat hayotida faol ishtirok etishini ragʻbatlantiradi."
+    },
+    {
+      "q": 2,
+      "id": "-6445731",
+      "matn": "Davlat yoshlarning intellektual, ijodiy, jismoniy va axloqiy jihatdan shakllanishi hamda rivojlanishi uchun, ularning taʼlim olishga, sogʻligʻini saqlashga, uy-joyga, ishga joylashishga, bandlik va dam olishga boʻlgan huquqlarini amalga oshirish uchun shart-sharoitlar yaratadi."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "n": "276-11",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-8282805",
+  "sarlavha": "276¹¹-modda. Xavfsizlik talablariga javob bermaydigan tovarlarni oʻtkazish maqsadini koʻzlab ishlab chiqarish, saqlash, tashish yoxud oʻtkazish, ishlar bajarish yoki xizmatlar koʻrsatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282807",
+      "matn": "Isteʼmolchilarning hayoti yoki sogʻligʻi xavfsizligi talablariga javob bermaydigan tovarlarni oʻtkazish maqsadini koʻzlab ishlab chiqarish, saqlash, tashish yoxud oʻtkazish, ishlar bajarish yoki xizmatlar koʻrsatish, — bazaviy hisoblash miqdorining yuz baravaridan ikki yuz baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud bir yildan ikki yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-8282810",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282811",
+          "matn": "juda koʻp miqdorda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-8282812",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-8282813",
+          "matn": "takroran yoki xavfli retsidivist tomonidan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-8282814",
+          "matn": "badanga oʻrtacha ogʻir yoxud ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ikki yuz baravaridan toʻrt yuz baravarigacha miqdorda jarima yoki uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-8282817",
+      "matn": "Oʻsha harakatlar odam oʻlishiga sabab boʻlsa, — besh yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-8282820",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282822",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-8282823",
+          "matn": "boshqacha ogʻir oqibatlarning kelib chiqishiga sabab boʻlsa, — yetti yildan oʻn ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

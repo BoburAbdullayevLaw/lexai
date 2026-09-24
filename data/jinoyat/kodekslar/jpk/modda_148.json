@@ -1,0 +1,27 @@
+﻿{
+  "n": 148,
+  "sarlavha_id": "-3173697",
+  "sarlavha": "148-modda. Murdani eksgumatsiya qilish asoslari va tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3173699",
+      "matn": "Koʻzdan kechirish, tanib olish, tekshirish yoki ekspertizaga namunalar olish uchun murdani qabrdan chiqarib olish zarur boʻlgan taqdirda prokuror, tergovchi yoki surishtiruvchi murdani eksgumatsiya qilish toʻgʻrisida iltimosnoma qoʻzgʻatish haqida mazkur tergov harakatini oʻtkazish asoslarini bayon etgan holda qaror chiqaradi. Qarorga iltimosnomani asoslovchi zarur materiallar ilova qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-3173700",
+      "matn": "Tergovchining yoki surishtiruvchining murdani eksgumatsiya qilish toʻgʻrisida iltimosnoma qoʻzgʻatish haqidagi qarori va zarur materiallar prokurorga yuboriladi."
+    },
+    {
+      "q": 3,
+      "id": "-3173701",
+      "matn": "Prokuror murdani eksgumatsiya qilish toʻgʻrisidagi iltimosnomaning asosliligini tekshirib, unga rozi boʻlgan taqdirda, murdani eksgumatsiya qilish toʻgʻrisida iltimosnoma qoʻzgʻatish haqidagi qarorni va zarur materiallarni sudga yuboradi."
+    },
+    {
+      "q": 4,
+      "id": "-3173702",
+      "matn": "Sud murdani eksgumatsiya qilishni surishtiruv organlariga yoki tergovchiga topshiradi, bu haqda ajrim chiqaradi."
+    }
+  ]
+}

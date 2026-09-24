@@ -1,0 +1,22 @@
+﻿{
+  "n": 149,
+  "sarlavha_id": "-254161",
+  "sarlavha": "149-modda. Murdani eksgumatsiya qilish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254162",
+      "matn": "Surishtiruvchi, tergovchi yoki sud murdani eksgumatsiya qilishni sogʻliqni saqlash organlari bilan kelishgan holda va murda koʻmilgan joy vakilining ishtirokida amalga oshiradi. Eksgumatsiya surishtiruv yoki dastlabki tergov vaqtida amalga oshirilayotgan boʻlsa, xolislarning ishtirok etishi shart. Sud eksgumatsiyani taraflar ishtirokida amalga oshiradi."
+    },
+    {
+      "q": 2,
+      "id": "-254163",
+      "matn": "Murdani eksgumatsiya qilishda sud tibbiyoti sohasidagi mutaxassis shifokor, zarur boʻlsa, boshqa mutaxassislar ham qatnashadilar. Agar ekspertiza tayinlangan boʻlsa, eksgumatsiya oʻtkazishda sud tibbiyoti ekspertining ishtirok etishi shart."
+    },
+    {
+      "q": 3,
+      "id": "-254164",
+      "matn": "Zarur hollarda, eksgumatsiyani oʻtkazishga gumon qilinuvchi, ayblanuvchi, sudlanuvchi, shuningdek murdani tanib olishi mumkin boʻlgan shaxslar jalb qilinishi mumkin."
+    }
+  ]
+}

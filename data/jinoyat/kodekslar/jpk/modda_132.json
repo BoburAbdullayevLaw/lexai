@@ -1,0 +1,32 @@
+﻿{
+  "n": 132,
+  "sarlavha_id": "-254071",
+  "sarlavha": "132-modda. Koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirish uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254076",
+      "matn": "Surishtiruvchi, tergovchi, sud gumon qilinuvchilar, ayblanuvchilar, sudlanuvchilar, guvohlar hamda jabrlanuvchilarning koʻrsatuvlarini tekshirilayotgan hodisa sodir boʻlgan joyda holatlarni qayta tiklash yoʻli bilan tekshirib koʻrishga haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-7234184",
+      "matn": "Koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirishdan maqsad: koʻrsatuvlari tekshirilayotgan shaxsga maʼlum boʻlgan, surishtiruvchiga, tergovchiga va sudga esa nomaʼlum boʻlgan narsalar, hujjatlar, elektron maʼlumotlar, izlar va belgilarni topish; shaxsning tergov yoki sud muhokamasi davomida topilgan narsalar, hujjatlar, elektron maʼlumotlar, izlar qayerda boʻlganligini koʻrsatib berishi; bir necha shaxsning ayni bir hodisa toʻgʻrisida bergan koʻrsatuvlaridagi oʻxshashlik va farqlarni aniqlash uchun ishda ahamiyatga ega boʻlgan joyni yoki yoʻnalishni shaxs koʻrsatib berishi; holatlarni qayta tiklash va hodisa sodir boʻlgan joydagi sharoit bilan qiyoslash orqali koʻrsatuvlarning toʻgʻriligini yoki notoʻgʻriligini aniqlashdan iborat."
+    },
+    {
+      "q": 3,
+      "id": "-7234188",
+      "matn": "Koʻrsatuvi tekshirilayotgan shaxs hodisa sodir boʻlgan joyda bir vaqtning oʻzida koʻrsatish, koʻzdan kechirish yoki baʼzi narsalarni, hujjatlarni, elektron maʼlumotlarni, izlarni olish yoxud muayyan harakatlarni namoyish qilish orqali tushuntirish beradi yoki oʻzining avval bergan koʻrsatuvlariga aniqlik kiritadi."
+    },
+    {
+      "q": 4,
+      "id": "-7234203",
+      "matn": "Raqamli dalillar bilan bogʻliq koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirish chogʻida koʻrsatuvlarning ishonchliligini masofadan turib tekshirish uchun axborot tizimlaridan foydalanilishi mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-254081",
+      "matn": "Gumon qilinuvchi, ayblanuvchi yoki sudlanuvchining koʻrsatuvlarini hodisa sodir boʻlgan joyda tekshirish natijalari, bu shaxslarning muayyan hodisalar haqida bilganlari faqat ularning jinoyat sodir etishga daxldorligidan darak bersagina, dalil kuchiga ega boʻladi."
+    }
+  ]
+}

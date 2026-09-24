@@ -1,0 +1,126 @@
+{
+  "n": 135,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1393351",
+  "sarlavha": "135-modda. Odam savdosi",
+  "umumiy_sharh": [
+    "Jinoyat obyekti shaxsning ozodligi, sha'ni va qadr-qimmati hisoblanadi.",
+    "Jinoyat obyektiv tomondan shahvoniy yoki boshqa maqsadlarda foydalanish uchun aldash yo'li bilan odam yollashda ifodalanadi.",
+    "Odamlarni yollash deganda muayyan maqsadga muvofiq keladigan odamlarni izlab topish va ular bilan og'zaki yoki yozma ravishda faoliyat bilan shug'ullanish to'g'risidagi shartnoma tuzish tushuniladi. Odamlarni yollash turli usulda (katta ish haqi, moddiy boyliklar, ma'lum imtiyozlar, qulay sharoitlar evaziga) amalga oshiriladi.",
+    "Odamlardan shahvoniy yoki boshqa maqsadlarda foydalanish aldov yo'li bilan sodir etilgan holatlarda JK 135-moddasi bo'yicha jinoiy javobgarlik kelib chiqadi.",
+    "Jinoyat yollovchi va tegishli shaxs o'rtasida yollash maqsadida bitim tuzilgan vaqtdan boshlab tugallangan hisoblanadi.",
+    "Sharhlanayotgan jinoyat tarkibi uchun muqarrar maqsad – yollangan shaxslardan shahvoniy yoki boshqacha maqsadlarda foydalanishdir. Shahvoniy foydalanish deganda shaxsni shunday ahvolga tushirib qo'yish tushuniladiki, unda yollangan shaxs yollovchining xohishiga ko'ra tartibsiz jinsiy aloqalarga kirishga yoki kimnidirning jinsiy ehtiyojlarini g'ayritabiiy usulda qondirishga majbur bo'ladi.",
+    "Yollangan ayollar yollovchining xohishiga ko'ra jinsiy aloqaga kirib, kimnidirning jinsiy ehtiyojlarini g'ayritabiiy usulda qondirgan holatlarda aybdorning harakatlari JK 135 va 121-moddalariga binoan jinoyatlar majmui bo'yicha kvalifikatsiya qilish lozim.",
+    "Subyektiv tomondan jinoyat bila turib, to'g'ri qasd bilan sodir etiladi.",
+    "Subyekt 16 yoshga to'lgan shaxs hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1393353",
+      "matn": "Odam savdosi, yaʼni odamni olish-sotish yoxud odamni undan foydalanish maqsadida yollash, tashish, topshirish, yashirish yoki qabul qilish — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7534292",
+      "matn": "Oʻsha harakatlar:",
+      "sharh": [
+        "Shaxslardan shahvoniy yoki boshqa usulda foydalanish maqsadlarida aldov yo'li bilan yollash takroran yoki xavfli retsidivist tomonidan sodir etilsa, JK 135-moddasi 2-qismi bo'yicha kvalifikatsiya qilinadi.",
+        "Bir guruh shaxslar tomonidan oldindan til biriktirib odamlarni yollash deganda mazkur faoliyatda ikki yoki undan ortiq shaxslarning oldindan kelishib, aldov yo'li bilan odamlardan shahvoniy yoki boshqa maqsadlarda foydalanish maqsadida ishtirok etishni tushunish lozim."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7534293",
+          "matn": "ikki yoki undan ortiq shaxsga nisbatan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7534295",
+          "matn": "ojiz ahvoldaligi aybdorga ayon boʻlgan shaxsga nisbatan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7534296",
+          "matn": "homiladorligi aybdorga ayon boʻlgan ayolga nisbatan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-7534298",
+          "matn": "aybdorga moddiy jihatdan yoki boshqa jihatdan qaram boʻlgan shaxsga nisbatan;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-7534300",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "e",
+          "id": "https://lex.uz/docs/-111453#-7534302",
+          "matn": "xizmat mavqeyidan foydalangan holda;"
+        },
+        {
+          "b": "j",
+          "id": "https://lex.uz/docs/-111453#-7534303",
+          "matn": "jabrlanuvchini Oʻzbekiston Respublikasining Davlat chegarasidan olib oʻtgan holda yoki uni chet elda qonunga xilof ravishda ushlab turgan holda;"
+        },
+        {
+          "b": "z",
+          "id": "https://lex.uz/docs/-111453#-7534305",
+          "matn": "qalbaki hujjatlardan foydalangan holda, xuddi shuningdek jabrlanuvchining shaxsini tasdiqlovchi hujjatlarni olib qoʻygan, yashirgan yoxud yoʻq qilib yuborgan holda;"
+        },
+        {
+          "b": "i",
+          "id": "https://lex.uz/docs/-111453#-7534306",
+          "matn": "inson aʼzolarini va (yoki) toʻqimalarini olish maqsadida;"
+        },
+        {
+          "b": "k",
+          "id": "https://lex.uz/docs/-111453#-7534308",
+          "matn": "fohishalik bilan shugʻullanishga jalb etish maqsadida sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-7534325",
+      "matn": "Oʻsha harakatlar:",
+      "sharh": [
+        "Agar yollovchi voyaga yetmagan shaxslarni ulardan foydalanish maqsadida yollagan bo'lsa, uning harakatlari JK 135-moddasi 3-qismi bo'yicha kvalifikatsiya qilinishi zarur. Yollovchi voyaga yetmagan shaxsning yoshi to'g'risida vijdonan adashgan bo'lsa javobgarlik 1-qismi bo'yicha kelib chiqadi.",
+        "Shahvoniy yoki boshqa maqsadda foydalanish uchun yollangan shaxslardan O'zbekiston Respublikasi hududidan tashqariga olib chiqib ketilgan yoki aybdorda shunday niyat mavjud bo'lgan holatlarda uning harakatlari JK 135-moddasining 3-qismi bo'yicha kvalifikatsiya qilinadi."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7534326",
+          "matn": "oʻgʻirlash, zoʻrlik ishlatish yoki zoʻrlik ishlatish bilan qoʻrqitish yoxud majburlashning boshqa shakllarini qoʻllash orqali sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7534327",
+          "matn": "oʻn sakkiz yoshga toʻlmaganligi aybdorga ayon boʻlgan shaxsga nisbatan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7534328",
+          "matn": "takroran yoki xavfli retsidivist tomonidan yoxud ushbu Kodeksning 137-moddasida nazarda tutilgan jinoyatni ilgari sodir etgan shaxs tomonidan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-7534329",
+          "matn": "oʻta xavfli retsidivist tomonidan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-7534330",
+          "matn": "jabrlanuvchining oʻlimiga yoki boshqa ogʻir oqibatlarga sabab boʻlsa;"
+        },
+        {
+          "b": "e",
+          "id": "https://lex.uz/docs/-111453#-7534331",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — oʻn yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

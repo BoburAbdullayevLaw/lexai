@@ -1,0 +1,76 @@
+{
+  "n": 58,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195012",
+  "sarlavha": "58-modda. Tamom boʻlmagan va ishtirokchilikda sodir etilgan jinoyatlar uchun jazo tayinlash",
+  "umumiy_sharh": [
+    "Tamom bo'lmagan jinoyat: tayyorgarlik va suiqasd. Ixtiyoriy qaytish javobgarlikdan ozod etadi.",
+    "Jazo og'irligi jinoyat bosqichlari bilan mutanosib bo'lishi kerak. Tayyorgarlik < suiqasd < tugallangan.",
+    "Ishtirokchilikda har bir aybdorning roli va darajasi alohida baholanadi.",
+    "Yengillashtiruvchi/og'irlashtiruvchi holatlar faqat o'sha ishtirokchiga qo'llaniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195013",
+      "matn": "Sud tamom boʻlmagan jinoyat uchun jazo tayinlashda jazo tayinlashning umumiy asoslariga amal qilgan holda jinoyatning ogʻir-yengilligini, jinoiy niyat amalga oshirilishining darajasini va jinoyatni oxiriga yetkaza olmaganlik sabablarini ham hisobga oladi.",
+      "sharh": [
+        "Hisobga olinadigan omillar: og'ir-yengillik, niyat darajasi, oxiriga yetkaza olmaganlik sabablari.",
+        "Bosqichlar: tayyorgarlik < suiqasd < tugallangan — har biriga turli jazo.",
+        "Sanksiyadagi maksimumdan oshmaslik kerak."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1339799",
+      "matn": "Jinoyatga tayyorgarlik koʻrganlik hamda jinoyat sodir etishga suiqasd qilganlik uchun jazoning muddati yoki miqdori ushbu Kodeks Maxsus qismining tegishli moddasida nazarda tutilgan eng koʻp jazoning toʻrtdan uch qismidan oshmasligi kerak.",
+      "sharh": [
+        "Umumiy qoida: eng ko'p jazoning 3/4 dan oshmaslik.",
+        "Masalan: 20 yil eng ko'p → maksimum 15 yil.",
+        "Bu qoida ayrim hollarda qo'llanilmaydi (bandlar ko'rsatilgan)."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1339800",
+          "matn": "oʻta xavfli retsidivistlarga, uyushgan guruh yoki jinoiy uyushma aʼzolariga nisbatan;",
+          "sharh": []
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-6436567",
+          "matn": "tinchlik va xavfsizlikka qarshi tamom boʻlmagan jinoyatlar uchun, shuningdek quyidagilar bilan:",
+          "sharh": [],
+          "bandlar": [
+            {"b":"1","id":"https://lex.uz/docs/-111453#-6436569","matn":"javobgarlikni ogʻirlashtiradigan holatlarda qasddan odam oʻldirish bilan;","sharh":[]},
+            {"b":"2","id":"https://lex.uz/docs/-111453#-6436571","matn":"oʻn sakkiz yoshga toʻlmagan jabrlanuvchining nomusiga tegish yoki unga nisbatan zoʻrlik ishlatib, jinsiy ehtiyojni gʻayritabiiy usulda qondirish bilan;","sharh":[]},
+            {"b":"3","id":"https://lex.uz/docs/-111453#-6436574","matn":"oʻn olti yoshga toʻlmagan shaxs bilan jinsiy aloqa qilish yoki jinsiy ehtiyojni gʻayritabiiy usulda qondirish bilan;","sharh":[]},
+            {"b":"4","id":"https://lex.uz/docs/-111453#-6436576","matn":"voyaga yetmagan shaxs tavsiflangan yoki tasvirlangan pornografik mahsulotni tarqatish, reklama qilish, namoyish etish maqsadida Oʻzbekiston Respublikasi hududiga olib kirish, xuddi shuningdek uni tayyorlash, tarqatish, reklama qilish, namoyish etish yoxud voyaga yetmagan shaxsni pornografik xususiyatga ega harakatlarning ijrochisi sifatida jalb etish bilan;","sharh":[]},
+            {"b":"5","id":"https://lex.uz/docs/-111453#-6436577","matn":"voyaga yetmagan shaxsni jalb etgan holda qoʻshmachilik qilish, fohishaxonalarni tashkil etish yoki saqlash bilan;","sharh":[]},
+            {"b":"6","id":"https://lex.uz/docs/-111453#-6436579","matn":"yadroviy, kimyoviy, biologik va boshqa turdagi ommaviy qirgʻin qurolini, bunday qurol yaratishda foydalanish mumkinligi ayon boʻlgan materiallarni hamda uskunalarni, radioaktiv materiallarni kontrabanda qilish bilan bogʻliq boʻlgan jinoyatlar uchun jazolar tayinlashda qoʻllanilmaydi.","sharh":[]}
+          ]
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-1319708",
+      "matn": "Tamom boʻlmagan jinoyatlar uchun umrbod ozodlikdan mahrum qilish tariqasidagi jazo tayinlanishi mumkin emas.",
+      "sharh": [
+        "Umrbod ozodlikdan mahrum etish faqat tugallangan jinoyat uchun.",
+        "Lekin suiqasd natijasida boshqa zarar yetkazilgan bo'lsa — alohida kvalifikatsiya (masalan, 104-modda + 97-modda suiqasd)."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195014",
+      "matn": "Ishtirokchilikda sodir etilgan jinoyat uchun jazo tayinlashda sud har qaysi aybdorning jinoyatda ishtirok etganlik xususiyati va darajasini hisobga oladi.",
+      "sharh": [
+        "Har bir ishtirokchining roli alohida aniqlanadi: tashkilotchi, bajaruvchi, yordamchi, dalolatchi.",
+        "Tashkilotchi va bajaruvchi yordamchidan og'irroq javob beradi.",
+        "Yengillashtiruvchi/og'irlashtiruvchi holatlar faqat o'sha shaxsga qo'llaniladi — boshqalarga emas.",
+        "28 va 30-moddalarga qarang."
+      ]
+    }
+  ]
+}

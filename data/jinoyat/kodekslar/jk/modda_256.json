@@ -1,0 +1,47 @@
+{
+  "n": "256",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268107",
+  "sarlavha": "256-modda. Tadqiqot faoliyatini amalga oshirishda xavfsizlik qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268109",
+      "matn": "Ilmiy tadqiqot yoki sinov tajriba faoliyatini amalga oshirish vaqtida xavfsizlik qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268112",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268113",
+          "matn": "xavfsizlik qoidalariga rioya qilinishi uchun masʼul shaxs tomonidan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268114",
+          "matn": "koʻp miqdorda zarar yetkazilishiga sabab boʻlsa, — ikki yildan uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268117",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268118",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268119",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

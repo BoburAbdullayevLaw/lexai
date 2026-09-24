@@ -1,0 +1,53 @@
+{
+  "n": "17",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5380932",
+  "sarlavha": "17-modda. Normativ-huquqiy hujjatlar bilan tasdiqlanadigan nizomlar, qoidalar, yoʻriqnomalar va boshqa hujjatlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5380934",
+      "matn": "Normativ-huquqiy hujjatlar bilan ushbu hujjatlarning tarkibiy qismi boʻlgan nizomlar, qoidalar, yoʻriqnomalar, reglamentlar, strategiyalar, konsepsiyalar, doktrinalar, dasturlar (“yoʻl xaritalari”) va boshqa hujjatlar tasdiqlanishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-5380935",
+      "matn": "Nizom davlat organlari va tashkilotlarning, ular tarkibiy boʻlinmalarining maqomini, asosiy vazifalarini, funksiyalarini, huquq va majburiyatlarini, faoliyatini tashkil etish tartibini, shuningdek u yoki bu sohadagi ijtimoiy munosabatlarni tartibga solish tartibini belgilaydi."
+    },
+    {
+      "q": 3,
+      "id": "-5380936",
+      "matn": "Qoidalar biror-bir faoliyatni amalga oshirishga doir talablarni belgilaydi."
+    },
+    {
+      "q": 4,
+      "id": "-5380938",
+      "matn": "Yoʻriqnoma normativ-huquqiy hujjatlarni qoʻllashning aniqlashtiruvchi jihatlarini belgilaydi."
+    },
+    {
+      "q": 5,
+      "id": "-5380939",
+      "matn": "Reglament davlat organlari va tashkilotlarning ish tartibini, shuningdek davlat organlari va tashkilotlar tomonidan maʼmuriy tartib-taomillarni amalga oshirish tartibini belgilaydi."
+    },
+    {
+      "q": 6,
+      "id": "-5380940",
+      "matn": "Strategiya mamlakat yoki muhim tarmoqlarni oʻrta va uzoq muddatli istiqbolda rivojlantirishning eng asosiy yoʻnalishlarini belgilaydi."
+    },
+    {
+      "q": 7,
+      "id": "-5380942",
+      "matn": "Konsepsiya u yoki bu sohadagi davlat siyosatining eng muhim ustuvorliklarini, maqsadlarini, asosiy yoʻnalishlarini, vazifalarini va amalga oshirilish mexanizmlarini belgilaydi."
+    },
+    {
+      "q": 8,
+      "id": "-5380943",
+      "matn": "Doktrina Oʻzbekiston Respublikasining u yoki bu sohadagi milliy manfaatlarini taʼminlash maqsadlari, vazifalari, prinsiplari va asosiy yoʻnalishlarini belgilaydi."
+    },
+    {
+      "q": 9,
+      "id": "-5380944",
+      "matn": "Dastur (“Yoʻl xaritasi”) u yoki bu sohadagi davlat siyosatining maqsadlariga erishilishini taʼminlaydigan tadbirlar (vazifalar, amalga oshirish muddatlari, moliyalashtirish manbalari va masʼul ijrochilar boʻyicha oʻzaro bogʻliq boʻlgan tadbirlar) va mexanizmlar tizimini belgilaydi."
+    }
+  ]
+}

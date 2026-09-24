@@ -1,0 +1,29 @@
+{
+  "n": 71,
+  "sarlavha_id": "https://lex.uz/docs/-111460#-253687",
+  "sarlavha": "71-modda. Tarjimon",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-253688",
+      "matn": "Tarjimon quyidagi hollarda chaqiriladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-253689",
+          "matn": "gumon qilinuvchi, ayblanuvchi, sudlanuvchi yoki jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar yoxud ularning vakillari, guvoh, ekspert, mutaxassis ish yuritilayotgan tilni bilmasa yoki yetarli darajada bilmasa yoinki kar yoki soqov boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-253690",
+          "matn": "biror matnni boshqa tildan tarjima qilishga zarurat boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-253691",
+      "matn": "Tarjimonga tegishli qoidalar ish yuritishda ishtirok etish uchun taklif qilingan, kar yoki soqovning imo-ishoralarini tushunadigan shaxsga nisbatan ham qoʻllaniladi."
+    }
+  ]
+}

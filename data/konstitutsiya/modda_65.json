@@ -1,0 +1,23 @@
+{
+  "n": "65",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445678",
+  "sarlavha": "65-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445679",
+      "matn": "Fuqarolar farovonligini oshirishga qaratilgan Oʻzbekiston iqtisodiyotining negizini xilma-xil shakllardagi mulk tashkil etadi. Davlat bozor munosabatlarini rivojlantirish va halol raqobat uchun shart-sharoitlar yaratadi, isteʼmolchilarning huquqlari ustuvorligini hisobga olgan holda iqtisodiy faoliyat, tadbirkorlik va mehnat qilish erkinligini kafolatlaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6445680",
+      "matn": "Oʻzbekiston Respublikasida barcha mulk shakllarining teng huquqliligi va huquqiy jihatdan himoya qilinishi taʼminlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6445681",
+      "matn": "Xususiy mulk daxlsizdir. Mulkdor oʻz mol-mulkidan qonunda nazarda tutilgan hollardan va tartibdan tashqari hamda sudning qaroriga asoslanmagan holda mahrum etilishi mumkin emas."
+    }
+  ]
+}

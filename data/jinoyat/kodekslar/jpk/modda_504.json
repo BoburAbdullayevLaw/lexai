@@ -1,0 +1,22 @@
+﻿{
+  "n": 504,
+  "sarlavha_id": "-6627312",
+  "sarlavha": "504-modda. Kassatsiya shikoyatini, protestini oʻzgartirish va unga qoʻshimcha kiritish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627314",
+      "matn": "Kassatsiya shikoyati (protesti) bergan shaxs kassatsiya instansiyasi sudining majlisi boshlanguniga qadar uni oʻzgartirishga yoxud yangi vajlar bilan toʻldirishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6627315",
+      "matn": "Kassatsiya protestini oʻzgartirish yoki unga qoʻshimcha kiritish, jabrlanuvchining yoxud uning vakilining kassatsiya shikoyatini oʻzgartirish yoki unga qoʻshimcha kiritish chogʻida mahkumning ahvolini ogʻirlashtirish toʻgʻrisidagi masala, agar bunday talab dastlabki kassatsiya shikoyatida, protestida koʻrsatilmagan boʻlsa, qoʻyilishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-6627316",
+      "matn": "Kassatsiya shikoyati berilganidan keyin jinoyat ishini yuritishga kirishgan himoyachi shikoyatni oʻzgartirishi yoxud yangi vajlar bilan toʻldirishi, ilgari ishda ishtirok etgan himoyachi tomonidan berilgan shikoyat vajlariga qoʻshimcha asoslar taqdim etishi mumkin."
+    }
+  ]
+}

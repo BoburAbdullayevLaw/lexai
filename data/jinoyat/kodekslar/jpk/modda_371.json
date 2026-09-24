@@ -1,0 +1,39 @@
+﻿{
+  "n": 371,
+  "sarlavha_id": "-255722",
+  "sarlavha": "371-modda. Toʻxtatilgan jinoyat ishi boʻyicha dastlabki tergovni qayta tiklash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255723",
+      "matn": "Toʻxtatilgan jinoyat ishi boʻyicha dastlabki tergov:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255724",
+          "matn": "tergovni toʻxtatish uchun asos tariqasida ushbu Kodeksning 364-moddasida nazarda tutilgan holatlar bartaraf etilganda;"
+        },
+        {
+          "b": 2,
+          "id": "-255725",
+          "matn": "ish boʻyicha ayblanuvchining ishtirokisiz bajarilishi mumkin boʻlgan qoʻshimcha tergov harakatlarini oʻtkazish zarurati tugʻilganda qayta tiklanadi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-255726",
+      "matn": "Dastlabki tergovni toʻxtatish toʻgʻrisidagi qaror qonunga nomuvofiq boʻlsa, prokuror uni bekor qilishi va dastlabki tergovni qayta tiklash toʻgʻrisida qaror chiqarishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-255727",
+      "matn": "Tergovchi dastlabki tergovning qayta tiklanganligi haqida prokurorga darhol xabar qiladi."
+    },
+    {
+      "q": 4,
+      "id": "-255728",
+      "matn": "Ish yuzasidan dastlabki tergov qayta tiklanishi bilan bir paytda dastlabki tergovning oʻtish muddati ham tiklanadi. Tergov muddatining keyinchalik uzaytirilishi dastlabki tergovni toʻxtatishdan oldin oʻtgan tergov muddatini eʼtiborga olgan holda ushbu Kodeksning 351-moddasiga binoan amalga oshiriladi."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "n": "134",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446121",
+  "sarlavha": "134-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446123",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudi fuqarolik, jinoiy, iqtisodiy va maʼmuriy sud ishlarini yuritish sohasida sud hokimiyatining oliy organi hisoblanadi."
+    },
+    {
+      "q": 2,
+      "id": "-6446124",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudi tomonidan qabul qilingan hujjatlar qatʼiy hisoblanadi va Oʻzbekiston Respublikasining butun hududida bajarilishi majburiydir."
+    },
+    {
+      "q": 3,
+      "id": "-6446125",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudi quyi sudlarning sudlov faoliyati ustidan nazorat olib borish huquqiga ega."
+    },
+    {
+      "q": 4,
+      "id": "-6446126",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining raisi va uning oʻrinbosarlari Oʻzbekiston Respublikasi Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Oliy Majlisining Senati tomonidan besh yillik muddatga saylanadi. Ayni bir shaxs surunkasiga ikki muddatdan ortiq Oʻzbekiston Respublikasi Oliy sudining raisi, rais oʻrinbosari etib saylanishi mumkin emas."
+    }
+  ]
+}

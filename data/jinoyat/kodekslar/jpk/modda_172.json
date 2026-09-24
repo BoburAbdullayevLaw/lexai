@@ -1,0 +1,22 @@
+﻿{
+  "n": 172,
+  "sarlavha_id": "-254257",
+  "sarlavha": "172-modda. Ekspertiza tayinlash uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3349380",
+      "matn": "Ish uchun ahamiyatli holatlar toʻgʻrisidagi maʼlumotlarni fan, texnika, sanʼat yoki kasb sohasi boʻyicha bilimi boʻlgan shaxs oʻtkazadigan maxsus tekshirish orqali olish mumkin boʻlganda ekspertiza tayinlanadi. Tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi, prokuror, sudya, mutaxassislar, xolislarning bunday bilimlarga ega boʻlishi ekspertiza tayinlash zaruratidan ozod etmaydi."
+    },
+    {
+      "q": 2,
+      "id": "-254259",
+      "matn": "Ekspert oldiga qoʻyilgan savollar va uning bergan xulosasi ekspertning maxsus bilimlari doirasidan tashqari chiqishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-254260",
+      "matn": "Ekspertizani ushbu Kodeksda belgilangan tartibga xilof ravishda oʻtkaziladigan tekshiruv bilan almashtirishga yoʻl qoʻyilmaydi. Idoraviy tekshiruv xulosasi, taftish hujjatlari, mutaxassislar maslahati ekspertiza oʻtkazish zaruratini istisno etmaydi."
+    }
+  ]
+}

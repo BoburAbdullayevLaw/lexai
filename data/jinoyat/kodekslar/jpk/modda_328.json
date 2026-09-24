@@ -1,0 +1,29 @@
+﻿{
+  "n": 328,
+  "sarlavha_id": "-255416",
+  "sarlavha": "328-modda. Jinoyat ishini qoʻzgʻatish vakolatiga ega boʻlgan organlar yoki mansabdor shaxs tomonidan jinoyatga oid maʼlumotlarning bevosita aniqlanishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255419",
+      "matn": "Jinoyat sodir etilganligini koʻrsatuvchi maʼlumotlarning bevosita aniqlanishi quyidagi hollarda jinoyat ishini qoʻzgʻatishga sabab boʻlishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3350956",
+          "matn": "tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi maʼmuriy vazifani amalga oshirayotganida jinoyatga oid maʼlumotlarni aniqlaganida;"
+        },
+        {
+          "b": 2,
+          "id": "-3350962",
+          "matn": "surishtiruvchi, tergovchi boshqa jinoyatga doir ish boʻyicha dastlabki tergov yuritish chogʻida jinoyatga oid maʼlumotlarni aniqlaganida;"
+        },
+        {
+          "b": 3,
+          "id": "-255425",
+          "matn": "prokuror qonunlarning bajarilishi ustidan nazorat qilish paytida yoki boshqa jinoyatga doir ish boʻyicha dastlabki tergov olib borish chogʻida jinoyatga oid maʼlumotlarni aniqlaganida;"
+        }
+      ]
+    }
+  ]
+}

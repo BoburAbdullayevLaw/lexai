@@ -1,0 +1,40 @@
+{
+  "n": "260-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3262146",
+  "sarlavha": "260¹-modda. Oʻzbekiston Respublikasining samoviy hududidan qonunga xilof ravishda (ruxsatsiz) foydalanish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4324045",
+      "matn": "Oʻzbekiston Respublikasining samoviy hududidan qonunga xilof ravishda (ruxsatsiz) foydalanish, (bundan samoviy hududda uchuvchisiz uchadigan apparatlardan foydalanish hollari mustasno), shunday harakat uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, xuddi shuningdek badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan ikki yuz ellik baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3262151",
+      "matn": "Oʻsha harakat odam oʻlishiga sabab boʻlsa, — uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3262154",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3262155",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3262156",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3262157",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

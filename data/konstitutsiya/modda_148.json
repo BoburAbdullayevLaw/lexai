@@ -1,0 +1,28 @@
+{
+  "n": "148",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446186",
+  "sarlavha": "148-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446187",
+      "matn": "Oʻzbekiston Respublikasining Davlat budjeti respublika budjetidan, Qoraqalpogʻiston Respublikasi budjetidan va mahalliy budjetlardan iboratdir."
+    },
+    {
+      "q": 2,
+      "id": "-6446188",
+      "matn": "Oʻzbekiston Respublikasining Davlat budjetini shakllantirish hamda ijro etish tartib-taomillari ochiqlik va shaffoflik prinsiplari asosida amalga oshiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-6446189",
+      "matn": "Fuqarolar va fuqarolik jamiyati institutlari Oʻzbekiston Respublikasi Davlat budjetining shakllantirilishi hamda ijro etilishi ustidan jamoatchilik nazoratini amalga oshiradi."
+    },
+    {
+      "q": 4,
+      "id": "-6446190",
+      "matn": "Fuqarolarning hamda fuqarolik jamiyati institutlarining budjet jarayonida ishtirok etishi tartibi va shakllari qonun bilan belgilanadi."
+    }
+  ]
+}

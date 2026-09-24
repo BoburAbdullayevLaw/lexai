@@ -1,0 +1,27 @@
+﻿{
+  "n": 546,
+  "sarlavha_id": "-3543885",
+  "sarlavha": "546-modda. Xizmat boʻyicha cheklash, intizomiy qismda saqlash vaqtini hisobga kiritish toʻgʻrisidagi iltimosnomalarni koʻrib chiqish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3543904",
+      "matn": "Xizmat boʻyicha cheklash yoki intizomiy qismda saqlash vaqtini harbiy xizmat muddati hisobiga kiritish toʻgʻrisidagi masala hududiy harbiy sudning sudyasi tomonidan ana shunday turdagi jazolarning muddati tugagach, qoʻmondonlikning iltimosnomasiga asosan koʻrib chiqiladi."
+    },
+    {
+      "q": 2,
+      "id": "-3543917",
+      "matn": "Xizmat boʻyicha cheklash yoki intizomiy qismda saqlash vaqtini harbiy xizmat muddati hisobiga kiritish toʻgʻrisidagi masala hududiy harbiy sudning sudyasi tomonidan koʻrib chiqilayotgan paytda iltimosnoma kim haqida kiritilgan boʻlsa, shu shaxsning, shuningdek iltimosnoma kiritgan qoʻmondonlikning vakili qatnashishi shart."
+    },
+    {
+      "q": 3,
+      "id": "-3543923",
+      "matn": "Xizmat boʻyicha cheklash yoki intizomiy qismda saqlash vaqtini harbiy xizmat muddati hisobiga kiritish toʻgʻrisidagi masalani koʻrib chiqish mavjud materiallarni oʻqib eshittirishdan boshlanadi, soʻng hududiy harbiy sudning sudyasi chaqirilgan shaxslarni tinglaydi, mahkumning xizmat boʻyicha cheklash yoki intizomiy qismda saqlash vaqtida vijdonan xizmat qilganligidan va namunali xulq-atvoridan dalolat beruvchi maʼlumotlarni aniqlab oladi."
+    },
+    {
+      "q": 4,
+      "id": "-3543928",
+      "matn": "Xizmat boʻyicha cheklash yoki intizomiy qismda saqlash vaqtini harbiy xizmat muddati hisobiga kiritish toʻgʻrisidagi iltimosnoma yuzasidan hududiy harbiy sudning sudyasi chiqargan ajrim ustidan umumiy tartibda shikoyat berilishi va protest bildirilishi mumkin."
+    }
+  ]
+}

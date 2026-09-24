@@ -1,0 +1,33 @@
+{
+  "n": 94,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-4519360",
+  "sarlavha": "94-modda. Tibbiy yoʻsindagi majburlov choralarini tayinlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4519364",
+      "matn": "Ruhiy holati buzilgan, kasalligining zoʻrayishi alomatlari boʻlmagan shaxslarga, shuningdek ruhiy holati vaqtincha buzilgan shaxslarga nisbatan kasallik qaytarilishining va ular tomonidan yangi ijtimoiy xavfli qilmishlar sodir etilishining oldini olish uchun yashash joyi boʻyicha ruhiy-asab kasalliklari dispanserida (tuman (shahar) psixiatrining xonasida) majburiy ambulatoriya kuzatuvida boʻlish va davolanish tayinlanishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-4519365",
+      "matn": "Yashash joyi boʻyicha umumiy tartibli psixiatriya muassasasining umumiy kuzatiladigan boʻlimida majburiy davolanish ijtimoiy xavfliligi umumiy asoslarda amalga oshirilishi mumkin boʻlgan davolashni talab etadigan holat bilan bogʻliq boʻlgan, ruhiy holati buzilgan shaxslarga nisbatan tayinlanishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-4519366",
+      "matn": "Umumiy tartibli psixiatriya muassasasining maxsus reabilitatsiya boʻlimida majburiy davolanish ijtimoiy xavfliligi koʻproq ixtiyoriy tartibda amalga oshirilishi mumkin boʻlmagan reabilitatsiya choralari koʻrilishini talab etadigan holat bilan bogʻliq boʻlgan, ruhiy holati buzilgan shaxslarga nisbatan tayinlanishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-4519367",
+      "matn": "Kuzatuv kuchaytirilgan ruhiy kasalliklar shifoxonasida majburiy davolanish oʻta ijtimoiy xavfli boʻlgan yoki oʻz xulq-atvorida umumiy tartibli psixiatriya shifoxonasi sharoitlarida zarur davolash va reabilitatsiya choralarini amalga oshirish imkonini bermaydigan qoidabuzarliklarga yoʻl qoʻyadigan, ruhiy holati buzilgan shaxslarga nisbatan tayinlanishi mumkin. Ruhiy holati buzilgan shaxslar kuzatuv kuchaytirilgan ruhiy kasalliklar shifoxonasida batamom ajratilgan holda saqlanadi va qoʻriqlanadi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-4519369",
+      "matn": "Jazoni ijro etish muassasalarining davolash-profilaktika yordami koʻrsatish boʻlimlarida hamda mahkumlarga moʻljallangan ixtisoslashgan shifoxonada majburiy ambulatoriya kuzatuvida boʻlish va davolanish aqli rasolikni istisno etmaydigan tarzda ruhiy holati buzilgan, jinoyat sodir etish vaqtida ruhiy holati buzilganligi tufayli oʻz harakatlarining (harakatsizligining) ahamiyatini toʻliq darajada anglay olmagan yoki ularni boshqara olmagan shaxslarga nisbatan tayinlanishi mumkin."
+    }
+  ]
+}

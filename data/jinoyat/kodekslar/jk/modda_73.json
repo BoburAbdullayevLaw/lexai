@@ -1,0 +1,130 @@
+{
+  "n": 73,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195407",
+  "sarlavha": "73-modda. Jazoni oʻtashdan muddatidan ilgari shartli ozod qilish",
+  "umumiy_sharh": [
+    "Muddatidan ilgari shartli ozod — mahkumning tuzalganligini isbotlash imkoniyati.",
+    "Faqat 5 ta jazo turi: ozodlikdan mahrum, intizomiy qism, xizmat cheklash, ozodlikni cheklash, axloq tuzatish.",
+    "Rejimga rioya + mehnatga halol munosabat — asosiy shart.",
+    "Muddatlar: katta bo'lmagan — 1/3; og'ir — 2/3; o'ta og'ir — 3/4.",
+    "Qo'shimcha jazodan ham ozod qilish mumkin.",
+    "Yangi jinoyat — 60-modda bo'yicha jazo + avvalgi qoldiq qo'shiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2722290",
+      "matn": "Ozodlikdan mahrum qilish, intizomiy qismga joʻnatish, xizmat boʻyicha cheklash, ozodlikni cheklash yoki axloq tuzatish ishlariga hukm qilingan shaxslarga nisbatan jazoni oʻtashdan muddatidan ilgari shartli ozod qilish qoʻllanilishi mumkin.",
+      "sharh": [
+        "Faqat 5 ta jazo turi.",
+        "Muddati qanday bo'lsa ham qo'llanilishi mumkin.",
+        "Qo'shimcha jazodan ham ozod qilish mumkin."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195414",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod qilish ushbu moddaning birinchi qismida koʻrsatilgan jazo turlari uchun oʻrnatilgan tartib-qoida talablarini bajargan va mehnatga halol munosabatda boʻlgan mahkumga nisbatan qoʻllaniladi.",
+      "sharh": [
+        "Shart: rejimga rioya + mehnatga halol munosabat.",
+        "Tuzalganlik darajasini aniqlash — sudning xulosasi.",
+        "Rad etish — faqat asosli, qonunda ko'rsatilmagan sabab bilan emas."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-287006",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod qilish mahkum:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-287008","matn":"ijtimoiy xavfi katta boʻlmagan yoki uncha ogʻir boʻlmagan jinoyati uchun sud tayinlagan jazo muddatining kamida uchdan bir qismini;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-6416964","matn":"ogʻir jinoyati uchun, shuningdek qasddan sodir etgan jinoyati uchun, agar shaxs ilgari qasddan sodir etgan jinoyati uchun ozodlikdan mahrum etishga hukm qilingan boʻlsa, sud tayinlagan jazo muddatining kamida uchdan ikki qismini;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-7060800","matn":"oʻta ogʻir jinoyati uchun, sud tayinlagan jazo muddatining kamida toʻrtdan uch qismini haqiqatda oʻtab boʻlganidan keyin qoʻllanilishi mumkin.","sharh":[]}
+      ],
+      "sharh": [
+        "Katta bo'lmagan/uncha og'ir: kamida 1/3.",
+        "Og'ir + qasddan (oldin ozodlikdan mahrum): kamida 2/3.",
+        "O'ta og'ir: kamida 3/4.",
+        "Amnistiya/afv muddatni kamaytiradi — asl muddatga qarab emas."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195504",
+      "matn": "Jazodan muddatidan ilgari shartli ravishda ozod qilish:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-1320977","matn":"umrbod yoki uzoq muddatga ozodlikdan mahrum qilishga hukm etilgan shaxsga;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-195517","matn":"oʻta xavfli retsidivistga;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-195528","matn":"uyushgan guruh yoki jinoiy uyushmaning tashkilotchi va qatnashuvchilariga;","sharh":[]},
+        {"b":"v¹","id":"https://lex.uz/docs/-111453#-8283263","matn":"oʻzlashtirish yoki rastrata qilish yoʻli bilan talon-toroj qilganlik, shuningdek firibgarlik uchun hukm qilingan va sodir etgan jinoyati tufayli yetkazilgan zararning oʻrnini toʻliq qoplamagan shaxsga;","sharh":[]},
+        {"b":"g","id":"https://lex.uz/docs/-111453#-8283266","matn":"javobgarlikni ogʻirlashtiradigan holatlarda qasddan odam oʻldirganlik... (batafsil)","sharh":[]},
+        {"b":"d","id":"https://lex.uz/docs/-111453#-7060821","matn":"jazodan muddatidan ilgari shartli ozod qilingan yoki jazosi yengilrogʻi bilan almashtirilgan va jazoning oʻtalmagan qismi mobaynida qasddan yangi jinoyat sodir etgan shaxsga nisbatan qoʻllanilmaydi.","sharh":[]}
+      ],
+      "sharh": [
+        "Qo'llanilmaydi: umrbod/uzoq muddat, o'ta xavfli retsidivist, uyushgan guruh tashkilotchisi.",
+        "Qo'llanilmaydi: zararni to'liq qoplamagan o'g'ir/firibgar.",
+        "Qo'llanilmaydi: og'irlashtiruvchi holatlarda qasddan o'ldirish, jinsiy jinoyatlar, narkotik, pora.",
+        "Qo'llanilmaydi: muddatidan ilgari ozod qilingan + yangi jinoyat."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-7060830",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ozod qilish chogʻida sud asoslar mavjud boʻlgan taqdirda, mahkumning zimmasiga quyidagi majburiyatlarni yuklatishi mumkin:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-7060831","matn":"ishga yoki oʻqishga joylashish;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-7060834","matn":"muddatidan ilgari shartli ozod qilingan shaxsning yashash joyi, ish yoki oʻqish joyi oʻzgarganligi haqida... xabar berish;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-7060835","matn":"muayyan joylarga bormaslik;","sharh":[]},
+        {"b":"g","id":"https://lex.uz/docs/-111453#-7060836","matn":"alkogolizm, giyohvandlik, zaharvandlik yoki tanosil kasalligidan davolanish kursini oʻtash;","sharh":[]},
+        {"b":"d","id":"https://lex.uz/docs/-111453#-7060838","matn":"Oʻzbekiston Respublikasidan tashqariga chiqmaslik.","sharh":[]}
+      ],
+      "sharh": [
+        "Majburiyatlarni yuklash sudning huquqi.",
+        "Rejim — jazoni o'tash va ijro etish tartibi.",
+        "Mehnatga halol munosabat — asosiy mezon."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-7060841",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ozod qilingan shaxslarning xulq-atvori ustidan nazoratni ichki ishlar organlari, ... harbiy qismlar yoki muassasalarning qoʻmondonligi amalga oshiradi.",
+      "sharh": [
+        "Fuqarolar: IIB.",
+        "Harbiylar: qo'mmondonlik."
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111453#-7060843",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ozod qilingan shaxsning xulq-atvori ustidan nazoratni amalga oshiruvchi organning taqdimnomasiga binoan sud ilgari ushbu shaxsning zimmasiga yuklatilgan majburiyatlarni toʻliq yoki qisman bekor qilishi yoxud uning zimmasiga qoʻshimcha majburiyatlar yuklatishi mumkin.",
+      "sharh": [
+        "Majburiyatlarni o'zgartirish: nazorat organi taqdimnomasi."
+      ]
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111453#-7060844",
+      "matn": "Prokurorning taqdimnomasiga yoki advokatning iltimosnomasiga binoan sud jazoni oʻtashdan muddatidan ilgari shartli ozod qilingan shaxsning zimmasiga yuklatilgan majburiyatlarni toʻliq yoki qisman bekor qilishi mumkin.",
+      "sharh": [
+        "Prokuror yoki advokat iltimosnomasi — ham mumkin."
+      ]
+    },
+    {
+      "q": 9,
+      "id": "https://lex.uz/docs/-111453#-7060847",
+      "matn": "Agar jazoni oʻtashdan muddatidan ilgari shartli ozod qilingan shaxs sud tomonidan oʻz zimmasiga yuklatilgan majburiyatlarni oʻtalmagan jazo muddati davomida bajarmasa, sud... ozod qilishni bekor qilish va oʻtalmagan jazo muddatini oʻtashi haqidagi masalani koʻrib chiqadi.",
+      "sharh": [
+        "Majburiyat bajarmasa — ozod qilish bekor, o'talmagan qism qayta."
+      ]
+    },
+    {
+      "q": 10,
+      "id": "https://lex.uz/docs/-111453#-195539",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod qilinib, jazoning oʻtalmagan qismi mobaynida qasddan yangi jinoyat sodir etgan shaxsga nisbatan sud ushbu Kodeksning 60-moddasida nazarda tutilgan qoidalarga muvofiq jazo tayinlaydi.",
+      "sharh": [
+        "Yangi jinoyat — 60-modda bo'yicha uzil-kesil.",
+        "O'talmagan qism + yangi jazo qo'shiladi."
+      ]
+    }
+  ]
+}

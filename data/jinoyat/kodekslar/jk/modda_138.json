@@ -1,0 +1,42 @@
+{
+  "n": 138,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-262228",
+  "sarlavha": "138-modda. Zoʻrlik ishlatib gʻayriqonuniy ravishda ozodlikdan mahrum qilish",
+  "umumiy_sharh": [
+    "Jinoyat obyekti odamning shaxsiy erkinligi hisoblanadi.",
+    "Sharhlanayotgan jinoyatning obyektiv tomoni g'ayriqonuniy ravishda ozodlikdan mahrum etishda ifodalanadi.",
+    "Zo'rlik ishlatib g'ayriqonuniy ravishda ozodlikdan mahrum etish jismoniy yoki ruhiy zo'rlik ishlatish yo'li bilan amalga oshiriladi (jabrlanuvchini bog'lash, uyqu dori berish, uning ixtiyoriga xilof ravishda muayyan joyda saqlab turish, aldov yo'li bilan shaxsni u kirishni xohlamaydigan xonadonga olib kirib saqlash va hokazo).",
+    "Sharhlanayotgan jinoyatni kvalifikatsiya qilishda shuni e'tiborga olish kerakki, u sodir etilish usulidan qati nazar, odamni g'ayriqonuniy ravishda ozodlikdan mahrum qilish unga zo'rlik ishlatishning muayyan shaklidir.",
+    "Shaxsni zo'rlik ishlatib g'ayriqonuniy ravishda ozodlikdan mahrum etish vaqtidan boshlab jinoyat tugallangan hisoblanadi.",
+    "Jismoniy azob deganda odamni suvsiz, oziq-ovqatsiz, uzoq muddat tana uchun noqulay sharoitda saqlab turish, jabrlanuvchiga o'rtacha og'irlikdagi shikast yetkazish va hokazolarni tushunish lozim.",
+    "Hayot va sog'lik uchun xavfli sharoitlar deganda odamni sovuq yoki harorat yuqori xonada uzoq muddat davomida suvsiz, oziq-ovqatsiz saqlab turish tushuniladi.",
+    "Jabrlanuvchiga og'ir shikastlar yetkazish jinoyatlar majmui bo'yicha JK 104 va 138-moddalari bilan kvalifikatsiya qilinadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyat subyekti o'n olti yoshga to'lgan shaxs hisoblanadi. Mazkur jinoyatlarni sodir etgan mansabdor shaxslar hokimiyat yoki mansab vakolatini suiiste'mol qilish yoki hokimiyat yoki mansab vakolati doirasidan chetga chiqish yoki odil sudlovga qarshi jinoyat bo'yicha javobgarlikka tortiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-262232",
+      "matn": "Birovni zoʻrlik ishlatib gʻayriqonuniy ravishda ozodlikdan mahrum qilish — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-262235",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-262236",
+          "matn": "jismoniy azob berib;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-262237",
+          "matn": "hayot yoki sogʻliq uchun xavfli sharoitda saqlagan holda sodir etilgan boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

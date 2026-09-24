@@ -1,0 +1,22 @@
+﻿{
+  "n": 348,
+  "sarlavha_id": "-255581",
+  "sarlavha": "348-modda. Jinoyat ishini boshqalarga oʻtkazish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255582",
+      "matn": "Jinoyat ishini bir tergov boʻlinmasi doirasida bir tergovchidan boshqa tergovchiga oʻtkazish shu tergov boʻlinmasining rahbari tomonidan amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-255583",
+      "matn": "Ishni bir tergov boʻlinmasidan boshqasiga oʻtkazish yuqori tergov boʻlinmasining boshligʻi tomonidan prokuror roziligi bilan amalga oshiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-255584",
+      "matn": "Ishni bir dastlabki tergov organidan boshqasiga oʻtkazishga prokurorning qaroriga binoan yoʻl qoʻyiladi."
+    }
+  ]
+}

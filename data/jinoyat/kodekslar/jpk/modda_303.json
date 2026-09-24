@@ -1,0 +1,39 @@
+﻿{
+  "n": 303,
+  "sarlavha_id": "-255144",
+  "sarlavha": "303-modda. Qisman reabilitatsiya etishning asoslari va oqibatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255146",
+      "matn": "Shaxsning qisman reabilitatsiya etilishiga quyidagilar asos boʻladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3696201",
+          "matn": "shaxsning qamoqda yoki uy qamogʻida saqlab turilganiga qaraganda kamroq muddatga ozodlikdan mahrum etishga yoki ozodlikni cheklashga yoxud ozodlikdan mahrum qilish bilan bogʻliq boʻlmagan jazoga hukm qilinganligi;"
+        },
+        {
+          "b": 2,
+          "id": "-3696202",
+          "matn": "hukmdan ayblovning qisman chiqarib tashlanganligi va buning natijasida qonunga koʻra qamoqda yoki uy qamogʻida saqlash yoxud ozodlikdan mahrum qilish yoki ozodlikni cheklash mumkin emasligi;"
+        },
+        {
+          "b": 3,
+          "id": "-3696203",
+          "matn": "ozodlikdan mahrum qilish yoki ozodlikni cheklash muddatining yuqori sud tomonidan haqiqatda oʻtalgan muddatga qaraganda kamaytirilganligi yoxud boshqa yengilroq jazo turi bilan almashtirilganligi;"
+        },
+        {
+          "b": 4,
+          "id": "-2461551",
+          "matn": "jinoiy jazo tayinlamay hukm chiqarilgan hollarda ushlab turish, qamoqqa olish yoki uy qamogʻining, tibbiy muassasaga joylashtirishning asossizligi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-255155",
+      "matn": "Qisman reabilitatsiya etish ayblanuvchiga yoki mahkumga yetkazilgan mulkiy ziyonning asossiz qismi qoplanishiga va maʼnaviy ziyon oqibatlarining asossiz qismi bartaraf qilinishiga sabab boʻladi."
+    }
+  ]
+}

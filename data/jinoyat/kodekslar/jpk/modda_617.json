@@ -1,0 +1,22 @@
+﻿{
+  "n": 617,
+  "sarlavha_id": "-7250900",
+  "sarlavha": "617-modda. Xorijiy davlat sudining qarorini oʻzgartirish yoki bekor qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7250901",
+      "matn": "Xorijiy davlat sudining qarorini qayta koʻrib chiqish bilan bogʻliq har qanday masalalar mazkur davlatning sudi tomonidan hal qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-7250902",
+      "matn": "Oʻzbekiston Respublikasida jazo oʻtayotgan yoki majburiy davolanayotgan shaxsga nisbatan chiqarilgan xorijiy davlat sudining qarori bekor qilingan yoki oʻzgartirilgan yoxud xorijiy davlat yoki Oʻzbekiston Respublikasi tomonidan amnistiya yoki afv etish akti qoʻllanilgan taqdirda, xorijiy davlat sudining qayta koʻrib chiqilgan qarorini ijro etish, shuningdek amnistiya yoxud afv etish aktini qoʻllash masalalari Oʻzbekiston Respublikasining qonunchiligiga muvofiq hal qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-7250903",
+      "matn": "Agar xorijiy davlat sudining qarori bekor qilingan va ish sud muhokamasida yangitdan koʻrish uchun tayinlangan boʻlsa, kelgusida jazoni oʻtash toʻgʻrisidagi masala Oʻzbekiston Respublikasi Bosh prokuraturasi tomonidan ushbu Kodeksga muvofiq hal qilinadi."
+    }
+  ]
+}

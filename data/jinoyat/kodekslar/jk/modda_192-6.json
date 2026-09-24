@@ -1,0 +1,39 @@
+{
+  "n": "192-6",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-2734658",
+  "sarlavha": "192-6-modda. Imtiyozlar va preferensiyalarni qoʻllashni gʻayriqonuniy ravishda rad etish, qoʻllamaslik yoki qoʻllashga toʻsqinlik qilish",
+  "umumiy_sharh": [
+    "Ushbu jinoyatning bevosita obyekti tadbirkorlik faoliyati hamda xo'jalik yurituvchi subyektlarga qonunda ko'rsatilgan imtiyozlar va preferensiyalarni qo'llash va tartibini ta'minlovchi ijtimoiy munosabatlar hisoblanadi.",
+    "Jinoyat obyektiv tomondan: 1) tadbirkorlik subyektlariga berilgan imtiyozlar va preferensiyalarni qo'llashni g'ayriqonuniy ravishda rad etish; 2) qo'llamaslik; 3) qo'llashga to'sqinlik qilishda ifodalanadi.",
+    "Tadbirkorlik subyektlariga berilgan imtiyozlar va preferensiyalarni qo'llashni g'ayriqonuniy ravishda rad etish deganda, murojaatni qabul qilinishi va ko'rib chiqilishini qonunga xilof ravishda rad etish bilan bog'liq harakatlar tushuniladi.",
+    "Imtiyozlar va preferensiyalarni qo'llamaslik deganda, qonunlarda nazarda tutilgan imtiyozlar va preferensiyalarni hech bir sabab yoki asossiz qo'llash bilan bog'liq harakatlarni bajarmaslikda namoyon bo'ladi.",
+    "Imtiyozlar va preferensiyalarni qo'llashga to'sqinlik qilish normal ishchi jarayonni olib borishga imkon bermaydigan faoliyat bo'lib, tegishli tuzilmalarga xalaqit beradigan har qanday to'siqlar yaratishda ifodalanadi.",
+    "Subyektiv tomondan jinoyat qasddan, xususan, to'g'ri qasd shaklida sodir etiladi. Jinoyatning motivi va maqsadi qilmishni kvalifikatsiya qilishga ta'sir qilmaydi.",
+    "Jinoyatning subyekti imtiyozlar va preferensiyalarni qo'llash vakolatiga ega bo'lgan, shuningdek ularning qo'llanishi to'g'riligi ustidan nazorat qilish majburiyati yuklangan maxsus subyekt bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2734660",
+      "matn": "Tadbirkorlik subyektlariga berilgan imtiyozlar va preferensiyalarni qoʻllashni gʻayriqonuniy ravishda rad etish, qoʻllamaslik yoki qoʻllashga toʻsqinlik qilish, shunday harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan uch yuz baravarigacha miqdorda jarima yoki ikki yilgacha muayyan huquqdan mahrum qilish yoxud uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2734667",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2734669",
+          "matn": "juda koʻp miqdorda zarar yetkazgan holda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2734670",
+          "matn": "uyushgan guruh manfaatlarini koʻzlab sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatdan toʻrt yuz sakson soatgacha majburiy jamoat ishlari yoki muayyan huquqdan mahrum qilib, bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

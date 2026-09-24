@@ -1,0 +1,51 @@
+{
+  "n": "278-4",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1300068",
+  "sarlavha": "278\u2074-modda. Kompyuter axborotini modifikatsiyalashtirish",
+  "umumiy_sharh": [
+    "Kompyuter axborotini modifikatsiyalashtirishning bevosita obyekti kompyuter axborotining xavfsizligini va EHM, EHM tizimi yoki ularning tarmoqlari normal ishlashini ta'minlashga doir ijtimoiy munosabatlardir.",
+    "Obyektiv tomondan kompyuter tizimida saqlanayotgan axborotni qonunga xilof ravishda o'zgartirish, unga shikast yetkazish, uni o'chirish, bila turib unga yolg'on axborotni kiritishdan iborat.",
+    "Modifikatsiyalashtirish deganda, kompyuter tizimida saqlanayotgan axborotga adaptatsiya hisoblanmagan har qanday o'zgarishlarni kiritish tushuniladi. Qonunga xilof ravishda, ya'ni shaxs tomonidan qonunda belgilangan huquqsiz yoki axborot mulkdori yoki qonuniy egasining ruxsatisiz amalga oshirilgan bo'lishi lozim.",
+    "Axborotni o'zgartirish deganda, kompyuter axborotining dastlabki holatiga uning mazmunini o'zgartirmaydigan har xil tuzatishlarning kiritilishi tushuniladi.",
+    "Axborotga shikast yetkazish deb, uni texnika vositalari bilan ishlov berish chog'ida yaroqsiz holatga keltirilishi (agar uni tiklash imkoniyati mavjud bo'lsa) tushuniladi.",
+    "Kompyuter tizimida saqlanayotgan axborotni o'chirish amalda uni yo'q qilib yuborish hisoblanadi va faylni yoki uning bir qismini mantiqiy va moddiy jihatdan foydalanib bo'lmaydigan holatga keltiruvchi operatsiyadan iborat.",
+    "Bila turib yolg'on axborotni kiritish kompyuter tizimida saqlanayotgan axborotga haqiqatga mos kelmaydigan ma'lumotlarni qo'shib qo'yishdan iborat.",
+    "Jinoyat kompyuter axborotini qonunga xilof ravishda modifikatsiyalashtirish natijasida fuqarolarning huquqlariga yoki qonun bilan qo'riqlanadigan manfaatlariga yoxud davlat yoki jamoat manfaatlariga ko'p miqdorda zarar yoxud jiddiy ziyon yetkazilgan vaqtdan e'tiboran tugallangan deb e'tirof etiladi.",
+    "Jiddiy ziyon yetkazilishi muhim yoki o'ta noyob axborotning yo'qolishidan, muhim texnika vositalari ishdan chiqishidan, kompyuter tarmog'iga birlashtirilgan EHM o'rtasida aloqaning uzilishidan iborat bo'lishi mumkin.",
+    "Subyektiv tomondan qasddan (to'g'ri yoki egri qasd bilan), ehtiyotsizlik orqasida yoki murakkab aybli jinoyat tarzida sodir etilishi mumkin.",
+    "Subyekti 16 yoshga to'lgan har qanday aqli raso jismoniy shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1300308",
+      "matn": "Kompyuter axborotini modifikatsiyalashtirish, yaʼni kompyuter tizimida saqlanayotgan axborotni qonunga xilof ravishda oʻzgartirish, unga shikast yetkazish, uni oʻchirish, xuddi shuningdek bila turib unga yolgʻon axborotni kiritish fuqarolarning huquqlariga yoki qonun bilan qoʻriqlanadigan manfaatlariga yoxud davlat yoki jamoat manfaatlariga koʻp miqdorda zarar yoxud jiddiy ziyon yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yuz baravarigacha miqdorda jarima yoki bir yilgacha axloq tuzatish ishlari yoki ikki yilgacha ozodlikni cheklash yoxud ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1300314",
+      "matn": "Oʻsha harakatlar:",
+      "sharh": [
+        "2-qismda juda ko'p miqdorda zarar yetkazgan holda, bir guruh shaxslar tomonidan oldindan til biriktirib, takroran yoki xavfli retsidivist tomonidan sodir etilganda og'irroq javobgarlik belgilangan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1300315",
+          "matn": "juda koʻp miqdorda zarar yetkazgan holda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1300319",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-1300322",
+          "matn": "takroran yoki xavfli retsidivist tomonidan sodir etilgan boʻlsa, — bir yildan ikki yilgacha axloq tuzatish ishlari yoki ikki yildan uch yilgacha ozodlikni cheklash yoki ikki yildan uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "n": 29,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179947",
+  "sarlavha": "29-modda. Ishtirokchilikning shakllari",
+  "umumiy_sharh": [
+    "Ishtirokchilik shakllari — bir necha shaxslarning jinoyat sodir etilishi jarayonidagi birgalikdagi faoliyati fe'l-atvori. Ishtirokchilik shakllari o'zaro aloqadorlik, til biriktirish darajasi, subyektiv bog'liqlik va xususiyatiga ko'ra farq qiladi.",
+    "Ishtirokchilikning obyektiv mezoni — ishtirokchilar o'rtasidagi obyektiv aloqadorlik. Oddiy ishtirokchilikda vazifalar taqsimlanmagan, birgalikdagi bajaruvchilik bo'ladi. Murakkab ishtirokchilikda vazifalar taqsimlanadi, tashkilotchi, dalolatchi, yordamchi mavjud.",
+    "Ishtirokchilikning subyektiv mezoni — ishtirokchilarning jinoiy harakatni amalga oshirishda o'zaro kelishishganligi. Barcha ishtirokchilik holatlari oldindan til biriktirish va til biriktirishsiz ishtirokchiliklarga bo'linadi.",
+    "Ishtirokchilik shakllari obyektiv va subyektiv mezonlarning bir-birini to'ldirishi va o'zaro bog'liqligiga asoslanadi. Ishtirokchilar harakatlarining hamjihatligi va uyushganligi darajasi qanchalik yuqori bo'lsa, jinoyatning ijtimoiy xavflilik darajasi shunchalik yuqori bo'ladi.",
+    "Murakkab ishtirokchilikning barcha shakllari (bir guruh shaxslar tomonidan oldindan til biriktirish, uyushgan guruh, jinoiy uyushma) jazoni og'irlashtiruvchi holat sifatida hisobga olinadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179948",
+      "matn": "Jinoyatda ishtirokchilik: oddiy ishtirokchilik, murakkab ishtirokchilik, uyushgan guruh, jinoiy uyushma shaklida boʻladi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179949",
+      "matn": "Ikki yoki undan ortiq shaxsning oldindan til biriktirmay jinoyat sodir etishda qatnashishi oddiy ishtirokchilik deb topiladi.",
+      "sharh": [
+        "Oddiy ishtirokchilikning asosiy belgisi — oldindan til biriktirishning yo'qligi. Jinoyat sodir etish jarayonida yoki muayyan vaqt oralig'ida vujudga kelishi mumkin.",
+        "Oddiy ishtirokchilikda hamjihatlikning minimal darajasi xos. Ishtirokchilardan biri jinoyat sodir etishga qiziqtirishi, tashkilotchi yoki dalolatchiga aylanishi mumkin.",
+        "Oddiy ishtirokchilikda ishtirokchilar o'z harakati orqali boshqasining harakatini to'ldiradi. Vazifalar taqsimlangan bo'lishi mumkin, lekin bu murakkab ishtirokchilik darajasiga yetmaydi.",
+        "Jinoyat sodir etish tashabbusi birgalikdagi bajaruvchilardan biri tomonidan chiqishi mumkin. Bu holat tashabbuskorning bajaruvchi sifatida kvalifikatsiyasiga ta'sir etmaydi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-179950",
+      "matn": "Ikki yoki undan ortiq shaxsning oldindan til biriktirib jinoyat sodir etilishida ishtirok qilishi murakkab ishtirokchilik deb topiladi.",
+      "sharh": [
+        "Murakkab ishtirokchilikning asosiy belgisi — oldindan til biriktirish. Ishtirokchilar jinoyatning obyektiv tomonini belgilovchi belgilar barchasi tomonidan emas, balki bir kishi yoki ba'zilari tomonidan sodir etiladi.",
+        "Murakkab ishtirokchilikda vazifalar ishtirokchilar o'rtasida taqsimlanadi: biri tashkil qiladi, boshqasi obyektiv tomonini bajaradi, uchinchisi dalolat qiladi yoki yordam beradi.",
+        "Til biriktirish ikki yoki undan ortiq shaxsning muayyan jinoyatni sodir etishga kelishib olishidir. Til biriktirish og'zaki yoki yozma shaklda bo'lishi mumkin.",
+        "Murakkab ishtirokchilikning boshqa shakllari (bir guruh shaxslar tomonidan oldindan til biriktirish, uyushgan guruh, jinoiy uyushma) ham mavjud. Ularning har biri o'ziga xos belgilarga ega."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-179951",
+      "matn": "Ikki yoki undan ortiq shaxsning birgalikda jinoiy faoliyat olib borish uchun oldindan bir guruhga birlashishi uyushgan guruh deb topiladi.",
+      "sharh": [
+        "Uyushgan guruhning asosiy belgilari: barqarorlik, oldindan til biriktirish, vazifalarning taqsimlanishi, bir qancha jinoyat sodir etish maqsadida tuzilganligi.",
+        "Uyushgan guruh barqarorligi — guruh ishtirokchilari o'rtasidagi doimiy aloqadorlik va jinoyatga tayyorgarlik ko'rish yoxud bir yoki bir necha marotaba jinoyat sodir etishning maxsus usullaridan foydalanish.",
+        "Uyushgan guruhning doimiy a'zolari bajargan vazifasidan qat'i nazar, uni tayyorlashda qatnashgan bo'lishsa, barcha jinoyatlar uchun javobgarlikka tortilishlari shart.",
+        "Uyushgan guruh tomonidan jinoyat sodir etilishi, alohida jinoyat tarkibida belgi mavjud bo'lmaganda, jazoni og'irlashtiruvchi holat sifatida hisobga olinadi.",
+        "Uyushgan guruh a'zolaridan biri bir jinoyatni sodir etib, keyin faoliyatini to'xtatsa ham, guruh tarkibida sodir etgan jinoyati uchun javobgarlikka tortiladi."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-179952",
+      "matn": "Ikki yoki undan ortiq uyushgan guruhning jinoiy faoliyat bilan shugʻullanish uchun oldindan birlashishi jinoiy uyushma deb topiladi.",
+      "sharh": [
+        "Jinoiy uyushma ishtirokchilikning barcha shakllari ichida eng xavflisi. Uning xavfliligi tomonidan sodir etiladigan jinoyatning xususiyati va og'irlik darajasi bilan belgilanadi.",
+        "Jinoiy uyushmaning asosiy belgisi — ikki yoki undan ortiq uyushgan guruhlardan iborat bo'lishi. U ikki shaxsdan iborat bo'lishi mumkin emas, ko'proq sonni talab etadi.",
+        "Jinoiy uyushmaning tarkibiy bo'g'ini — rahbar bilan birgalikda ikki yoki undan ortiq shaxsdan iborat, muayyan yo'nalishda faoliyat yuritadigan guruh.",
+        "Jinoiy uyushmaning alohida a'zolari o'zining uyushma tarkibida harakat qilayotganligini anglamasligi mumkin. Bu holat jinoyat javobgarligiga ta'sir etmaydi.",
+        "Jinoiy uyushmani tashkil etish tugallangan hisoblanadi — uyushma yoki uyushgan qurolli guruh tuzilgan paytdan boshlab (JK 242-moddasi)."
+      ]
+    }
+  ]
+}

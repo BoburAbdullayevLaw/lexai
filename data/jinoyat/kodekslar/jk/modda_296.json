@@ -1,0 +1,38 @@
+{
+  "n": 296,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271597",
+  "sarlavha": "296-modda. Harbiy mulkni nobud qilish yoki unga shikast yetkazish",
+  "umumiy_sharh": [
+    "Jinoyatning bevosita obyekti Qurolli Kuchlarda o'rnatilgan harbiy mulkni saqlash qoidalari. 295-moddadan farqli ravishda har qanday harbiy mulkni asrash nazarda tutiladi.",
+    "Predmet har qanday jangovar mulk bo'lishi mumkin: qurol, o'q-dorilar, harakatlanish vositalari, harbiy texnika va boshqa harbiy mulklar.",
+    "Harbiy texnika — jangovar harakatlar olib borish uchun, shaxsiy tarkibni o'rgatish uchun, qo'shinning kundalik faoliyatini ta'minlash uchun turli texnik vositalar (samolyotlar, vertolyotlar, tanklar, bronetransportyorlar, artilleriya qurollari, raketa komplekslari, aloqa apparaturalari va h.k.).",
+    "Boshqa harbiy mulk — harbiy qismning xo'jalik-maishiy maqsadlarda xizmat qiladigan mulki (yumshoq va qattiq inventar), yordamchi xo'jalik.",
+    "Obyektiv tomondan qurol, o'q-dorilar, harakat vositalari, harbiy texnika va boshqa harbiy mulkni nobud qilish yoki unga shikast yetkazishda ifodalanadi.",
+    "Nobud qilish — mulkning butunlay yo'q qilinishi, oddiy sozlash vositalari bilan tiklanishi mumkin bo'lmagan holatga keltirish.",
+    "Shikast yetkazish — mulkni shunday holatga keltirishki, uni tiklash va foydalanish imkoniyati mavjud, lekin o'z jangovar, texnik va xo'jalik qiymatini qisman yo'qotgan.",
+    "Jinoyat harbiy mulkni amalda nobud qilingan yoki shikast yetkazilgan vaqtidan boshlab tugallangan.",
+    "Nobud qilish yoki shikast yetkazish atrofdagilar uchun xavfli usulda sodir etilsa, 173-moddasi bilan qo'shimcha kvalifikatsiya talab etilmaydi.",
+    "Subyektiv tomondan to'g'ri yoki egri qasd bilan sodir etiladi. Davlatga qarshi maqsadlarda qilsa, qo'poruvchilik (161-modda) deb baholanadi.",
+    "Subyekti har qanday harbiy xizmatchi bo'lishi mumkin.",
+    "2-qism og'ir oqibatlar: ehtiyotsizlikdan og'ir tan jarohatlari, o'lim, bir necha dona qurol yoki texnikani nobud qilish, katta moddiy zarar va h.k.",
+    "3-qism jangovar vaziyatda sodir etilganlik uchun javobgarlikni nazarda tutadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271599",
+      "matn": "Qurol, oʻq-dori, harakat qilish vositalari, harbiy texnika yoki boshqa harbiy mulkni qasddan nobud qilish yoki unga shikast yetkazish — ikki yilgacha xizmat boʻyicha cheklash yoki bir yilgacha intizomiy qismga yuborish yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271602",
+      "matn": "O'sha qilmish og'ir oqibatlarga sabab bo'lsa, — besh yildan o'n yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-271607",
+      "matn": "O'sha qilmish jangovar vaziyatda sodir etilgan bo'lsa, — o'n yildan o'n besh yilgacha ozodlikdan mahrum etish bilan jazolanadi."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+﻿{
+  "n": 593,
+  "sarlavha_id": "-1687045",
+  "sarlavha": "593-modda. Protsessual harakatlarni xorijiy davlat hududida bajarish toʻgʻrisidagi soʻrovning mazmuni va shakli",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1687046",
+      "matn": "Protsessual harakatlarni bajarish toʻgʻrisidagi soʻrovda quyidagilar boʻlishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1687047",
+          "matn": "soʻrov yuborayotgan organning nomi;"
+        },
+        {
+          "b": 2,
+          "id": "-1687048",
+          "matn": "soʻrov yuborilayotgan organning nomi va joylashgan yeri;"
+        },
+        {
+          "b": 3,
+          "id": "-1687049",
+          "matn": "jinoyat ishining nomlanishi va soʻrovning xususiyati;"
+        },
+        {
+          "b": 4,
+          "id": "-1687050",
+          "matn": "oʻziga nisbatan soʻrov yuborilayotgan shaxs toʻgʻrisidagi maʼlumotlar, shu jumladan uning tugʻilgan sanasi va joyi, fuqaroligi, mashgʻuloti turi, yashash joyi yoki turgan joyi haqidagi maʼlumotlar, uning protsessual maqomi, yuridik shaxs uchun esa uning nomi, yuridik manzili va joylashgan yeri;"
+        },
+        {
+          "b": 5,
+          "id": "-7235394",
+          "matn": "aniqlanishi lozim boʻlgan holatlar bayoni, shuningdek soʻralayotgan hujjatlar, ashyoviy, yozma, raqamli va boshqa dalillar roʻyxati;"
+        },
+        {
+          "b": 6,
+          "id": "-1687052",
+          "matn": "sodir etilgan jinoyatning haqiqiy holatlari toʻgʻrisidagi maʼlumotlar, uning tavsifi, Oʻzbekiston Respublikasi Jinoyat kodeksining qilmish jinoyat deb eʼtirof etilishiga asos boʻladigan tegishli moddasi matni;"
+        },
+        {
+          "b": 7,
+          "id": "-1687053",
+          "matn": "agar jinoyat natijasida zarar yetkazilgan boʻlsa, uning miqdori toʻgʻrisidagi maʼlumotlar."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-1687054",
+      "matn": "Protsessual harakatlarni bajarish toʻgʻrisidagi soʻrovda uni ijro etish uchun zarur boʻlgan boshqa maʼlumotlar ham boʻlishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-1687055",
+      "matn": "Protsessual harakatlarni bajarish toʻgʻrisidagi soʻrov uni yuborayotgan mansabdor shaxs tomonidan imzolanadi."
+    },
+    {
+      "q": 4,
+      "id": "-1687056",
+      "matn": "Protsessual harakatlarni bajarish toʻgʻrisidagi soʻrov va unga ilova qilinayotgan hujjatlar soʻrovni yuborayotgan organning gerbli muhri bilan tasdiqlanadi hamda ular yuborilayotgan xorijiy davlatning rasmiy tiliga yoki Oʻzbekiston Respublikasining xalqaro shartnomasida nazarda tutilgan boshqa tilga tarjima qilinadi."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "n": "258",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268130",
+  "sarlavha": "258-modda. Togʻ-kon, qurilish yoki portlatish ishlari xavfsizligi qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268223",
+      "matn": "Togʻ-kon, qurilish yoki portlatish ishlari xavfsizligi qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki besh yilgacha muayyan huquqdan mahrum qilish yoxud uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268226",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268227",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268228",
+          "matn": "boshqa ogʻir oqibatlar kelib chiqishiga sabab boʻlsa, — muayyan huquqdan mahrum qilib, ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

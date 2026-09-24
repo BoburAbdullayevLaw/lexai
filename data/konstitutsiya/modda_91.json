@@ -1,0 +1,23 @@
+{
+  "n": "91",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445773",
+  "sarlavha": "91-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445774",
+      "matn": "Oʻzbekiston Respublikasining Oliy Majlisi oliy davlat vakillik organi boʻlib, qonun chiqaruvchi hokimiyatni amalga oshiradi."
+    },
+    {
+      "q": 2,
+      "id": "-6445775",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisi ikki palatadan — Qonunchilik palatasi (quyi palata) va Senatdan (yuqori palata) iborat."
+    },
+    {
+      "q": 3,
+      "id": "-6445776",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi va Senati vakolat muddati — besh yil."
+    }
+  ]
+}

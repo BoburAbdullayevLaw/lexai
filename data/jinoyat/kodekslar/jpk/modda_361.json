@@ -1,0 +1,39 @@
+﻿{
+  "n": 361,
+  "sarlavha_id": "-255658",
+  "sarlavha": "361-modda. Jinoyat ishida ayblanuvchi tariqasida ishtirok etishga jalb qilish toʻgʻrisidagi qaror",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4354710",
+      "matn": "Shaxsni jinoyat ishida ayblanuvchi tariqasida ishtirok etishga jalb qilish toʻgʻrisida surishtiruvchi, tergovchi yoki prokuror qaror chiqaradi, unda:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255662",
+          "matn": "ayblanuvchi tariqasida jalb etilayotgan shaxsning familiyasi, ismi va otasining ismi, tugʻilgan kuni, oyi va yili;"
+        },
+        {
+          "b": 2,
+          "id": "-255664",
+          "matn": "ayblovning mazmuni, yaʼni shaxsning zimmasiga qoʻyilayotgan jinoyat hodisasi, u sodir etilgan joy, vaqt va boshqa muhim holatlar bayoni;"
+        },
+        {
+          "b": 3,
+          "id": "-255665",
+          "matn": "Jinoyat kodeksining ushbu jinoyatni nazarda tutgan moddasi, qismi, bandi aks ettirilishi lozim."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-255666",
+      "matn": "Jinoyat kodeksining turli moddalari, qismlari yoki bandlarida nazarda tutilgan bir necha jinoyatni sodir etishda ayblaganda, bu jinoyatlardan har birining mohiyati va yuridik tavsifi alohida koʻrsatilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-255667",
+      "matn": "Qarorning xulosa qismida mazkur shaxsni ishda ayblanuvchi tariqasida ishtirok etishga jalb qilish toʻgʻrisida toʻxtamga kelinganligi ifodalanishi lozim."
+    }
+  ]
+}

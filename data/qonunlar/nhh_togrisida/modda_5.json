@@ -1,0 +1,48 @@
+{
+  "n": "5",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5380834",
+  "sarlavha": "5-modda. Ushbu Qonunning asosiy prinsiplari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5380837",
+      "matn": "Ushbu Qonunning asosiy prinsiplari quyidagilardan iborat:"
+    },
+    {
+      "q": 2,
+      "id": "-5380841",
+      "matn": "konstitutsiyaviylik;"
+    },
+    {
+      "q": 3,
+      "id": "-5380844",
+      "matn": "qonuniylik;"
+    },
+    {
+      "q": 4,
+      "id": "-5380847",
+      "matn": "jismoniy va yuridik shaxslarning huquqlari hamda qonuniy manfaatlarini, jamiyat va davlat manfaatlarini himoya qilish hamda ularning ustuvorligi;"
+    },
+    {
+      "q": 5,
+      "id": "-5380849",
+      "matn": "oshkoralik;"
+    },
+    {
+      "q": 6,
+      "id": "-5380852",
+      "matn": "ilmiylik;"
+    },
+    {
+      "q": 7,
+      "id": "-5380854",
+      "matn": "ijtimoiy munosabatlarni huquqiy jihatdan tartibga solishning tizimliligi va kompleksliligi;"
+    },
+    {
+      "q": 8,
+      "id": "-5380856",
+      "matn": "ijtimoiy munosabatlarni huquqiy jihatdan tartibga solishning barqarorligi."
+    }
+  ]
+}

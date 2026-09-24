@@ -1,0 +1,27 @@
+﻿{
+  "n": 324,
+  "sarlavha_id": "-255389",
+  "sarlavha": "324-modda. Shaxslarning arizalari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255393",
+      "matn": "Shaxslarning jinoyat toʻgʻrisidagi arizalari yozma yoki ogʻzaki boʻlishi mumkin. Yozma ariza arz qiluvchi shaxs tomonidan imzolangan boʻlishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-255395",
+      "matn": "Ogʻzaki ariza bayonnomada qayd etiladi. Bayonnomada arz qiluvchi, uning yashash va ishlash joyi, shuningdek shaxsiy hujjatlari toʻgʻrisidagi maʼlumotlar aks ettirilishi lozim. Basharti arz qiluvchi hujjat koʻrsata olmasa, uning shaxsi toʻgʻrisidagi maʼlumotlarni boshqa yoʻllar bilan tekshirish chorasi koʻrilishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "-255397",
+      "matn": "Arz qiluvchi jinoyat toʻgʻrisida bila turib yolgʻon xabar berganlik uchun jinoiy javobgarlikka tortilishi haqida ogohlantiriladi va bu xususda bayonnomada qayd qilinib, uning imzosi bilan tasdiqlanadi. Soʻngra bayonnomada jinoyat sodir etish holatlari xususidagi maʼlumotlar arz qiluvchi nomidan, iloji boricha soʻzma-soʻz aks ettiriladi. Bayonnomani arz qiluvchi va arizani qabul qilgan mansabdor shaxs imzolaydilar."
+    },
+    {
+      "q": 4,
+      "id": "-255398",
+      "matn": "Jinoyat ishini qoʻzgʻatishga ushbu Kodeksning 113-moddasida nazarda tutilgan aybini boʻyniga olish toʻgʻrisidagi arz sabab boʻlsa, bila turib yolgʻon xabar berganlik uchun jinoiy javobgarlikka tortilishi toʻgʻrisida ogohlantirilmasligini mustasno etganda, unga shaxslarning arizalarini qabul qilish va rasmiylashtirish toʻgʻrisidagi ushbu moddada nazarda tutilgan barcha qoidalar taalluqlidir."
+    }
+  ]
+}

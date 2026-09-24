@@ -1,0 +1,49 @@
+﻿{
+  "n": 283,
+  "sarlavha_id": "-255058",
+  "sarlavha": "283-modda. Sudning fuqaroviy daʼvoga oid hukmi va ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255059",
+      "matn": "Ayblov hukmini chiqarishda, shuningdek tibbiy yoʻsindagi majburlov chorasini qoʻllash yoki sodir etgan qilmishning xususiyatiga va oʻzining ruhiy holatiga koʻra shaxs ijtimoiy xavfli boʻlmagan hollarda bunday chorani qoʻllamaslik haqida ajrim chiqarishda sud asoslarning isbotlanishi va daʼvo hajmini eʼtiborga olib, uni toʻliq yoki qisman qanoatlantiradi yoxud uni qanoatlantirishni rad etadi."
+    },
+    {
+      "q": 2,
+      "id": "-255060",
+      "matn": "Sud oqlov hukmini chiqarayotganda, shuningdek tibbiy yoʻsindagi majburlov choralarini qoʻllash boʻyicha ishni tugatish haqida ajrim chiqarayotganda fuqaroviy daʼvoni qondirishni quyidagi hollarda rad etadi, basharti:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255061",
+          "matn": "jinoyat yoki ijtimoiy xavfli qilmish hodisasi yuz bermagan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-255062",
+          "matn": "sudlanuvchining yoki tibbiy yoʻsindagi majburlov chorasini qoʻllash masalasi hal etilayotgan shaxsning sodir etilgan jinoyatga yoki ijtimoiy xavfli qilmishga daxli yoʻqligi aniqlangan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-255063",
+          "matn": "sudlanuvchining yoki tibbiy yoʻsindagi majburlov chorasini qoʻllash masalasi hal etilayotgan shaxsning mulkiy ziyon keltirgan harakati zaruriy mudofaa chegarasidan chiqmagan holda sodir etilgan boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-255064",
+      "matn": "Sudlanuvchi tomonidan sodir etilgan qilmish jinoyat deb topilmaganligi sababli u oqlangan taqdirda, shuningdek ushbu moddaning ikkinchi qismida koʻrsatilgan asoslardan boshqa asoslarga koʻra tibbiy yoʻsindagi majburlov choralarini qoʻllash boʻyicha ish yuritish tugatilganda sud daʼvoning isbotlanish darajasi va hajmini eʼtiborga olib, uni toʻliq yoki qisman qanoatlantiradi yoki qanoatlantirishni rad etadi."
+    },
+    {
+      "q": 4,
+      "id": "-255065",
+      "matn": "Daʼvoning hajmi jinoyat tavsifiga va aybdorga jazo chorasi tayinlashga taʼsir etmasa, fuqaroviy daʼvoni qanoatlantirishda sud daʼvo talabi chegarasidan chiqishga haqlidir."
+    },
+    {
+      "q": 5,
+      "id": "-255066",
+      "matn": "Jinoyat protsessida qoʻzgʻatilgan fuqaroviy daʼvo qanoatlantirilmagan taqdirda daʼvogar shu shaxsga va xuddi shu asoslar boʻyicha fuqaroviy sud ishlarini yuritish tartibida daʼvo qoʻzgʻatish huquqidan mahrum boʻladi."
+    }
+  ]
+}

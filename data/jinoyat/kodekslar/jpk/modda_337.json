@@ -1,0 +1,24 @@
+﻿{
+  "n": 337,
+  "sarlavha_id": "-255496",
+  "sarlavha": "337-modda. Jinoyat ishini qoʻzgʻatishning qonuniyligi ustidan prokuror nazorati",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255497",
+      "matn": "Jinoyat ishini qoʻzgʻatishning qonuniyligi ustidan nazorat olib borayotgan prokuror:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3351203",
+          "matn": "jinoyat ishini qoʻzgʻatish toʻgʻrisidagi qarorni bekor qilishga va ish qoʻzgʻatishni rad qilishga;"
+        },
+        {
+          "b": 2,
+          "id": "-3351219",
+          "matn": "jinoyat ishini qoʻzgʻatishni rad qilish toʻgʻrisidagi qarorni bekor qilishga va ayni vaqtda ish qoʻzgʻatishga haqlidir."
+        }
+      ]
+    }
+  ]
+}

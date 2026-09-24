@@ -1,0 +1,28 @@
+{
+  "n": "132",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446102",
+  "sarlavha": "132-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446103",
+      "matn": "Oʻzbekiston Respublikasi Konstitutsiyaviy sudi qonun chiqaruvchi va ijro etuvchi hokimiyat hujjatlarining Konstitutsiyaga muvofiqligi toʻgʻrisidagi ishlarni koʻradi."
+    },
+    {
+      "q": 2,
+      "id": "-6446104",
+      "matn": "Konstitutsiyaviy sud Oʻzbekiston Respublikasi Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Oliy Majlisining Senati tomonidan Oʻzbekiston Respublikasi Sudyalar oliy kengashi tavsiya etgan siyosat va huquq sohasidagi mutaxassislar orasidan, Qoraqalpogʻiston Respublikasi vakilini qoʻshgan holda saylanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6446105",
+      "matn": "Konstitutsiyaviy sudning sudyalari qayta saylanish huquqisiz oʻn yillik muddatga saylanadi."
+    },
+    {
+      "q": 4,
+      "id": "-6446106",
+      "matn": "Oʻzbekiston Respublikasi Konstitutsiyaviy sudi oʻz tarkibidan Oʻzbekiston Respublikasi Konstitutsiyaviy sudining raisini va uning oʻrinbosarini besh yillik muddatga saylaydi."
+    }
+  ]
+}

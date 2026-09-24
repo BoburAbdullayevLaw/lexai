@@ -1,0 +1,48 @@
+{
+  "n": "278-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1300039",
+  "sarlavha": "278¹-modda. Axborotlashtirish qoidalarini buzish",
+  "umumiy_sharh": [
+    "Axborotlashtirish yuridik va jismoniy shaxslarning axborotga bo'lgan ehtiyojlarini qondirish uchun axborot resurslari, axborot texnologiyalari hamda axborot tizimlaridan foydalangan holda sharoit yaratishning tashkiliy, ijtimoiy-iqtisodiy va ilmiy-texnikaviy jarayoni.",
+    "Axborotlashtirish qoidalarini buzish jinoyatining bevosita obyekti kompyuter xavfsizligini (kompyuter axborotining daxlsizligini), shuningdek, ma'lumotlarni qayta ishlash avtomatlashtirilgan tizimlaridan foydalanish tartibini ta'minlashga doir ijtimoiy munosabatlardir.",
+    "Kompyuter axboroti bu EHM, EHM tizimi yoki ularning tarmog'ida mavjud bo'lgan va EHM yordamida qayta ishlanishi mumkin bo'lgan u yoki bu faktlar, shaxslar, voqealar, jarayonlar haqidagi axborot.",
+    "Axborot (ma'lumotlar) xavfsizligi deganda, axborotning axborot egasiga ziyon yetkazuvchi tasodifiy yoki qasddan sodir etilgan ta'sirlarga qarshilik ko'rsatish integral xossasi tushuniladi. Maxfiylik, yaxlitlik va ochiqlik darajasi bilan tavsiflanadi.",
+    "Mashinadagi axborot jismlari axborotni elektron-hisoblash texnikasi vositalarida aks ettirish, saqlash va o'qishning imkonini beruvchi fizik xossalarga ega bo'lgan narsalar va qurilmalardir.",
+    "EHM (elektron-hisoblash mashinasi) simvolli va obrazli axborot ustida dastur va foydalanuvchi buyurgan operatsiyalarni bajarishning imkonini beruvchi elektron qurilmalar majmui hisoblanadi. Integratsiyalashtirilgan tizimlar, uyali telefon apparatlari, peyjerlar, elektron bankomatlar ham kiradi.",
+    "EHM tizimi periferiya qurilmalari va dasturiy ta'minning predmet yoki funksional belgiga ko'ra hosil bo'ladigan, axborotni qabul qilish, saqlash, qayta ishlash va berish jarayonlarini avtomatlashtirish uchun mo'ljallangan tizim.",
+    "EHM tarmog'i ma'lumotlarni uzatish tarmoqlari majmui, bog'langan EHM va bog'lanishni amalga oshirish uchun zarur dasturiy ta'minot va texnika vositalarining axborotni taqsimlangan usulda qayta ishlashni tashkil etish uchun mo'ljallangan tizim.",
+    "Axborotlashtirish qoidalarini buzishning predmeti axborot tizimlari, ma'lumotlar bazalari va banklari, axborotga ishlov berish hamda uni uzatish tizimlari, belgilangan himoya choralarini ko'rmagan holda axborot tizimlaridan ruxsat bilan foydalanish esa, alohida fayl, dastur, ma'lumotlar bazasida jamlangan kompyuter axborotidir.",
+    "Axborot tizimi axborotni to'plash, saqlash, izlash, unga ishlov berish hamda undan foydalanish imkonini beradigan, tashkiliy jihatdan tartibga solingan jami axborot resurslari, axborot texnologiyalari va aloqa vositalaridir.",
+    "Ma'lumotlar bazasi obyektiv shaklda ifodalangan hamda EHM yordamida topish va ishlov berish mumkin bo'ladigan tarzda bir tizimga solingan ma'lumotlar majmui. Masalan, aholi uchun ma'lumotlar bazalari, qonunchilik va normativ hujjatlarning ma'lumotlar bazalari.",
+    "Ma'lumotlar banki ma'lumotlar markazlashtirilgan tartibda saqlanadigan va ulardan kollektiv tarzda foydalaniladigan avtomatlashtirilgan axborot tizimi. Tarkibiga bir yoki bir necha ma'lumotlar bazalari, boshqarish tizimi, so'rovlar va amaliy dasturlar kutubxonalari kiradi.",
+    "Axborotga ishlov berish hamda uni uzatish tizimi kompyuter axborotiga ishlov berish hamda uni uzatishni ta'minlovchi bir yoki bir necha kompyuterlar, periferiya qurilmasi va dasturiy vositalardan tarkib topgan tizim.",
+    "Obyektiv tomondan belgilangan himoya choralarini ko'rmagan holda axborot tizimlarini yaratish, joriy etish va ulardan foydalanish natijasida fuqarolarning huquqlariga yoki qonun bilan qo'riqlanadigan manfaatlariga yoxud davlat yoki jamoat manfaatlariga ko'p miqdorda zarar yoxud jiddiy ziyon yetkazilishida ifodalanadi.",
+    "Yaratish deganda, axborot tizimlarini yaratuvchi maqsadda faoliyat ko'rsatishi uchun dasturiy ta'minotni yozish, apparat vositalarini tanlash va o'rnatish tushuniladi.",
+    "Joriy etish deganda, axborot tizimlaridan ularning funksional vazifasiga ko'ra amalda foydalanilishiga erishish tushuniladi.",
+    "Foydalanish deganda, ulardan amalda foydalanish jarayoni tushuniladi.",
+    "Axborot tizimlaridan foydalanish deganda, shaxsning EHM qurilmalari bilan o'zaro aloqaga kirishishi tushuniladi. Bunday o'zaro aloqaga kirishish aksariyat hollarda kompyuter axborotiga kirish maqsadida amalga oshiriladi.",
+    "Axborot tizimlaridan ruxsat bilan foydalanish axborot tizimi mulkdori yoki qonuniy egasi tomonidan ruxsat etilgan shaxsning EHM qurilmalari bilan o'zaro aloqasi. Ruxsatsiz foydalanish foydalanuvchining bunday harakatlarga huquqi yo'qligini anglatadi.",
+    "Axborot tizimlariga kirish huquqiga quyidagilarni ishlaydiganlar, texnik xizmat ko'rsatuvchilar, dasturchilar, tarmoq ma'murlari va boshqalar ega. Lekin axborot tizimiga kirish huquqi bo'lgan shaxs, unda saqlangan aniq ma'lumotlardan foydalanavermaydi.",
+    "Axborotni muhofaza qilish axborot mulkdorining manfaatlariga zarar yetkazilishining oldini olish yoki qiyinlashtirishga qaratilgan huquqiy, tashkiliy va texnik tadbirlar majmuidan iborat.",
+    "Axborot xavfsizligini ta'minlash vositalari majmui apparat, dasturiy, texnik, qonun yo'li bilan, tashkiliy, fizik vositalarni o'z ichiga oladi. Kriptografik usul, to'sish, niqoblash, tartibga solish va boshqa usullar qo'llaniladi.",
+    "Himoya choralarini ko'rmash foydalanuvchi kompyuter axborotining muhofazasini ta'minlovchi muayyan qoidalarga rioya etmasligi yoki ularni chetlab o'tishidan iborat.",
+    "Ko'p miqdordagi zarar deganda, bazaviy hisoblash miqdorining uch yuz baravaridan besh yuz baravarigacha bo'lgan miqdordagi zarar tushuniladi.",
+    "Jiddiy ziyonning nomoddiy tabiati fuqarolarning, tashkilotlarning huquqlari va qonuniy manfaatlarining buzilishi, ularning normal faoliyatining buzilishi, ma'naviy zarar, ishbilarmonlik abro'siga ziyon yetkazishni anglatadi.",
+    "Tugallanmagan jinoyat holatlari ham bo'lishi mumkin. Agar axborotlashtirish qoidalarini buzish oqibatlariga olib kelmagan bo'lsa, JK 25-moddasiga havola qilinishi mumkin.",
+    "Subyektiv tomondan qasd yoki ehtiyotsizlik bilan sodir etilishi mumkin. Qasddan – to'g'ri yoki egri qasd; ehtiyotsizlik – o'z-o'ziga ishonish yoki jinoiy beparvolik.",
+    "Subyekti 16 yoshga to'lgan aqli raso jismoniy shaxs. Kompyuter texnologiyalari sohasida mutaxassis bo'lishi shart emas, muhimi ruxsat bilan foydalanayotganligi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1300041",
+      "matn": "Axborotlashtirish qoidalarini buzish, yaʼni belgilangan himoya choralarini koʻrmagan holda axborot tizimlari, maʼlumotlar bazalari va banklarini, axborotga ishlov berish hamda uni uzatish tizimlarini yaratish, joriy etish va ulardan foydalanish hamda axborot tizimlaridan ruxsat bilan foydalanish fuqarolarning huquqlariga yoki qonun bilan qoʻriqlanadigan manfaatlariga yoxud davlat yoki jamoat manfaatlariga koʻp miqdorda zarar yoxud jiddiy ziyon yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1300044",
+      "matn": "Oʻsha harakatlar juda koʻp miqdorda zarar yetkazgan holda sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki bir yildan ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    }
+  ]
+}

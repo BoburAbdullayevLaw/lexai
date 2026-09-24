@@ -1,0 +1,65 @@
+{
+  "n": 64,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195038",
+  "sarlavha": "64-modda. Javobgarlikka tortish muddatining oʻtib ketganligi munosabati bilan jinoyat uchun javobgarlikdan ozod qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3835865",
+      "matn": "Agar jinoyat sodir etilgan kundan boshlab quyidagi muddatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3835872",
+          "matn": "ijtimoiy xavfi katta boʻlmagan jinoyat sodir etilgan kundan boshlab — ikki yil;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3835874",
+          "matn": "uncha ogʻir boʻlmagan jinoyat sodir etilgan kundan boshlab — toʻrt yil;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3835876",
+          "matn": "ogʻir jinoyat sodir etilgan kundan boshlab — sakkiz yil;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-3835878",
+          "matn": "oʻta ogʻir jinoyat sodir etilgan kundan boshlab — oʻn toʻrt yil oʻtgan boʻlsa, shaxs javobgarlikdan ozod qilinadi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195044",
+      "matn": "Javobgarlikka tortish muddati jinoyat sodir etilgan kundan boshlab hukm qonuniy kuchga kirgan kungacha hisoblanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195045",
+      "matn": "Agar jinoyat sodir etgan va jinoiy javobgarlikka tortilgan shaxs tergov yoki suddan yashirinsa, muddatning oʻtishi toʻxtatiladi. Aybdor ushlangan yoki aybini boʻyniga olib arz qilgan kundan boshlab muddatning oʻtishi qaytadan tiklanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195046",
+      "matn": "Agar ogʻir yoki oʻta ogʻir jinoyat sodir etgan shaxs ushbu moddada nazarda tutilgan muddatlar oʻtmasdan qasddan yangi jinoyat sodir etsa, muddatning oʻtishi uziladi. Bunday holda javobgarlikka tortish muddatlari yangi jinoyat sodir etilgan kundan boshlab hisoblanadi. Qolgan hollarda, agar shaxs javobgarlikka tortish muddatlari oʻtmasdan yangi jinoyat sodir etsa, bu muddatlar har bir jinoyat uchun alohida hisoblanadi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-3835893",
+      "matn": "Agar ijtimoiy xavfi katta boʻlmagan yoki uncha ogʻir boʻlmagan jinoyat sodir etilgan kundan boshlab oʻn yil, ogʻir yoki oʻta ogʻir jinoyat sodir etilgan kundan boshlab yigirma besh yil oʻtgan boʻlsa, shaxs javobgarlikka tortilishi mumkin emas."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-1319822",
+      "matn": "Ushbu Kodeks Maxsus qismining moddasida umrbod ozodlikdan mahrum qilish jazosini tayinlash nazarda tutilgan jinoyatni sodir etgan shaxsga nisbatan, javobgarlikka tortish muddatlarini qoʻllash masalasi sud tomonidan hal qilinadi. Agar sud javobgarlikka tortish muddatini qoʻllashni lozim topmasa, umrbod ozodlikdan mahrum qilish jazosi oʻrniga ozodlikdan mahrum qilish tayinlanadi."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111453#-3835896",
+      "matn": "Ushbu moddada nazarda tutilgan muddatlar ushbu Kodeksning 150 — 157-moddalarida, 158-moddasining birinchi qismida, 159-moddasining uchinchi va toʻrtinchi qismlarida, 160, 161 va 244²-moddalarida nazarda tutilgan jinoyatlarni sodir etgan shaxslarga nisbatan qoʻllanilmaydi."
+    }
+  ]
+}

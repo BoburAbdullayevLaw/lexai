@@ -1,0 +1,28 @@
+{
+  "n": "2",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5380786",
+  "sarlavha": "2-modda. Normativ-huquqiy hujjatlar toʻgʻrisidagi qonunchilik",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5380789",
+      "matn": "Normativ-huquqiy hujjatlar toʻgʻrisidagi qonunchilik ushbu Qonun va boshqa qonunchilik hujjatlaridan iboratdir."
+    },
+    {
+      "q": 2,
+      "id": "-5380790",
+      "matn": "Qoraqalpogʻiston Respublikasi normativ-huquqiy hujjatlarining turlari va oʻzaro nisbati, normativ-huquqiy hujjatlarni tayyorlash tartibiga hamda ularning mazmuniga qoʻyiladigan asosiy talablar va ijrosini tashkil etishni taʼminlash Qoraqalpogʻiston Respublikasi qonunchiligi bilan ham belgilanadi."
+    },
+    {
+      "q": 3,
+      "id": "-8339713",
+      "matn": "Oʻzbekiston Respublikasining Konstitutsiyaviy Qonuni bilan maxsus huquqiy rejim oʻrnatilgan hududda qabul qilinadigan bajarilishi majburiy boʻlgan qarorlarning turlari va ushbu Qonundagi normativ-huquqiy hujjatlar bilan oʻzaro nisbati, ularni tayyorlash tartibiga hamda ularning mazmuniga nisbatan qoʻyiladigan asosiy talablar va ularning ijrosini tashkil etishni taʼminlashning oʻziga xos xususiyatlari Oʻzbekiston Respublikasining Konstitutsiyaviy Qonuni bilan alohida belgilanadi."
+    },
+    {
+      "q": 4,
+      "id": "-5380792",
+      "matn": "Oʻzbekiston Respublikasining xalqaro shartnomalarini tuzish, eʼlon qilish, roʻyxatdan oʻtkazish va saqlash tartibi Oʻzbekiston Respublikasining “Oʻzbekiston Respublikasining xalqaro shartnomalari toʻgʻrisida”gi Qonuni bilan belgilanadi."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "n": 51,
+  "sarlavha_id": "https://lex.uz/docs/-111460#-253601",
+  "sarlavha": "51-modda. Himoyachi ishtirok etishi shart boʻlgan hollar",
+  "qismlar": [
+    {
+      "q": 1,
+      "matn": "Quyidagi ishlar boʻyicha:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-253603",
+          "matn": "voyaga yetmaganlarning ishi boʻyicha;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-4516207",
+          "matn": "soqovlar, karlar, koʻrlar, jismoniy nuqsoni yoki ruhiy holati buzilganligi sababli oʻzini oʻzi himoya qilish huquqini amalga oshirishga qiynaladigan boshqa shaxslarning ishi boʻyicha;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-253605",
+          "matn": "sudlov ishi olib borilayotgan tilni bilmaydigan shaxslarning ishi boʻyicha;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-1324931",
+          "matn": "jazo chorasi sifatida umrbod ozodlikdan mahrum qilish jazosi tayinlanishi mumkin boʻlgan jinoyatlarni sodir etishda gumon qilinayotgan yoki ayblanayotgan shaxslarning ishi boʻyicha;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-253607",
+          "matn": "shaxslarning manfaatlari oʻzaro qarama-qarshi boʻlib, ulardan aqalli biri himoyachiga ega boʻlgan ishlar boʻyicha;"
+        },
+        {
+          "b": 6,
+          "id": "https://lex.uz/docs/-111460#-253608",
+          "matn": "davlat ayblovchisi yoki jamoat ayblovchisi ishtirok etayotgan ishlar boʻyicha;"
+        },
+        {
+          "b": 7,
+          "id": "https://lex.uz/docs/-111460#-253609",
+          "matn": "jabrlanuvchining vakili sifatida advokat ishtirok etayotgan ishlarda;"
+        },
+        {
+          "b": 8,
+          "id": "https://lex.uz/docs/-111460#-3173680",
+          "matn": "tibbiy yoʻsindagi majburlov choralarini qoʻllash toʻgʻrisidagi ishlarda;"
+        },
+        {
+          "b": "8.1",
+          "id": "https://lex.uz/docs/-111460#-5304395",
+          "matn": "sud tomonidan dastlabki eshituv oʻtkazilayotgan ishlarda;"
+        },
+        {
+          "b": "8.2",
+          "id": "https://lex.uz/docs/-111460#-5304397",
+          "matn": "oʻta ogʻir jinoyat sodir etganlikda gumon qilinayotgan yoki ayblanayotgan shaxslarga oid ishlar boʻyicha;"
+        },
+        {
+          "b": "8.3",
+          "id": "https://lex.uz/docs/-111460#-5304398",
+          "matn": "shaxsga nisbatan qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasini qoʻllash, shuningdek qamoqda saqlash, uy qamogʻi muddatini uzaytirish masalasi koʻrib chiqilayotganda;"
+        },
+        {
+          "b": "8.4",
+          "id": "https://lex.uz/docs/-111460#-5304400",
+          "matn": "aybiga iqrorlik toʻgʻrisida kelishuv tuzilgan ishlar boʻyicha;"
+        },
+        {
+          "b": 9,
+          "id": "https://lex.uz/docs/-111460#-6625986",
+          "matn": "apellyatsiya, kassatsiya va taftish instansiyalari sudi tomonidan koʻriladigan ishlarda himoyachi ishtirok etishi shart."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-253611",
+      "matn": "Surishtiruvchi, tergovchi, prokuror yoki sud ishning murakkabligi va boshqa holatlari tufayli gumon qilinuvchi, ayblanuvchi yoki sudlanuvchi oʻz huquqlarini amalga oshirishda qiynalishi mumkin degan xulosaga kelsa, boshqa ishlar boʻyicha ham himoyachining ishtirok etishini shart deb topishga haqlidir."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-6824123",
+      "matn": "Agar ushbu moddaning birinchi va ikkinchi qismlarida nazarda tutilgan hollarda gumon qilinuvchining, ayblanuvchining, sudlanuvchining iltimosiga koʻra yoxud ularning roziligi bilan boshqa shaxslar tomonidan himoyachi taklif qilinmagan boʻlsa, surishtiruvchi, tergovchi, prokuror yoki sud ushbu Kodeks 50-moddasining toʻrtinchi — oʻninchi qismlarida belgilangan tartibda jinoyat ishi boʻyicha himoyachining ishtirokini taʼminlashi shart."
+    }
+  ]
+}

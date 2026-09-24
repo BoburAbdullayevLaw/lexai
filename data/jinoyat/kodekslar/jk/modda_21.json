@@ -1,0 +1,37 @@
+{
+  "n": 21,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179916",
+  "sarlavha": "21-modda. Qasddan sodir etilgan jinoyat",
+  "umumiy_sharh": [
+    "Qasdning belgilari tafakkuriy (intellektual) va irodaviy holatlar hisoblanadi. Intellektual holat qasdning mazmunini, irodaviy holat esa uning yo'nalishini belgilaydi.",
+    "Formal tarkibli jinoyatlarda qasdning irodaviy va intellektual holati qilmish (harakat yoki harakatsizlik) bilan qamrab olingan. Formal tarkibli jinoyatlar faqat to'g'ri qasd bilan sodir etilishi mumkin.",
+    "Moddiy tarkibli jinoyatlarda qasdning intellektual holati qilmishning ijtimoiy xavfliligini anglash va oqibatni oldindan ko'ra bilishdan iborat.",
+    "To'g'ri qasdning irodaviy holati — ijtimoiy xavfli oqibatni istash. Xohish bu maqsadga erishish yo'lidagi yo'naltirilgan iroda.",
+    "Egri qasdning mohiyati — shaxs ijtimoiy xavfli oqibat kelib chiqishini xohlamaydi, lekin ularning kelib chiqishiga ongli ravishda yo'l qo'yadi. Egri qasd 'jinoiy befarqlik' deb ham nomlanadi.",
+    "To'g'ri va egri qasd o'rtasidagi asosiy farq irodaviy holatga asoslanadi: to'g'ri qasdda oqibat xohlanadi, egri qasdda ongli ravishda yo'l qo'yiladi.",
+    "Egri qasd bilan sodir etilgan jinoyatlar to'g'ri qasdga nisbatan xavflilik darajasi pastroq hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179917",
+      "matn": "Ushbu Kodeks moddasida jinoyat tamom boʻlgan payt ijtimoiy xavfli qilmish bajarilgan vaqt deb hisoblangan boʻlib, uni sodir etgan shaxs oʻz qilmishining ijtimoiy xavflik xususiyatini anglagan va shunday qilmishni sodir etishni istagan boʻlsa, bunday jinoyat qasddan sodir etilgan deb topiladi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179918",
+      "matn": "Ushbu Kodeks moddasida jinoyat tamom boʻlgan payt ijtimoiy xavfli oqibat yuz bergan vaqt deb topilgan qilmishlar toʻgʻri yoki egri qasddan sodir etilgan boʻlishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-179919",
+      "matn": "Agar shaxs oʻz qilmishining ijtimoiy xavflik xususiyatini anglagan, uning ijtimoiy xavfli oqibatlariga koʻzi yetgan va ularning yuz berishini istagan boʻlsa, bunday jinoyat toʻgʻri qasddan sodir etilgan deb topiladi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-179920",
+      "matn": "Agar shaxs oʻz qilmishining ijtimoiy xavflik xususiyatini anglagan, uning ijtimoiy xavfli oqibatlariga koʻzi yetgan va ularning yuz berishiga ongli ravishda yoʻl qoʻygan boʻlsa, bunday jinoyat egri qasddan sodir etilgan deb topiladi."
+    }
+  ]
+}

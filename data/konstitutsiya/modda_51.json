@@ -1,0 +1,18 @@
+{
+  "n": "51",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445625",
+  "sarlavha": "51-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445626",
+      "matn": "Fuqarolar davlat taʼlim tashkilotlarida tanlov asosida davlat hisobidan oliy maʼlumot olishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6445627",
+      "matn": "Oliy taʼlim tashkilotlari qonunga muvofiq akademik erkinlik, oʻzini oʻzi boshqarish, tadqiqotlar oʻtkazish va oʻqitish erkinligi huquqiga ega."
+    }
+  ]
+}

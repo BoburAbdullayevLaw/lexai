@@ -1,0 +1,38 @@
+{
+  "n": "136",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446133",
+  "sarlavha": "136-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446135",
+      "matn": "Sudyalar mustaqildirlar, faqat Konstitutsiya va qonunga boʻysunadilar. Sudyalarning odil sudlovni amalga oshirishga doir faoliyatiga har qanday tarzda aralashishga yoʻl qoʻyilmaydi va bunday aralashish qonunga muvofiq javobgarlikka sabab boʻladi. Sudyalar muayyan ishlar boʻyicha hisobdor boʻlmaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6446137",
+      "matn": "Sudyalar daxlsizdir."
+    },
+    {
+      "q": 3,
+      "id": "-6446138",
+      "matn": "Davlat sudyaning va uning oila aʼzolarining xavfsizligini taʼminlaydi."
+    },
+    {
+      "q": 4,
+      "id": "-6446140",
+      "matn": "Sudyani muayyan ishning muhokamasidan chetlashtirishga, uning vakolatlarini bekor qilishga yoki toʻxtatib turishga, boshqa lavozimga oʻtkazishga faqat qonunda belgilangan tartibda va asoslarga koʻra yoʻl qoʻyiladi. Sudning qayta tashkil etilishi yoki tugatilishi sudyani lavozimidan ozod etish uchun asos boʻlib xizmat qilishi mumkin emas."
+    },
+    {
+      "q": 5,
+      "id": "-6446141",
+      "matn": "Sudyalar senator, davlat hokimiyati vakillik organlarining deputati boʻlishi mumkin emas."
+    },
+    {
+      "q": 6,
+      "id": "-6446142",
+      "matn": "Sudyalar siyosiy partiyalarning aʼzosi boʻlishi, siyosiy harakatlarda ishtirok etishi, shuningdek ilmiy, ijodiy va pedagogik faoliyatdan tashqari haq toʻlanadigan boshqa faoliyat turlari bilan shugʻullanishi mumkin emas."
+    }
+  ]
+}

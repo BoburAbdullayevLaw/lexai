@@ -1,0 +1,40 @@
+{
+  "n": "266",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268439",
+  "sarlavha": "266-modda. Transport vositalari harakati yoki ulardan foydalanish xavfsizligi qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268445",
+      "matn": "Transport vositasini boshqaruvchi shaxs tomonidan transport vositalari harakati yoki ulardan foydalanish xavfsizligi qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — uch yilgacha muayyan huquqdan mahrum qilib, bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268484",
+      "matn": "Oʻsha qilmish odam oʻlishiga sabab boʻlsa, — muayyan huquqdan mahrum qilib, yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268487",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268488",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268489",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268492",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — muayyan huquqdan mahrum qilib, oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

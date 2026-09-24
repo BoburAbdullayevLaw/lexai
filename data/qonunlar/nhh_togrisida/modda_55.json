@@ -1,0 +1,33 @@
+{
+  "n": "55",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381375",
+  "sarlavha": "55-modda. Normativ-huquqiy hujjatlarni rasmiy sharhlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381376",
+      "matn": "Normativ-huquqiy hujjatlarni rasmiy sharhlash normativ-huquqiy hujjatda noaniqliklar topilgan, u amaliyotda notoʻgʻri yoki ziddiyatli tarzda qoʻllanilgan taqdirda amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-5381377",
+      "matn": "Oʻzbekiston Respublikasining Konstitutsiyasi va qonunlari normalariga rasmiy sharhni Oʻzbekiston Respublikasi Konstitutsiyaviy sudi beradi."
+    },
+    {
+      "q": 3,
+      "id": "-5381380",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qarorlariga rasmiy sharhni Oʻzbekiston Respublikasi Oliy Majlisining tegishli palatalari beradi."
+    },
+    {
+      "q": 4,
+      "id": "-5381382",
+      "matn": "Qonunosti hujjatlari normalariga rasmiy sharhni ularni qabul qilgan organlar beradi."
+    },
+    {
+      "q": 5,
+      "id": "-5381383",
+      "matn": "Normativ-huquqiy hujjatlarni rasmiy sharhlash jarayonida ularga normalarni aniqlashtirishga qaratilgan tuzatishlar, oʻzgartishlar, qoʻshimchalar kiritilishiga yoʻl qoʻyilmaydi."
+    }
+  ]
+}

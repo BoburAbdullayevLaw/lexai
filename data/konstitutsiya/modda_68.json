@@ -1,0 +1,18 @@
+{
+  "n": "68",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445692",
+  "sarlavha": "68-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445693",
+      "matn": "Yer, yer osti boyliklari, suv, oʻsimlik va hayvonot dunyosi hamda boshqa tabiiy resurslar umummilliy boylikdir, ulardan oqilona foydalanish zarur va ular davlat muhofazasidadir."
+    },
+    {
+      "q": 2,
+      "id": "-6445694",
+      "matn": "Yer qonunda nazarda tutilgan hamda undan oqilona foydalanishni va uni umummilliy boylik sifatida muhofaza qilishni taʼminlovchi shartlar asosida va tartibda xususiy mulk boʻlishi mumkin."
+    }
+  ]
+}

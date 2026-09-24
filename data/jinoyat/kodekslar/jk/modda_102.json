@@ -1,0 +1,28 @@
+{
+  "n": 102,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-233925",
+  "sarlavha": "102-modda. Ehtiyotsizlik orqasida odam oʻldirish",
+  "umumiy_sharh": [
+    "Subyektiv tomondan ehtiyotsizlik orqasida odam o'ldirish aybdor shaxsning jinoiy o'z-o'ziga ishonishi yoki jinoiy beparvoligi oqibatida sodir etilishi mumkin.",
+    "Jinoiy o'z-o'ziga ishonish oqibatida odamni o'ldirishda aybdor o'zi sodir etgan harakat (harakatsizlik) tufayli boshqa shaxsning o'ldirib qo'yilishi mumkinligiga ko'zi yetadi, lekin yengiltaklik qilib uning oldini olishdan umidvor bo'ladi. Bunday hollarda aybdor muayyan ehtiyotsizlik qoidalarini ongli ravishda buzadi. Jumladan, bunday qoidabuzarlik quyidagilarning oqibati bo'lishi mumkin: qasddan sodir etilgan jinoiy qilmish; qonun bilan taqiqlangan, biroq jinoyat hisoblanmaydigan harakat; biron-bir qoidalar bilan taqiqlangan harakat; fan ma'lumotlariga yoki kasbiy qoidalarga zid harakatlar; jamiyatda belgilangan ehtiyotkorlik qoidalarini buzadigan harakatlar; mazkur shaxsning amalga oshirish yoki shug'ullanish huquqiga ega bo'lmagan harakatlar yoki kasb bilan shug'ullanishi va hokazo.",
+    "Jinoiy o'z-o'ziga ishonish natijasida odam o'ldirishni egri qasd bilan qasddan sodir etiladigan odam o'ldirishdan farqlash kerak. Egri qasdda aybdor o'zi sodir etayotgan ijtimoiy xavfli qilmishlar o'limga olib kelishi mumkinligiga ko'zi yeta turib, u ongli ravishda unga yo'l qo'yadi. O'z-o'ziga ishonish sharoitida esa aybdor shaxs ayrim aniq holatlarda o'limning oldini olish mumkin deb umidvor bo'ladi va uning oldini olishni mo'ljallab harakat qiladi, biroq uning mo'ljali asossiz bo'lib chiqadi (JKning 21-22-moddalari sharhiga qarang).",
+    "Jinoiy beparvolik oqibatida ehtiyotsizlik orqasida odam o'ldirishni shaxs boshqa odamning o'lishini oldindan ko'ra olmagan, uni ko'ra olishi mumkin va lozim ham bo'lmagan baxtsiz hodisa tufayli odam o'ldirishdan farqlash kerak.",
+    "Ehtiyotsizlik orqasida odam o'ldirishni odam o'ldirishga nisbatan aybning ehtiyotsizlik shakli mavjud bo'lgan JKdagi bir qator jinoyatlardan farqlash lozim (jinoiy ravishda homila tushirish (abort) (JKning 114-moddasi), nomusga tegish (JKning 118-moddasi), transport vositalari harakati yoki ulardan foydalanish xavfsizligi qoidalarini buzish (JKning 266-moddasi) va boshqa ko'plab jinoyatlar). Mazkur holatda farq shundan iboratki, JKning 102-moddasida nazarda tutilgan jinoyat qonunda bevosita ko'rsatilgan hamda odam o'lishi bilan bog'liq bo'lgan qonuniy yoki g'ayriqonuniy harakatlarning alohida turlari sodir etilishini ko'zda tutmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-233927",
+      "matn": "Ehtiyotsizlik orqasida odam oʻldirish — ikki yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-233930",
+      "matn": "Ehtiyotsizlik orqasida ikki va undan ortiq odam oʻldirish — ikki yildan uch yilgacha axloq tuzatish ishlari yoki uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+      "sharh": [
+        "Ehtiyotsizlik orqasida ikki yoki undan ortiq shaxsning o'limi yuzaga kelsa, aybdorning harakatlarini JKning 102-moddasi 2-qismi bo'yicha kvalifikatsiya qilish lozim."
+      ]
+    }
+  ]
+}

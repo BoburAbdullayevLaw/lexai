@@ -1,0 +1,27 @@
+﻿{
+  "n": 165,
+  "sarlavha_id": "-254226",
+  "sarlavha": "165-modda. Diplomatiya vakolatxonalarining binolaridan va diplomatiya vakillaridan olib qoʻyish yoki ularda tintuv oʻtkazish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254227",
+      "matn": "Olib qoʻyish yoki tintuv diplomatiya vakolatxonasi hududida oʻtkazilayotganda diplomatiya vakolatxonalari va ularning diplomatiya daxlsizligiga ega boʻlgan xodimlari, shuningdek ularning oila aʼzolari egallab turgan binolarda faqat diplomatiya vakolatxonasi boshligʻining iltimosiga koʻra yoki uning roziligi bilan oʻtkazilishi mumkin, diplomatiya vakolatxonasi xodimlarining yoki ularning voyaga yetgan oila aʼzolarining istiqomat joylarida yoxud ular egallab turgan boshqa binolarda olib qoʻyish va tintuv ularning iltimoslariga koʻra yoki roziliklari bilan oʻtkazilishi mumkin. Koʻrsatilgan imtiyozlar Oʻzbekiston Respublikasida akkreditatsiya qilinmagan boʻlsa-da diplomatiya daxlsizligiga ega boʻlgan ajnabiy vakillarga va ularning oila aʼzolariga ham beriladi."
+    },
+    {
+      "q": 2,
+      "id": "-254228",
+      "matn": "Diplomatiya daxlsizligiga ega boʻlgan shaxsga va uning oila aʼzolariga nisbatan shaxsiy tintuv yoki olib qoʻyish ushbu moddaning birinchi qismida koʻrsatilgan talablarga rioya qilgan holda oʻtkazilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254229",
+      "matn": "Diplomatiya vakili yoki uning oila aʼzolarining olib qoʻyishga yoki tintuv oʻtkazishga roziligi Oʻzbekiston Respublikasi Tashqi ishlar vazirligi orqali soʻraladi."
+    },
+    {
+      "q": 4,
+      "id": "-254230",
+      "matn": "Diplomatiya vakolatxonalari va diplomatiya daxlsizligidan foydalanadigan vakillar, shuningdek ularning oila aʼzolari joylashgan binolarda tintuv yoki olib qoʻyish oʻtkazish chogʻida prokuror va Oʻzbekiston Respublikasi Tashqi ishlar vazirligining vakili hozir boʻlishi shart."
+    }
+  ]
+}

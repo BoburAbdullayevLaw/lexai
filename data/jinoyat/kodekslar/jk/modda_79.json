@@ -1,0 +1,62 @@
+{
+  "n": 79,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195699",
+  "sarlavha": "79-modda. Sudlanganlikning olib tashlanishi",
+  "umumiy_sharh": [
+    "Sudlanganlikning olib tashlanishi bu uning muddatidan ilgari, ya'ni qonunda ko'rsatilgan sudlanganlikning tugallanishi muddati o'tmasdan bekor qilinishidir. Amaldagi jinoyat qonunchiligiga muvofiq, sudlanganlikning olib tashlanishi sud tomonidan uning ajrimi asosida yoxud tegishli afv etish yoki amnistiya akti asosida amalga oshiriladi. Bunda shuni inobatga olish kerakki, faqat ozodlikdan mahrum qilingan shaxslarga nisbatan sudlanganlik olib tashlanishi mumkin, Jinoyat kodeksining 13-moddasi ikkinchi qismida ko'rsatilgan hollar bundan mustasno.",
+    "Sudlanganlikni olib tashlash to'g'risidagi masala sudya tomonidan jazoni o'tab bo'lgan shaxsning, uning himoyachisi yoki qonuniy vakilining yoxud jamoat birlashmasi yoki jamoaning iltimosnomasiga asosan ko'rib chiqiladi. Sudlanganlikni olib tashlash to'g'risidagi iltimosnomani ko'rib chiqishda iltimosnoma kim haqida berilgan bo'lsa, shu shaxsning o'zi sud majlisida qatnashishi shart. U himoyachi olish huquqi bilan ta'minlanadi. Sudlanganlikni olib tashlash to'g'risidagi iltimosnoma jamoat birlashmasi yoki jamoa tomonidan berilgan bo'lsa, ularning vakillari sud majlisida ishtirok etishi shart. Sudlanganlikni olib tashlash rad etilsa, sudyaga bu masalaga doir qayta iltimosnoma ajrim chiqqan kundan boshlab kamida bir yil o'tganidan keyin kiritilishi mumkin.",
+    "Sudlanganlikning olib tashlanishi sud tomonidan maxsus ajrim chiqarish yo'li bilan amalga oshiriladi. Shu bilan birga, sudlanganlik afv etish yoki amnistiya akti asosida ham olib tashlanishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195700",
+      "matn": "Agar shaxs ozodlikdan mahrum qilish jazosini o'tab bo'lganidan keyin unga nisbatan ma'muriy jazo yoki intizomiy ta'sir choralari qo'llanilmagan bo'lsa, jamoat birlashmasi, fuqarolarning o'zini-o'zi boshqarish organi, jamoa yoki jazoni o'tab chiqqan shaxsning o'zi bergan iltimosnomasiga ko'ra sud ushbu Kodeksning 78-moddasida nazarda tutilgan muddatlarning kamida yarmi o'tganidan keyin uning sudlanganligini olib tashlashi mumkin.",
+      "sharh": [
+        "O'n besh yilgacha ozodlikdan mahrum qilinganlarga nisbatan.",
+        "Ma'muriy jazo yoki intizomiy ta'sir choralari qo'llanilmagan bo'lishi shart.",
+        "Kamida 78-moddagi muddatning yarmi o'tgan bo'lishi kerak.",
+        "Qonun talabi imperativ — so'zsiz bajarilishi kerak.",
+        "Qayta iltimosnoma: ajrim chiqqandan kamida 1 yil o'tgach."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2114884",
+      "matn": "Ushbu Kodeksning 178 — 184, 185 — 185², 189 — 192-moddalarida nazarda tutilgan jinoyatlarni sodir etganlik uchun hukm qilingan shaxslarning sudlanganligi ular davlatga juda ko'p zarar yetkazmaganda, ushbu Kodeksning 78-moddasida nazarda tutilgan muddatlarning kamida to'rtdan bir qismi o'tganidan keyin sud tomonidan olib tashlanishi mumkin.",
+      "sharh": [
+        "Iqtisodiy jinoyatlar (178-184, 185-185², 189-192).",
+        "Davlatga juda ko'p zarar yetkazmagan bo'lishi kerak.",
+        "Kamida 78-moddagi muddatning 1/4 i o'tgan bo'lishi kerak."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195701",
+      "matn": "O'n besh yil va undan ortiq muddatga ozodlikdan mahrum qilish jazosini o'tab chiqqan shaxslar hamda o'ta xavfli retsidivistlar, agar ular jazoni o'tab chiqqanidan keyin o'n besh yil mobaynida yangi jinoyat sodir etmasalar, sud ularning sudlanganligini olib tashlashi mumkin.",
+      "sharh": [
+        "O'n besh yil+ ozodlikdan mahrum: 15 yil yangi jinoyat sodir etmasa.",
+        "O'ta xavfli retsidivist: barcha jazolarning muddatidan qat'i nazar.",
+        "Uzluksiz bir yoki bir necha jinoyat (loaqal bittasi og'ir)."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195702",
+      "matn": "Ushbu Kodeksning 13-moddasi ikkinchi qismida nazarda tutilgan asoslar mavjud bo'lgan taqdirda ham sudlanganlik olib tashlanishi mumkin.",
+      "sharh": [
+        "13/2-modda: qonunning orqaga qaytish kuchi.",
+        "Yangi qonun kuchga kirgan paytdan boshlab sudlanmagan."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-195703",
+      "matn": "Sudlanganlik afv etish yoki amnistiya akti asosida ham olib tashlanishi mumkin.",
+      "sharh": [
+        "Afv etish yoki amnistiya akti asosida ham olib tashlanadi."
+      ]
+    }
+  ]
+}

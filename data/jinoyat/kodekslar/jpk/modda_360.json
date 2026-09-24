@@ -1,0 +1,27 @@
+﻿{
+  "n": 360,
+  "sarlavha_id": "-255651",
+  "sarlavha": "360-modda. Jinoyat ishida gumon qilinuvchi tariqasida ishtirok etishga jalb qilish toʻgʻrisidagi qaror",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255652",
+      "matn": "Shaxsni jinoyat ishida gumon qilinuvchi tariqasida ishtirok etishga jalb qilish toʻgʻrisida surishtiruvchi, tergovchi yoki prokuror qaror chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-255653",
+      "matn": "Biror jinoyatni sodir etishda gumon qilinayotgan shaxs ish qoʻzgʻatilgunga qadar ushlangan boʻlsa va ushbu Kodeksning 225-moddasida nazarda tutilgan tekshirish ushlab turishning asosli ekanligini tasdiqlagan boʻlsa, tergovchi shaxsni ushlab turish, ish qoʻzgʻatish va ishda gumon qilinuvchi tariqasida ishtirok etishga jalb qilish haqida toʻxtamlarga kelib, ularni bitta qarorda bayon qiladi."
+    },
+    {
+      "q": 3,
+      "id": "-255654",
+      "matn": "Qarorda ushlab turilgan shaxs qaysi jinoyatni sodir etishda gumon qilinayotganligi, Jinoyat kodeksining qaysi moddasida bu jinoyat nazarda tutilgani, ushlab turishning sabab va asoslari, shuningdek shaxsni ushlab turish, agar jinoyat ishi ilgari qoʻzgʻatilmagan boʻlsa, jinoyat ishini qoʻzgʻatish va uni ishda gumon qilinuvchi tariqasida ishtirok etishga jalb qilish haqidagi qaror koʻrsatilishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "-255656",
+      "matn": "Qaror gumon qilinuvchiga u birinchi marta soʻroq qilinguniga qadar eʼlon qilinadi. Ayni vaqtda unga ushbu Kodeksning 48-moddasida nazarda tutilgan gumon qilinuvchining huquqlari va majburiyatlari tushuntiriladi."
+    }
+  ]
+}

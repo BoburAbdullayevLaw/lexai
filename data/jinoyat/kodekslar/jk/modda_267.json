@@ -1,0 +1,62 @@
+{
+  "n": "267",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268498",
+  "sarlavha": "267-modda. Transport vositasini olib qochish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3090553",
+      "matn": "Transport vositasini olib qochish — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3090559",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3090561",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3090562",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3090563",
+          "matn": "zoʻrlik ishlatib yoki zoʻrlik ishlatish bilan qoʻrqitib;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-3090565",
+          "matn": "transport vositasini talon-toroj qilish maqsadida oʻgʻrilik yoki talonchilik yoʻli bilan sodir etilgan boʻlsa, — oʻn yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3090573",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3090574",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3090576",
+          "matn": "uyushgan guruh tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3090577",
+          "matn": "transport vositasini talon-toroj qilish maqsadida bosqinchilik yoʻli bilan sodir etilgan boʻlsa, — oʻn besh yildan yigirma yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

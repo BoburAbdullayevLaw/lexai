@@ -1,0 +1,52 @@
+﻿{
+  "n": 320,
+  "sarlavha_id": "-255274",
+  "sarlavha": "320-modda. Protsessual chiqimlarni undirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255278",
+      "matn": "Protsessual chiqimlar, ushbu moddaning oltinchi, yettinchi va sakkizinchi qismlarida nazarda tutilganidan tashqari hollarda, mahkumlardan undiriladi yoki davlat hisobiga oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-255281",
+      "matn": "Sud protsessual chiqimlarni, tarjimonga toʻlangan summadan tashqari, mahkumdan undirishga haqli. Protsessual chiqimlar jazodan ozod qilingan mahkum, shuningdek jazo tayinlanmagan mahkum zimmasiga yuklatilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-255283",
+      "matn": "Sud bir necha sudlanuvchini aybli deb topgan taqdirda, ularning har biridan qancha miqdorda protsessual chiqimlarni undirish lozimligini belgilaydi. Bu holda sud aybning ogʻir yoki yengilligini, jinoyat uchun javobgarlik darajasi va mahkumlarning mulkiy ahvolini inobatga oladi."
+    },
+    {
+      "q": 4,
+      "id": "-255284",
+      "matn": "Sudlanuvchi oqlangan yoki ushbu Kodeksning 83-moddasiga muvofiq ish tugatilgan taqdirda protsessual chiqimlar davlat hisobiga oʻtkaziladi. Sudlanuvchi bir ayblov boʻyicha oqlangan, boshqa ayblov boʻyicha esa aybli deb topilgan boʻlsa, sud u aybli deb topilgan ayblov bilan bogʻliq protsessual chiqimlarni toʻlashni uning zimmasiga yuklaydi."
+    },
+    {
+      "q": 5,
+      "id": "-255285",
+      "matn": "Protsessual chiqimlar undirilishi lozim boʻlgan shaxsning toʻlovga moddiy imkoniyati boʻlmagan taqdirda chiqimlar davlat hisobiga oʻtkaziladi. Mahkumning protsessual chiqimni toʻlashi uning qaramogʻida boʻlganlarning moddiy ahvoliga jiddiy taʼsir koʻrsatishi mumkin boʻlsa, sud mahkumni protsessual chiqimlarning hammasini yoxud bir qismini toʻlashdan ozod etishga haqlidir. Mahkum huquqiy yordam uchun toʻlovdan ozod etilgan taqdirda advokat mehnatiga haq toʻlash bilan bogʻliq protsessual chiqimlar, shuningdek tarjimonga beriladigan pullar davlat hisobidan toʻlanadi."
+    },
+    {
+      "q": 6,
+      "id": "-255287",
+      "matn": "Surishtiruvchi, tergovchi, prokuror yoki sudga qonunda belgilangan tartibda chaqirilgan protsess ishtirokchisining uzrsiz sabablarga koʻra kelmasligi oqibatida ishning sudda koʻrilishini yoxud tergov harakatlari oʻtkazishni kechiktirish bilan bogʻliq protsessual chiqimlar ana shu kelmagan shaxsdan undiriladi."
+    },
+    {
+      "q": 7,
+      "id": "-260266",
+      "matn": "Moddiy javobgarlik: advokat uzrsiz sabablarga koʻra kelmagani uchun tegishli advokatlar byurosiga, hayʼatiga yoki firmasiga, jamoat ayblovchisi yoki jamoat himoyachisi uzrsiz sabablarga koʻra kelmagani uchun tegishli jamoat birlashmasi yoxud jamoaga yuklatilishi mumkin."
+    },
+    {
+      "q": 8,
+      "id": "-255290",
+      "matn": "Sud voyaga yetmaganlarning jinoyatlari haqidagi ishlar yuzasidan protsessual chiqimlarni toʻlashni voyaga yetmaganning xulq-atvori ustidan tegishli nazorat yoʻqligida aybi boʻlgan taqdirda voyaga yetmagan mahkumning ota-onasiga yoki ularning oʻrnini bosuvchi shaxslarga yuklashi mumkin."
+    },
+    {
+      "q": 9,
+      "id": "-255291",
+      "matn": "Jabrlanuvchining shikoyati boʻyicha qoʻzgʻatilgan ish yuzasidan sudlanuvchi oqlangan taqdirda sud protsessual chiqimlarni ish yuritilishiga sabab boʻlgan shikoyatni bergan shaxsdan toʻliq yoki qisman undirishga haqlidir."
+    }
+  ]
+}

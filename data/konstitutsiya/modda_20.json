@@ -1,0 +1,33 @@
+{
+  "n": "20",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445369",
+  "sarlavha": "20-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445371",
+      "matn": "Oʻzbekiston Respublikasi fuqarosi va davlat bir-biriga nisbatan oʻzaro huquq va majburiyatlar bilan bogʻliqdir."
+    },
+    {
+      "q": 2,
+      "id": "-6445373",
+      "matn": "Insonning Konstitutsiya va qonunlarda mustahkamlab qoʻyilgan huquq va erkinliklari daxlsizdir hamda ulardan sud qarorisiz mahrum etishga yoki ularni cheklab qoʻyishga hech kim haqli emas."
+    },
+    {
+      "q": 3,
+      "id": "-6445374",
+      "matn": "Insonning huquq va erkinliklari bevosita amal qiladi. Insonning huquq va erkinliklari qonunlarning, davlat organlari, fuqarolarning oʻzini oʻzi boshqarish organlari, ularning mansabdor shaxslari faoliyatining mohiyati va mazmunini belgilaydi."
+    },
+    {
+      "q": 4,
+      "id": "-6445375",
+      "matn": "Davlat organlari tomonidan insonga nisbatan qoʻllaniladigan huquqiy taʼsir choralari mutanosiblik prinsipiga asoslanishi va qonunlarda nazarda tutilgan maqsadlarga erishish uchun yetarli boʻlishi kerak."
+    },
+    {
+      "q": 5,
+      "id": "-6445377",
+      "matn": "Inson bilan davlat organlarining oʻzaro munosabatlarida yuzaga keladigan qonunchilikdagi barcha ziddiyatlar va noaniqliklar inson foydasiga talqin etiladi."
+    }
+  ]
+}

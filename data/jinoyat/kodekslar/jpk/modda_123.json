@@ -1,0 +1,22 @@
+﻿{
+  "n": 123,
+  "sarlavha_id": "-253998",
+  "sarlavha": "123-modda. Yuzlashtirish oʻtkazishning tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254000",
+      "matn": "Yuzlashtirish oʻtkazish chogʻida ushbu Kodeksning 96 — 108-moddalarida nazarda tutilgan soʻroq qilishning umumiy qoidalariga, shuningdek ushbu bobning quyidagi qoidalariga rioya qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-254001",
+      "matn": "Yuzlashtirib soʻroq qilish oldidan surishtiruvchi, tergovchi yoki sud majlisida raislik qiluvchi har bir soʻroq qilinuvchidan navbat bilan ularning oʻzaro tanishligi yoki tanish emasligini, oʻzaro munosabatlari qanday ekanligini soʻraydi va javoblarini tinglaydi. Shundan soʻng har bir soʻroq qilinuvchiga navbat bilan qarama-qarshilik kelib chiqqan holatlar toʻgʻrisidagi savollarga javob berish taklif qilinadi. Basharti qarama-qarshilik bir nechta masalaga yoki bir nechta holatga taalluqli boʻlsa, yuzlashtirishda har ikki soʻroq qilinuvchi bir masala yoki bir holat boʻyicha koʻrsatuv bergach, ularga keyingi masala yoki keyingi holat toʻgʻrisidagi savollar berilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254003",
+      "matn": "Yuzlashtirish chogʻida soʻroq qilinayotgan shaxs surishtiruvchi, tergovchi yoki sud majlisida raislik qiluvchining ruxsati bilan boshqa soʻroq qilinuvchiga savol berishi mumkin. Sud majlisida soʻroq qilinuvchilarning har ikkalasiga xalq maslahatchilari, shuningdek taraflar savol berishlari mumkin. Surishtiruvchi, tergovchi va sud majlisida raislik qiluvchi ish uchun jiddiy ahamiyatga ega boʻlmagan yoki yuzlashtirishda aniqlashtirilayotgan qarama-qarshilikka taalluqli boʻlmagan savollarni chetlatishga haqlidir."
+    }
+  ]
+}

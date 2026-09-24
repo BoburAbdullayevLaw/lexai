@@ -1,0 +1,22 @@
+﻿{
+  "n": 130,
+  "sarlavha_id": "-254061",
+  "sarlavha": "130-modda. Tanib olish uchun koʻrsatish chogʻida tanib oluvchining koʻrsatuvi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254062",
+      "matn": "Tanib olish uchun bir guruh shaxslar yoki bir nechta narsani koʻrsatilganidan keyin tanib oluvchiga u ilgari tasvirlagan shaxs yoki narsani koʻrsatish taklif etiladi."
+    },
+    {
+      "q": 2,
+      "id": "-254063",
+      "matn": "Tanib oluvchi koʻrsatilgan shaxslardan yoki narsalardan birini koʻrsatsa, unga koʻrsatilgan boshqa shaxslar yoki narsalar orasidan bu shaxsni yoki narsani qaysi belgilari yoki xususiyatlariga koʻra taniganligini tushuntirib berish taklif qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-254064",
+      "matn": "Tanib oluvchi tanib olish uchun unga koʻrsatilgan shaxslar yoki narsalarni ilgari koʻrmaganligini aytsa, unga qidirilayotgan shaxs yoki qidirilayotgan narsa ulardan nimasi bilan farq qilishini tushuntirib berish taklif qilinadi."
+    }
+  ]
+}

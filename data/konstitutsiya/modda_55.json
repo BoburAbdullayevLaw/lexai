@@ -1,0 +1,33 @@
+{
+  "n": "55",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445640",
+  "sarlavha": "55-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445641",
+      "matn": "Har kim oʻz huquq va erkinliklarini qonunda taqiqlanmagan barcha usullar bilan himoya qilishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6445643",
+      "matn": "Har kimga oʻz huquq va erkinliklarini sud orqali himoya qilish, davlat organlarining hamda boshqa tashkilotlarning, ular mansabdor shaxslarining qonunga xilof qarorlari, harakatlari va harakatsizligi ustidan sudga shikoyat qilish huquqi kafolatlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6445644",
+      "matn": "Har kimga buzilgan huquq va erkinliklarini tiklash uchun uning ishi qonunda belgilangan muddatlarda vakolatli, mustaqil hamda xolis sud tomonidan koʻrib chiqilishi huquqi kafolatlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445646",
+      "matn": "Har kim Oʻzbekiston Respublikasining qonunchiligiga va xalqaro shartnomalariga muvofiq, agar davlatning huquqiy himoyaga doir barcha ichki vositalaridan foydalanib boʻlingan boʻlsa, insonning huquq va erkinliklarini himoya qiluvchi xalqaro organlarga murojaat etishga haqli."
+    },
+    {
+      "q": 5,
+      "id": "-6445647",
+      "matn": "Har kim davlat organlarining yoxud ular mansabdor shaxslarining qonunga xilof qarorlari, harakatlari yoki harakatsizligi tufayli yetkazilgan zararning oʻrni davlat tomonidan qoplanishi huquqiga ega."
+    }
+  ]
+}

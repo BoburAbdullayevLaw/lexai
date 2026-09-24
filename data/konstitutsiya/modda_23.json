@@ -1,0 +1,23 @@
+{
+  "n": "23",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445404",
+  "sarlavha": "23-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445407",
+      "matn": "Oʻzbekiston Respublikasi oʻz hududida ham, uning tashqarisida ham oʻz fuqarolarini himoya qilish va ularga homiylik koʻrsatishni kafolatlaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6445410",
+      "matn": "Oʻzbekiston Respublikasi fuqarosi Oʻzbekistondan tashqariga majburiy chiqarib yuborilishi yoki boshqa davlatga berib yuborilishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-6445413",
+      "matn": "Davlat xorijda yashayotgan vatandoshlar bilan aloqalarni saqlab qolish hamda rivojlantirish toʻgʻrisida xalqaro huquq normalariga muvofiq gʻamxoʻrlik qiladi."
+    }
+  ]
+}

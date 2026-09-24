@@ -1,0 +1,34 @@
+﻿{
+  "n": 466,
+  "sarlavha_id": "-256577",
+  "sarlavha": "466-modda. Hukmning kirish qismi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256578",
+      "matn": "Hukmning kirish qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5655248",
+          "matn": "sud ishining raqami, hukm chiqarilgan vaqt va joy;"
+        },
+        {
+          "b": 2,
+          "id": "-256581",
+          "matn": "hukmni chiqargan sudning nomi, sudning tarkibi, sud majlisining kotibi, taraflar, tarjimon;"
+        },
+        {
+          "b": 3,
+          "id": "-256582",
+          "matn": "sudlanuvchining ismi, otasining ismi va familiyasi, tugʻilgan yili, oyi, kuni va joyi, yashash joyi, ishlash joyi, mashgʻuloti, maʼlumoti, oilaviy ahvoli va sudlanuvchi xususidagi ish uchun ahamiyatli boshqa maʼlumotlar;"
+        },
+        {
+          "b": 4,
+          "id": "-256583",
+          "matn": "sudlanuvchiga qoʻyilgan ayblov Jinoyat kodeksining qaysi moddasida nazarda tutilganligi koʻrsatiladi."
+        }
+      ]
+    }
+  ]
+}

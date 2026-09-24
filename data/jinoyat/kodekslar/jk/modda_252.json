@@ -1,0 +1,67 @@
+{
+  "n": "252",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-2966173",
+  "sarlavha": "252-modda. Radioaktiv materiallarni qonunga xilof ravishda egallash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2966181",
+      "matn": "Radioaktiv materiallarni qonunga xilof ravishda egallash, shu jumladan talonchilik, oʻgʻrilik, oʻzlashtirish yoki rastrata qilish yoʻli bilan yoxud aldash yoki ishonchni suiisteʼmol qilish yoʻli bilan egallash, xuddi shuningdek radioaktiv materiallarni qonunga xilof ravishda egallash uchun moliyalashtirish, bevosita yoki bilvosita har qanday mablagʻ-vositalarni, resurslarni berish yoxud yigʻish, boshqa xizmatlar koʻrsatish — ikki yildan besh yilgacha ozodlikni cheklash yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2966190",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2966192",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2966194",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-2966196",
+          "matn": "mansab mavqeyidan foydalangan holda sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-2966202",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2966203",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2966204",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-2966206",
+          "matn": "tamagirlik yoʻli bilan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-2966208",
+          "matn": "bosqinchilik yoʻli bilan;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-2966210",
+          "matn": "ushbu Kodeksning 155 va 161-moddalarida nazarda tutilgan jinoyatlarni amalga oshirish maqsadida sodir etilgan boʻlsa, — oʻn yildan yigirma yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

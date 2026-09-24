@@ -1,0 +1,50 @@
+{
+  "n": "149-2",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-7684794",
+  "sarlavha": "149²-modda. Oʻzganing tovar belgisidan, xizmat koʻrsatish belgisidan, geografik koʻrsatkichidan, tovar kelib chiqqan joy nomidan yoki adashtirib yuborish darajasida ular bilan oʻxshash boʻlgan belgilardan shu turdagi tovarlarga (xizmatlarga) nisbatan qonunga xilof ravishda foydalanish yoxud oʻzganing firma nomidan qonunga xilof ravishda foydalanish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-7684798",
+      "matn": "Oʻzganing tovar belgisidan, xizmat koʻrsatish belgisidan, geografik koʻrsatkichidan, tovar kelib chiqqan joy nomidan yoki adashtirib yuborish darajasida ular bilan oʻxshash boʻlgan belgilardan shu turdagi tovarlarga (xizmatlarga) nisbatan qonunga xilof ravishda foydalanish yoxud oʻzganing firma nomidan qonunga xilof ravishda foydalanish, shuningdek Oʻzbekiston Respublikasida roʻyxatdan oʻtkazilmagan tovar belgisiga, xizmat koʻrsatish belgisiga, geografik koʻrsatkichga va tovar kelib chiqqan joy nomiga nisbatan ogohlantiruvchi tamgʻadan qonunga xilof ravishda foydalanish koʻp miqdorda zarar yetkazgan holda sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari yoxud ikki yilgacha ozodlikni cheklash yoki ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7684807",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7684808",
+          "matn": "takroran;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7684810",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7684811",
+          "matn": "xizmat mavqeyidan foydalangan holda;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-7684812",
+          "matn": "juda koʻp miqdorda zarar yetkazgan holda sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan bir yuz ellik baravarigacha miqdorda jarima yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoxud ikki yildan uch yilgacha ozodlikni cheklash yoki ikki yildan uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-7684815",
+      "matn": "Yetkazilgan moddiy zararning oʻrni qoplangan taqdirda ozodlikni cheklash yoki ozodlikdan mahrum qilish tariqasidagi jazo qoʻllanilmaydi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-7684816",
+      "matn": "Birinchi marta jinoyat sodir etgan shaxs, agar u yetkazilgan moddiy zararning oʻrnini jinoyat aniqlangan kundan eʼtiboran oʻttiz kunlik muddatda qoplagan boʻlsa, javobgarlikdan ozod etiladi."
+    }
+  ]
+}

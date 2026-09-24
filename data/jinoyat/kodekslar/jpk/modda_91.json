@@ -1,0 +1,69 @@
+﻿{
+  "n": 91,
+  "sarlavha_id": "-253817",
+  "sarlavha": "91-modda. Dalillarni qayd etishda yordamchi usullar. Bayonnomaga ilovalar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253818",
+      "matn": "Dalillarni qayd etish uchun bayonnoma tuzish bilan bir qatorda ovoz yozish, videoyozuv, kinotasvir, fotosuratga tushirish, qoliplar tayyorlash, nusxalar olish, rejalar, sxemalar tayyorlash va axborotni aks ettirishning boshqa usullari qoʻllanilishi mumkin. Surishtiruvchi, tergovchi, sud dalillarni mustahkamlashning bu usullarini qoʻllanishga koʻmaklashish uchun mutaxassislarni jalb etishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-253819",
+      "matn": "Surishtiruvchi, tergovchi, sud tomonidan dalillarni qayd etishning qanday usullari qoʻllangani, foydalanilgan apparatlar, asboblar, uskunalar, materiallarning texnikaviy tavsifi keltirilib, tegishlicha tergov harakati bayonnomasi yoki sud majlisi bayonnomasida aks ettiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-253820",
+      "matn": "Tergov yoki sud harakatining borishi va natijalari aks ettirilgan fotosuratlar, fonogrammalar, videoyozuvlar, kinotasvirlar, qoliplar, nusxalar, rejalar, sxemalar va boshqalar bayonnomaga ilova qilinadi. Har qaysi ilovada tergov yoki sud harakatining nomi, oʻtkazilgan joyi, sanasi koʻrsatilgan izohlovchi matn boʻlishi lozim. Bu izohlovchi matnni surishtiruv va dastlabki tergov bosqichida surishtiruvchi yoki tergovchi va xolislar, sudda esa, raislik qiluvchi va sud majlisi kotibi oʻz imzolari bilan tasdiqlaydilar."
+    },
+    {
+      "q": 4,
+      "id": "-4816992",
+      "matn": "Quyidagi protsessual harakatlar videoyozuv orqali qayd etilishi shart:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-4816993",
+          "matn": "oʻta ogʻir jinoyatlar boʻyicha hodisa sodir boʻlgan joyni koʻzdan kechirish;"
+        },
+        {
+          "b": 2,
+          "id": "-4816994",
+          "matn": "tintuv;"
+        },
+        {
+          "b": 3,
+          "id": "-4816995",
+          "matn": "koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirish;"
+        },
+        {
+          "b": 4,
+          "id": "-4816996",
+          "matn": "tergov eksperimenti;"
+        },
+        {
+          "b": 5,
+          "id": "-4816997",
+          "matn": "shaxsni ushlash;"
+        },
+        {
+          "b": 6,
+          "id": "-4816998",
+          "matn": "himoyachidan voz kechish;"
+        },
+        {
+          "b": 7,
+          "id": "-4816999",
+          "matn": "shaxsni ushlash jarayonida oʻtkaziladigan shaxsiy tintuv va olib qoʻyish."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "-4817003",
+      "matn": "Ushbu modda toʻrtinchi qismining 5, 6 va 7-bandlarida nazarda tutilgan protsessual harakatlarni videoyozuv orqali qayd etish ushbu Kodeksda belgilangan xususiyatlar inobatga olingan holda amalga oshiriladi."
+    }
+  ]
+}

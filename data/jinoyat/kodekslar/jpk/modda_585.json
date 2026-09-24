@@ -1,0 +1,84 @@
+﻿{
+  "n": 585,
+  "sarlavha_id": "-261008",
+  "sarlavha": "585-modda. Sud muhokamasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-261009",
+      "matn": "Yarashuv toʻgʻrisidagi ishlar boʻyicha sud muhokamasi jinoyat ishi sudga kelgan paytdan eʼtiboran oʻn sutkadan kechiktirmay oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-261010",
+      "matn": "Sud majlisida gumon qilinuvchi, ayblanuvchi, sudlanuvchi, jabrlanuvchi (fuqaroviy daʼvogar), ularning qonuniy vakillari, himoyachilari, prokuror ishtirok etadi."
+    },
+    {
+      "q": 3,
+      "id": "-261011",
+      "matn": "Yarashuv toʻgʻrisidagi ishlar boʻyicha sud muhokamasi jabrlanuvchining yarashuv toʻgʻrisidagi arizasini oʻqib eshittirish bilan boshlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-261012",
+      "matn": "Sud gumon qilinuvchi, ayblanuvchi, sudlanuvchi va jabrlanuvchining (fuqaroviy daʼvogarning) sodir etilgan jinoyat holatlari toʻgʻrisidagi soʻzlarini eshitadi."
+    },
+    {
+      "q": 5,
+      "id": "-261013",
+      "matn": "Sud:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-261014",
+          "matn": "yarashuvning ixtiyoriyligi va uning sabablarini;"
+        },
+        {
+          "b": 2,
+          "id": "-261015",
+          "matn": "gumon qilinuvchi, ayblanuvchi, sudlanuvchi oʻz aybiga ixtiyoriy iqror boʻlganligini;"
+        },
+        {
+          "b": 3,
+          "id": "-261016",
+          "matn": "gumon qilinuvchi, ayblanuvchi, sudlanuvchi oʻzi sodir etgan qilmishning oqibatlarini anglaganligini va yetkazilgan zararni bartaraf etish choralarini koʻrgan-koʻrmaganligini;"
+        },
+        {
+          "b": 4,
+          "id": "-261017",
+          "matn": "jabrlanuvchiga (fuqaroviy daʼvogarga) yoki gumon qilinuvchi, ayblanuvchi, sudlanuvchiga biron bir tazyiq boʻlgan-boʻlmaganligini;"
+        },
+        {
+          "b": 5,
+          "id": "-261018",
+          "matn": "yetkazilgan zararning oʻrnini qoplash bilan bogʻliq masalalarni;"
+        },
+        {
+          "b": 6,
+          "id": "-261019",
+          "matn": "gumon qilinuvchi, ayblanuvchi, sudlanuvchi, ularning qonuniy vakillari yarashuvga roziliklarini aniqlaydi."
+        }
+      ]
+    },
+    {
+      "q": 6,
+      "id": "-261020",
+      "matn": "Shundan soʻng sud himoyachi va prokurorning fikrini eshitadi."
+    },
+    {
+      "q": 7,
+      "id": "-3352535",
+      "matn": "Agar sud majlisi davomida yarashuv, aybga iqror boʻlish ixtiyoriy emasligi, zararni qoplashdan bosh tortish, shuningdek sodir etilgan qilmishda ogʻirroq jinoyat tarkibi belgilari mavjudligi aniqlangudek boʻlsa, sud umumiy qoidalar boʻyicha surishtiruv yoki dastlabki tergov yuritilishi uchun ishni prokurorga yuborish toʻgʻrisida ajrim chiqaradi."
+    },
+    {
+      "q": 8,
+      "id": "-261022",
+      "matn": "Sud muhokamasining natijalari boʻyicha sud qonunda belgilangan tartibda ajrim chiqaradi."
+    },
+    {
+      "q": 9,
+      "id": "-261023",
+      "matn": "Sud majlisi vaqtida ushbu Kodeksning 90 — 92-moddalarida nazarda tutilgan qoidalarga binoan bayonnoma yuritiladi."
+    }
+  ]
+}

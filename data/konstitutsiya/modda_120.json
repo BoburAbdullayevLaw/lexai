@@ -1,0 +1,38 @@
+{
+  "n": "120",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446041",
+  "sarlavha": "120-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446042",
+      "matn": "Viloyatlar, tumanlar va shaharlarda (tumanga boʻysunadigan shaharlardan tashqari) xalq deputatlari Kengashlari davlat hokimiyati vakillik organlaridir."
+    },
+    {
+      "q": 2,
+      "id": "-6446044",
+      "matn": "Xalq deputatlari Kengashiga uning deputatlari orasidan qonunga muvofiq saylanadigan rais boshchilik qiladi."
+    },
+    {
+      "q": 3,
+      "id": "-6446045",
+      "matn": "Viloyat, tuman, shahar hokimi lavozimini egallab turgan shaxs bir vaqtning oʻzida xalq deputatlari Kengashining raisi lavozimini egallashi mumkin emas."
+    },
+    {
+      "q": 4,
+      "id": "-6446046",
+      "matn": "Xalq deputatlari Kengashlarining vakolatlari muddati — besh yil. Ayni bir shaxs surunkasiga ikki muddatdan ortiq ayni bir viloyat, tuman, shahar xalq deputatlari Kengashining raisi etib saylanishi mumkin emas."
+    },
+    {
+      "q": 5,
+      "id": "-6446047",
+      "matn": "Xalq deputatlari Kengashlari deputatlari saylovi va xalq deputatlari Kengashlarining faoliyatini tashkil etish tartibi qonun bilan belgilanadi."
+    },
+    {
+      "q": 6,
+      "id": "-6446048",
+      "matn": "Yangidan tashkil etilgan maʼmuriy-hududiy birliklarda xalq deputatlari Kengashlariga saylov xalq deputatlari Kengashlariga navbatdagi umumiy saylovlarga qadar qolgan davrdan oshmaydigan muddatga oʻtkaziladi."
+    }
+  ]
+}

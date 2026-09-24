@@ -1,0 +1,54 @@
+﻿{
+  "n": 304,
+  "sarlavha_id": "-255159",
+  "sarlavha": "304-modda. Mulkiy ziyonni qoplash hajmi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255160",
+      "matn": "Reabilitatsiya etilgan shaxsga ushbu Kodeksning 302 va 303-moddalarida koʻrsatilgan qonunga xilof harakatlar bilan yetkazilgan mulkiy ziyon toʻla hajmda qoplanadi."
+    },
+    {
+      "q": 2,
+      "id": "-255161",
+      "matn": "Quyidagilar qoplanishi lozim boʻladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255162",
+          "matn": "reabilitatsiya etilgan shaxs oʻziga nisbatan sodir etilgan qonunga xilof harakatlar natijasida mahrum boʻlgan ish haqi va mehnatdan topiladigan boshqa daromadlar;"
+        },
+        {
+          "b": 2,
+          "id": "-255163",
+          "matn": "pensiya va nafaqalar, basharti ularni toʻlash toʻxtatib qoʻyilgan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-255164",
+          "matn": "pullar, pul jamgʻarmalari va ularga toʻlanadigan foizlar, davlat zayomi obligatsiyalari va ularga chiqqan yutuqlar, aksiyalar va boshqa qimmatli qogʻozlar, shuningdek sudning hukmi, ajrimiga (qaroriga) asosan musodara qilingan yoxud davlat foydasiga oʻtkazilgan ashyolar yoxud boshqa mol-mulkning qiymati;"
+        },
+        {
+          "b": 4,
+          "id": "-255165",
+          "matn": "surishtiruv, dastlabki tergov organlari yoki sud tomonidan olingan va yoʻqotilgan mol-mulk qiymati;"
+        },
+        {
+          "b": 5,
+          "id": "-255166",
+          "matn": "sud hukmini ijro qilish chogʻida undirilgan jarimalar va sud chiqimlari;"
+        },
+        {
+          "b": 6,
+          "id": "-260251",
+          "matn": "yuridik yordam koʻrsatilishi uchun shaxs tomonidan advokatlar byurosiga, hayʼatiga yoki firmasiga toʻlangan pul, shuningdek unga nisbatan sodir etilgan qonunga xilof harakatlar natijasida qilingan boshqa xarajatlar."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-255170",
+      "matn": "Reabilitatsiya etilgan shaxs vafot etgan taqdirda ushbu moddaning 1, 3, 4, 5 va 6-bandlarida nazarda tutilgan ziyonni undirish huquqiga uning merosxoʻrlari, 2-bandida nazarda tutilgan ziyonni undirish huquqiga esa boquvchisini yoʻqotganlik pensiyasi bilan taʼminlanishi lozim boʻlganlar jumlasiga kiruvchi oila aʼzolari ega boʻladilar."
+    }
+  ]
+}

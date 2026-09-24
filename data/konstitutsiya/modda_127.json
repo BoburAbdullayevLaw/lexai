@@ -1,0 +1,28 @@
+{
+  "n": "127",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446075",
+  "sarlavha": "127-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446076",
+      "matn": "Shaharchalar, qishloqlar va ovullarda, shuningdek shaharlar, shaharchalar, qishloqlar va ovullardagi mahallalarda fuqarolarning yigʻinlari oʻzini oʻzi boshqarish organlari boʻlib, ular raisni saylaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6446077",
+      "matn": "Fuqarolarning oʻzini oʻzi boshqarish organlari davlat hokimiyati organlari tizimiga kirmaydi hamda mahalliy ahamiyatga molik masalalarni fuqarolarning manfaatlaridan, rivojlanishning tarixiy oʻziga xos xususiyatlaridan, shuningdek milliy qadriyatlardan, mahalliy urf-odatlar va anʼanalardan kelib chiqqan holda, qonunga muvofiq mustaqil ravishda hal etishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-6446078",
+      "matn": "Davlat fuqarolarning oʻzini oʻzi boshqarish organlari faoliyatini amalga oshirishi uchun zarur shart-sharoitlar yaratadi, ularga qonunda belgilangan vakolatlarini amalga oshirishida koʻmaklashadi."
+    },
+    {
+      "q": 4,
+      "id": "-6446079",
+      "matn": "Fuqarolarning oʻzini oʻzi boshqarish organlari saylovi tartibi, ularning faoliyatini tashkil etish va vakolatlari qonun bilan belgilanadi."
+    }
+  ]
+}

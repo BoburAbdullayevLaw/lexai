@@ -1,0 +1,18 @@
+{
+  "n": "17",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445253",
+  "sarlavha": "17-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445357",
+      "matn": "Oʻzbekiston Respublikasi xalqaro munosabatlarning toʻla huquqli subyektidir."
+    },
+    {
+      "q": 2,
+      "id": "-6445358",
+      "matn": "Oʻzbekistonning tashqi siyosati davlatlarning suveren tengligi, kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik, chegaralarning buzilmasligi, davlatlarning hududiy yaxlitligi, nizolarni tinch yoʻl bilan hal etish, boshqa davlatlarning ichki ishlariga aralashmaslik prinsiplariga hamda xalqaro huquqning umumeʼtirof etilgan boshqa prinsip va normalariga asoslanadi."
+    }
+  ]
+}

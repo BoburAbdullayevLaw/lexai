@@ -1,0 +1,124 @@
+﻿{
+  "n": 382,
+  "sarlavha_id": "-255790",
+  "sarlavha": "382-modda. Prokurorning vakolatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255791",
+      "matn": "Surishtiruv va dastlabki tergov harakatlarini yuritishda qonunlarning ijro etilishi ustidan nazorat prokuror tomonidan amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-255792",
+      "matn": "Jinoyat sodir etilgani toʻgʻrisidagi ariza va xabarlarni koʻrish hamda hal qilish, tekshirishni amalga oshirishning ushbu Kodeksda belgilangan tartibi, chiqarilgan qarorlarning qonuniyligi surishtiruv va dastlabki tergov organlarining qonunlarning ijro etilishi ustidan olib boradigan nazoratining sohasidir."
+    },
+    {
+      "q": 3,
+      "id": "-255793",
+      "matn": "Surishtiruv va dastlabki tergov organlari tomonidan qonunlarning ijro etilishi ustidan nazoratni amalga oshirib, prokuror oʻz vakolati doirasida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3351903",
+          "matn": "surishtiruv va dastlabki tergov organlaridan hamda tergovga qadar tekshiruvni yoki tezkor-qidiruv faoliyatini amalga oshiruvchi organlardan ishlarni tekshirish uchun, sodir etilgan jinoyatlarga oid tezkor-qidiruv, surishtiruv, dastlabki tergov ishlarining borishiga doir hujjatlarni, materiallarni va boshqa maʼlumotlarni talab qilib oladi; sodir etilgan yoki tayyorlanayotgan jinoyatlar haqidagi ariza va maʼlumotlarni qabul qilish, roʻyxatdan oʻtkazish va hal etish toʻgʻrisidagi qonun talablari qay darajada ijro etilayotganligini har oy kamida bir marta tekshiradi;"
+        },
+        {
+          "b": 2,
+          "id": "-3351913",
+          "matn": "surishtiruvchilar va tergovchilarning shuningdek tergovga qadar tekshiruvni amalga oshiruvchi organ mansabdor shaxsining qonunga xilof hamda asossiz qarorlarini bekor qiladi;"
+        },
+        {
+          "b": 3,
+          "id": "-3696338",
+          "matn": "jinoyatlarni tergov qilish, ehtiyot chorasini tanlash, oʻzgartirish yoki bekor qilish, uy qamogʻi boʻyicha qoʻshimcha taqiq (cheklov) belgilash haqida iltimosnoma qoʻzgʻatish jinoyat tavsifini belgilash, ishda ayblanuvchi tariqasida ishtirok etishga jalb qilish, ayrim tergov harakatlarini bajarish va jinoyat sodir etgan shaxslarni qidirish toʻgʻrisida yozma koʻrsatmalar beradi;"
+        },
+        {
+          "b": 4,
+          "id": "-3696355",
+          "matn": "qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasini qoʻllash yoxud uy qamogʻi boʻyicha qoʻshimcha taqiq (cheklov) belgilash toʻgʻrisida sudga iltimosnoma kiritadi yoki iltimosnomaga rozilik beradi yoxud qamoqda saqlab turish yoki uy qamogʻi muddatini uzaytirish toʻgʻrisida sudga iltimosnoma kiritadi;"
+        },
+        {
+          "b": 5,
+          "id": "-2057276",
+          "matn": "ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida, shaxsni tibbiy muassasaga joylashtirish haqida sudga iltimosnoma kiritadi yoki iltimosnomaga rozilik beradi yoxud ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish toʻgʻrisida sudga iltimosnoma kiritadi;"
+        },
+        {
+          "b": 6,
+          "id": "-1423381",
+          "matn": "amnistiya aktiga asosan jinoyat ishini qoʻzgʻatishni rad qilish haqida yoki jinoyat ishini tugatish toʻgʻrisida sudga iltimosnoma kiritadi;"
+        },
+        {
+          "b": 7,
+          "id": "-3173925",
+          "matn": "murdani eksgumatsiya qilish toʻgʻrisida, pochta-telegraf joʻnatmalarini xatlash toʻgʻrisida sudga iltimosnoma kiritadi yoki iltimosnomaga rozilik beradi;"
+        },
+        {
+          "b": 8,
+          "id": "-7693072",
+          "matn": "pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish toʻgʻrisida yoki Oʻzbekiston Respublikasidan chiqish huquqini vaqtincha cheklash haqida sudga iltimosnoma kiritadi yoxud iltimosnomaga rozilik beradi;"
+        },
+        {
+          "b": 9,
+          "id": "-7355494",
+          "matn": "tintuv oʻtkazish haqida, telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish haqida, mol-mulkni xatlash toʻgʻrisida sudga iltimosnoma kiritadi yoki iltimosnomaga rozilik beradi;"
+        },
+        {
+          "b": 10,
+          "id": "-5305312",
+          "matn": "guvohlarning va jabrlanuvchilarning (fuqaroviy daʼvogarning) koʻrsatuvlarini oldindan mustahkamlab qoʻyish toʻgʻrisida sudga iltimosnoma kiritadi;"
+        },
+        {
+          "b": 11,
+          "id": "-5305316",
+          "matn": "gumon qilinuvchi yoki ayblanuvchi bilan aybga iqrorlik toʻgʻrisida ushbu Kodeksda belgilangan tartibda kelishuv tuzadi;"
+        },
+        {
+          "b": 12,
+          "id": "-3696547",
+          "matn": "tergovga qadar tekshiruvni yoki tezkor-qidiruv faoliyatini amalga oshiruvchi organlarga shaxslarni ushlash, majburiy keltirish, qidirish haqidagi qarorlar, sudning qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasini qoʻllash toʻgʻrisidagi ajrimini ijro etishni, shuningdek prokuror yoki prokuratura tergovchisi yurituvidagi ishlar yuzasidan jinoyatlarni ochish va jinoyat sodir etgan shaxslarni aniqlash uchun zarur choralarni koʻrish toʻgʻrisida koʻrsatmalar beradi;"
+        },
+        {
+          "b": 13,
+          "id": "-1396865",
+          "matn": "surishtiruvda, dastlabki tergovda ishtirok etadi hamda zarur hollarda, ushbu Kodeksga muvofiq har qanday ish boʻyicha ayrim tergov harakatlarini shaxsan bajaradi yoki tergovni toʻliq amalga oshiradi;"
+        },
+        {
+          "b": 14,
+          "id": "-7355503",
+          "matn": "uy-joy daxlsizligi, yozishmalar, telefon orqali soʻzlashuvlar hamda boshqa soʻzlashuvlar, aloqa tarmoqlari orqali uzatiladigan pochta, kuryerlik joʻnatmalari va telegraf xabarlari sir saqlanishi huquqlarini cheklovchi hamda abonentlar yoki abonent qurilmalari oʻrtasidagi bogʻlanishlar haqida axborot olishga qaratilgan tezkor-qidiruv tadbirlarini oʻtkazishga, shuningdek qonunda nazarda tutilgan hollarda, tergovga qadar tekshiruvni amalga oshiruvchi organ mansabdor shaxsining, surishtiruvchining hamda tergovchining boshqa harakatlariga ruxsat beradi;"
+        },
+        {
+          "b": 15,
+          "id": "-3351952",
+          "matn": "dastlabki tergov va surishtiruv muddatlarini ushbu Kodeksda belgilangan hollarda va tartibda uzaytiradi;"
+        },
+        {
+          "b": 16,
+          "id": "-255801",
+          "matn": "ishlarni surishtiruv va dastlabki tergov organlariga qoʻshimcha tergov oʻtkazish toʻgʻrisidagi oʻz koʻrsatmalari bilan qaytaradi;"
+        },
+        {
+          "b": 17,
+          "id": "-3352025",
+          "matn": "jinoyat ishini prokuraturaning bir tergovchisidan boshqasiga, ushbu Kodeksda belgilangan hollarda va tartibda esa, bir dastlabki tergov va surishtiruv organidan boshqa dastlabki tergov va surishtiruv organiga oʻtkazadi;"
+        },
+        {
+          "b": 18,
+          "id": "-255803",
+          "matn": "surishtiruvchini yoki tergovchini, basharti ular ishning tergovi chogʻida qonun buzilishiga yoʻl qoʻygan boʻlsalar, surishtiruv yoxud dastlabki tergov ishlarini davom ettirishdan chetlatadi;"
+        },
+        {
+          "b": 19,
+          "id": "-3352031",
+          "matn": "jinoyat ishlari qoʻzgʻatadi yoki ularni qoʻzgʻatishni rad etadi, ishlarni tugatadi yoxud yuritilishini toʻxtatadi; qonunda nazarda tutilgan hollarda tergovchi yoki surishtiruvchining ishni tugatishiga rozilik beradi; ayblov xulosasi, ayblov dalolatnomasi yoki qarorini tasdiqlaydi, ishlarni sudga yuboradi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-3352038",
+      "matn": "Prokurorning ushbu Kodeksda nazarda tutilgan tartibga muvofiq surishtiruv va dastlabki tergov organlariga hamda tergovga qadar tekshiruvni yoki tezkor-qidiruv faoliyatini amalga oshiruvchi organlarga tergovga qadar tekshirish oʻtkazish, ishlarni qoʻzgʻatish va tergov qilish bilan bogʻliq boʻlgan koʻrsatmalari ana shu organlar uchun majburiydir."
+    }
+  ]
+}

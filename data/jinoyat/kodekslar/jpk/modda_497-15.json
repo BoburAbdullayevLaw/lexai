@@ -1,0 +1,44 @@
+{
+  "n": "497¹⁵",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5232728",
+  "sarlavha": "497¹⁵-modda. Apellyatsiya instansiyasi sudi majlisini tayinlash va tayyorlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5232735",
+      "matn": "Sudya apellyatsiya shikoyati, protesti bilan kelib tushgan jinoyat ishini oʻrganib, sud majlisini tayinlash toʻgʻrisida yetti sutka ichida ajrim chiqaradi va unda quyidagi masalalar hal etiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5232736",
+          "matn": "jinoyat ishini koʻrib chiqish joyi, sanasi va boshlanish vaqti toʻgʻrisidagi;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5232737",
+          "matn": "taraflarni, shuningdek guvohlarni, ekspertlarni va boshqa shaxslarni sud majlisiga chaqirish, shikoyatda, protestda koʻrsatilgan qoʻshimcha dalillarni, agar mazkur iltimosnomani asosli deb topsa, talab qilib olish toʻgʻrisidagi;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5232740",
+          "matn": "ushbu Kodeksning 19-moddasida nazarda tutilgan hollarda jinoyat ishini yopiq sud majlisida koʻrish toʻgʻrisidagi;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-5232742",
+          "matn": "qamoqda yoki uy qamogʻida saqlanayotgan mahkumning sud majlisida ishtirok etishi toʻgʻrisidagi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5232743",
+      "matn": "Ajrim chiqarilgan kundan eʼtiboran uch sutka ichida protsess ishtirokchilariga sud majlisi tayinlanganligi haqida xabarnoma yuboriladi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5232745",
+      "matn": "Agar jinoyat ishini oʻrganish chogʻida birinchi instansiya sudi tomonidan ushbu Kodeks 497⁶-moddasi ikkinchi qismining talablari bajarilmaganligi aniqlansa, sudya apellyatsiya instansiyasi sudida ishni koʻrib chiqishga monelik qiluvchi holatlarni bartaraf etish uchun jinoyat ishini shu sudga qaytaradi."
+    }
+  ]
+}

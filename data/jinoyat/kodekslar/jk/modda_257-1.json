@@ -1,0 +1,23 @@
+{
+  "n": "257-1",
+  "kod": "JK",
+  "sarlavha_id": "",
+  "sarlavha": "257-1-modda. Sanitariyaga oid qonunchilikni yoki epidemiyaga qarshi kurash qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "",
+      "matn": "Sanitariyaga oid qonunchilikni yoki epidemiyaga qarshi kurash qoidalarini buzish — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "",
+      "matn": "Ushbu qoidabuzarliklar kasallikning tarqalishiga yoki odamlarning ommaviy zaharlanishiga olib kelgan bo'lsa — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "",
+      "matn": "Ushbu harakatlar odamning o'limiga sabab bo'lsa — sakkiz yildan o'n besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

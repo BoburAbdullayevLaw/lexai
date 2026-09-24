@@ -1,0 +1,27 @@
+﻿{
+  "n": 274,
+  "sarlavha_id": "-254985",
+  "sarlavha": "274-modda. Pul undirish va jarima solish toʻgʻrisidagi masalani sud tomonidan hal qilish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254987",
+      "matn": "Ushbu Kodeksda nazarda tutilgan hollarda pul undirish va jarima solish jinoyat ishini koʻrish qaysi sudga taalluqli boʻlsa, shu sud tomonidan amalga oshiriladi. Protsessual majburiyatlarni yoki tartibni buzishga bevosita sud majlisida yoʻl qoʻyilgan boʻlsa, jarima solish haqidagi ajrim ishni koʻrayotgan sud tomonidan shu majlisning oʻzida chiqariladi."
+    },
+    {
+      "q": 2,
+      "id": "-254988",
+      "matn": "Boshqa hollarda pul undirish toʻgʻrisidagi masala sud tomonidan pul undiriladigan shaxs chaqirilib hal qilinadi. Mazkur shaxsning uzrsiz sabablarga koʻra kelmasligi ishni koʻrishga monelik qilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-254990",
+      "matn": "Sud majlisida surishtiruvchi, tergovchi yoki prokuror tomonidan tartibbuzarlik toʻgʻrisida tuzilgan bayonnoma va unga ilova qilingan materiallar yoxud sud majlisi bayonnomasidan olingan tegishli koʻchirma oʻqib eshittiriladi. Shundan soʻng javobgarlikka tortilayotgan shaxsning izohlari, sud majlisida prokuror qatnashayotgan boʻlsa, uning fikri eshitiladi va ajrim chiqariladi."
+    },
+    {
+      "q": 4,
+      "id": "-254991",
+      "matn": "Tarjimonga, mutaxassisga, kafilga pul undirish yoxud sud majlisi zalida tartibni buzgan shaxsga jarima solish toʻgʻrisidagi ajrimni chiqargan sud bu ajrimning ijrosini uch oygacha muddatga kechiktirishga yoki ijroning boʻlib-boʻlib bajarilishiga ruxsat berishga haqlidir."
+    }
+  ]
+}

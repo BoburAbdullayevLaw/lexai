@@ -1,0 +1,44 @@
+{
+  "n": 62,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3694443",
+  "sarlavha": "62-modda. Ushlab turish, qamoqqa olish yoki uy qamogʻi vaqtini hisobga olish qoidalari",
+  "umumiy_sharh": [
+    "Ushlab turish, qamoqqa olish yoki uy qamog'i vaqti jazo muddatiga qo'shib hisoblanadi.",
+    "Bu ehtiyot choralari jazo maqsadlariga erishishga yordam beradi.",
+    "Hukmning qaror qismida bu hisob ko'rsatilishi shart.",
+    "Hisobga olinmagan holda hukm o'zgartirilishi kerak — jiddiy buzilish."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3694444",
+      "matn": "Sud jazo tayinlash chogʻida ushlab turishning, qamoqqa olishning yoki uy qamogʻining har bir kunini:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-3694445","matn":"ozodlikni cheklashning, intizomiy qismga joʻnatishning, ozodlikdan mahrum qilishning bir kuniga;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-3694446","matn":"axloq tuzatish ishlarining yoki xizmat boʻyicha cheklashning uch kuniga;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-3694447","matn":"majburiy jamoat ishlarining toʻrt soatiga tenglashtirib hisoblaydi.","sharh":[]}
+      ],
+      "sharh": [
+        "1 kun ushlab turish/qamoq/uy qamog'i = 1 kun ozodlikdan mahrum etish/cheklash/intizomiy qism.",
+        "1 kun = 3 kun axloq tuzatish/xizmat cheklash.",
+        "1 kun = 4 soat majburiy jamoat ishi.",
+        "Qamoqqa olish muddati: JPK 245, 315-modda chegaralariga rioya qilish.",
+        "Tibbiy muassasa: JPK 268, 315-moddaga muvofiq maksimal muddat.",
+        "Ma'muriy qamoq ham hisobga olinadi (MJtK 225, 241).",
+        "Hukm bekor qilinsa — butun muddat qo'shib hisoblanadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-4636075",
+      "matn": "Sud ushlab turilgan, qamoqda yoki uy qamogʻida saqlangan shaxsga jarima tayinlashda ushlab turishning, qamoqda yoki uy qamogʻida saqlashning bir kunini bazaviy hisoblash miqdorining ikkidan bir qismiga tenglashtirib hisobga oladi.",
+      "sharh": [
+        "Jarima uchun: 1 kun qamoq = BHMning 1/2 si.",
+        "Jarima hukm chiqarilgan paytdagi BHM bo'yicha hisoblanadi.",
+        "Boshqa jazo turlari (jarima, huquqdan mahrum etish) uchun hisobga olinmaydi.",
+        "Lekin sud yengillashtirish yoki ozod qilish huquqiga ega."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+ {
+  "n": "253",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-267965",
+  "sarlavha": "253-modda. Radioaktiv materiallardan foydalanish qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-267967",
+      "matn": "Radioaktiv materiallarni saqlash, hisobga olish, ulardan foydalanish, ularni tashish, joʻnatish va ular bilan muomalada boʻlishning boshqa qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-267970",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-267971",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-267972",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — muayyan huquqdan mahrum qilib, uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

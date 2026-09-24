@@ -1,0 +1,56 @@
+{
+  "n": 114,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-234259",
+  "sarlavha": "114-modda. Jinoiy ravishda homila tushirish (abort)",
+  "umumiy_sharh": [
+    "Jinoyat obyekti homilador ayolning (homilaning emas) hayoti yoki sog'lig'ining xavfsizligini ta'minlash borasidagi ijtimoiy munosabatlar hisoblanadi.",
+    "Sharhlanayotgan moddaning birinchi qismiga muvofiq sun'iy ravishda homila tushirish (abort): davolash muassasasidan tashqari joylarda amalga oshirilgan; tibbiy nuqtayi nazardan mumkin bo'lmagan holda amalga oshirilgan bo'lsa, jinoiy ravishda amalga oshirilgan deb topiladi.",
+    "Sun'iy ravishda homilani tushirish tibbiy nuqtayi nazardan mumkin bo'lmagan holatlar jumlasiga quyidagilar kirishi mumkin: og'ir yoki o'rtacha og'ir kechadigan so'zak, jinsiy a'zolarning og'ir yoki o'rtacha og'ir kechadigan yallig'lanish jarayonlari mavjudligi; 12 haftadan ortiq muddatdagi homilaning mavjudligi; avvalgi sun'iy ravishda homilani tushirishdan keyin 6 oy o'tmasdan sun'iy ravishda homilani tushirish.",
+    "Tibbiy muassasadan tashqari joyda amalga oshirilgan sun'iy ravishda homilani tushirish, sun'iy ravishda homilani tushirish tibbiy nuqtayi nazardan mumkin bo'lmagan holatlar borligidan qat'i nazar, jinoiy deb topiladi.",
+    "Sun'iy ravishda homila tushirishga huquqi bo'lmagan shaxs bunday ishni amalga oshirsa, jinoyatni JKning 114-moddasi 2-qismi bo'yicha kvalifikatsiya qilish kerak. Sun'iy ravishda homila tushirishga huquqi bo'lmagan shaxslarga quyidagilar kiradi: akusher-ginekologlardan tashqari barcha toifadagi shifokorlar; o'rta tibbiy ma'lumotga ega bo'lgan shaxslar; tibbiyot kasbiga mutlaqo aloqasi bo'lmagan har qanday boshqa shaxslar.",
+    "Abortni noqonuniy ravishda amalga oshirish homilani sun'iy ravishda tushirish boshlangan paytdan e'tiboran tamom bo'lgan jinoyat deb topiladi.",
+    "Sun'iy ravishda homila tushirish usullari har xil bo'lishi mumkin (jarrohlik, mexanik, toksik, termik, medikamentoz va hokazo) va ular jinoyatni kvalifikatsiya qilishga ta'sir ko'rsatmaydi.",
+    "Agar homilaning tushishi ayol sog'lig'iga shikast yetkazish natijasida yuz bergan bo'lsa, aybdorning qilmishi JKning 114-moddasi bilan emas, balki qasddan badanga og'ir shikast yetkazish uchun javobgarlikni nazarda tutuvchi JKning 104-moddasi bilan homilaning tushishi belgisi bo'yicha kvalifikatsiya qilinadi.",
+    "Subyektiv tomondan JKning 114-moddasi 1 va 2-qismlarida nazarda tutilgan jinoyatlar faqat to'g'ri qasd bilan sodir etiladi. Motiv va maqsad jinoyatni kvalifikatsiya qilishda ahamiyatga ega emas.",
+    "JKning 114-moddasi 1-qismida nazarda tutilgan jinoyatning subyekti shifokor akusher-ginekolog, JKning 114-moddasi 2-qismida nazarda tutilgan jinoyatning subyekti esa 16 yoshga to'lgan har qanday aqli raso shaxs bo'lishi mumkin.",
+    "Agar sun'iy ravishda homila tushirishni amalga oshirgan shaxs oxirgi zarurat holatida harakat qilgan bo'lsa (masalan, homilador ayolning hayoti xavf ostida qolgan taqdirda), jinoiy ravishda homila tushirish uchun javobgarlik vujudga kelmaydi.",
+    "Homilasini o'zi sun'iy ravishda tushirgan yoki uni o'zgalar yordamida jinoiy ravishda tushirtirgan ayol jinoiy javobgarlikka tortilmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-234274",
+      "matn": "Shifokor akusher yoki ginekolog tomonidan davolash muassasalaridan tashqari joylarda yoki tibbiy nuqtai nazardan mumkin boʻlmagan holda sunʼiy ravishda homila tushirish — bazaviy hisoblash miqdorining yigirma besh baravarigacha miqdorda jarima solish yoki uch yilgacha muayyan huquqdan mahrum qilish yoxud ikki yuz qirq soatgacha majburiy jamoat ishlari yoki bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-234279",
+      "matn": "Sunʼiy ravishda homila tushirishga huquqi boʻlmagan shaxsning bunday ishni amalga oshirishi — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki ikki yuz qirq soatdan uch yuz soatgacha majburiy jamoat ishlari yoxud bir yildan ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-234288",
+      "matn": "Ushbu moddaning birinchi yoki ikkinchi qismida nazarda tutilgan harakatlar ehtiyotsizlik orqasida:",
+      "sharh": [
+        "Jinoiy ravishda homila tushirish natijasida: a) jabrlanuvchining o'limi yuz bersa; b) boshqacha og'ir oqibatlar vujudga kelsa, shaxsning harakatlari JKning 114-moddasi 3-qismi bo'yicha kvalifikatsiya qilinadi.",
+        "Jabrlanuvchining o'limi yuz berishi vaqti sun'iy ravishda homila tushirilayotganda yoki bundan so'ng qilmishni JKning 114-moddasi 3-qismi «a» bandi bo'yicha kvalifikatsiya qilishga ta'sir ko'rsatmaydi.",
+        "Jinoiy ravishda homila tushirish natijasida paydo bo'lgan boshqa og'ir oqibatlarga badanga og'ir shikast yetkazish bilan jabrlanuvchining sog'lig'iga zarar yetkazilishini (masalan, bola tug'ish qobiliyatidan mahrum bo'lish, bachadonni kesib tashlash), ruhiy faoliyatining buzilishini va boshqa shu kabilarni kiritish lozim.",
+        "Aybdor qilmishlarini JKning 114-moddasi 3-qismi bo'yicha kvalifikatsiya qilish uchun sodir etilgan jinoiy ravishda homila tushirish bilan jabrlanuvchining o'limi yoki boshqa og'ir oqibatlarning kelib chiqishi o'rtasidagi sababiy bog'lanish mavjudligini aniqlash lozim.",
+        "Agar jinoiy ravishda homila tushirishni amalga oshirgan aybdorda jabrlanuvchining o'limi yoki boshqa og'ir oqibatlarning kelib chiqishiga nisbatan egri yoki to'g'ri qasd mavjud bo'lsa, uning harakatlari ish holatlaridan kelib chiqib JKning 97-moddasi yoki 104-moddasi bilan kvalifikatsiya qilinadi."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-234291",
+          "matn": "jabrlanuvchining oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-234294",
+          "matn": "boshqacha ogʻir oqibatlarga sabab boʻlsa, — ikki yildan uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

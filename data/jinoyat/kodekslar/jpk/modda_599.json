@@ -1,0 +1,54 @@
+﻿{
+  "n": 599,
+  "sarlavha_id": "-1687104",
+  "sarlavha": "599-modda. Xorijiy davlat hududida boʻlgan shaxsni ushlab berish toʻgʻrisida soʻrov yuborish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5460109",
+      "matn": "Oʻzbekiston Respublikasining qonunchiligida va xalqaro shartnomalarida nazarda tutilgan hollarda hamda tartibda yoki oʻzarolik prinsipi asosida Oʻzbekiston Respublikasi Bosh prokuraturasi xorijiy davlatning vakolatli organiga xorijiy davlat hududida boʻlgan shaxsni jinoiy javobgarlikka tortish yoki hukmni ijro etish uchun ushlab berish toʻgʻrisida soʻrov yuborishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-5460113",
+      "matn": "Xorijiy davlat hududida boʻlgan shaxsni ushlab berish toʻgʻrisida oʻzarolik prinsipi asosida soʻrov yuborish, agar soʻrov yuborilishiga sabab boʻlgan qilmish har ikkala davlat qonunchiligiga muvofiq jinoiy jazolanadigan qilmish boʻlsa va shaxs jinoiy javobgarlikka tortish uchun ushlab berilgan taqdirda — uni sodir etganlik uchun bir yildan kam boʻlmagan muddatga ozodlikdan mahrum qilish tarzidagi jazo yoki ogʻirroq jazo nazarda tutilganda yoxud shaxs hukmni ijro etish uchun ushlab berilgan taqdirda — u olti oydan kam boʻlmagan muddatga ozodlikdan mahrum qilish tarzidagi jazoga yoki ogʻirroq jazoga hukm qilinganida amalga oshiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-1687107",
+      "matn": "Xorijiy davlat hududida boʻlgan shaxsni ushlab berish toʻgʻrisidagi soʻrovni yuborish zaruriyati yuzaga kelganda hamda buning uchun ushbu moddaning birinchi va ikkinchi qismlarida koʻrsatilgan asoslar va shartlar mavjud boʻlganda, barcha zarur materiallar mazkur soʻrovni yuborish haqidagi masalani hal etish uchun Oʻzbekiston Respublikasi Bosh prokuraturasiga taqdim etiladi."
+    },
+    {
+      "q": 4,
+      "id": "-1687108",
+      "matn": "Xorijiy davlat hududida boʻlgan shaxsni ushlab berish toʻgʻrisidagi soʻrovda quyidagilar boʻlishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1687109",
+          "matn": "soʻrov yuborayotgan organning nomi;"
+        },
+        {
+          "b": 2,
+          "id": "-1687110",
+          "matn": "oʻziga nisbatan soʻrov yuborilayotgan shaxsning familiyasi, ismi, otasining ismi, uning tugʻilgan sanasi va joyi, fuqaroligi, yashash joyi yoki turgan joyi haqidagi maʼlumotlar va uning shaxsi haqidagi boshqa maʼlumotlar, shuningdek imkoni boricha tashqi qiyofasi tavsifi, fotosurati va shaxsni identifikatsiya qilish imkonini beradigan boshqa materiallar;"
+        },
+        {
+          "b": 3,
+          "id": "-1687111",
+          "matn": "oʻziga nisbatan soʻrov yuborilayotgan shaxs tomonidan sodir etilgan jinoyatning haqiqiy holatlari bayoni va tavsifi, shu jumladan u tomonidan yetkazilgan zararning miqdori haqidagi maʼlumotlar, Oʻzbekiston Respublikasi Jinoyat kodeksining qilmish jinoyat deb eʼtirof etilishiga asos boʻladigan tegishli moddasi matni;"
+        },
+        {
+          "b": 4,
+          "id": "-1687112",
+          "matn": "shaxsni jinoyat ishida ayblanuvchi tariqasida ishtirok etishga jalb qilish toʻgʻrisidagi qaror yoxud hukm chiqarilgan joy va sana toʻgʻrisidagi, shuningdek hukm qonuniy kuchga kirganligi haqidagi maʼlumotlar."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "-1687113",
+      "matn": "Xorijiy davlat hududida boʻlgan shaxsni jinoiy javobgarlikka tortish uchun ushlab berish toʻgʻrisidagi soʻrovga shaxsni jinoyat ishida ayblanuvchi tariqasida ishtirok etishga jalb qilish toʻgʻrisidagi qarorning va qamoqqa olish tarzidagi ehtiyot chorasini qoʻllash toʻgʻrisidagi sud ajrimining tasdiqlangan koʻchirma nusxalari ilova qilinishi kerak. Xorijiy davlat hududida boʻlgan shaxsni hukmni ijro etish uchun ushlab berish toʻgʻrisidagi soʻrovga qonuniy kuchga kirgan hukmning tasdiqlangan koʻchirma nusxasi va jazoning oʻtalmagan muddati toʻgʻrisidagi maʼlumotnoma ilova qilinishi kerak."
+    }
+  ]
+}

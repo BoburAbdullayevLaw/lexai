@@ -1,0 +1,45 @@
+{
+  "n": 89,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195922",
+  "sarlavha": "89-modda. Jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2722315",
+      "matn": "Oʻn sakkiz yoshga toʻlmasdan sodir etgan jinoyati uchun ozodlikdan mahrum qilishga, ozodlikni cheklashga yoki axloq tuzatish ishlariga hukm qilingan shaxsga nisbatan jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod qilish tartibi qoʻllanilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195928",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod qilish ushbu moddaning birinchi qismida koʻrsatilgan jazo turlari uchun belgilangan tartib-qoida talablarini bajargan mehnat va oʻqishga halol munosabatda boʻlgan mahkumga nisbatan qoʻllanilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-288449",
+      "matn": "Jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod qilish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-288453",
+          "matn": "ijtimoiy xavfi katta boʻlmagan yoki uncha ogʻir boʻlmagan jinoyat uchun tayinlangan jazo muddatining kamida toʻrtdan bir qismi;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-288455",
+          "matn": "ogʻir jinoyat uchun tayinlangan jazo muddatining kamida uchdan bir qismi;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-288457",
+          "matn": "oʻta ogʻir jinoyat uchun, shuningdek qasddan sodir etgan jinoyati uchun, agar shaxs ilgari qasddan sodir etilgan jinoyat uchun ozodlikdan mahrum etishga hukm qilingan boʻlsa, tayinlangan jazo muddatining kamida yarmini haqiqatda oʻtab boʻlganidan keyin qoʻllaniladi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195981",
+      "matn": "Jazodan muddatidan ilgari shartli ravishda ozod qilish qoʻllanilgan shaxs jazoning oʻtalmagan qismi mobaynida qasddan yangi jinoyat sodir etsa, sud unga nisbatan ushbu Kodeksning 60 va 86-moddalarida nazarda tutilgan qoidalarga muvofiq jazo tayinlaydi."
+    }
+  ]
+}

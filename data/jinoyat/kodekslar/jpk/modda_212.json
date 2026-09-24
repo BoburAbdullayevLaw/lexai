@@ -1,0 +1,27 @@
+﻿{
+  "n": 212,
+  "sarlavha_id": "-254578",
+  "sarlavha": "212-modda. Ashyoviy dalillarni shikastlaganlik yoki yoʻqotganlik uchun javobgarlik",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254579",
+      "matn": "Ekspertiza oʻtkazish yoki boshqa qonuniy harakatlar natijasida shikastlangan yoki yoʻqolgan ashyoning qiymati sud chiqimlariga qoʻshiladi."
+    },
+    {
+      "q": 2,
+      "id": "-254580",
+      "matn": "Ayblov hukmi chiqarilganda, agar bu ashyo mahkumga yoki fuqaroviy javobgarga tegishli boʻlsa, uning qiymati toʻlanmaydi; agar ashyo boshqa biror shaxsga tegishli boʻlsa, uning qiymati bu shaxsga sud tomonidan toʻlanishi va ayni vaqtda bu summa mahkum yoki fuqaroviy javobgar hisobidan davlat foydasiga undirilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-254581",
+      "matn": "Oqlov hukmi chiqarilganda hamda ish tugatilgan hollarda ekspertiza oʻtkazish yoki boshqa qonuniy harakatlar natijasida shikastlangan yoki yoʻqolgan ashyoning qiymati qonuniy egasiga yoki mulkdoriga, shuningdek protsessual mavqeyidan qatʼi nazar, ularning huquq vorislari va merosxoʻrlariga toʻlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-5459072",
+      "matn": "Ashyoviy dalillar shikastlangan yoki yoʻqolgan boshqa barcha hollarda ularning qiymati zarar keltirish natijasida kelib chiqadigan majburiyatlarga doir fuqaroviy qonunchilik qoidalariga muvofiq toʻlattirilishi lozim."
+    }
+  ]
+}

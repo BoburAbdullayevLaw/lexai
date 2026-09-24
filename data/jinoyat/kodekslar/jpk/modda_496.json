@@ -1,0 +1,24 @@
+﻿{
+  "n": 496,
+  "sarlavha_id": "-6626505",
+  "sarlavha": "496-modda. Ayblov hukmini jinoyat ishini tugatgan holda bekor qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626506",
+      "matn": "Apellyatsiya, kassatsiya yoki taftish instansiyasi sudi jinoyat ishini koʻrib chiqib, quyidagi hollarda ayblov hukmini bekor qiladi va jinoyat ishini tugatadi, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626507",
+          "matn": "ish boʻyicha ushbu Kodeksning 83-moddasida hamda 84-moddasining birinchi va beshinchi qismlarida nazarda tutilgan asoslar aniqlangan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-6626508",
+          "matn": "ish boʻyicha toʻplangan dalillar mahkumni aybdor deb topish uchun yetarli boʻlmasa va qoʻshimcha dalillarni toʻplash imkoniyati qolmagan boʻlsa."
+        }
+      ]
+    }
+  ]
+}

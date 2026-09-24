@@ -1,0 +1,74 @@
+{
+  "n": "509¹⁰",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-6627419",
+  "sarlavha": "509¹⁰-modda. Kassatsiya instansiyasi sudining hukmi, ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-6627420",
+      "matn": "Kassatsiya instansiyasi sudining hukmida, ajrimida quyidagilar koʻrsatilgan boʻlishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-6627421",
+          "matn": "sud ishining raqami, hukm, ajrim chiqarilgan sana va joy;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-6627422",
+          "matn": "sudning nomi va tarkibi, ishni koʻrishda ishtirok etgan prokuror va boshqa shaxslar;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-6627423",
+          "matn": "kassatsiya shikoyatini (protestini) bergan shaxs;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-6627424",
+          "matn": "birinchi instansiya sudining ustidan shikoyat (protest) berilgan hukmi, ajrimi qaror qismining mazmuni;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-6627425",
+          "matn": "shikoyatning (protestning), kassatsiya instansiyasi sudi majlisida ishtirok etayotgan shaxslar eʼtirozlarining va tushuntirishlarining mohiyati, shuningdek prokurorning fikri;"
+        },
+        {
+          "b": 6,
+          "id": "https://lex.uz/docs/-111460#-6627426",
+          "matn": "shikoyat (protest) boʻyicha kassatsiya instansiyasi sudining qarori."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-6627427",
+      "matn": "Shikoyat (protest) qanoatlantirilmay qoldirilganda kassatsiya instansiyasi sudining ajrimida hukm qonuniy, asosli va adolatli deb, birinchi instansiya sudining ajrimi qonuniy va asosli deb topilganligining, shikoyat yoki protest esa qanoatlantirilmasdan qoldirilganligining asoslari koʻrsatilishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-6627428",
+      "matn": "Hukm, ajrim bekor qilingan yoki oʻzgartirilgan taqdirda, kassatsiya instansiyasi sudining ajrimida Jinoyat kodeksining va ushbu Kodeksning qaysi normalari talablari buzilganligi hamda bekor qilinayotgan yoki oʻzgartirilayotgan sud qarorining asossizligi nimadan iborat ekanligi koʻrsatilishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-6627429",
+      "matn": "Kassatsiya instansiyasi sudining hukmi, ajrimi sudning toʻliq tarkibi tomonidan imzolanadi. Ovoz berishda ozchilik tomonda qolgan sudya hukmga, ajrimga imzo qoʻyib, oʻzining alohida fikrini ushbu Kodeks 472-moddasining talablariga rioya etgan holda yozma tarzda qoldirishga haqlidir."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-6627430",
+      "matn": "Kassatsiya instansiyasi sudining hukmi, ajrimi sud majlisi zalida oʻqib eshittiriladi va darhol qonuniy kuchga kiradi."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-6627431",
+      "matn": "Kassatsiya instansiyasi sudining hukmi, ajrimi uni chiqargan sudga yoki boshqa sudga chiqarilgan kundan eʼtiboran besh sutkadan kechiktirmay jinoyat ishi bilan birga ijro etish uchun yuboriladi."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-6627432",
+      "matn": "Mahkumni darhol qamoqdan yoki ozodlikdan cheklash tariqasidagi jazodan ozod etish uchun asos boʻladigan hukm, ajrim, agar mahkum sud majlisida ishtirok etayotgan boʻlsa, sud zalida ijro etiladi. Boshqa hollarda hukmning, ajrimning koʻchirma nusxasi hukm, ajrim chiqarilganidan keyin kassatsiya instansiyasi tomonidan jazoni ijro etish muassasasining maʼmuriyatiga yoki mahkumning yashash joyidagi ozodlikdan cheklash tariqasidagi jazoni ijro etish oʻz zimmasiga yuklatilgan ichki ishlar organiga yigirma toʻrt soatdan kechiktirmay yuboriladi."
+    }
+  ]
+}

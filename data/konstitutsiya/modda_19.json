@@ -1,0 +1,23 @@
+{
+  "n": "19",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445364",
+  "sarlavha": "19-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445365",
+      "matn": "Oʻzbekiston Respublikasida insonning huquq va erkinliklari xalqaro huquqning umumeʼtirof etilgan normalariga binoan hamda ushbu Konstitutsiyaga muvofiq eʼtirof etiladi va kafolatlanadi. Inson huquq va erkinliklari har kimga tugʻilganidan boshlab tegishli boʻladi."
+    },
+    {
+      "q": 2,
+      "id": "-6445366",
+      "matn": "Oʻzbekiston Respublikasida barcha fuqarolar bir xil huquq va erkinliklarga ega boʻlib, jinsi, irqi, millati, tili, dini, eʼtiqodi, ijtimoiy kelib chiqishi, ijtimoiy mavqeyidan qatʼi nazar, qonun oldida tengdirlar."
+    },
+    {
+      "q": 3,
+      "id": "-6445367",
+      "matn": "Imtiyozlar faqat qonunga muvofiq belgilanadi va ijtimoiy adolat prinsiplariga mos boʻlishi shart."
+    }
+  ]
+}

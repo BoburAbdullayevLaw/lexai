@@ -1,0 +1,48 @@
+{
+  "n": 31,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179959",
+  "sarlavha": "31-modda. Jinoyatga daxldorlik",
+  "umumiy_sharh": [
+    "Jinoyatga daxldorlik — jinoyat haqida oldindan va'da bermagan holda xabar qilmaslik, jinoyatchini yashirish yoki jinoyatga yo'l qo'yish shakllarida ifodalanadi. Daxldorlik ishtirokchilikdan farqli, bajaruvchi qilmishi bilan sababiy bog'lanishda bo'lmaydi.",
+    "Jinoyatga daxldorlikning ijtimoiy xavfliligi huquqni muhofaza etish organlarining samarali faoliyatiga to'sqinlik qilishi, jinoyatchilarda jazosiz qolish hissini vujudga keltirishi va og'ir jinoyatchilarning javobgarlikdan qutulishiga yordam berishidadir.",
+    "Jinoyatga daxldorlik faqat ota og'ir va og'ir jinoyatlar bilan bog'liq hollarda jinoiy javobgarlikni keltirib chiqaradi.",
+    "Daxldor shaxs jinoyatga muayyan munosabatda daxldor bo'lsa-da, u bilan sababiy bog'lanishda bo'lmaydi va jinoiy natijaning kelib chiqishiga ko'maklashmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2965301",
+      "matn": "Jinoyatga tayyorgarlik koʻrilayotganligi, jinoyat sodir etilayotganligi yoki jinoyat sodir etilganligi haqida aniq bila turib, oldindan vaʼda bermagan holda, hokimiyat organlariga xabar qilmaslik, ushbu Kodeksning 155¹ va 241-moddalarida nazarda tutilgan hollardagina javobgarlikka sabab boʻladi.",
+      "sharh": [
+        "Tayyorlanayotgan jinoyat — jinoyatga tayyorgarlik ko'rishda ifodalanadigan tugallanmagan jinoyat bosqichi. Sodir etilayotgan jinoyat — suiqasdda ifodalanadigan tugallanmagan bosqich.",
+        "Xabar bermaslik harakatsizlikdan, ya'ni jinoyat haqida aniq bila turib xabar bermaslikdan iborat passiv xulq-atvorda ifodalanadi.",
+        "Xabar bermaslik faktining mavjudligi uchun asosiy shart — aybdor shaxsning xabardorligining haqiqiyligidir.",
+        "Subyektiv tomondan aybdor jinoyatni aniq bila turib xabar bermayotganligini biladi, o'z harakatlarini anglaydi va jinoyat oqibatini oldindan ko'ra biladi.",
+        "Xabar berish shakli ahamiyatga ega emas — og'zaki yoki yozma, shaxsan yoki anonim tarzda bo'lishi mumkin.",
+        "16 yoshga to'lgan har qanday aqli raso shaxs daxldorlik uchun javobgar bo'lishi mumkin. Mansabdor shaxslar xizmat vazifasi bilan bog'liq javobgarlikka tortilishi lozim."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179961",
+      "matn": "Jinoyatchini, jinoyat sodir etish quroli va vositalarini, jinoyat izlarini yoki jinoiy yoʻl bilan qoʻlga kiritilgan narsalarni oldindan vaʼda bermagan holda yashirganlik ushbu Kodeksning 241-moddasida nazarda tutilgan hollardagina javobgarlikka sabab boʻladi.",
+      "sharh": [
+        "Oldindan va'da bermagan holda yashirish — jinoyat tugallanishigacha bajaruvchiga va'da berilmagan yashirish. U jinoyat bilan sababiy bog'lanishda bo'lmaydi.",
+        "Yashirish obyektiv tomondan jinoyatchiga jismoniy ko'mak berish, turar joy taqdim etish, qalbaki hujjatlar bilan ta'minlash orqali ifodalanadi.",
+        "Yashirish subyektiv tomondan faqat to'g'ri qasd bilan amalga oshiriladi. Yashiruvchi og'ir jinoyatni yashirayotganligini va o'z harakatlarining ijtimoiy xavfliligini anglaydi.",
+        "Shaxs jinoyatni yashirganlik uchun faqat o'zi bilgan jinoyat uchungina javobgarlikka tortilishi mumkin.",
+        "Oldindan va'da bermasdan yashirish, oldindan va'da bergan holda yashirish (yordamchilik) dan farq qiladi — birinchisi daxldorlik, ikkinchisi ishtirokchilik hisoblanadi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-179962",
+      "matn": "Oldindan vaʼda bermagan holda jinoyat haqida xabar bermaganlik yoki jinoyatni yashirganlik uchun gumon qilinuvchi, ayblanuvchi yoki sudlanuvchining yaqin qarindoshlari javobgarlikka tortilmaydi.",
+      "sharh": [
+        "Gumon qilinuvchi, ayblanuvchi yoki sudlanuvchining yaqin qarindoshlari daxldorlik uchun javobgarlikka tortilmaydi. Bu konstitutsiyaviy himoya chegarasi.",
+        "Yaqin qarindosh tushunchasi JK Maxsus qismining sakkizinchi bo'limida belgilangan."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "n": 111,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-234149",
+  "sarlavha": "111-modda. Ehtiyotsizlik orqasida badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazish",
+  "umumiy_sharh": [
+    "Badanga og'ir va o'rtacha og'ir shikast yetkazish belgilari to'g'risida JKning 104 va 105-moddalari sharhiga qarang.",
+    "Ehtiyotsizlik oqibatida sodir etilgan jinoyat tushunchasi to'g'risida JKning 22-moddasi sharhiga qarang.",
+    "Agar ehtiyotsizlik orqasidan badanga o'rtacha og'ir yoki og'ir shikast yetkazilsa va bu JKning tegishli moddalarida ko'rsatilgan maxsus qoidalarni (masalan, transport vositalari harakati yoki ulardan foydalanish xavfsizligi qoidalarini, mehnatni muhofaza qilish qoidalarini, tor-kon, qurilish yoki portlatish ishlari xavfsizligi qoidalarini, yong'in xavfsizligi qoidalarini, sanitariyaga oid qonunchilikni yoki epidemiyaga qarshi kurash qoidalarini va hokazolarni) buzish oqibatida yuz bergan bo'lsa, qilmish maxsus jinoyat tarkiblari uchun javobgarlikni nazarda tutuvchi JKning Maxsus qismi moddalari bo'yicha kvalifikatsiya qilinadi.",
+    "Jabrlanuvchining o'limiga olib kelgan ehtiyotsizlik bilan badaniga shikast yetkazish JKning 102-moddasi bo'yicha kvalifikatsiya qilinishi kerak.",
+    "Bir shaxsga ehtiyotsizlik orqasida badanga o'rtacha og'ir yoki og'ir shikast yetkazish bilan bir vaqtda ehtiyotsizlik tufayli boshqa kishining o'limi yuz bersa, bunday qilmish JKning 102 va 111-moddalarida ko'zda tutilgan jinoyatlar majmuini vujudga keltiradi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-234162",
+      "matn": "Ehtiyotsizlik orqasida badanga oʻrtacha ogʻir shikast yetkazish — bazaviy hisoblash miqdorining yigirma besh baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-234174",
+      "matn": "Ehtiyotsizlik orqasida badanga ogʻir shikast yetkazish — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yildan uch yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-234184",
+      "matn": "Ehtiyotsizlik orqasida ikki yoki undan ortiq shaxs badaniga oʻrtacha ogʻir yoki badanga ogʻir shikast yetkazish — bazaviy hisoblash miqdorining ellik baravaridan yetmish besh baravarigacha miqdorda jarima yoki uch yuz oltmish soatdan toʻrt yuz sakson soatgacha majburiy jamoat ishlari bilan jazolanadi.",
+      "sharh": [
+        "Ikki yoki undan ortiq shaxsning badaniga ehtiyotsizlik bilan o'rtacha og'ir yoki og'ir shikast yetkazganlik uchun javobgarlik JKning 111-moddasi 3-qismi bo'yicha kelib chiqadi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿{
+  "n": 600,
+  "sarlavha_id": "-1687114",
+  "sarlavha": "600-modda. Oʻzbekiston Respublikasiga ushlab berilgan shaxsning jinoiy javobgarligi doirasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1687115",
+      "matn": "Oʻzbekiston Respublikasiga xorijiy davlat tomonidan ushlab berilgan shaxs oʻzi ushlab berilguniga qadar sodir etgan va ushlab berilishiga sabab boʻlmagan jinoyati uchun uni ushlab bergan davlatning roziligisiz jinoiy javobgarlikka tortilishi, jazolanishi, shuningdek uchinchi bir davlatga topshirilishi mumkin emas. Quyidagi hollarda xorijiy davlatning roziligi talab qilinmaydi, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1687116",
+          "matn": "u ushlab bergan shaxs jinoyat ishi tugatilgan kundan eʼtiboran, hukm qilingan taqdirda esa jazo oʻtalgan yoki har qanday qonuniy asosga koʻra jazodan ozod qilingan kundan eʼtiboran bir oy ichida Oʻzbekiston Respublikasi hududini tark etmagan boʻlsa. Ushlab berilgan shaxs oʻziga bogʻliq boʻlmagan holatlar boʻyicha Oʻzbekiston Respublikasi hududini tark etish imkoniyatiga ega boʻlmagan vaqt bu muddatga qoʻshib hisoblanmaydi;"
+        },
+        {
+          "b": 2,
+          "id": "-1687117",
+          "matn": "u ushlab bergan shaxs Oʻzbekiston Respublikasi hududini tark etgan, ammo keyin ixtiyoriy ravishda Oʻzbekiston Respublikasiga qaytib kelgan boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-1687118",
+      "matn": "Xorijiy davlat tomonidan ushlab berilgan shaxsga nisbatan jinoyat ishi boʻyicha uzil-kesil qaror qabul qilgan organ uning koʻchirma nusxasini Oʻzbekiston Respublikasi Bosh prokuraturasiga yuboradi."
+    },
+    {
+      "q": 3,
+      "id": "-1687119",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokuraturasi xorijiy davlatning vakolatli organini u tomonidan ushlab berilgan shaxsga nisbatan jinoyat ishini yuritish natijalari haqida yozma ravishda xabardor qiladi. Mazkur organning iltimosiga koʻra jinoyat ishi boʻyicha uzil-kesil qarorning koʻchirma nusxasi ham yuborilishi mumkin."
+    }
+  ]
+}

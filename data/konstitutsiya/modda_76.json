@@ -1,0 +1,23 @@
+{
+  "n": "76",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445717",
+  "sarlavha": "76-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445718",
+      "matn": "Oila jamiyatning asosiy boʻgʻinidir hamda u jamiyat va davlat muhofazasidadir."
+    },
+    {
+      "q": 2,
+      "id": "-6445719",
+      "matn": "Nikoh Oʻzbekiston xalqining anʼanaviy oilaviy qadriyatlariga, nikohlanuvchilarning ixtiyoriy roziligiga va teng huquqliligiga asoslanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6445720",
+      "matn": "Davlat oilaning toʻlaqonli rivojlanishi uchun ijtimoiy, iqtisodiy, huquqiy va boshqa shart-sharoitlar yaratadi."
+    }
+  ]
+}

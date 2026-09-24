@@ -1,0 +1,52 @@
+﻿{
+  "n": 265,
+  "sarlavha_id": "-2057054",
+  "sarlavha": "265-modda. Sud ekspertizasini oʻtkazish uchun shaxsni tibbiy muassasaga joylashtirish asoslari va muddatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-2057055",
+      "matn": "Agar sud-tibbiyot yoki sud-psixiatriya ekspertizasini oʻtkazishda ayblanuvchini, sudlanuvchini statsionar koʻrikdan oʻtkazish zarurati vujudga kelsa, ular tegishli tibbiy muassasaga joylashtirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-2057056",
+      "matn": "Ruhiy holati ayblanuvchi tariqasida ishda ishtirok etishga jalb qilish va ayblov eʼlon qilish imkoniyatini istisno etadigan gumon qilinuvchi ham, agar aynan uning ijtimoiy xavfli qilmish sodir etganligiga yetarlicha dalillar mavjud boʻlsa, ekspertiza oʻtkazish uchun tibbiy psixiatriya muassasasiga joylashtirilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-2057057",
+      "matn": "Agar shaxsning gumon qilinuvchi tariqasida boʻlishi muddati statsionar sud-psixiatriya ekspertizasi tamom boʻlguniga qadar tugasa, uning ruhiy holati imkon bersa, unga ayblov eʼlon qilish yoki uni tibbiy psixiatriya muassasasidan ozod qilish yoxud uni tibbiy yoʻsindagi majburlov chorasini qoʻllash boʻyicha ish yuritilayotgan shaxs tariqasida eʼtirof etish toʻgʻrisida qaror chiqarish zarur."
+    },
+    {
+      "q": 4,
+      "id": "-2057058",
+      "matn": "Jabrlanuvchilar va guvohlar tegishli sud ekspertizasini oʻtkazish uchun tibbiy muassasaga majburiy joylashtirilishi mumkin emas, ular gumon qilinuvchining, ayblanuvchining, sudlanuvchining Jinoyat kodeksi 15-moddasining toʻrtinchi va beshinchi qismlarida nazarda tutilgan ogʻir yoki oʻta ogʻir jinoyatlarni sodir etganligini fosh qilayotgan va ular bergan koʻrsatuvlarning ishonchliligini tekshirishning boshqa imkoniyati boʻlmagan hollar bundan mustasno."
+    },
+    {
+      "q": 5,
+      "id": "-2057059",
+      "matn": "Ishni sudga qadar yuritish bosqichida shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi masala ushbu bobda belgilangan tartibda, sudlanuvchini tibbiy muassasaga joylashtirish haqidagi masala esa ushbu Kodeksning 423, 438-moddalarida nazarda tutilgan tartibda sud tomonidan hal qilinadi."
+    },
+    {
+      "q": 6,
+      "id": "-2057060",
+      "matn": "Shaxs tibbiy muassasaga koʻpi bilan bir oy muddatga joylashtirilishi mumkin. Alohida hollarda, shifokorlarning statsionar sud ekspertizasini oʻtkazish davomida olingan xulosasiga asosan, bu muddat sud tomonidan faqat ayblanuvchi va sudlanuvchiga nisbatan bir oygacha uzaytirilishi mumkin. Ayblanuvchining ishni sudga qadar yuritish bosqichida tibbiy muassasada boʻlishi muddatini uzaytirish sud tomonidan prokurorning ushbu bobda belgilangan tartibda kiritilgan iltimosnomasiga binoan, sudlanuvchining tibbiy muassasada boʻlish muddatini uzaytirish esa ushbu Kodeksning 423, 438-moddalarida belgilangan tartibda hal qilinadi."
+    },
+    {
+      "q": 7,
+      "id": "-2057061",
+      "matn": "Ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish toʻgʻrisidagi iltimosnoma ayblanuvchi tibbiy muassasada boʻlishining belgilangan muddati tugashidan kamida olti sutka oldin tegishli prokuror tomonidan kiritiladi."
+    },
+    {
+      "q": 8,
+      "id": "-3696172",
+      "matn": "Ayblanuvchi, sudlanuvchi yoki oʻziga nisbatan tibbiy yoʻsindagi majburlov chorasini qoʻllash boʻyicha ish yuritilayotgan shaxs tibbiy muassasaga joylashtirilayotganda, agar mazkur muassasa qamoqqa olinganlarni yoki uy qamogʻidagi shaxslarni saqlash uchun moslashtirilgan boʻlsa, qamoqqa olish yoxud uy qamogʻi tarzidagi ehtiyot chorasi tanlanishi mumkin. Boshqa holda mazkur ehtiyot chorasi bekor qilinishi yoki yengilrogʻi bilan almashtirilishi kerak."
+    },
+    {
+      "q": 9,
+      "id": "-3696185",
+      "matn": "Gumon qilinuvchining, ayblanuvchining, sudlanuvchining tibbiy muassasada boʻlgan vaqti qamoqda yoki uy qamogʻida saqlash muddatiga qoʻshib hisoblanadi."
+    }
+  ]
+}

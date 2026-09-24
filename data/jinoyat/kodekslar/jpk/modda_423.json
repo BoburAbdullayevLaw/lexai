@@ -1,0 +1,37 @@
+﻿{
+  "n": 423,
+  "sarlavha_id": "-256356",
+  "sarlavha": "423-modda. Sud majlisida ajrim chiqarish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256357",
+      "matn": "Sud muhokamasi vaqtida hal qilinadigan barcha masalalar yuzasidan sud ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-7693075",
+      "matn": "Sud ehtiyot choralarini qoʻllash (oʻzgartirish, bekor qilish) toʻgʻrisidagi, pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish haqidagi, Oʻzbekiston Respublikasidan chiqish huquqini vaqtincha cheklash toʻgʻrisidagi, ayblanuvchini, sudlanuvchini lavozimidan chetlashtirish toʻgʻrisidagi, shaxsni tibbiy muassasaga joylashtirish haqidagi, ayblanuvchining, sudlanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish toʻgʻrisidagi, murdani eksgumatsiya qilish haqidagi, pochta-telegraf joʻnatmalarini xatlash toʻgʻrisidagi, tintuv oʻtkazish haqidagi, telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turishni, ular orqali uzatiladigan axborotni olishni amalga oshirish toʻgʻrisidagi, mol-mulkni xatlash haqidagi, rad qilishlar toʻgʻrisidagi ajrimlarni, boshqa organlarga ijro etish uchun yuboriladigan oʻzga ajrimlarni, shuningdek xususiy ajrimlarni alohida xonada (maslahatxonada) chiqaradi. Bu ajrimlar alohida hujjatlar tarzida rasmiylashtiriladi va sud tomonidan imzolanadi."
+    },
+    {
+      "q": 3,
+      "id": "-3174382",
+      "matn": "Sudlanuvchining boshqa shaxslarga yoki boshqa shaxslarning sudlanuvchiga pochta-telegraf joʻnatmalarini xatlash toʻgʻrisidagi sud ajrimida aloqa muassasasi tomonidan sudga pochta-telegraf joʻnatmalarini yetkazib berish haqida koʻrsatma boʻlishi lozim."
+    },
+    {
+      "q": 4,
+      "id": "-7752546",
+      "matn": "Ushbu Kodeksning 19-moddasida nazarda tutilgan ishni yopiq sud majlisida koʻrish uchun asoslar mavjud boʻlganda sud ishni yopiq sud majlisida koʻrish toʻgʻrisida ajrim chiqaradi."
+    },
+    {
+      "q": 5,
+      "id": "-256359",
+      "matn": "Boshqa barcha ajrimlar sudning xohishi bilan yo yuqorida koʻrsatilgan tartibda, yoki oʻz joyida chiqarilib, bu ajrim sud majlisining bayonnomasiga yozib qoʻyiladi."
+    },
+    {
+      "q": 6,
+      "id": "-256360",
+      "matn": "Sud muhokamasi vaqtida sudning chiqargan har bir ajrimi darhol eʼlon qilinishi lozim."
+    }
+  ]
+}

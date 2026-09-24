@@ -1,0 +1,77 @@
+{
+  "n": "271",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-8282183",
+  "sarlavha": "271-modda. Giyohvandlik vositalarini, psixotrop moddalarni yoki ularning analoglarini qonunga xilof ravishda egallash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282186",
+      "matn": "Giyohvandlik vositalarini, psixotrop moddalarni yoki ularning analoglarini qonunga xilof ravishda, oʻgʻrilik yoki firibgarlik yoʻli bilan egallash — uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268598",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282189",
+          "matn": "takroran, xavfli retsidivist yoki ilgari ushbu Kodeksning 270, 273 — 276⁸-moddalarida nazarda tutilgan jinoyatlarni sodir etgan shaxs tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268607",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268608",
+          "matn": "oʻzlashtirish yoki rastrata qilish yoʻli bilan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-268611",
+          "matn": "talonchilik yoʻli bilan;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-268614",
+          "matn": "mansab mavqeyini suiisteʼmol qilib;"
+        },
+        {
+          "b": "e",
+          "id": "https://lex.uz/docs/-111453#-8282192",
+          "matn": "tovlamachilik yoʻli bilan;"
+        },
+        {
+          "b": "j",
+          "id": "https://lex.uz/docs/-111453#-268622",
+          "matn": "koʻp miqdorda sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268635",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268636",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268637",
+          "matn": "uyushgan guruh yoki uning manfaatlarini koʻzlab;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268638",
+          "matn": "bosqinchilik yoʻli bilan sodir etilgan boʻlsa, — oʻn yildan yigirma yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

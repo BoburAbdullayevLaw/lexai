@@ -1,0 +1,36 @@
+{
+  "n": 288,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271474",
+  "sarlavha": "288-modda. Dezertirlik",
+  "umumiy_sharh": [
+    "Ushbu jinoyatning bevosita obyekti harbiy xizmatni o'tashning o'rnatilgan tartibi hisoblanadi.",
+    "Obyektiv tomondan harbiy xizmatdan butunlay bo'yin tovlash maqsadida harbiy qism yoki xizmat joyini o'zboshimchalik bilan tashlab ketish, shuningdek, shu maqsadda xizmat joyiga yetib kelmaslikda ifodalanadi.",
+    "Dezertirlik deganda, harbiy xizmatdan butunlay bo'yin tovlash maqsadida harbiy qismni yoki xizmat joyini o'zboshimchalik bilan tashlab ketish, shuningdek, o'sha maqsadda xizmat joyiga yetib kelmaslik tushuniladi. Davomiyligi aybdorga jazo tayinlashda ahamiyatga ega.",
+    "Dezertirlik davomli jinoyat hisoblanadi. Aybdorning o'z xohishiga ko'ra harakatlarini to'xtatishi yoki ushlanishigacha davom etishi mumkin.",
+    "Harbiy qism yoki xizmat joyini tashlab ketib muddatida xizmatga kelmagan vaqtdan boshlab dezertirlik tugallangan deb topiladi. Dezertirlikdan o'z xohishi bo'yicha qaytishi faqat harbiy qismni tark etgunigacha yoki xizmatga kelish muddati tugagunigacha mumkin.",
+    "Subyektiv tomondan to'g'ri qasd bilan sodir etiladi. Zaruriy belgisi — maqsad. Aybdor harbiy xizmatdan butunlay bo'yin tovlash maqsadida qaytmayotganligini anglaydi.",
+    "287-moddada nazarda tutilgan jinoyat va dezertirlikni chegaralash faqat sodir etilgan jinoyatning oxirgi maqsadi bilan aniqlanadi — harbiy xizmat o'tashdan butunlay yoki ma'lum vaqtga bosh tortganlikdan o'tkazish lozim.",
+    "Dezertirlikni sodir etgan shaxsning asosiy sabablari harbiy xizmat qiyinchiliklari va mahrumliklarini boshdan kechirishni istamaslik, shaxsiy va oilaviy muammolarni hal qilishga intilish, javobgarlikdan qochish va hokazolar bo'lishi mumkin.",
+    "1-qism subyekti — muddatli xizmatdagi oddiy harbiy xizmatchilar (askarlar, matroslar, serjantlar, starshinalar). Zaxiradagi va harbiy yig'inlarga chaqirilgan fuqarolarga ham tarqaladi.",
+    "Intizomiy tartibga chaqirilgan yoki qamoq ko'rinishidagi jazoni o'tayotgan harbiy xizmatchining gaupvaxtadan qochishi harbiy huquqbuzarlik hisoblanadi.",
+    "Gaupvaxtdan yoki tergov izolatoridan qochishni JKning tegishli moddalari bo'yicha kvalifikatsiya qilish lozim."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271476",
+      "matn": "Dezertirlik, yaʼni harbiy xizmatdan butunlay boʻyin tovlash maqsadida harbiy qism yoki xizmat joyini oʻzboshimchalik bilan tashlab ketish, shuningdek, shu maqsadda xizmat joyiga yetib kelmaslik — besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1563142",
+      "matn": "O'sha qilmish ofitserlar tarkibidan bo'lgan shaxs yoki harbiy xizmatni kontrakt (shartnoma) bo'yicha o'tayotgan harbiy xizmatchi tomonidan sodir etilgan bo'lsa, — besh yildan o'n yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+      "sharh": [
+        "2-qismda ofitserlar va kontraktchilar uchun og'irroq javobgarlik belgilangan.",
+        "Kontrakt bo'yicha harbiy xizmat o'tayotgan harbiy xizmatchilarga nisbatan dezertirlik bir tomonlama kontraktni buzish bilan ifodalanadi.",
+        "Kontrakt bo'yicha harbiy xizmat o'tayotgan harbiy xizmatchilar uchun dezertirlik kontrakt muddati tugagan vaqtdan boshlab tugallangan deb tan olinadi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "n": 520,
+  "sarlavha_id": "-6627541",
+  "sarlavha": "520-modda. Taftish tartibida berilgan shikoyatni, protestni (xususiy shikoyatni, xususiy protestni) qaytarib olish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627542",
+      "matn": "Taftish tartibida shikoyat, protest (xususiy shikoyat, xususiy protest) bergan shaxs oʻz shikoyatini, protestini (xususiy shikoyatini, xususiy protestini) qaytarib olishga haqlidir. Yuqori turuvchi prokuror ham protestni (xususiy protestni) qaytarib olishga haqli. Mahkum oʻz himoyachisining shikoyatini (xususiy shikoyatini) qaytarib olishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6627543",
+      "matn": "Mahkumning himoyachisi, qonuniy vakili oʻz shikoyatini (xususiy shikoyatini) faqat mahkumning roziligi bilan qaytarib olishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-6627544",
+      "matn": "Taftish tartibida berilgan shikoyatni, protestni (xususiy shikoyatni, xususiy protestni) qaytarib olishga sud maslahatxonaga kirguniga qadar yoʻl qoʻyiladi."
+    },
+    {
+      "q": 4,
+      "id": "-6627545",
+      "matn": "Shikoyat, protest (xususiy shikoyat, xususiy protest), shuningdek uni qaytarib olish toʻgʻrisidagi hujjat ishda qoldiriladi."
+    }
+  ]
+}

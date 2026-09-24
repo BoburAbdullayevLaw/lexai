@@ -1,0 +1,49 @@
+﻿{
+  "n": 516,
+  "sarlavha_id": "-6627517",
+  "sarlavha": "516-modda. Taftish tartibida beriladigan, bildiriladigan shikoyatning, protestning (xususiy shikoyatning, xususiy protestning) mazmuni",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627518",
+      "matn": "Taftish tartibida beriladigan (bildiriladigan) shikoyatda, protestda (xususiy shikoyatda, xususiy protestda) quyidagilar koʻrsatilishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6627520",
+          "matn": "shikoyat, protest (xususiy shikoyat, xususiy protest) yuborilayotgan, ishni taftish tartibida koʻradigan sudning nomi;"
+        },
+        {
+          "b": 2,
+          "id": "-6627521",
+          "matn": "shikoyat, protest (xususiy shikoyat, xususiy protest) bergan shaxs, uning protsessual mavqeyi, uning yashash joyi yoki turgan joyi toʻgʻrisidagi maʼlumotlar;"
+        },
+        {
+          "b": 3,
+          "id": "-6627522",
+          "matn": "hukm, ajrim chiqargan sudning nomi, hukm, ajrim chiqarilgan sana, sud ishining raqami, shikoyat, protest (xususiy shikoyat, xususiy protest) berilayotgan hukm, ajrim kimga nisbatan chiqarilgan boʻlsa, oʻsha shaxs toʻgʻrisidagi maʼlumotlar, apellyatsiya, kassatsiya instansiyasi sudining nomi;"
+        },
+        {
+          "b": 4,
+          "id": "-6627523",
+          "matn": "shikoyat, protest (xususiy shikoyat, xususiy protest) berayotgan shaxsning fikriga koʻra hukmning, ajrimning notoʻgʻriligi nimadan iborat ekanligiga doir vajlari, sudga qadar ish yuritishni yoki sud muhokamasini amalga oshirish chogʻida qaror qabul qilishga taʼsir koʻrsatgan qonunning qaysi normalari buzilganligi toʻgʻrisidagi vajlari, shuningdek uning iltimosining mazmuni;"
+        },
+        {
+          "b": 5,
+          "id": "-6627524",
+          "matn": "shaxs oʻz talablarini asoslayotgan dalillar;"
+        },
+        {
+          "b": 6,
+          "id": "-6627525",
+          "matn": "shikoyatga, protestga (xususiy shikoyatga, xususiy protestga) ilova qilinayotgan materiallar roʻyxati;"
+        },
+        {
+          "b": 7,
+          "id": "-6627526",
+          "matn": "shikoyat, protest (xususiy shikoyat, xususiy protest) berilgan sana, shikoyat (xususiy shikoyat) bergan, protest (xususiy protest) bildirgan shaxsning imzosi."
+        }
+      ]
+    }
+  ]
+}

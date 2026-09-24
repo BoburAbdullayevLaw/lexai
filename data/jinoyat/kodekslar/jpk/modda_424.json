@@ -1,0 +1,27 @@
+﻿{
+  "n": 424,
+  "sarlavha_id": "-256361",
+  "sarlavha": "424-modda. Sud majlisining tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256363",
+      "matn": "Sudyalar kirib kelayotganda sud majlisi zalida hozir boʻlganlarning hammasi oʻrinlaridan turadilar."
+    },
+    {
+      "q": 2,
+      "id": "-256364",
+      "matn": "Sud protsessining barcha ishtirokchilari sudga tik turgan holda murojaat qiladilar, koʻrsatuvlar beradilar va bayonotlar qiladilar. Ushbu qoidadan faqat raislik qiluvchining ruxsati bilangina chetga chiqilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-256365",
+      "matn": "Sud protsessining barcha ishtirokchilari, shuningdek sud zalida hozir boʻlgan barcha shaxslar raislik qiluvchining sud majlisida belgilangan tartibga rioya qilish toʻgʻrisidagi farmoyishlarini soʻzsiz bajarishlari lozim."
+    },
+    {
+      "q": 4,
+      "id": "-256366",
+      "matn": "Oʻn olti yoshga toʻlmagan shaxslar, basharti ular sudlanuvchi, jabrlanuvchi, guvoh boʻlmasalar, sud majlisi zaliga kiritilmaydilar."
+    }
+  ]
+}

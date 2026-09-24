@@ -1,0 +1,17 @@
+﻿{
+  "n": 190,
+  "sarlavha_id": "-254479",
+  "sarlavha": "190-modda. Namuna olinishi mumkin boʻlgan shaxslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254480",
+      "matn": "Ekspert tekshiruvi uchun namunalar gumon qilinuvchidan, ayblanuvchidan, sudlanuvchidan, jabrlanuvchidan, shuningdek tibbiy yoʻsindagi majburlov choralarini qoʻllash boʻyicha ustidan ish yuritilayotgan shaxsdan olinishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-254481",
+      "matn": "Hodisa sodir boʻlgan joyda yoki ashyoviy dalillarda boshqa shaxslar tomonidan ham iz qoldirilgan boʻlishi mumkinligi toʻgʻrisida yetarlicha asoslar boʻlgan taqdirda shu shaxslardan ham ekspert tekshiruvi uchun namuna olinishi mumkin."
+    }
+  ]
+}

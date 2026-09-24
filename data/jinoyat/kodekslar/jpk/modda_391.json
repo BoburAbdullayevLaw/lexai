@@ -1,0 +1,22 @@
+﻿{
+  "n": 391,
+  "sarlavha_id": "-256172",
+  "sarlavha": "391-modda. Jinoyat ishining hududiy jihatdan sudlovga tegishliligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256173",
+      "matn": "Jinoyat ishi jinoyat sodir etilgan joydagi sudda koʻriladi."
+    },
+    {
+      "q": 2,
+      "id": "-3352140",
+      "matn": "Jinoyat sodir etilgan joyni aniqlash imkoniyati boʻlmasa, ish dastlabki tergov yoki surishtiruv tamom boʻlgan hududdagi sud tomonidan koʻriladi."
+    },
+    {
+      "q": 3,
+      "id": "-256175",
+      "matn": "Uzoqqa choʻzilgan yoki davomli jinoyatlarga doir ishlar jinoyat qaysi hududda tamomlangan yoki toʻxtatilgan boʻlsa, shu hududdagi sudning sudloviga tegishli boʻladi."
+    }
+  ]
+}

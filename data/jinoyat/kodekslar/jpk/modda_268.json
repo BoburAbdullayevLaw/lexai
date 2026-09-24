@@ -1,0 +1,49 @@
+﻿{
+  "n": 268,
+  "sarlavha_id": "-2057086",
+  "sarlavha": "268-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-2057089",
+      "matn": "Sudya shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi iltimosnomani koʻrib chiqib, shaxsni tibbiy muassasaga joylashtirish toʻgʻrisida yoki shaxsni tibbiy muassasaga joylashtirishni rad qilish haqida ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-2057090",
+      "matn": "Sudning shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi ajrimida: tibbiy muassasaga joylashtiriladigan shaxs haqidagi maʼlumotlar; uning protsessual holati; shaxs joylashtirilayotgan tibbiy muassasaning nomi; shaxsni tibbiy muassasaga joylashtirish asoslari; ehtiyot chorasi toʻgʻrisidagi qaror, zarur hollarda esa, shaxsni mazkur muassasaga koʻchirish toʻgʻrisidagi farmoyish koʻrsatiladi."
+    },
+    {
+      "q": 3,
+      "id": "-2057091",
+      "matn": "Sudya ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish toʻgʻrisidagi iltimosnomani koʻrib chiqib, ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish haqida yoki ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirishni rad qilish toʻgʻrisida ajrim chiqaradi."
+    },
+    {
+      "q": 4,
+      "id": "-2057092",
+      "matn": "Ushbu moddaning birinchi va uchinchi qismlarida nazarda tutilgan sud ajrimi oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi. Ajrim ijro uchun prokurorga, maʼlumot uchun esa himoyachiga, jabrlanuvchining vakiliga, guvohning advokatiga, qonuniy vakilga yuboriladi."
+    },
+    {
+      "q": 5,
+      "id": "-7355397",
+      "matn": "Ushbu moddaning birinchi va uchinchi qismlarida nazarda tutilgan sud ajrimi ustidan mazkur ajrim chiqarilgan kundan eʼtiboran yetmish ikki soat ichida tibbiy muassasaga joylashtirilayotgan shaxs, uning himoyachisi, jabrlanuvchining vakili, guvohning advokati va qonuniy vakil tomonidan apellyatsiya tartibida shikoyat berilishi yoxud prokuror tomonidan protest bildirilishi mumkin. Shikoyat, protest ajrim chiqargan sud orqali beriladi, mazkur sud ularni qirq sakkiz soat ichida materiallar bilan birga apellyatsiya instansiyasi sudiga yuborishi shart. Shikoyat yoki protest berilishi sud ajrimining ijrosini toʻxtatib qoʻymaydi. Apellyatsiya instansiyasi sudining sudyasi ushbu materiallarni shikoyat yoki protest bilan birga kelib tushgan paytdan eʼtiboran yetmish ikki soatdan kechiktirmay yakka tartibda koʻrib chiqishi kerak."
+    },
+    {
+      "q": 6,
+      "id": "-2057094",
+      "matn": "Apellyatsiya instansiyasi sudi apellyatsiya shikoyatini, protestini koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-2057095",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni yoki protestni esa qanoatlantirishsiz qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "-2057096",
+          "matn": "sudyaning ajrimini bekor qilish va shaxsni tibbiy muassasaga joylashtirish tarzidagi protsessual majburlov chorasini qoʻllashga yoki ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirishga yoxud mazkur protsessual majburlov chorasini bekor qilishga haqli."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "n": 136,
+  "sarlavha_id": "-254109",
+  "sarlavha": "136-modda. Koʻzdan kechirish tartibining umumiy qoidalari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3349114",
+      "matn": "Tergovga qadar tekshiruv, surishtiruv yoki dastlabki tergov bosqichida koʻzdan kechirish xolislar ishtirokida oʻtkaziladi. Jinoyat ishi koʻrilayotgan vaqtda koʻzdan kechirishga zarurat tugʻilsa, sud bu haqda ajrim chiqaradi va koʻzdan kechirishni taraflar ishtirokida oʻtkazadi."
+    },
+    {
+      "q": 2,
+      "id": "-3349117",
+      "matn": "Zarur hollarda tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi yoki sud koʻzdan kechirish chogʻida oʻlchov oʻtkazadi, fotosuratga, kinotasvirga, videoyozuvga tushiradi, rejalar, sxemalar, chizmalar tuzadi, izlardan qoliplar va nusxalar oladi. Bu ishlarni bajarishga yordam berish uchun koʻzdan kechirishga mutaxassislar jalb qilinishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254115",
+      "matn": "Koʻzdan kechirish chogʻida topilgan va olib qoʻyilgan barcha narsalar xolislarga, taraflarga va koʻzdan kechirishning boshqa ishtirokchilariga koʻrsatilishi lozim."
+    },
+    {
+      "q": 4,
+      "id": "-254117",
+      "matn": "Koʻzdan kechirishda ishtirok etayotgan shaxslar surishtiruvchi, tergovchi va sudning eʼtiborini oʻzlarining fikricha ish holatlarini oydinlashtirishga yordam berishi mumkin boʻlgan barcha hollarga qaratishga haqlidirlar."
+    }
+  ]
+}

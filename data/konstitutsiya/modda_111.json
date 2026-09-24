@@ -1,0 +1,23 @@
+{
+  "n": "111",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445987",
+  "sarlavha": "111-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445988",
+      "matn": "Qonunchilik palatasi yoki Senat tarkibida ularning normal faoliyatiga tahdid soluvchi hal qilib boʻlmaydigan ixtiloflar yuz berganda yoxud ular bir necha marta Oʻzbekiston Respublikasining Konstitutsiyasiga zid qarorlar qabul qilgan taqdirda, shuningdek Qonunchilik palatasi bilan Senat oʻrtasida Oʻzbekiston Respublikasi Oliy Majlisining normal faoliyatiga tahdid soluvchi hal qilib boʻlmaydigan ixtiloflar yuz berganda Oʻzbekiston Respublikasi Prezidentining Oʻzbekiston Respublikasi Konstitutsiyaviy sudi bilan bamaslahat qabul qilgan qarori asosida Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi, Senati tarqatib yuborilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-6445989",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi, Senati tarqatib yuborilgan taqdirda yangi saylov uch oy mobaynida oʻtkaziladi."
+    },
+    {
+      "q": 3,
+      "id": "-6445990",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi va Senati favqulodda holat amal qilishi davrida tarqatib yuborilishi mumkin emas."
+    }
+  ]
+}

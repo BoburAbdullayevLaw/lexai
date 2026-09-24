@@ -1,0 +1,17 @@
+﻿{
+  "n": 210,
+  "sarlavha_id": "-254567",
+  "sarlavha": "210-modda. Jinoyat ishini yuritish tamom boʻlgunga qadar ashyoviy dalillar toʻgʻrisida qabul qilinadigan qarorlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254568",
+      "matn": "Ashyoviy dalillardan: tez buziladigan narsalar, kundalik roʻzgʻorda zarur boʻladigan narsalar; uy hayvonlari, parrandalar va boqish lozim boʻlgan boshqa hayvonlar zarur tergov harakatlari oʻtkazilgach, kechiktirmay egalariga qaytarib berilishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-254569",
+      "matn": "Tez buziladigan narsalar yoki uy hayvonlari, parrandalar va boshqa hayvonlarning qonuniy egasi yoxud mulkdori nomaʼlum boʻlgan yoki boshqa sabablarga koʻra ularni qaytarib berish mumkin boʻlmagan hollarda ular qarab turish yoki belgilangan maqsadga muvofiq foydalanish uchun tegishli korxona, muassasa, tashkilotga topshirilishi lozim."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿{
+  "n": 534,
+  "sarlavha_id": "-257043",
+  "sarlavha": "534-modda. Kasalligi tufayli jazoni oʻtashdan ozod qilish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4516348",
+      "matn": "Mahkum jazoni oʻtayotgan vaqtida jazoni oʻtashga monelik qiladigan ruhiy holatining surunkali buzilishi yuzaga kelgan yoki boshqa ogʻir kasallikka duchor boʻlgan taqdirda sudya jazoning ijro qilinishiga mutasaddi organning taqdimnomasiga binoan, maxsus tibbiy komissiyaning xulosasiga asosan mahkumni oʻtalmay qolgan jazoni oʻtashdan ozod qilish toʻgʻrisida ajrim chiqarishga haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-4516352",
+      "matn": "Ruhiy holatining surunkali buzilishi yuzaga kelgan mahkumni oʻtalmay qolgan jazodan ozod qilishda sudya unga nisbatan tibbiy yoʻsindagi majburlov chorasini tayinlashga yoxud uni sogʻliqni saqlash organlari yoki qarindoshlari vasiyligiga berishga haqlidir."
+    },
+    {
+      "q": 3,
+      "id": "-257046",
+      "matn": "Bunday shaxslar sogʻaygan taqdirda, basharti bu hol jazoning ijro etish muddati tugashiga qadar sodir boʻlsa, sud tayinlangan jazoni ijro etish toʻgʻrisida ajrim chiqaradi."
+    },
+    {
+      "q": 4,
+      "id": "-4516357",
+      "matn": "Ruhiy holatining buzilishi yuzaga kelgan shaxslardan tashqari, ogʻir kasallikka duchor boʻlgan shaxslarni oʻtalmay qolgan jazodan ozod qilish masalasini hal etishda sudya sodir etilgan jinoyatning ogʻirligini, mahkumning shaxsini va boshqa holatlarni hisobga oladi."
+    },
+    {
+      "q": 5,
+      "id": "-257048",
+      "matn": "Mahkumni oʻtalmay qolgan jazodan kasalligi tufayli ozod qilganda sudya uni faqat asosiy jazodan emas, balki qoʻshimcha jazo chorasidan ham ozod qilishga haqli, bu ajrimda koʻrsatilishi lozim."
+    }
+  ]
+}

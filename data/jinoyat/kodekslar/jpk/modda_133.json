@@ -1,0 +1,32 @@
+﻿{
+  "n": 133,
+  "sarlavha_id": "-254082",
+  "sarlavha": "133-modda. Koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254084",
+      "matn": "Koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirishni surishtiruvchi yoki tergovchi xolislar ishtirokida, sud esa taraflar ishtirokida oʻtkazadi. Koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirishga mutaxassislar va ekspertlar jalb qilinishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-254085",
+      "matn": "Surishtiruvchi, tergovchi yoki sud taraflar va bu tergov harakatining boshqa qatnashchilari ishtirokida tekshiriladigan koʻrsatuvlarni eʼlon qiladi, koʻrsatuv bergan shaxsdan ularning toʻgʻri yoki notoʻgʻriligini, qoʻshimcha va oʻzgartirishlar kiritishga ehtiyoj bor yoki yoʻqligini soʻraydi, tekshirishning maqsadi va tartibini tushuntiradi. Basharti guvoh yoki jabrlanuvchining koʻrsatuvlari tekshirilayotgan boʻlsa, ular, oʻn olti yoshga toʻlmagan shaxslarni istisno qilganda, koʻrsatuv berishdan bosh tortganlik va bila turib yolgʻon koʻrsatuv berganlik uchun jinoiy javobgarlikka tortilish haqida ogohlantirilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-254088",
+      "matn": "Bir vaqtning oʻzida bir necha shaxsning koʻrsatuvlarini hodisa sodir boʻlgan joyda tekshirishga yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 4,
+      "id": "-7234225",
+      "matn": "Koʻrsatuvlarni hodisa sodir boʻlgan joyda tekshirish quyidagilardan iborat boʻlishi mumkin: koʻrsatuv bergan shaxs tekshirilayotgan hodisaning sharoit va holatini joyida tiklaydi; ish uchun ahamiyatli boʻlgan narsalarni, hujjatlarni, elektron maʼlumotlarni, izlarni qidirib topadi va koʻrsatadi; ayrim harakatlarni namoyish qiladi; tekshirilayotgan hodisada u yoki bu narsaning qanday ahamiyati boʻlganligini koʻrsatadi; hodisa sodir boʻlgan joyda sharoitning oʻzgarganligiga eʼtiborni qaratadi; oʻzining avvalgi koʻrsatuvlarini aniqlashtiradi va ularga oydinlik kiritadi. Bu harakatlar vaqtida chetdan aralashishga, gap oʻrgatishga va ishora qiluvchi savollar berishga yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 5,
+      "id": "-254093",
+      "matn": "Koʻrsatuvi tekshirilayotgan shaxs erkin soʻzlab bergach va harakatlarni erkin namoyish qilib boʻlgach, unga savollar berilishi mumkin. Koʻrsatuvni hodisa sodir boʻlgan joyda tekshirishda qatnashayotgan shaxslar surishtiruvchi, tergovchi va sudning eʼtiborini, ularning fikricha ish holatlarini aniqlashtirishga yordam beradigan barcha narsalarga qaratishga, baʼzi harakatlarning takrorlanishini talab qilishga haqlidir. Koʻrsatuvlari hodisa sodir boʻlgan joyda tekshirilayotgan shaxs va tergov harakatining boshqa ishtirokchilari oʻtkazilayotgan tergov harakati yuzasidan ularni qoʻshimcha ravishda soʻroq qilishni talab etishga haqlidir."
+    }
+  ]
+}

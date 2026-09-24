@@ -1,0 +1,85 @@
+{
+  "n": 247,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-6047501",
+  "sarlavha": "247-modda. Oʻqotar qurolni, oʻq-dorilarni, oʻqotar qurolning asosiy qismlarini, portlovchi moddalarni, portlatish vositalarini yoki portlatish qurilmalarini qonunga xilof ravishda egallash",
+  "umumiy_sharh": [
+    "Sharhlanayotgan jinoyatning obyekti jamoat xavfsizligi hisoblandi.",
+    "O'qotar qurol, o'q-dorilar, portlovchi moddalar yoki portlatish qurilmalari jinoyatning predmeti hisoblanadi.",
+    "O'qotar qurol deganda, otish uchun porox gazlarining kuchidan foydalaniladigan barcha turdagi jangovar, sport va ov qurollari tushunilishi lozim.",
+    "O'qotar qurolning ahamiyatli belgilaridan biri, undan snaryad (o'q)ning porox gazlari yordamida otilishi.",
+    "Predmet o'qotar qurol deb tan olinishi uchun uni tayyorlash uslubi (zavod yoki uyda) ahamiyatga ega emas.",
+    "O'q-dorilar deganda, qurol uchun lozim bo'lgan o'qlar, artilleriya snaryadlari, bombalar, minalar, granatalar, raketalarning jangovar qismlari tushuniladi.",
+    "Portlovchi moddalar – porox, dinamit, trotil, nitrogli tserin va boshqa portlash xususiyatiga ega bo'lgan kimyoviy moddalar va aralashmalardir.",
+    "Portlovchi qurilmalar portlovchi modda va portlashni amalga oshirish uchun mo'ljallangan konstruktiv maxsus qurilmadan tashkil topgan.",
+    "Birinchi qism obyektiv tomondan o'qotar qurolni, o'q-dorilarni, portlovchi moddalarni yoki portlatish qurilmalarini o'g'rilab yoki tovlamachilik yo'li bilan egallashdan iboratdir.",
+    "Ikkinchi qismda jinoyatni takroran sodir etish, bir guruh shaxslar tomonidan oldindan til biriktirib, o'zlashtirish yoki rastrata qilish, talonchilik, tamagirlik yo'li bilan egallash uchun javobgarlik nazarda tutilgan.",
+    "Uchinchi qismda bosqinchilik yo'li bilan, o'ta xavfli retsidivist tomonidan, uyushgan guruh tomonidan sodir etilganda og'irroq javobgarlik belgilangan.",
+    "Jinoyat ular olingan vaqtdan boshlab tugallangan jinoyat hisoblanishi kerak.",
+    "Aybdor ishlatishga yaroqsiz qurolni egallagan va ularning sifatiga nisbatan yanglishib yaroqli deb hisoblagan bo'lsa, jinoyatga suiqasd tariqasida kvalifikatsiya qilinadi.",
+    "Egallash javobgarligi qurol qonunga xilof ravishda korxona, tashkilotlardan yoki fuqarolardan olingan hollarda ham yuzaga keladi.",
+    "O'g'rilik, firibgarlik, o'zlashtirish yo'li bilan egallash faqat sanksiya og'irroq jazoni ko'zda tutgan hollardagina majmui bilan kvalifikatsiya qilinishi lozim.",
+    "Tergov va sudda o'qotar qurol, o'q-dorilar, portlovchi moddalar manbalarini aniqlash lozim."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6047505",
+      "matn": "Oʻqotar qurolni, oʻq-dorilarni, oʻqotar qurolning asosiy qismlarini, portlovchi moddalarni, portlatish vositalarini yoki portlatish qurilmalarini oʻgʻrilik yoki firibgarlik yoʻli bilan egallash — uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-267156",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-267157",
+          "matn": "takroran;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-267158",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-267159",
+          "matn": "oʻzlashtirish, rastrata qilish yoxud mansab mavqeyini suiisteʼmol qilish yoʻli bilan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-267160",
+          "matn": "talonchilik;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-267161",
+          "matn": "tamagirlik yoʻli bilan sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-267165",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-267166",
+          "matn": "bosqinchilik yoʻli bilan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-267167",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-267168",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — oʻn yildan yigirma yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

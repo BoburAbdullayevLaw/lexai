@@ -1,0 +1,43 @@
+{
+  "n": "28",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445509",
+  "sarlavha": "28-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445510",
+      "matn": "Jinoyat sodir etganlikda ayblanayotgan shaxs uning aybi qonunda nazarda tutilgan tartibda oshkora sud muhokamasi yoʻli bilan isbotlanmaguncha va sudning qonuniy kuchga kirgan hukmi bilan aniqlanmaguncha aybsiz deb hisoblanadi. Ayblanuvchiga oʻzini himoya qilish uchun barcha imkoniyatlar taʼminlanadi."
+    },
+    {
+      "q": 2,
+      "id": "-6445512",
+      "matn": "Aybdorlikka oid barcha shubhalar, agar ularni bartaraf etish imkoniyatlari tugagan boʻlsa, gumon qilinuvchining, ayblanuvchining, sudlanuvchining yoki mahkumning foydasiga hal qilinishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "-6445513",
+      "matn": "Gumon qilinuvchi, ayblanuvchi yoki sudlanuvchi oʻzining aybsizligini isbotlashi shart emas va istalgan vaqtda sukut saqlash huquqidan foydalanishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-6445514",
+      "matn": "Hech kim oʻziga va yaqin qarindoshlariga qarshi guvohlik berishga majbur emas."
+    },
+    {
+      "q": 5,
+      "id": "-6445515",
+      "matn": "Agar shaxsning oʻz aybini tan olganligi unga qarshi yagona dalil boʻlsa, u aybdor deb topilishi yoki jazoga tortilishi mumkin emas."
+    },
+    {
+      "q": 6,
+      "id": "-6445516",
+      "matn": "Ozodlikdan mahrum etilgan shaxslar oʻziga nisbatan insoniy muomalada boʻlinishi hamda inson shaxsiga xos boʻlgan shaʼni va qadr-qimmati hurmat qilinishi huquqiga ega."
+    },
+    {
+      "q": 7,
+      "id": "-6445517",
+      "matn": "Shaxsning sudlanganligi va bundan kelib chiqadigan huquqiy oqibatlar uning qarindoshlari huquqlarini cheklash uchun asos boʻlishi mumkin emas."
+    }
+  ]
+}

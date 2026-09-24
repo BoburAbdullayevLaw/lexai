@@ -1,0 +1,22 @@
+﻿{
+  "n": 146,
+  "sarlavha_id": "-254151",
+  "sarlavha": "146-modda. Guvohlantirishni oʻtkazish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254152",
+      "matn": "Guvohlantirishni oʻtkazish haqidagi qaror yoki ajrim guvohlantiriluvchiga eʼlon qilinadi. Guvohlantirishning barcha ishtirokchilariga ularning huquq va burchlari tushuntirilishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-254153",
+      "matn": "Shaxsni yechintirib yalangʻochlash, shuningdek uning badanidagi tirnalgan, shilingan, qontalash joylarni aniqlash bilan bogʻliq boʻlmagan guvohlantirish surishtiruvchi yoki tergovchi tomonidan xolislar ishtirokida, zarur hollarda esa, shifokor yoki boshqa mutaxassis ishtirokida oʻtkaziladi. Ushbu turdagi guvohlantirish taraflar ishtirokida sud tomonidan ham oʻtkazilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254154",
+      "matn": "Shaxsni yechintirib yalangʻochlash yoki uning badanidagi tirnalgan, shilingan, qontalash joylarni aniqlash bilan bogʻliq boʻlgan, shuningdek ushbu Kodeks 142-moddasining ikkinchi bandida nazarda tutilgan guvohlantirish surishtiruvchi, tergovchi yoki sudning topshirigʻiga binoan shifokor yoxud boshqa mutaxassis tibbiy xodim tomonidan oʻtkaziladi."
+    }
+  ]
+}

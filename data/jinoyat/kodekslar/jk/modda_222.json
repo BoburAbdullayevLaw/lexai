@@ -1,0 +1,48 @@
+{
+  "n": 222,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-321208",
+  "sarlavha": "222-modda. Qamoqdan yoki qoʻriqlov ostidagi saqlash joyidan qochish",
+  "umumiy_sharh": [
+    "Dastlabki tergov olib boruvchi huquqni muhofaza qiluvchi organlar va ozodlikdan mahrum qilish jazosini ijro etish muassasalarining bir me'yordagi faoliyati jinoyat obyekti hisoblanadi.",
+    "Obyektiv tomondan jinoyat qamoq yoki qo'riqlov ostidagi saqlash joyidan qochishda ifodalanadi.",
+    "Qamoqqa olish – jinoyat sodir etishda gumon qilinuvchi, ayblanuvchi, sudlanuvchi yoki ozodlikdan mahrum qilingan mahkumlarga nisbatan qo'llaniladigan ehtiyot chorasi.",
+    "Tergov hibsxonasi dastlabki tergov o'tkazilayotgan vaqtda gumon qilinuvchi va ayblanuvchilarga nisbatan qo'llaniladigan maxsus joy.",
+    "Qochish turli usullarda amalga oshirilishi mumkin: kuch ishlatish, soxta hujjatlar, pora berish, aldash va boshqalar.",
+    "Ozodlikdan mahrum qilish jazosini ijro etish muassasalari voyaga yetganlarga nisbatan koloniyalar va turmalarda, voyaga yetmaganlarga nisbatan tarbiya koloniyalarida amalga oshiriladi.",
+    "Qochgan shaxs ushlangan yoki o'z aybini bo'yniga olgan vaqtdan boshlab jinoyat tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat qasddan, to'g'ri qasd bilan sodir etiladi.",
+    "O'n to'rt yoshga to'lgan, qamoq yoki ozodlikdan mahrum qilish muassasalarida jazoni o'tayotgan shaxslar jinoyat subyekti bo'lishi mumkin.",
+    "Qochish og'ir tan jarohati yetkazish yoki o'limga olib kelgan hollarda jinoyatlar majmui bo'yicha kvalifikatsiya qilinishi lozim.",
+    "Bir guruh shaxslar tomonidan qochishni kvalifikatsiya qilish uchun oldindan kelishuvning mavjudligi shart emas."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-321210",
+      "matn": "Qamoqda saqlanayotgan yoki ozodlikdan mahrum qilish tariqasidagi jazoni oʻtayotgan shaxsning qamoqdan yoki qoʻriqlov ostidagi saqlash joyidan qochishi — besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-321213",
+      "matn": "Qochish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-321215",
+          "matn": "badanga yengil yoki oʻrtacha ogʻir shikast yetkazgan holda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-321216",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-321217",
+          "matn": "bir guruh shaxslar tomonidan sodir etilgan boʻlsa — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "n": "92",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445777",
+  "sarlavha": "92-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445778",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi qonunga muvofiq saylanadigan bir yuz ellik deputatdan iborat."
+    },
+    {
+      "q": 2,
+      "id": "-6445780",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Senati hududiy vakillik palatasi boʻlib, Senat aʼzolaridan (senatorlardan) iborat."
+    },
+    {
+      "q": 3,
+      "id": "-6445781",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Senati aʼzolari Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesi, viloyatlar, tumanlar va shaharlar davlat hokimiyati vakillik organlari deputatlarining tegishli qoʻshma majlislarida mazkur deputatlar orasidan yashirin ovoz berish yoʻli bilan Qoraqalpogʻiston Respublikasi, viloyatlar va Toshkent shahridan teng miqdorda — toʻrt kishidan saylanadi. Oʻzbekiston Respublikasi Oliy Majlisi Senatining toʻqqiz nafar aʼzosi fan, sanʼat, adabiyot, ishlab chiqarish sohasida hamda davlat va jamiyat faoliyatining boshqa tarmoqlarida katta amaliy tajribaga ega boʻlgan hamda alohida xizmat koʻrsatgan eng obroʻli fuqarolar orasidan Oʻzbekiston Respublikasi Prezidenti tomonidan tayinlanadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445782",
+      "matn": "Saylov kuni yigirma besh yoshga toʻlgan hamda kamida besh yil Oʻzbekiston Respublikasi hududida muqim yashayotgan Oʻzbekiston Respublikasi fuqarosi Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputati, shuningdek Oʻzbekiston Respublikasi Oliy Majlisining Senati aʼzosi boʻlishi mumkin. Deputatlikka nomzodlarga qoʻyiladigan talablar qonun bilan belgilanadi."
+    },
+    {
+      "q": 5,
+      "id": "-6445783",
+      "matn": "Ayni bir shaxs bir paytning oʻzida Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputati va Senati aʼzosi boʻlishi mumkin emas."
+    },
+    {
+      "q": 6,
+      "id": "-6445784",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining deputati bir vaqtning oʻzida Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesining, viloyatlar, tumanlar, shaharlar davlat hokimiyati vakillik organlarining deputati boʻlishi mumkin emas."
+    }
+  ]
+}

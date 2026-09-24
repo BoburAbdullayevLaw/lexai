@@ -1,0 +1,29 @@
+﻿{
+  "n": 330,
+  "sarlavha_id": "-255449",
+  "sarlavha": "330-modda. Jinoyatga oid maʼlumotlarni koʻrib chiqish natijasida qabul qilinadigan qarorlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3351098",
+      "matn": "Jinoyatga oid maʼlumotlar olingan yoki bunday maʼlumotlar bevosita aniqlangan har bir holda quyidagi qarorlardan biri qabul qilinadi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255459",
+          "matn": "jinoyat ishini qoʻzgʻatish haqida;"
+        },
+        {
+          "b": 2,
+          "id": "-255460",
+          "matn": "ishni qoʻzgʻatishni rad qilish haqida;"
+        },
+        {
+          "b": 3,
+          "id": "-255462",
+          "matn": "ariza yoki xabarni tergovga tegishliligiga qarab yuborish haqida."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "n": 256,
+  "sarlavha_id": "-2057011",
+  "sarlavha": "256-modda. Ishni sudga qadar yuritish bosqichida ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida iltimosnoma qoʻzgʻatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3350560",
+      "matn": "Ayblanuvchini lavozimidan chetlashtirish uchun asoslar mavjud boʻlganda prokuror, tergovchi va surishtiruvchi ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida iltimosnoma qoʻzgʻatish haqida mazkur protsessual majburlov chorasini qoʻllash asoslarini bayon etgan holda qaror chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-2057013",
+      "matn": "Ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida iltimosnoma qoʻzgʻatish haqidagi qarorda: lavozimidan chetlashtiriladigan shaxs haqidagi maʼlumotlar; uning ish joyi; lavozimdan chetlashtirish asoslari koʻrsatiladi. Qarorga iltimosnomani asoslovchi zarur materiallar ilova qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-3350568",
+      "matn": "Surishtiruvchining, tergovchining ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida iltimosnoma qoʻzgʻatish haqidagi qarori va zarur materiallar prokurorga yuboriladi."
+    },
+    {
+      "q": 4,
+      "id": "-2057015",
+      "matn": "Prokuror ayblanuvchini lavozimidan chetlashtirish toʻgʻrisidagi iltimosnomaning asosliligini tekshirib, unga rozi boʻlgan taqdirda, ayblanuvchini lavozimidan chetlashtirish toʻgʻrisida iltimosnoma qoʻzgʻatish haqidagi qarorni va zarur materiallarni sudga yuboradi."
+    }
+  ]
+}

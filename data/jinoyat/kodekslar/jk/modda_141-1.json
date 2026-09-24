@@ -1,0 +1,35 @@
+{
+  "n": "141-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3035061",
+  "sarlavha": "141¹-modda. Shaxsiy hayot daxlsizligini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3035063",
+      "matn": "Shaxsning shaxsiy yoki oilaviy sirini tashkil etuvchi shaxsiy hayoti toʻgʻrisidagi maʼlumotlarni uning roziligisiz qonunga xilof ravishda yigʻish yoki tarqatish, shunday harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3035067",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3035068",
+          "matn": "ogʻir oqibatlarga olib kelgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3035069",
+          "matn": "gʻarazli niyatlarda sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3035070",
+          "matn": "xavfli retsidivist tomonidan sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan ikki yuz baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

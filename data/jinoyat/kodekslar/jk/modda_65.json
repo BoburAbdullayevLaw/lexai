@@ -1,0 +1,18 @@
+{
+  "n": 65,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195050",
+  "sarlavha": "65-modda. Qilmish yoki shaxs ijtimoiy xavfliligini yoʻqotganligi munosabati bilan javobgarlikdan ozod qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195051",
+      "matn": "Ishni tergov qilish yoki sudda koʻrish vaqtida sharoit oʻzgarganligi tufayli sodir etilgan qilmish oʻzining ijtimoiy xavfliligini yoʻqotgan deb topilsa, jinoyat sodir etgan shaxs javobgarlikdan ozod qilinishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195052",
+      "matn": "Ishni tergov qilish yoki sudda koʻrish vaqtida sharoit oʻzgarganligi tufayli jinoyat sodir etgan shaxs ijtimoiy xavflilik xususiyatini yoʻqotgan deb topilsa, javobgarlikdan ozod qilinishi mumkin."
+    }
+  ]
+}

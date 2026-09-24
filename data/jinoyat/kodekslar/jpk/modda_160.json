@@ -1,0 +1,27 @@
+﻿{
+  "n": 160,
+  "sarlavha_id": "-254198",
+  "sarlavha": "160-modda. Olib qoʻyish yoki tintuv oʻtkazish vaqtida hozir boʻladigan shaxslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254199",
+      "matn": "Olib qoʻyish yoki tintuv oʻtkazishda xolislar, zarurat boʻlgan taqdirda mutaxassis va tarjimon ham ishtirok etadilar."
+    },
+    {
+      "q": 2,
+      "id": "-254200",
+      "matn": "Olib qoʻyish yoki tintuv oʻtkazish jarayonida bu harakatlar uyida oʻtkazilayotgan shaxsning oʻzi yoki hech boʻlmaganda uning voyaga yetgan oila aʼzolaridan birining ishtirok etishi taʼminlanishi lozim. Basharti ularning ishtirok etishini taʼminlashga imkon boʻlmasa, tegishli hokimlik yoki fuqarolarning oʻzini oʻzi boshqarish organining vakili taklif qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-254201",
+      "matn": "Korxonalar, muassasalar, tashkilotlar, harbiy qismlar joylashgan binolarda olib qoʻyish yoki tintuv ularning vakillari ishtirokida oʻtkaziladi."
+    },
+    {
+      "q": 4,
+      "id": "-254202",
+      "matn": "Tintuv qilinayotganlarga, xolislarga, mutaxassislarga, korxonalar, muassasalar, tashkilotlar, harbiy qismlarning vakillariga tintuv yoki olib qoʻyish oʻtkazilishidan avval ularning surishtiruvchi yoki tergovchining barcha harakatlari chogʻida hozir boʻlish hamda ana shu harakatlar xususida arz qilish huquqlari tushuntirilishi kerak. Bunday arz bayonnomaga kiritilishi shart."
+    }
+  ]
+}

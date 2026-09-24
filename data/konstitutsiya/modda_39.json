@@ -1,0 +1,18 @@
+{
+  "n": "39",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445562",
+  "sarlavha": "39-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445565",
+      "matn": "Oʻzbekiston Respublikasi fuqarolari kasaba uyushmalariga, siyosiy partiyalarga va boshqa jamoat birlashmalariga uyushish, ommaviy harakatlarda ishtirok etish huquqiga egadirlar."
+    },
+    {
+      "q": 2,
+      "id": "-6445566",
+      "matn": "Siyosiy partiyalarda, jamoat birlashmalarida, ommaviy harakatlarda, shuningdek davlat hokimiyati vakillik organlarida ozchilikni tashkil etuvchi muxolifatchi shaxslarning huquqlari, erkinliklari va qadr-qimmatini hech kim kamsitishi mumkin emas."
+    }
+  ]
+}

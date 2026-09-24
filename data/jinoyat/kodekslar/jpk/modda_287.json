@@ -1,0 +1,22 @@
+﻿{
+  "n": 287,
+  "sarlavha_id": "-255075",
+  "sarlavha": "287-modda. Yoʻqolgan mol-mulkni qaytarish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255077",
+      "matn": "Jinoyat sodir etilishi natijasida jabrlanuvchi yoki yuridik shaxsning yoʻqolgan va ashyoviy dalil deb eʼtirof etilgan mol-mulki egasiga qaytarilishi lozim. Jabrlanuvchi vafot etgan taqdirda uning mol-mulki merosxoʻrlariga, tugatilgan yuridik shaxsning mol-mulki esa, uning huquq vorisiga oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-255078",
+      "matn": "Egasini aniqlab boʻlmagan mol-mulk davlat egaligiga oʻtkaziladi."
+    },
+    {
+      "q": 3,
+      "id": "-255079",
+      "matn": "Mol-mulkni qaytarib berish yoki uni davlat egaligiga oʻtkazish sudning qonuniy kuchga kirgan hukmi yoki tibbiy yoʻsindagi majburlov choralarini qoʻllash toʻgʻrisidagi ajrimiga asosan, ish tugatilganda esa, surishtiruvchining, tergovchining qarori yoki sudning ajrimiga koʻra amalga oshiriladi."
+    }
+  ]
+}

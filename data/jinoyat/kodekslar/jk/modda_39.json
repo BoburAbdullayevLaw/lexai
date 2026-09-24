@@ -1,0 +1,59 @@
+{
+  "n": 39,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184303",
+  "sarlavha": "39-modda. Ijtimoiy xavfli qilmish sodir etgan shaxsni ushlash vaqtida zarar yetkazish",
+  "umumiy_sharh": [
+    "Ijtimoiy xavfli qilmishni ushlash — jinoyatchilikka qarshi kurashning eng muhim elementi. U keyingi jinoiy faoliyatga chek qo'yish, qochish, dalillarni yashirishning oldini oladi.",
+    "Ushlash huquqi ijtimoiy xavfli qilmish sodir etilishi bilan vujudga keladi. Qilmishning ijtimoiy xavflilik darajasi, ayb shakli, tugallanganligi, ishtirokchilik shakli hisobga olinadi.",
+    "Ushlashning qonuniylik shartlari: ushlashga asosning mavjudligi, belgilangan usul va vositalarni qo'llash, maqsadning qonuniyligi, vaqti, zararning mutanosibligi va majburiyligi.",
+    "Ushlash subyektlari — ijtimoiy xavfli qilmishni sodir etgan, alohida immunitetga ega bo'lmagan shaxslar. Jabrlanuvchi va boshqa fuqarolar ham ushlash huquqiga egalar."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184304",
+      "matn": "Ijtimoiy xavfli qilmish sodir etgan shaxsni hokimiyat organlariga topshirish maqsadida ushlash vaqtida unga zarar yetkazish, agar uni ushlash uchun zarur boʻlgan choralarning chegarasidan chetga chiqilmagan boʻlsa, jinoyat deb topilmaydi.",
+      "sharh": [
+        "Ushlashning qonuniylik shartlari: ijtimoiy foydalilik, faqat qonunda ko'rsatilgan shaxslarga zarar yetkazish, mutanosiblik va majburiylik.",
+        "Ushlash maqsadi faqat hokimiyat organlariga topshirish bo'lishi kerak. Sudsiz o'zboshimcha jazolash maqsadida ushlash noqonuniy.",
+        "Ushlashning amalga oshirilish vaqti — jinoyat ustida yoki bevosita uni sodir etishdan keyin. Keyinchalik ushlab turish qonuniy emas.",
+        "Ushlashga qarshi chiqishning oldini olish uchun zarar yetkazish mumkin — lekin bu zaruriy mudofaa qoidalari asosida baholanadi.",
+        "Ushlangan shaxsni hokimiyat organlariga yetkazish zarur. Ushlangan shaxs qochib ketgan bo'lsa ham, ushlovchi qonuniy maqsadga ega deb topiladi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184306",
+      "matn": "Ushlash vositalari va usullariga, qilmishning hamda uni sodir etgan shaxsning xavflilik darajasiga, shuningdek ushlash sharoitiga butunlay mos kelmaydigan, ushlash zarurati taqozo etmagan holda ushlanayotgan shaxsga qasddan zarar yetkazish ushlash choralari chegarasidan chetga chiqish deb topiladi.",
+      "sharh": [
+        "Ushlash choralaridan chetga chiqish — vositalar va usullarning nomutanosibligi, ushlash zaruriyatining yo'qligi bilan tavsiflanadi.",
+        "Chetga chiqishda qasd mavjud bo'lsa — qasddan jinoyat; ehtiyotsizlik bo'lsa — ehtiyotsizlik orqasidan jinoyat sifatida baholanadi.",
+        "Chetga chiqishning obyektiv belgisi — ochiq nomutanosiblik. Har bir holatda alohida aniqlanadi.",
+        "Ushlash chorasi ba'zan qonuniy, boshqa hollarda chetga chiqish sifatida baholanishi mumkin — vaziyatga qarab."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-184307",
+      "matn": "Ijtimoiy xavfli qilmishni sodir etgan shaxsni ushlash vaqtida unga yetkazilgan zararning qonuniyligini baholashda, qilmishni sodir etgan shaxsning ushlanishdan qochish maqsadida qilgan harakatlari, ushlovchining kuchi va imkoniyatlari, ruhiy holati va ushlash bilan bogʻliq boʻlgan boshqa holatlar hisobga olinadi.",
+      "sharh": [
+        "Baholashda ushlanayotgan shaxsning qochish harakatlari, ushlovchining kuchi va imkoniyatlari, ruhiy holati, ushlash sharoiti hisobga olinadi.",
+        "Zarar mutanosibligi — yetkazilgan zarar jinoyatning ijtimoiy xavflilik darajasiga va ushlash holatiga to'g'ri kelishi kerak.",
+        "Shart-sharoitlar noqulay bo'lsa (ushlovchi kuchsiz, qurolsiz), yetkazilishi kifoya bo'lgan zararning darajasi yuqori bo'lishi mumkin.",
+        "Ushlangan shaxs hujum qilsa, zaruriy mudofaa qoidalari qo'llaniladi — bu 39-modda emas."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-184308",
+      "matn": "Maxsus vakolatli shaxslar bilan bir qatorda jabrlanuvchi va boshqa fuqarolar ham ijtimoiy xavfli qilmishni sodir etgan shaxsni ushlash huquqiga egadirlar.",
+      "sharh": [
+        "Ushlash huquqi har qanday jismoniy shaxsga tegishli — yosh, jinsi, mansabi ahamiyatsiz. Bu subyektiv huquq.",
+        "Jabrlanuvchi va boshqa fuqarolar ham ushlash huquqiga ega — bu ularning ixtiyoriga bog'liq.",
+        "Maxsus vakolatli shaxslar (ichki ishlar, DXX, prokuratura) uchun ushlash xizmat burchi hisoblanadi — ular ushlashdan chekinishlari mumkin emas.",
+        "Faktik xato holatlarida: yanglishganini bilmagan va bilishi mumkin bo'lmagan — modda qoidasiga; bilishi lozim bo'lgan — ehtiyotsizlik; bilib harakat qilgan — qasddan jinoyat."
+      ]
+    }
+  ]
+}

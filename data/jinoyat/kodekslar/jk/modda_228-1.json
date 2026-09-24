@@ -1,0 +1,40 @@
+{
+  "n": "228-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-323914",
+  "sarlavha": "228¹-modda. Davlat proba tamgʻalarini tayyorlash va ulardan foydalanish qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-323919",
+      "matn": "Gʻarazgoʻylik yoki boshqa shaxsiy manfaatlarni koʻzlab davlat proba tamgʻasini qonunga xilof ravishda tayyorlash, oʻtkazish yoki undan foydalanish, shuningdek uni qalbakilashtirish — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-323925",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-323935",
+          "matn": "takroran;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-323941",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ],
+  "sharh": [
+    "Davlat proba tamg'alarini tayyorlash va ulardan foydalanish qoidalarini buzish — davlat proba tamg'alarini tayyorlash va ulardan foydalanish qoidalarini buzish.",
+    "Obyekti: davlat proba tamg'alarini tayyorlash va ulardan foydalanish tartibi.",
+    "Predmeti: davlat proba tamg'alari.",
+    "Obyektiv tomondan: davlat proba tamg'alarini tayyorlash qoidalarini buzish; ulardan foydalanish qoidalarini buzish.",
+    "Subyekti: maxsus — mansabdor shaxs.",
+    "Subyektiv tomondan qasddan yoki ehtiyotsizlik bilan sodir etilishi mumkin.",
+    "2-qism: qonunchilikda belgilangan holda, fuqarolarning yoxud boshqa qonuniy manfaatlarini qo'riqlash maqsadida berilgan maxsus buyruqlarni bajarmaslik.",
+    "3-qism: avval ham shunday jinoyat sodir etgan shaxs tomonidan sodir etilganda og'irlashtiriladi."
+  ]
+}

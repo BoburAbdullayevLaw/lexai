@@ -1,0 +1,67 @@
+﻿{
+  "n": 531,
+  "sarlavha_id": "-5234624",
+  "sarlavha": "531-modda. Hukmni, ajrimni ijro ettirish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5234631",
+      "matn": "Hukm, ajrimni ijro ettirish ularni qabul qilgan sud zimmasiga yuklatiladi."
+    },
+    {
+      "q": 2,
+      "id": "-5234637",
+      "matn": "Hukmni ijro etish toʻgʻrisidagi farmoyish sudya yoki sud raisi tomonidan hukmni ijro etish majburiyati yuklatilgan organga hukmning nusxasi bilan birgalikda yuboriladi. Ishni apellyatsiya, kassatsiya tartibida koʻrish chogʻida hukm oʻzgartirilgan taqdirda, hukmning koʻchirma nusxasiga apellyatsiya, kassatsiya instansiyasi sudi ajrimining koʻchirma nusxasi ilova qilinadi."
+    },
+    {
+      "q": 3,
+      "id": "-257020",
+      "matn": "Hukmni ijro etuvchi organlar uning ijro etilganligi haqida hukmni chiqargan sudga darhol xabar beradi. Jazoni ijro etish muassasasining maʼmuriyati mahkum jazoni qayerda oʻtayotgani haqida hukmni chiqargan sudga xabar berishi shart."
+    },
+    {
+      "q": 4,
+      "id": "-5459988",
+      "matn": "Sud qarorini oʻz vaqtida yoki toʻla bajarmaslik qonunchilikka binoan javobgarlikka sabab boʻladi."
+    },
+    {
+      "q": 5,
+      "id": "-257022",
+      "matn": "Qonuniy kuchga kirgan hukmning nusxasi zarur hollarda mahkumning ish, oʻqish yoki yashash joyiga yuboriladi."
+    },
+    {
+      "q": 6,
+      "id": "-257023",
+      "matn": "Qonuniy kuchga kirgan hukm haqida zarur hollarda matbuot yoki boshqa ommaviy axborot vositalari orqali jamoatchilikka maʼlum qilinadi."
+    },
+    {
+      "q": 7,
+      "id": "-257024",
+      "matn": "Sud mahkumni harbiy unvonidan yoki maxsus unvonidan mahrum etish toʻgʻrisida qaror chiqargan boʻlsa, sud hukmning nusxasini ijro etish uchun ana shu unvonni bergan organga yuboradi. Sud davlat mukofotlari bilan taqdirlangan yoki oliy harbiy yoxud maxsus unvonga ega boʻlgan shaxsga nisbatan ayblov hukmini chiqarishda uni ana shu mukofotlar yoki unvonlardan mahrum etish toʻgʻrisida tegishli organga taqdimnoma kiritishning maqsadga muvofiqligi masalasini hal qiladi."
+    },
+    {
+      "q": 8,
+      "id": "-4671810",
+      "matn": "Sud qarorining jarima solishga va boshqa mulkiy undirishlarga taalluqli qismini ijro etish uchun ijro varaqalari yoki ularning dublikatlari sud qarorining nusxasi bilan birga birinchi instansiya sudi tomonidan sudning qarori qonuniy kuchga kirgan yoki ish apellyatsiya instansiyasi sudidan qaytarilgan kundan eʼtiboran uch kundan kechiktirmay mahkumning yashash joyidagi yoxud jazoni oʻtash joyidagi, shuningdek mahkumning mol-mulki turgan joydagi davlat ijrochilariga elektron hujjat tarzida yuboriladi."
+    },
+    {
+      "q": 9,
+      "id": "-257026",
+      "matn": "Qamoqda saqlanayotgan mahkumni ozodlikdan mahrum etish toʻgʻrisidagi hukm qonuniy kuchga kirgani va ijro ettirilishi haqida sud mahkumning oilasini xabardor qilishi shart."
+    },
+    {
+      "q": 10,
+      "id": "-257027",
+      "matn": "Qamoqda saqlanayotgan mahkum bilan uchrashuvlarga hukmni ijro ettirishdan avval ushbu Kodeksning 477-moddasiga asosan ruxsat etiladi."
+    },
+    {
+      "q": 11,
+      "id": "-257028",
+      "matn": "Sud tomonidan mahkumning voyaga yetmagan farzandlarini muassasalarning, qarindoshlarining yoki boshqa shaxslarning homiyligiga berish toʻgʻrisida qaror qabul qilingan boʻlsa, sud bu haqda bolalar turgan joydagi vasiylik organiga, shuningdek mahkumga xabar beradi."
+    },
+    {
+      "q": 12,
+      "id": "-257029",
+      "matn": "Mahkumning qarovsiz qolgan mol-mulki va turar joyini qoʻriqlash choralarini koʻrish zarurligi toʻgʻrisida sud mol-mulk va turar joy joylashgan yerdagi hokimlikka yoki fuqarolarning oʻzini oʻzi boshqarish organiga xabar qiladi, bu haqda mahkumni xabardor etadi."
+    }
+  ]
+}

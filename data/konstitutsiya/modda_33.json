@@ -1,0 +1,28 @@
+{
+  "n": "33",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445542",
+  "sarlavha": "33-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445543",
+      "matn": "Har kim fikrlash, soʻz va eʼtiqod erkinligi huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445544",
+      "matn": "Har kim istalgan axborotni izlash, olish va tarqatish huquqiga ega."
+    },
+    {
+      "q": 3,
+      "id": "-6445545",
+      "matn": "Davlat Internet jahon axborot tarmogʻidan foydalanishni taʼminlash uchun shart-sharoitlar yaratadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445546",
+      "matn": "Axborotni izlash, olish va tarqatishga boʻlgan huquqni cheklashga faqat qonunga muvofiq hamda faqat konstitutsiyaviy tuzumni, aholining sogʻligʻini, ijtimoiy axloqni, boshqa shaxslarning huquq va erkinliklarini himoya qilish, jamoat xavfsizligini hamda jamoat tartibini taʼminlash, shuningdek davlat sirlari yoki qonun bilan qoʻriqlanadigan boshqa sir oshkor etilishining oldini olish maqsadida zarur boʻlgan doirada yoʻl qoʻyiladi."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+﻿{
+  "n": 606,
+  "sarlavha_id": "-1687203",
+  "sarlavha": "606-modda. Oʻzbekiston Respublikasi hududida ushlab turilgan yoki qamoqqa olingan shaxsni ozod qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1687204",
+      "matn": "Ushlab berishni taʼminlash uchun ushlab turilgan yoki qamoqqa olingan shaxs prokurorning qarori asosida darhol ozod qilinishi kerak, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1687205",
+          "matn": "ushbu Kodeks 605-moddasining uchinchi qismiga muvofiq ushlab turilgan shaxsni qamoqqa olish toʻgʻrisidagi iltimosnoma u ushlangan paytdan eʼtiboran uch sutka ichida kelib tushmagan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-1687206",
+          "matn": "xorijiy davlat vakolatli organining uni ozod qilish zarurligi toʻgʻrisidagi xabarnomasi kelib tushgan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-1687207",
+          "matn": "qamoqqa olingan shaxsni ushlab berish toʻgʻrisidagi soʻrov va unga ilova qilinadigan hujjatlar xorijiy davlatning vakolatli organi tomonidan qirq sutka ichida taqdim etilmagan boʻlsa;"
+        },
+        {
+          "b": 4,
+          "id": "-1687208",
+          "matn": "xorijiy davlatning vakolatli organidan qamoqqa olingan shaxsni ushlab berish toʻgʻrisidagi soʻrovga qoʻshimcha ravishda soʻralgan maʼlumotlar bir oy ichida, xorijiy davlat vakolatli organining iltimosi kelib tushgan taqdirda esa ikki oy ichida kelib tushmagan boʻlsa;"
+        },
+        {
+          "b": 5,
+          "id": "-1687209",
+          "matn": "unga nisbatan qamoqqa olish tarzidagi ehtiyot chorasini qoʻllash yoki qamoqda saqlash muddatini uzaytirish sud tomonidan rad etilgan boʻlsa;"
+        },
+        {
+          "b": 6,
+          "id": "-1687210",
+          "matn": "uni ushlab berishni rad etish toʻgʻrisida qaror qabul qilingan boʻlsa;"
+        },
+        {
+          "b": 7,
+          "id": "-1687211",
+          "matn": "uni ushlab berish toʻgʻrisidagi qaror sud tomonidan bekor qilingan boʻlsa;"
+        },
+        {
+          "b": 8,
+          "id": "-1687212",
+          "matn": "oʻziga nisbatan ushlab berish toʻgʻrisida qaror qabul qilingan shaxs uni topshirish uchun belgilangan kundan eʼtiboran oʻn besh sutka ichida xorijiy davlatning vakolatli organi tomonidan qabul qilib olinmagan boʻlsa, agar bunday topshirish sanasi koʻchirilmagan boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-1687213",
+      "matn": "Prokuror qabul qilingan qaror haqida qamoqqa olish toʻgʻrisida ajrim chiqargan sudni yozma ravishda xabardor qiladi."
+    },
+    {
+      "q": 3,
+      "id": "-1687214",
+      "matn": "Shaxsni ushlab berish maqsadida takroran ushlab turish va qamoqqa olishga Oʻzbekiston Respublikasi hududida boʻlgan shaxsni ushlab berish toʻgʻrisida yangi soʻrov olinganidan keyin yoʻl qoʻyiladi, ushbu modda birinchi qismining yettinchi va sakkizinchi xatboshilarida nazarda tutilgan hollar bundan mustasno."
+    }
+  ]
+}

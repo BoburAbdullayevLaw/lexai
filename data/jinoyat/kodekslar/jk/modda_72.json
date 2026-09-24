@@ -1,0 +1,96 @@
+{
+  "n": 72,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195170",
+  "sarlavha": "72-modda. Shartli hukm qilish",
+  "umumiy_sharh": [
+    "Shartli hukm — sud ayblov chiqarib, jazoni shartli deb hisoblaydi (sinov muddatida).",
+    "Faqat 4 ta jazo turi: ozodlikdan mahrum etish, intizomiy qism, xizmat cheklash, axloq tuzatish ishlari.",
+    "Sinov muddati: 1-3 yil. Hukm chiqarilgan kundan boshlab.",
+    "Shartli hukm qilishning mohiyati: jazoni haqiqiy o'tashdan shartli ozod bo'lish.",
+    "O'ta og'ir jinoyat yoki oldin ozodlikdan mahrum etilganlarga qo'llanilmaydi.",
+    "Mustasno: voyaga yetmagan, nogiron, ayollar, 60+."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195171",
+      "matn": "Agar sud ozodlikdan mahrum qilish, intizomiy qismga joʻnatish, xizmat boʻyicha cheklash yoki axloq tuzatish ishlari jazolarini tayinlash vaqtida sodir etilgan jinoyatning xususiyati va ijtimoiy xavflilik darajasi, aybdorning shaxsi va ishdagi boshqa holatlarni eʼtiborga olib, aybdor tayinlangan jazoni oʻtamasdan turib ham uning xulqini nazorat qilish orqali tuzatish mumkin, degan qatʼiy fikrga kelsa, shartli hukm qoʻllashi mumkin.",
+      "sharh": [
+        "Faqat 4 ta jazo turi: ozodlikdan mahrum, intizomiy qism, xizmat cheklash, axloq tuzatish.",
+        "Boshqa jazo turlariga (jarima, huquqdan mahrum etish) qo'llanilmaydi.",
+        "Sudning qat'iy ishonchi: jazosiz ham tuzatish mumkin.",
+        "Jazoning to'la muddatiga nisbatan qo'llaniladi (qisman emas)."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195172",
+      "matn": "Sinov muddati bir yildan uch yilgacha belgilanib, hukm chiqarilgan kundan boshlab hisoblanadi.",
+      "sharh": [
+        "Sinov: 1 yildan 3 yilgacha.",
+        "Hukm chiqarilgan kundan — qonuniy kuchga kirgandan emas.",
+        "Yuqori sud chiqarsa ham, hisoblash o'sha kundan."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-8282101",
+      "matn": "Shartli hukm qilinganda, basharti, bunga asoslar mavjud boʻlsa, sud mahkumga muayyan vaqt mobaynida yetkazilgan zararni bartaraf qilish, ishga yoki oʻqishga kirish kabi majburiyatlarni yuklashi mumkin.",
+      "sharh": [
+        "Majburiyatlarni yuklash sudning huquqi.",
+        "Zarni bartaraf etish, ishga/o'qishga kirish, nazoratga xabar berish.",
+        "Ro'yxatdan o'tish, muayyan joyda bo'lish, davolanish.",
+        "Majburiyatlar to'liq yoki qisman olib tashlanishi mumkin."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195174",
+      "matn": "Shartli hukm qilingan shaxslarning xulqi ustidan ichki ishlar organlari, harbiy xizmatchilar xulqi ustidan esa, harbiy qism yoki muassasaning qoʻmondonligi nazorat olib boradi.",
+      "sharh": [
+        "Fuqarolar: IIB nazorati.",
+        "Harbiylar: qo'mmondonlik nazorati.",
+        "Voyaga yetmagan: MKK + IIB birgalikda."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-195175",
+      "matn": "Hukm qilingan shaxsning xulqi ustidan nazorat olib boruvchi organning taqdimi bilan sud sinov muddati davomida unga yuklatilgan majburiyatlarning hammasini yoki bir qismini olib tashlashi yoki uning zimmasiga yangi majburiyatlar yuklashi ham mumkin.",
+      "sharh": [
+        "Majburiyatlarni o'zgartirish: olib tashlash yoki qo'shish.",
+        "Taqdimnoma asosida — nazorat organi."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-195176",
+      "matn": "Agar shartli hukm qilingan shaxs sinov muddati davomida sud unga yuklagan majburiyatlarni bajarmasa yoxud jamoat tartibi yoki mehnat intizomini buzganligi uchun unga maʼmuriy yoki intizomiy taʼsir chorasi qoʻllanilgan boʻlsa sud uning xulqi ustidan nazorat olib boruvchi organ taqdimnomasiga binoan jazoning shartliligini bekor qilib, hukmda tayinlangan jazoni ijro etish toʻgʻrisida ajrim chiqarishi mumkin.",
+      "sharh": [
+        "Asoslar: majburiyatni bajarmaslik YOKI ma'muriy/intizomiy jazo.",
+        "Nazorat organi taqdimnomasi asosida.",
+        "Sud bekor qilishi yoki qoldirishi mumkin."
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111453#-6032444",
+      "matn": "Shartli hukm oʻta ogʻir jinoyati uchun hukm qilinganlarga, shuningdek ilgari qasddan sodir etgan jinoyati uchun ozodlikdan mahrum etish jazosiga hukm qilingan shaxslarga nisbatan qoʻllanilmaydi.",
+      "sharh": [
+        "Qo'llanilmaydi: o'ta og'ir jinoyat + oldin ozodlikdan mahrum etilgan.",
+        "Mustasno: voyaga yetmagan, 1-2 guruh nogiron, ayollar, 60+.",
+        "Bir necha hukm bo'lsa ham, 72/7 ga rioya qilinishi kerak."
+      ]
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111453#-195404",
+      "matn": "Shartli hukm qilingan shaxs sinov muddati davomida yangi jinoyat sodir etsa, sud unga nisbatan ushbu Kodeksning 60-moddasida nazarda tutilgan qoidalar boʻyicha jazo tayinlaydi.",
+      "sharh": [
+        "Yangi jinoyat — avval shartli hukm bekor, keyin 60-modda bo'yicha jazo.",
+        "Uzil-kesil: eski jazo + yangi jazo."
+      ]
+    }
+  ]
+}

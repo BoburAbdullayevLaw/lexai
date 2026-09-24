@@ -1,0 +1,18 @@
+{
+  "n": "30",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445526",
+  "sarlavha": "30-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445527",
+      "matn": "Hech kim rasmiy eʼlon qilinmagan qonun asosida hukm qilinishi, jazoga tortilishi, mol-mulkidan yoki biron-bir huquqidan mahrum etilishi mumkin emas."
+    },
+    {
+      "q": 2,
+      "id": "-6445528",
+      "matn": "Hech kim ayni bir jinoyat uchun takroran hukm qilinishi mumkin emas."
+    }
+  ]
+}

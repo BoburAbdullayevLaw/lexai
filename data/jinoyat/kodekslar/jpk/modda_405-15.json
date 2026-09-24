@@ -1,0 +1,49 @@
+{
+  "n": "405¹⁵",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305955",
+  "sarlavha": "405¹⁵-modda. Sud ajrimi ustidan shikoyat berish va protest keltirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5305956",
+      "matn": "Sudyaning ajrimi ustidan u chiqarilgan kundan eʼtiboran yetmish ikki soat ichida apellyatsiya tartibida xususiy shikoyat, xususiy protest berilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5305957",
+      "matn": "Xususiy shikoyat, xususiy protest ajrimni chiqargan sud orqali beriladi, sud uni materiallar bilan birga apellyatsiya instansiyasi sudiga yigirma toʻrt soat ichida yuborishi shart. Apellyatsiya instansiyasi sudi mazkur materiallarni kelib tushgan paytdan eʼtiboran yetmish ikki soatdan kechiktirmay xususiy shikoyat, xususiy protest bilan birga koʻrib chiqishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5305958",
+      "matn": "Apellyatsiya instansiyasi sudi xususiy shikoyat, xususiy protestni koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305959",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni, protestni esa — qanoatlantirmay qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305960",
+          "matn": "sudyaning ajrimini oʻzgartirishga;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5305961",
+          "matn": "sudyaning ajrimini bekor qilishga va ishni mohiyatan koʻrib chiqish uchun sudga yuborishga haqli."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-5305962",
+      "matn": "Jinoyat ishi ajrimni chiqargan sudga apellyatsiya instansiyasi sudining ajrimi chiqarilgan paytdan eʼtiboran yigirma toʻrt soatdan kechiktirmay qaytarilishi kerak."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-5305963",
+      "matn": "Birinchi instansiya sudining ajrimi bekor qilingan hollarda ish birinchi instansiya sudi tomonidan ishni sud muhokamasiga tayinlash bosqichidan boshlab umumiy qoidalarga asosan koʻrib chiqiladi."
+    }
+  ]
+}

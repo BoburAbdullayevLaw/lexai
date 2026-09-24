@@ -1,0 +1,23 @@
+{
+  "n": "150",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446193",
+  "sarlavha": "150-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446194",
+      "matn": "Oʻzbekiston Respublikasining pul birligi soʻmdir."
+    },
+    {
+      "q": 2,
+      "id": "-6446196",
+      "matn": "Soʻm Oʻzbekiston Respublikasining butun hududida yagona cheklanmagan qonuniy toʻlov vositasidir."
+    },
+    {
+      "q": 3,
+      "id": "-6446197",
+      "matn": "Oʻzbekiston Respublikasi Markaziy banki Oʻzbekiston Respublikasining hududida qonuniy toʻlov vositalari sifatida pul belgilarini muomalaga kiritishda va ularni muomaladan chiqarishda mutlaq huquqqa egadir."
+    }
+  ]
+}

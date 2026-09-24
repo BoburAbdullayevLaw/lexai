@@ -1,0 +1,22 @@
+﻿{
+  "n": 494,
+  "sarlavha_id": "-6626485",
+  "sarlavha": "494-modda. Hukmni mahkumning, oqlangan shaxsning ahvolini ogʻirlashtirish tomonga bekor qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626487",
+      "matn": "Apellyatsiya, kassatsiya yoki taftish instansiyasi sudi sudning hukmini bekor qilishga va mahkumga jazoni kuchaytirgan yoki unga nisbatan eʼlon qilingan ayblov doirasida ogʻirroq jinoyat toʻgʻrisidagi qonunni qoʻllagan holda yangi ayblov hukmi chiqarishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6626488",
+      "matn": "Sudning ayblov hukmi apellyatsiya, kassatsiya yoki taftish instansiyasi sudi tomonidan faqat prokurorning protestiga yoki jabrlanuvchining, uning vakilining shikoyatiga koʻra, mahkumning ahvolini ogʻirlashtirgan holda yangi hukm chiqarish orqali bekor qilinishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-6626489",
+      "matn": "Sudning oqlov hukmi apellyatsiya, kassatsiya yoki taftish instansiyasi sudi tomonidan faqat prokurorning protestiga yoki jabrlanuvchining, uning vakilining mazkur hukmning qonunga xilofligi va asossizligi borasidagi shikoyatiga koʻra, ayblov hukmi chiqarilgan holda bekor qilinishi mumkin."
+    }
+  ]
+}

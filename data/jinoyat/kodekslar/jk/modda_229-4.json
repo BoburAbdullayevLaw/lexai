@@ -1,0 +1,40 @@
+{
+  "n": "229-4",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-4228591",
+  "sarlavha": "229⁴-modda. Yer berish tartibini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-4228598",
+      "matn": "Yer berish tartibini buzish, shunday harakat uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravaridan uch yuz baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari yoxud muayyan huquqdan mahrum qilib, bir yildan besh yilgacha ozodlikni cheklash yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7519425",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-4228615",
+          "matn": "takroran sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4228617",
+          "matn": "sugʻoriladigan yerlarning qishloq xoʻjaligi oborotidan chiqishiga sabab boʻlsa;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7226815",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-7519431",
+          "matn": "davlat mulki boʻlgan hamda aholining madaniy-maishiy ehtiyojlarini qondirish va dam olishi uchun foydalaniladigan yerning yoki uning bir qismining begonalashtirilishiga, uning hududi qisqartirilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoxud muayyan huquqdan mahrum qilib, besh yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

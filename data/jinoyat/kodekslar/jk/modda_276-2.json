@@ -1,0 +1,35 @@
+{
+  "n": "276-2",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-8282394",
+  "sarlavha": "276²-modda. Bangixona tashkil qilish yoki saqlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282396",
+      "matn": "Giyohvandlik vositalarini, psixotrop moddalarni, ularning analoglarini yoki kuchli taʼsir qiluvchi moddalarni isteʼmol qilish yoxud tarqatish uchun bangixona tashkil qilish yoki saqlash, — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-8282399",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282400",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-8282401",
+          "matn": "takroran, xavfli retsidivist yoki ilgari ushbu Kodeksning 270 — 276¹, 276³ — 276⁸-moddalarida nazarda tutilgan jinoyatlarni sodir etgan shaxs tomonidan sodir etilgan boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-8282404",
+      "matn": "Oʻsha harakatlar uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — sakkiz yildan oʻn ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

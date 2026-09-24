@@ -1,0 +1,59 @@
+﻿{
+  "n": 202,
+  "sarlavha_id": "-7235014",
+  "sarlavha": "202-modda. Narsalarni, hujjatlarni va elektron maʼlumotlarni taqdim etish bayonnomasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7235027",
+      "matn": "Ashyoviy dalillar sifatida ahamiyatga ega boʻlishi mumkin boʻlgan narsalar, hujjatlar va elektron maʼlumotlar taqdim etilganligi toʻgʻrisida tergovga qadar tekshiruvni amalga oshirayotgan organning mansabdor shaxsi, surishtiruvchi, tergovchi ushbu Kodeksning 90, 91 va 92-moddalarida nazarda tutilgan qoidalarga muvofiq bayonnoma tuzadi, sud esa sud majlisining bayonnomasiga yozib qoʻyadi."
+    },
+    {
+      "q": 2,
+      "id": "-7235073",
+      "matn": "Bayonnomada:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-7235075",
+          "matn": "narsalarni yoki hujjatlarni yoxud elektron maʼlumotlarni taqdim etgan shaxs toʻgʻrisidagi maʼlumotlar;"
+        },
+        {
+          "b": 2,
+          "id": "-7235077",
+          "matn": "ushbu shaxsning narsalarni yoki hujjatlarni yoxud elektron maʼlumotlarni ishga qoʻshib qoʻyish toʻgʻrisidagi iltimosnomasi;"
+        },
+        {
+          "b": 3,
+          "id": "-7235078",
+          "matn": "narsalarni yoki hujjatlarni yoxud elektron maʼlumotlarni koʻzdan kechirish jarayoni va natijalari, agar ular pochta orqali yuborilgan boʻlsa, ularning oʻrovini koʻzdan kechirish natijalari;"
+        },
+        {
+          "b": 4,
+          "id": "-7235079",
+          "matn": "narsalarning yoki hujjatlarning yoxud elektron maʼlumotlarning tergovga qadar tekshiruvni amalga oshirayotgan organning mansabdor shaxsiga, surishtiruvchiga, tergovchiga yoki sudga haqiqatan ham topshirilganligi yoxud narsalar yoki hujjatlar yoxud elektron maʼlumotlar uni taqdim etgan shaxsga qaytarib berilganligi koʻrsatiladi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-254534",
+      "matn": "Ashyoviy dalil sifatida ahamiyatli boʻlgan yoki ahamiyatga ega boʻlishi mumkin boʻlgan narsa yoki hujjatni taqdim etgan shaxsga surishtiruvchi yoki tergovchi bayonnomadan nusxa, sud majlisida raislik qiluvchi esa sud majlisi bayonnomasidan koʻchirma beradi."
+    },
+    {
+      "q": 4,
+      "id": "-254536",
+      "matn": "Qabul qilib olingan narsa yoki hujjat pochta orqali kelgan boʻlsa, bayonnomaning nusxasi yoki undan olingan koʻchirma narsani yoki hujjatni yuborgan shaxsga joʻnatiladi, pochta pattasi bayonnomaga ilova qilinadi. Surishtiruvchi, tergovchi yoki sud pochta orqali olingan narsa yoki hujjatni ishga aloqador emas deb topib, uni yuboruvchiga pochta orqali qaytargan taqdirda ham pochta pattasi bayonnomaga qoʻshib qoʻyiladi."
+    },
+    {
+      "q": 5,
+      "id": "-1206364",
+      "matn": "Taqdim etilgan narsa yoki hujjatni ashyoviy dalil sifatida ishga qoʻshib qoʻyish haqidagi iltimosni rad qilish toʻgʻrisida surishtiruvchi, tergovchi qaror, sud esa ajrim chiqaradi. Taftishlar va boshqa xizmat tekshiruvlarining dalolatnomalari yozma dalil sifatida taqdim qilingan boshqa hujjatlar qatori ishga maxsus rasmiylashtirilmasdan qoʻshib qoʻyiladi."
+    },
+    {
+      "q": 6,
+      "id": "-254538",
+      "matn": "Tergov yoki sud harakatlarini yuritishda vaqtincha foydalanish uchun soʻralgan narsalarning qabul qilingani va qaytarib berilgani surishtiruvchi, tergovchi, sud majlisida raislik qiluvchi yoki sud majlisining kotibi, shuningdek narsalarning egasi tomonidan beriladigan tilxatlar bilan rasmiylashtiriladi. Taqdim qilingan narsalar ish uchun ahamiyatga ega boʻlishi mumkin boʻlsa, ularning belgilari, xossalari, texnikaviy tavsifi, basharti ular yuritilayotgan tergov davomida ishlatilgan boʻlsa, shu tergov harakati bayonnomasida yoki sud majlisi bayonnomasida aks ettiriladi."
+    }
+  ]
+}

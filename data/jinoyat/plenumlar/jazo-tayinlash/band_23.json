@@ -1,0 +1,599 @@
+{
+  "band_raqami": "23",
+  "id": "https://lex.uz/docs/-1455976#-2899311",
+  "matn": "23. Jinoyat-protsessual kodeksining 541, 542-moddalariga muvofiq axloq tuzatish ishining oʻtalmagan qismini ozodlikni cheklash yoki ozodlikdan mahrum qilish jazosi bilan almashtirish haqidagi ishlar sud majlisida, odatda, mahkum ishtirokida koʻrilishi lozim. Bu masala mahkum yashirinib yurganligi yoki sudga kelishdan boʻyin tovlayotganligi toʻgʻrisida ishonchli maʼlumotlar ishda mavjud boʻlgan holdagina uning ishtirokisiz hal etilishi mumkin.",
+  "xatboshilar": [
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931637",
+      "matn": "Axloq tuzatish ishlarining oʻtalmagan qismini ozodlikni cheklash yoki ozodlikdan mahrum qilish jazosi bilan almashtirish haqidagi ishlar mahkumning ishtirokisiz koʻrilib va axloq tuzatish ishlarining oʻtalmagan qismi ozodlikdan mahrum qilish jazosi bilan almashtirilgan taqdirda mahkumni hibsga olish va unga nisbatan qidiruv eʼlon qilish haqidagi masala sud tomonidan hal qilinishi kerak."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899312",
+      "matn": "Agar axloq tuzatish ishining oʻtalmagan qismini ozodlikdan mahrum qilish jazosi bilan almashtirish haqidagi materialni koʻrish vaqtida JPK 533-moddasida koʻrsatilgan holatlar aniqlansa, sud hukmning ijrosini kechiktirish masalasini muhokama qilishi shart."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7342095",
+      "matn": "251. Ozodlikni cheklash sud tomonidan mahkumga nisbatan uy-joyini u yoki bu sabab bilan tark etishni butunlay taqiqlashdan yoxud ishlash yoki oʻqish vaqtidan, shuningdek ish yoki oʻqish joyigacha borishi va uy-joyiga qaytib kelishi uchun zarur boʻlgan vaqtdan tashqari qolgan vaqtda uy-joyidan chiqishni cheklashdan iborat."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7342100",
+      "matn": "Tushuntirilsinki, sud hukmining qaror qismida: ozodlikni cheklash tariqasidagi jazo, uy-joyini u yoki bu sabab bilan tark etishni butunlay taqiqlashdan yoxud ishlash yoki oʻqish vaqtidan, shuningdek ish yoki oʻqish joyigacha borishi va uy-joyiga qaytib kelishi uchun zarur boʻlgan vaqtdan tashqari qolgan vaqtda uy-joyidan chiqishni cheklashning mazmuni aniq koʻrsatilishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931645",
+      "matn": "Sudlar jinoyat ishida sudlanuvchining haqiqatda oʻqishi va muqim ish joyiga ega ekanligini tasdiqlovchi hujjatlar mavjud yoki mavjud emasligiga ahamiyat qaratishlari lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931661",
+      "matn": "Ozodlikni cheklash bir oydan besh yilgacha muddatga, voyaga yetmaganlarga esa olti oydan ikki yilgacha tayinlanadi hamda mahkumning yashash joyidagi ichki ishlar organining probatsiya boʻlinmasi yoki sud tomonidan belgilangan boshqa organ nazorati ostida oʻtaladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899327",
+      "matn": "Ozodlikni cheklash, uni oʻtash shartlari sud tomonidan sodir etilgan qilmishning xususiyati va jazoni oʻtashdan boʻyin tovlashning oldini olishni inobatga olgan holda belgilanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899328",
+      "matn": "252. Jinoyat kodeksi 481-moddasining 3-qismiga muvofiq qoʻllanilayotgan taqiqning (cheklashning) xususiyatlarini hisobga olgan holda, sud mahkumning zimmasiga quyidagi qoʻshimcha taqiqlarni (cheklashlarni) yuklashi mumkin:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899329",
+      "matn": "muayyan joylarga bormaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899330",
+      "matn": "ommaviy va boshqa tadbirlar oʻtkazishda ishtirok etmaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899331",
+      "matn": "muayyan faoliyat bilan shugʻullanmaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899332",
+      "matn": "muayyan buyumlarga ega boʻlmaslik yoki ularni oʻzida saqlamaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899333",
+      "matn": "transport vositasini boshqarmaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899334",
+      "matn": "mahkumlarning nazorat qiluvchi organning roziligisiz yashash joyini, ish va (yoki) oʻqish joyini oʻzgartirmaslik, tegishli maʼmuriy hududdan tashqariga chiqmaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899335",
+      "matn": "muayyan shaxslar bilan aloqa oʻrnatmaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899338",
+      "matn": "aloqa vositalaridan, shu jumladan, Internetdan foydalanmaslik;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899341",
+      "matn": "alkogolli ichimliklar isteʼmol qilmaslik."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931666",
+      "matn": "Sud hukmining qaror qismida mahkum aynan qanday joylarga borishi, qaysi turdagi ommaviy va boshqa tadbirlarda ishtirok etishi, qanday faoliyat bilan shugʻullanishi, qanday buyumlarga ega boʻlishi yoki ularni oʻzida saqlashi taqiqlanayotgani aniq koʻrsatilishi kerak."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931670",
+      "matn": "Sudlar shuni inobatga olishlari lozimki, mazkur taqiqlar (cheklashlar) JK 481-moddasi birinchi qismida belgilangan majburiy taqiqlar (cheklashlar)ga qoʻshimcha hisoblanganligi sababli, ularni mahkumning zimmasiga yuklatilishi sud hukmining tavsif qismida asoslantirilishi lozim. Shu munosabat bilan mahkumning shaxsi va ishning boshqa holatlari inobatga olingan holda, ushbu qoʻshimcha taqiqlar (cheklashlar) sud tomonidan mahkumga toʻla yoki qisman yuklatilishi yoki umuman yuklatilmasligi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899343",
+      "matn": "253. Jinoyat kodeksi 481-moddasi toʻrtinchi qismiga muvofiq, sud ozodlikni cheklashga hukm qilingan shaxsning zimmasiga oʻzi yetkazgan moddiy va maʼnaviy zararning oʻrnini qoplash, ishga yoki oʻqishga joylashish majburiyatlarini, shuningdek uning tuzalishiga koʻmaklashuvchi boshqa majburiyatlarni yuklashi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899344",
+      "matn": "Ushbu majburiyatlarni yuklash asosi sud hukmining tavsif qismida koʻrsatilishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899345",
+      "matn": "254. JKning 481-moddasi beshinchi qismiga muvofiq, agar ozodlikni cheklashga hukm qilingan shaxs jazoni oʻtash davrida oʻzining jinoiy qilmishlarini anglab yetgan, tuzalish yoʻliga qatʼiy oʻtgan, yetkazilgan moddiy va maʼnaviy zararning oʻrnini qoplagan boʻlsa, sud mahkumga nisbatan ilgari tayinlangan taqiqlarni (cheklashlarni) toʻliq yoki qisman bekor qilishi mumkin. Shuni nazarda tutish lozimki, qayd etilgan asoslar boʻyicha ozodlikni cheklashga hukm qilingan mahkum JK 481-moddasi uchinchi qismiga asosan sud tomonidan unga yuklangan qoʻshimcha majburiyat (taqiq)lardangina ozod etilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931733",
+      "matn": "Jinoyat-ijroiya kodeksining 443-moddasi beshinchi qismiga muvofiq mahkumni unga yuklatilgan majburiyat (taqiq)lardan toʻliq yoki qisman ozod etish probatsiya boʻlinmasi taqdimnomasiga binoan sud tomonidan JPK 541-moddasida belgilangan tartibda amalga oshiriladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3044036",
+      "matn": "255. Mahkum ozodlikni cheklash tariqasidagi jazoni oʻtashdan qasddan boʻyin tovlagan yoki sud tomonidan zimmasiga yuklangan majburiyatlarni bajarmagan taqdirda, sud ozodlikni cheklash jazosining oʻtalmay qolgan muddatini ozodlikdan mahrum qilish tariqasidagi jazo bilan almashtirishi mumkin. Jazoni oʻtashdan boʻyin tovlash vaqti oʻtalgan jazo muddatiga qoʻshib hisoblanmaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899352",
+      "matn": "Jinoyat-ijroiya kodeksi 444-moddasining uchinchi qismiga muvofiq quyidagilar ozodlikni cheklash tariqasidagi jazoni oʻtashdan qasddan boʻyin tovlovchilar deb eʼtirof etiladi;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899353",
+      "matn": "a) oʻziga nisbatan sud tomonidan belgilangan taqiqlarni (cheklashlarni) buzishga yoʻl qoʻyib boʻlmasligi toʻgʻrisida ogohlantirish tarzida intizomiy jazo qoʻllanilganidan keyin bir yil ichida jazoni oʻtash tartibi va shartlarini buzishga yoʻl qoʻygan mahkum;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899354",
+      "matn": "b) oʻziga nisbatan texnik nazorat vositalaridan foydalanish qoidalarini buzgan mahkum;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899356",
+      "matn": "v) yashash joyidan yashiringan, qayerda ekanligi uch sutkadan ortiq vaqt ichida aniqlanmagan mahkum;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931737",
+      "matn": "g) yashash joyidagi probatsiya boʻlinmasiga belgilangan muddatdan uch sutkadan ortiq vaqt mobaynida kelmagan mahkum."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2899360",
+      "matn": "256. Ozodlikni cheklash harbiy xizmatchilar, chet el fuqarolari, shuningdek, Oʻzbekiston Respublikasida doimiy yashash joyiga ega boʻlmagan shaxslarga nisbatan tayinlanmaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931741",
+      "matn": "257. Sudlar jamoat xavfsizligi va jamoat tartibiga tahdid soladigan materiallarni tayyorlash, saqlash, tarqatish yoki namoyish etish bilan bogʻliq jinoyatlarni sodir etgan shaxslarga nisbatan ozodlikni cheklash jazosi tayinlagan taqdirda, jinoyatning sodir etilish usullari hisobga olingan holda aybdor shaxsga nisbatan aloqa vositalaridan, shu jumladan, Internetdan foydalanmaslik qoʻshimcha taqiqlarini kengroq qoʻllash tavsiya etilsin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3044039",
+      "matn": "26. Ozodlikdan mahrum qilish jazo tariqasida ogʻir va oʻta ogʻir jinoyatlar sodir etgan shaxslarga, shuningdek sudlanuvchining shaxsini inobatga olgan holda — ijtimoiy xavfi katta boʻlmagan va uncha ogʻir boʻlmagan jinoyatlarni sodir qilgan shaxslarga nisbatan, agar bunday shaxslarni jamiyatdan ajratmagan holda axloqan tuzatishning imkoni boʻlmasa, qoʻllaniladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3044042",
+      "matn": "27. Ozodlikdan mahrum qilish tariqasidagi jazo:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3794613",
+      "matn": "bir oydan yigirma yilgacha boʻlgan muddatga, JK 60-moddasida nazarda tutilgan tartibda esa, — yigirma besh yilgacha boʻlgan muddatga;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3044044",
+      "matn": "voyaga yetmaganlarga nisbatan — olti oydan oʻn yilgacha boʻlgan muddatga, JK 86-moddasida nazarda tutilgan tartibda esa, — oʻn besh yilgacha boʻlgan muddatga;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-6080815",
+      "matn": "jarima tariqasidagi jazoni almashtirish tartibida (JK 44-moddasi uchinchi qismi) — hukm chiqarish paytida amalda boʻlgan bazaviy hisoblash miqdoridan kelib chiqqan holda, uch yildan koʻp boʻlmagan muddatga;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3794640",
+      "matn": "JK 451-moddasining beshinchi qismida nazarda tutilgan hollarda majburiy jamoat ishlari tariqasidagi jazoni almashtirish tartibida, — bir oydan kamroq muddatga tayinlanishi mumkin;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3794666",
+      "matn": "JK 46-moddasining toʻrtinchi qismida nazarda tutilgan hollarda axloq tuzatish ishlari tariqasidagi jazoni almashtirish tartibida, — bir oydan kamroq muddatga tayinlanishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3044047",
+      "matn": "Uzoq muddatli (yigirma yildan ortiq, lekin yigirma besh yildan koʻp boʻlmagan muddatga) ozodlikdan mahrum qilish tariqasidagi jazo faqat ikki turdagi jinoyat — javobgarlikni ogʻirlashtiradigan holatlarda qasddan odam oʻldirish (JK 97-moddaning ikkinchi qismi) va terrorizm (JK 155-moddaning uchinchi qismi) uchun tayinlanishi mumkin. Bunda qonun uzoq muddatli ozodlikdan mahrum qilish jazosi ayollarga, oʻn sakkiz yoshga toʻlmasdan jinoyat sodir etgan shaxslarga va oltmish yoshdan oshgan erkaklarga nisbatan tayinlanishini istisno etadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-6405188",
+      "matn": "28. JK 50-moddasining oltinchi qismiga muvofiq ayollarga, shuningdek 60 yoshdan oshgan erkaklarga nisbatan ozodlikdan mahrum qilish tariqasidagi jazo muddati, shu jumladan, jinoyatlar majmui va hukmlar majmui boʻyicha jazo tayinlanayotgan hollarda ham, Jinoyat kodeksi Maxsus qismining tegishli moddasi (moddasi qismi) sanksiyasida nazarda tutilgan ozodlikdan mahrum qilish jazosi eng koʻp muddatining uchdan ikki qismidan ortiq boʻlishi mumkin emas."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931790",
+      "matn": "Ayollarga, shuningdek 60 yoshdan oshgan erkaklarga nisbatan Jinoyat kodeksi Maxsus qismining tegishli moddasi (moddasi qismi) nazarda tutilgan ozodlikdan mahrum qilish jazosidan ham kamroq jazo JK 50-moddasining 6-qismi tartibida boshqa yengilroq jazo JK 57-moddasi qoʻllanilgan holda tayinlanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457406",
+      "matn": "29. Sudlar qisqa muddatga (bir yilgacha) ozodlikdan mahrum qilish jazosini qoʻllashda ishning barcha holatlaridan, aybdorning shaxsidan kelib chiqishlari va ozodlikdan mahrum qilish bilan bogʻliq boʻlmagan jazo qoʻllanilishi imkoniyati yoʻqligi sabablarini hukmda asoslantirishlari lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457407",
+      "matn": "30. Bir necha jinoyatlar uchun jazo tayinlashda jazo muddati Jinoyat kodeksining har bir moddasi boʻyicha alohida koʻrsatiladi. Ozodlikdan mahrum qilish tariqasidagi jazoni oʻtash koloniyasining turi jinoyatlar majmui boʻyicha jazo tayinlangandan soʻng belgilanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414141",
+      "matn": "Muqaddam ozodlikdan mahrum qilish jazosini oʻtamagan shaxsga jazoni oʻtash koloniya turini belgilashda, faqat qaysi jinoyatlar uchun ozodlikdan mahrum qilish jazosi tayinlanganligini inobatga olish lozim. Masalan, agar shaxs qasddan ogʻir yoki oʻta ogʻir jinoyat sodir etganlik uchun ozodlikdan mahrum qilish bilan bogʻliq boʻlmagan jazoga, ijtimoiy xavfi katta boʻlmagan yoki uncha ogʻir boʻlmagan jinoyati uchun esa ozodlikdan mahrum qilish jazosiga sudlanayotgan boʻlsa, unga uzil-kesil tayinlangan jazoni manzil koloniyalarda oʻtashi belgilanishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414143",
+      "matn": "Biroq, agar ogʻir yoki oʻta ogʻir jinoyat sodir etganligi uchun ozodlikdan mahrum qilish bilan bogʻliq boʻlmagan jazoga sudlangan, jazoni oʻtashdan boʻyin tovlagan shaxsga, sud tomonidan tayinlangan jazo ozodlikdan mahrum qilish tariqasidagi jazo bilan almashtirilsa, jazoni oʻtash koloniya turi Jinoyat-ijroiya kodeksining 47 va 116-moddalarida nazarda tutilgan tartibda tayinlanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651395",
+      "matn": "301. Jinoyat kodeksi 51-moddasiga muvofiq, umrbod ozodlikdan mahrum qilish tariqasidagi jazo faqat javobgarlikni ogʻirlashtiradigan holatlarda qasddan odam oʻldirish (JK 97-moddasining ikkinchi qismi) va terrorizm (JK 155-moddasining uchinchi qismi) uchun tayinlanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651397",
+      "matn": "Umrbod ozodlikdan mahrum qilish tariqasidagi jazo qoʻllash masalasini hal etishda, sudlar bu turdagi jazo favqulodda jazo boʻlib, faqat ishda javobgarlikni ogʻirlashtiradigan alohida holatlar mavjud boʻlgandagina tayinlanishi mumkinligini va mahkumni jamiyatdan muddatsiz ajratib qoʻyishdan iborat boʻlishini hisobga olishlari lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651399",
+      "matn": "Umrbod ozodlikdan mahrum qilish tariqasidagi jazo quyidagilarga tayinlanishi mumkin emas:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651402",
+      "matn": "ayolga, oʻn sakkiz yoshga toʻlmasdan jinoyat sodir etgan shaxsga va oltmish yoshdan oshgan erkakka nisbatan;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651405",
+      "matn": "tamom boʻlmagan jinoyatlar uchun."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651407",
+      "matn": "302. Sudlar shuni nazarda tutishlari lozimki, JK 50-moddasi toʻrtinchi qismida, 51-moddasi uchinchi qismida belgilangan qoidalar hukm chiqarilgan yoki ish apellyatsiya instansiyasida koʻrilgan kunda 60 yoshga toʻlgan erkaklarga nisbatan tatbiq etiladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457409",
+      "matn": "31. Sudlarning eʼtibori shunga qaratilsinki, JK 72-moddasining birinchi qismiga muvofiq shartli hukm faqat axloq tuzatish ishlari, xizmat boʻyicha cheklash, intizomiy qismga joʻnatish yoki ozodlikdan mahrum qilish tariqasidagi jazolar tayinlangan holda qoʻllanilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457412",
+      "matn": "Agar sud bir yoki bir necha jinoyat sodir etgan shaxsga nisbatan shartli hukm qoʻllash lozimligi haqida xulosaga kelsa, bunday qaror har bir jinoyat uchun alohida emas, balki jinoyatlar majmui boʻyicha uzil-kesil jazo tayinlash paytida qabul qilinadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457416",
+      "matn": "Shartli hukm faqat JK 72-moddasining birinchi qismida koʻrsatilgan bir yoki bir necha jazo turi tayinlangan shaxslarga nisbatan qoʻllanilishi mumkin. Agar tayinlangan jazo turidan biri qonunning ushbu normasida koʻrsatilmagan boʻlsa, sud JK 72-moddasi birinchi qismida qayd etilgan jinoyatlarga nisbatan shartli hukm qoʻllab, boshqa turdagi jazoni (masalan, muayyan huquqdan mahrum qilish, jarima) real ijro etish toʻgʻrisida qaror qiladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457410",
+      "matn": "32. Qonunga koʻra, shartli hukm qilishda qoʻshimcha jazolar ham qoʻllanilishi mumkinligini va ular real tarzda ijroga qaratilishini nazarda tutib, bu haqda hukmning qaror qismida alohida koʻrsatish lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457411",
+      "matn": "33. Shartli hukm asoslantirilgan boʻlishi va mahkumni axloqan tuzatish maqsadiga xizmat qilishi lozim. Shu sababli sud, shartli hukm qilingan mahkumga JK 72-moddasi uchinchi qismida nazarda tutilgan majburiyatlarni bajarishni yuklashi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457413",
+      "matn": "34. Shartli hukm qoʻllanilganda, bir yildan uch yilgacha boʻlgan sinov muddati belgilanadi va bu muddat hukm chiqarilgan kundan boshlab hisoblanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457414",
+      "matn": "Qonun sinov muddati davomiyliligini tayinlangan jazo miqdori bilan bogʻlamaydi. Bu masala sud tomonidan har safar sodir etilgan jinoyatning xususiyati va sudlanuvchining shaxsidan kelib chiqib hal etiladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7342104",
+      "matn": "Agar shartli hukm apellyatsiya, kassatsiya yoki taftish instansiyasi sudi tomonidan qoʻllanilgan boʻlsa, bunday holda ham sinov muddati hukm eʼlon qilingan kundan boshlab hisoblanadi (JK 72-moddasi ikkinchi qismi)."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457418",
+      "matn": "Shartli hukm qilishda belgilangan sinov muddatini qisqartirish masalasi JPK 541-moddasining uchinchi qismiga muvofiq mahkumning yashash joyidagi jinoyat ishlari boʻyicha tuman (shahar) sudi sudyasi tomonidan hal qilinadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457417",
+      "matn": "35. JK 72-moddasining oltinchi qismiga muvofiq, agar shartli hukm qilingan shaxs sinov muddati davomida sud tomonidan unga yuklatilgan majburiyatlarini bajarmasa yoxud jamoat tartibi yoki mehnat intizomini buzganligi uchun unga maʼmuriy yoki intizomiy taʼsir chorasi qoʻllanilgan boʻlsa, sud bunday shaxsning xulqi ustidan nazorat olib boruvchi organ taqdimnomasiga binoan jazoning shartliligini bekor qilib, hukmda belgilangan jazoni ijro etish toʻgʻrisida qaror qabul qilishga haqli."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457420",
+      "matn": "Shu bilan birga, sodir etilgan huquqbuzarlikning xususiyati va muayyan holatlarini, mahkumning shaxsi va sinov muddati davomidagi xulq-atvoriga doir maʼlumotlarni hisobga olib, sud shartli hukmni aslicha qoldirish toʻgʻrisida qaror qabul qilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457419",
+      "matn": "36. Qonun boʻyicha (JK 72-moddasining sakkizinchi qismi) shartli hukm qilingan shaxs tomonidan sinov muddati davomida yangi jinoyat sodir etilsa, sud unga JK 60-moddasida nazarda tutilgan qoidalar boʻyicha jazo tayinlaydi. Bunda sud, uzil-kesil jazo tayinlashdan oldin, shartli hukm qilingan shaxsning xulqi ustidan nazorat olib boruvchi organ taqdimnomasi bor-yoʻqligidan qatʼiy nazar, birinchi hukmning shartliligini bekor qiladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457426",
+      "matn": "Bunday holda, bir necha hukm yuzasidan jazo tayinlash paytida sud, JK 72-moddasining yettinchi qismida nazarda tutilgan shartlarga rioya etgan holda yana shartli hukm qoʻllashi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414165",
+      "matn": "361. Shartli hukm yuridik tabiatiga koʻra, jinoiy jazodan ozod qilinishining bir turi hisoblanadi. Shu sababli sudlar JK 72-moddasida shartli hukmni bekor qilish uchun asos boʻladigan holatlar doirasi qatʼiy belgilanganligini nazarda tutishlari lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414169",
+      "matn": "Shu bilan birga, shartli hukm qilingan shaxsning shu ish boʻyicha hukm chiqarilgunga qadar sodir etilgan boshqa jinoyatda ham aybdorligi aniqlangan xollarda, birinchi hukm boʻyicha jazo tayinlashda aybdorning shaxsiga doir barcha holatlar sudga maʼlum boʻlmaganligi sababli uning xulqini nazorat qilish sharoitida jazoni oʻtamasdan turib ham tuzatish mumkinligi haqida barvaqt xulosaga kelganligidan kelib chiqish lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414170",
+      "matn": "Shularni eʼtiborga olib, sud birinchi hukm boʻyicha shartli sudlanganlikni bekor qilib, JK 59-moddasining 8-qismi tartibida uzil-kesil jazo tayinlaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414171",
+      "matn": "Sudlar shuni ham nazarda tutishlari lozimki, birinchi hukm boʻyicha shartli sudlanganlik bekor qilinganida, JKning 72-moddasida koʻrsatilgan asoslarga koʻra, sud JK 59-moddasining 8-qismi tartibida uzil-kesil tayinlangan jazoni yana shartli deb topish masalasini muhokama qilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414184",
+      "matn": "Bir necha jinoyat sodir etganlik uchun JK 59-moddasining 8-qismi tartibida uzil-kesil jazo tayinlanganligi shaxsning bitta sudlanganligini nazarda tutadi, shartli deb esa JK 72-moddasiga asosan faqat uzil-kesil tayinlangan jazo topilishi mumkin. Shunga koʻra, bunday hollarda dastlabki sud hukmlari qonuniy kuchga kirganidan soʻng bir yildan koʻp boʻlgan muddat oʻtgan holatlarda ham sud JK 72-moddasiga asosan shartli jazo asosli tayinlanganligini muhokama qilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457422",
+      "matn": "37. JK 57-moddasiga muvofiq, sodir etilgan jinoyatning ijtimoiy xavflilik darajasini jiddiy kamaytiruvchi holatlar aniqlangan taqdirda, Jinoyat kodeksi Maxsus qismi moddasi sanksiyasida nazarda tutilgan eng kam jazodan ham kamroq yoki shu moddada nazarda tutilmagan boshqa yengilroq jazo tayinlanishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457423",
+      "matn": "Bunda, qonunga muvofiq, sudlar, nafaqat shaxs jinoyat sodir etish vaqtida koʻzlagan motiv va maqsad, ayb shakli va darajasini, balki, aybdorning shaxsi, jinoyat ishtirokchilari orasidagi roli, jinoyat sodir etilish paytidagi yoki sodir etilganidan keyingi xulq-atvori, jinoyatni sodir etish sabablari va bunga olib kelgan shart-sharoitni ham eʼtiborga olishlari lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457424",
+      "matn": "Jinoyatning ijtimoiy xavflilik darajasini jiddiy kamaytiruvchi alohida holatlar roʻyxati qonunda koʻrsatilmaganligini nazarda tutib, sud qabul qilgan qarorini hukmda asoslantirgan holda jazoni yengillashtiruvchi ayrim holatni ham, ularning majmuini ham bunday holat sifatida tan olishi mumkin (masalan moddiy zararning toʻliq qoplanganligi, sudlanuvchi yoki ota-onasining ogʻir kasalligi, ularning mehnatga layoqatsizligi, aybdor ota-onasining yoki bolasining boshqa boquvchisi yoʻqligi, sudlanuvchining keksa yoshda ekanligi, uning bir guruh shaxslar tomonidan sodir etilgan jinoyatni ochishda faol ishtirok etganligi, jabrlanuvchining jinoyat sodir etilishiga turtki bergan huquqqa xilof xulq-atvori, jabrlanuvchining sudlanuvchi bilan yarashganligi va h.k.)."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3794713",
+      "matn": "38. Jinoyat kodeksining 57-moddasida belgilangan qoidaga koʻra, ushbu kodeks Maxsus qismi moddasi sanksiyasida nazarda tutilmagan har qanday yengilroq asosiy jazo turi, jumladan, jarima, muayyan huquqdan mahrum qilish, majburiy jamoat ishlari, axloq tuzatish ishlari, xizmat boʻyicha cheklash, ozodlikni cheklash, intizomiy qismga joʻnatish kabi jazolar JK 44 — 49-moddalariga rioya qilingan holda tayinlanishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931949",
+      "matn": "Shu bilan birgalikda, sudlar JK 44 — 50-moddalarida (voyaga yetmaganlarga nisbatan JK 82 — 85-moddalarida) nazarda tutilgan jazolarning minimal miqdoridan ham kamroq jazo tayinlash mumkin emasligiga alohida eʼtibor qaratishlari lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457428",
+      "matn": "39. Sudlarga tushuntirilsinki:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457429",
+      "matn": "qonun sanksiyasida nazarda tutilganidan ham yengilroq jazo tayinlash paytida hukmning qaror qismida faqat Jinoyat kodeksining tegishli moddasi (qismi, bandi) boʻyicha JK 57-moddasi qoʻllanilib tayinlangan uzil-kesil jazo chorasi koʻrsatilishi lozim boʻlib, yengilroq jazo qoʻllash sabablari hukmning tavsif qismida koʻrsatilishi kerak;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457433",
+      "matn": "shaxs jinoyat qonunining turli moddalarida (moddasi qismlarida) koʻzda tutilgan bir necha jinoyat sodir etganlik uchun sudlanayotgan boʻlsa, JK 57-moddasi jinoyatlar jami boʻyicha tayinlangan jazodan keyin emas, balki alohida jinoyatlar uchun jazo tayinlash paytida qoʻllaniladi;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457434",
+      "matn": "qonun sanksiyasida nazarda tutilganidan ham yengilroq asosiy jazoning tayinlanishi aybdorning harakatlari kvalifikatsiya qilinayotgan qonun sanksiyasida nazarda tutilgan qoʻshimcha jazolarni tayinlash imkoniyatini istisno qilmaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457431",
+      "matn": "40. Qoʻshimcha jazo choralarining yangi jinoyatlar sodir etilishi oldini olishda katta ahamiyatga ega ekanligidan kelib chiqib, sudlarga hukm chiqarish paytida asosiy jazo bilan birga tegishli qoʻshimcha jazo qoʻllash masalasini ham muhokama qilish tavsiya qilinsin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457432",
+      "matn": "41. Jinoyat kodeksining 43-moddasiga muvofiq, mahkumlarga nisbatan muayyan huquqdan mahrum qilish hamda harbiy yoki maxsus unvondan mahrum qilish kabi qoʻshimcha jazolar qoʻllanilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457436",
+      "matn": "Muayyan huquqdan mahrum qilish tariqasidagi qoʻshimcha jazo shaxs aybdor deb topilgan Jinoyat kodeksi Maxsus qismi moddasi sanksiyasi doirasida tayinlanadi. Agar muayyan huquqdan mahrum qilish tariqasidagi jazo Jinoyat kodeksi Maxsus qismi moddasi sanksiyasida nazarda tutilmagan boʻlsa, u JK 45-moddasida belgilangan asoslar va doirada, qabul qilingan qaror hukmda asoslantirilgan holda qoʻllanilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457438",
+      "matn": "Harbiy yoki maxsus unvondan mahrum qilish tariqasidagi qoʻshimcha jazo JK 52-moddasida koʻrsatilgan hollardagina qoʻllanilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457435",
+      "matn": "42. Agar jinoiy qilmish kvalifikatsiya qilinayotgan qonunda qoʻshimcha jazo majburiy tarzda tayinlanishi belgilangan boʻlsa, uni faqat JK 57-moddasida nazarda tutilgan hollar mavjud boʻlganda qoʻllamaslik mumkin boʻlib, bunday qaror ushbu moddaga havola qilingan holda hukmda asoslantirilishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7342114",
+      "matn": "43. Qonun boʻyicha tayinlanishi majburiy boʻlgan qoʻshimcha jazoni qoʻllamaslik (JK 57-moddasi qoʻllanilgan hollar bundan mustasno), hukmda muayyan huquqdan mahrum qilish tariqasidagi qoʻshimcha jazo muddatini koʻrsatmaslik, tayinlangan jazoga ilgarigi hukm boʻyicha tayinlangan qoʻshimcha jazoning oʻtalmagan qismini qoʻshmaslik, qoʻshimcha jazoni faqat jinoyatlar jami boʻyicha tayinlash kabi hollar jinoyat qonuni notoʻgʻri qoʻllanilgan deb baholanishiga va Jinoyat-protsessual kodeksi 485 va 489-moddalari talabiga koʻra hukmning bekor boʻlishiga asos boʻladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457439",
+      "matn": "44. Sudlar shuni nazarda tutishlari lozimki, qonunda nazarda tutilganidan ham yengilroq asosiy jazo belgilanishi yoki Jinoyat kodeksi Maxsus qismi moddasida koʻrsatilmagan boshqa yengilroq asosiy jazo turiga oʻtilishi aybdorga nisbatan qoʻshimcha jazo tayinlash imkoniyatini istisno etmaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457440",
+      "matn": "45. Jinoyat kodeksining 45-moddasiga muvofiq, aybdor oʻzi egallagan lavozim yoki xizmat faoliyati bilan bevosita bogʻliq holda jinoyat sodir etgan har bir holda, sud, jinoyatning xususiyatidan kelib chiqib, mahkumni u yoki bu mansabni egallash yoki muayyan faoliyat bilan shugʻullanish huquqidan mahrum qilish masalasini muhokama qilishi shart. Bunday jazoni tayinlash paytida hukmning qaror qismida sudlanuvchi shugʻullanishi mumkin boʻlmagan mansab xarakteri yoki faoliyat turi aniq koʻrsatilishi kerak."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457442",
+      "matn": "Hukm chiqarilayotgan paytda mahkum jinoyat sodir etilishi bilan bogʻliq boʻlgan mansabni egallamasligi yoki faoliyat turi bilan shugʻullanmasligi holati qoʻshimcha jazo qoʻllash uchun toʻsiq boʻlmaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931959",
+      "matn": "Sudlarga tushuntirilsinki, Oʻzbekiston Respublikasi JKning 572-moddasiga asosan, aybga iqrorlik toʻgʻrisida kelishuv tuzilgan jinoyatlar boʻyicha jazo tayinlanishi JKning 45-moddasini qoʻllab, qoʻshimcha jazo qoʻllashni istisno qilmaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457441",
+      "matn": "46. Bir necha jinoyat sodir etganlikda aybdor deb topilgan shaxsga nisbatan qoʻshimcha jazo turi va miqdori asosiy jazo singari har bir harakat uchun alohida, soʻngra esa jinoyatlar majmui boʻyicha uzil-kesil tayinlanishi lozim. Agar qoʻshimcha jazo jinoyatlar majmuiga kiruvchi birorta ham jinoyat uchun tayinlanmagan boʻlsa, u jinoyatlar majmui boʻyicha qoʻllanilishi mumkin emas."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457444",
+      "matn": "Agar jinoyatlar majmuiga kiruvchi ikki va undan koʻp jinoyat uchun aynan bir turdagi qoʻshimcha jazo tayinlangan boʻlsa, uning uzil-kesil miqdori koʻproq qoʻshimcha jazo muddatini koʻzda tutuvchi modda sanksiyasi doirasida ularni toʻla yoki qisman qoʻshish orqali, jinoyat qonuni moddasida muddat belgilanmagan yoki qoʻshimcha jazo JK 45-moddasi asosida qoʻllanilgan boʻlsa, ushbu jazo turi uchun belgilangan maksimal muddat doirasida belgilanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7342119",
+      "matn": "47. Agar, sud muayyan huquqdan mahrum qilish tariqasidagi qoʻshimcha jazoni tayinlash chogʻida mansab nomi yoki faoliyat turini hukmda aniq koʻrsatmagan boʻlsa, apellyatsiya, kassatsiya va taftish instansiyasi sudi mahkumning ahvolini ogʻirlashtirmagan holda hukmga tegishli aniqlik kiritishga haqli."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457448",
+      "matn": "Bunday aniqliklar hukm chiqargan sud tomonidan ham JPK 541-moddasida koʻzda tutilgan tartibda kiritilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457449",
+      "matn": "Agar hukm uni chiqargan sud faoliyat koʻrsatuvchi hududdan tashqarida ijro qilinayotgan boʻlsa, ushbu masala hukm ijro qilinayotgan joydagi sud tomonidan hal qilinadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457445",
+      "matn": "48. Sudlarga muayyan faoliyat bilan shugʻullanish huquqidan mahrum qilish tariqasidagi qoʻshimcha jazoni, tegishli asoslar mavjud boʻlgan hamda jazoni yengillashtiruvchi va ogʻirlashtiruvchi holatlarni hisobga olgan holda, ushbu faoliyat kasb yoki tirikchilik manbai boʻlgan shaxslarga nisbatan (masalan tadbirkorlik faoliyati, transport vositalarini boshqarish va sh.k.) qoʻllashning qanchalik maqsadga muvofiqligi masalasini muhokama qilish tavsiya etilsin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3794731",
+      "matn": "Shuni nazarda tutish lozimki, tadbirkorlik faoliyati bilan shugʻullanayotgan shaxslarga nisbatan tadbirkorlik faoliyati bilan shugʻullanish huquqidan mahrum qilish tarzidagi jazo tayinlanishiga yoʻl qoʻyilmaydi, odam oʻlishiga yoki boshqa ogʻir oqibatlarga sabab boʻlgan hollar bundan mustasno (JK 45-moddasi beshinchi qismi)."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457447",
+      "matn": "49. Sudlar shuni nazarda tutishlar lozimki, JK 59-moddasida belgilangan jinoyatlar majmui boʻyicha jazo tayinlash qoidalari quyidagi hollarda qoʻllaniladi:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457452",
+      "matn": "qilmish Jinoyat kodeksining turli moddalari boʻyicha kvalifikatsiya qilinganda;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-6688842",
+      "matn": "qilmish Jinoyat kodeksi muayyan moddasining bir necha qismlari bilan kvalifikatsiya qilinganda, basharti ushbu qismlar turli jinoyatlar uchun javobgarlikni nazarda tutsa (masalan, JK 1261, 131, 228, 248, 273-moddalari);"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457458",
+      "matn": "shaxs bir necha aynan oʻxshash qilmishni sodir etgan boʻlib, ulardan ayrimlari tugallangan jinoyat, boshqalari esa — jinoyatga tayyorgarlik, suiqasd tariqasida kvalifikatsiya qilinganda yoki ayrimlari mustaqil, boshqalari esa ishtirokchilikda sodir etilganda;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457459",
+      "matn": "ish boʻyicha hukm chiqarilgandan keyin mahkumning birinchi ish boʻyicha chiqarilgan hukmgacha yana boshqa jinoyatda aybdorligi aniqlanganda."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457462",
+      "matn": "Shaxs Jinoyat kodeksi Maxsus qismi aynan bir moddasining turli qismlarida nazarda tutilgan oʻxshash qilmishni sodir etganlikda aybdor deb topilganda jazo shu moddaning ogʻirroq jazo belgilangan qismi boʻyicha tayinlanadi (JK 33-moddasi)."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457450",
+      "matn": "50. Jinoyat kodeksi 59-moddasi va Jinoyat-protsessual kodeksi 468-moddasida belgilangan sudning har bir jinoyat uchun alohida jazo tayinlab, soʻngra jinoyatlar majmui boʻyicha uzil-kesil jazo belgilashi shartligi toʻgʻrisidagi talablar ham asosiy, ham qoʻshimcha jazo tayinlashga taalluqlidir."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457453",
+      "matn": "51. Ikki yoki undan ortiq jinoyatlar majmui boʻyicha asosiy jazo belgilashda, sud, alohida jinoyatlar uchun tayinlangan jazolarning yengilrogʻini ogʻirrogʻi bilan qoplash yoki ularni toʻla yoki qisman qoʻshish qoidasi boʻyicha uzil-kesil jazo tayinlaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457454",
+      "matn": "Bunda:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457455",
+      "matn": "agar jinoyatlar majmuini faqat ijtimoiy xavfi katta boʻlmagan va uncha ogʻir boʻlmagan jinoyatlar tashkil etsa, sud jazo tayinlashning umumiy asoslariga rioya etgan holda yengilroq jazoni ogʻirrogʻi bilan qoplash yoki jazolarni toʻla yoki qisman qoʻshish qoidasidan birini tanlashga haqli;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457456",
+      "matn": "agar jinoyatlar majmuini tashkil etuvchi jinoyatlardan loaqal bittasi ogʻir yoki oʻta ogʻir jinoyat boʻlsa, sud Jinoyat kodeksi Umumiy qismida muayyan jazo turi uchun belgilangan doirada jazolarni toʻla yoki qisman qoʻshish qoidasiga amal qiladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-6084598",
+      "matn": "Har xil turdagi asosiy jazolarni qoʻshganda ozodlikni cheklashning bir kuni axloq tuzatish ishlarining yoki xizmat boʻyicha cheklashning uch kuniga toʻgʻri keladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457460",
+      "matn": "Jazoni toʻla yoki qisman qoʻshish qoidasi alohida jinoyatlar uchun har xil turdagi jazolar tayinlanganda ham qoʻllaniladi. Bunda sudlar Jinoyat kodeksi 61-moddasining birinchi qismida nazarda tutilgan jazolarni qoʻshib hisoblash qoidalariga amal qilishlari lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457461",
+      "matn": "Ayni paytda sudlar shuni nazarda tutishlar kerakki, JK 61-moddasining ikkinchi qismiga muvofiq jarima va muayyan huquqdan mahrum qilish tariqasidagi jazolar boshqa turdagi jazolar bilan qoʻshib hisoblanmaydi va alohida ijro qilinadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457463",
+      "matn": "52. Ikki yoki undan ortiq jinoyatlar majmui boʻyicha qoʻshimcha jazo belgilashda, agar alohida jinoyatlar uchun tayinlangan jazo bir turga mansub boʻlsa, sud ushbu qoʻshimcha jazo turi uchun belgilangan maksimal muddat doirasida ularning yengilrogʻini ogʻirrogʻi bilan qoplash yoki ularni toʻla yoki qisman qoʻshish qoidasi boʻyicha uzil-kesil jazo tayinlaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457464",
+      "matn": "Agar jinoyatlar yoki hukmlar majmuiga kiruvchi jinoyatlar uchun tayinlangan qoʻshimcha jazo turlicha boʻlsa, ular alohida ijro etiladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457465",
+      "matn": "Sudlar shuni eʼtiborga olishlari lozimki, qoʻshimcha jazolarni qoplash qoidasini qoʻllash imkoniyati qonunda jinoyatning ogʻirligi bilan cheklanmagan."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651438",
+      "matn": "53. Sudlar shuni nazarda tutishlari lozimki, jinoyatlar majmui uchun JK 59-moddasining sakkizinchi qismi boʻyicha jazo tayinlanganda, uzil-kesil jazo, qoida tariqasida, Jinoyat kodeksining Umumiy qismida belgilangan tartib va miqdorda tayinlanib, birinchi hukm boʻyicha tayinlangan jazodan kam boʻlishi mumkin emas. Bunday hollarda birinchi hukm boʻyicha tayinlangan jazoning oʻtalmagan qismidan emas, balki uning toʻliq miqdoridan kelib chiqish shartligiga eʼtibor qaratilsin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651426",
+      "matn": "JK 59-moddasining sakkizinchi qismiga muvofiq tayinlangan uzil-kesil jazo muddatini belgilashda birinchi hukm boʻyicha oʻtalgan jazo hisobga olinadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931967",
+      "matn": "54. Jinoyat kodeksining 60-moddasida nazarda tutilgan bir necha hukmlar boʻyicha jazo tayinlash qoidalari birinchi hukm eʼlon qilinganidan soʻng (shu jumladan, hukm qonuniy kuchga kirgunga qadar), lekin oʻsha hukm boʻyicha tayinlangan asosiy va qoʻshimcha jazolar toʻliq oʻtalganga qadar mahkum tomonidan yangi jinoyatni sodir etilgan hollarda qoʻllaniladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414212",
+      "matn": "Ayblov hukmi eʼlon qilingan shaxs tayinlangan asosiy va qoʻshimcha jazoni toʻliq oʻtaguniga qadar yangi jinoyat sodir etsa va ushbu jinoyat uchun jazo tayinlash paytiga kelib, avvalgi hukm boʻyicha tayinlangan jazoni toʻliq oʻtab boʻlsa, uzil-kesil jazo Jinoyat kodeksining 60-moddasi tartibida tayinlanmaydi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414217",
+      "matn": "Bunday holda, sud ilgari qasddan jinoyat sodir etganligi uchun sudlangandan keyin Jinoyat kodeksining 56-moddasining “n” bandiga asosan sodir etilgan jinoyatni takroran yoki qasddan yangi jinoyat sodir etishi deb, jazoni ogʻirlashtiruvchi holat sifatida inobatga olishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651448",
+      "matn": "55. Sudlar shuni hisobga olishlari kerakki, hukmlar majmui boʻyicha belgilangan jazo yangi jinoyat uchun belgilangan jazo muddatidan ham ilgarigi hukm boʻyicha belgilangan jazoning oʻtalmagan qismidan ham koʻproq boʻlishi kerak."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-3044050",
+      "matn": "Bunda ozodlikdan mahrum etish tariqasidagi uzil-kesil jazo muddati yigirma besh yildan, voyaga yetmaganlarga — oʻn besh yildan, oltmish yoshdan oshgan erkaklar hamda ayollarga nisbatan esa — oʻn uch yil toʻrt oydan ortiq boʻlishi mumkin emas."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651451",
+      "matn": "Jinoyat kodeksi 60-moddasi uchinchi qismiga muvofiq, agar hukmlardan biri boʻyicha umrbod ozodlikdan mahrum qilish tariqasidagi jazo tayinlangan boʻlsa, uzil-kesil jazo yengilroq jazo turini umrbod ozodlikdan mahrum qilish bilan qoplash yoʻli bilan tayinlanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457471",
+      "matn": "56. Hukmlar majmui boʻyicha jazo tayinlash haqidagi masala hal qilinayotganda oldingi hukm boʻyicha tayinlangan asosiy va qoʻshimcha jazoning qancha qismi shaxs tomonidan real oʻtalmaganligi aniqlanishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457472",
+      "matn": "Jazo quyidagi hollarda oʻtalmagan hisoblanadi:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457473",
+      "matn": "jazoni oʻtashdan muddatidan ilgari shartli ravishda ozod etilganda — jazoning mahkum oʻtamay qolgan qismi;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457474",
+      "matn": "oldingi hukm boʻyicha tayinlangan shartli hukmning butun muddati;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457476",
+      "matn": "JPK 533-moddasi tartibida ijrosi kechiktirilgan jazo muddati."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457477",
+      "matn": "Ilgarigi hukm boʻyicha tayinlanib, oʻtalmay qolgan qoʻshimcha jazo hukmlar majmui boʻyicha tayinlangan asosiy jazoga faqat qoʻshimcha jazo sifatida qoʻshilishi mumkin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414235",
+      "matn": "561. Agar jinoyatlar majmui yoki bir nechta hukm bilan jazo tayinlashda muayyan huquqdan mahrum qilish jazosi jinoyatlarning biri yoki hukmlarning biri bilan asosiy jazo sifatida, boshqa jinoyat yoki hukm bilan qoʻshimcha jazo sifatida tayinlangan boʻlsa, ular asosiy jazo uchun belgilangan muddat doirasida toʻliq yoki qisman qoʻshilishi lozim. Bunda uzil-kesil tayinlangan jazo asosiy jazo deb hisoblanadi va ayblovning har bir moddasi yoki hukmlarning har biri bilan mahrum qilingan huquqlarning barcha turlari nazarda tutilishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457475",
+      "matn": "57. Sud birinchi hukm boʻyicha shartli tayinlangan jazoni oxirgi hukm boʻyicha tayinlangan jazoga qoʻshishda, shaxs ehtiyot chorasi yoki ushlab turish sifatida qamoqda boʻlgan vaqtni hukmlar majmui boʻyicha tayinlangan uzil-kesil jazoga qoʻshib hisoblashi kerak."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457479",
+      "matn": "Agar yangi jinoyat shaxs tomonidan birinchi hukm boʻyicha tayinlagan jazo JK 74-moddasiga asosan yoki afv etish, yoxud amnistiya akti asosida yengilrogʻi bilan almashtirilganidan soʻng sodir etilgan boʻlsa, ikkinchi hukm boʻyicha tayinlangan jazoga almashtirilgan yengilroq jazoning oʻtalmagan qismi qoʻshiladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2414244",
+      "matn": "Jazoni oʻtayotgan shaxs tomonidan yangi jinoyat sodir etilganda, jazoning oʻtalmagan qismi sifatida yangi jinoyat uchun u ushlangandan yoki qamoqda saqlab turish sifatida ehtiyot chorasi tanlanganidan soʻng qolgan muddatni hisoblash lozim. Agar bunday ehtiyot chorasi tanlanmagan yoki boshqa turdagi ehtiyot chorasi tanlangan boʻlsa, jazoning oʻtalmagan qismi muddati oxirgi hukm chiqarilgan vaqtdan boshlab hisoblanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-2651464",
+      "matn": "58. Agar ish boʻyicha mahkum boshqa jinoyatlarda ham aybdor ekanligi aniqlanib, ulardan ayrimlari birinchi hukm chiqarilgunga, boshqalari esa, hukm chiqarilgandan soʻng sodir etilgan boʻlsa, ikkinchi hukm boʻyicha jazo avval birinchi hukm chiqarilgunga qadar sodir etilgan jinoyatlar majmui boʻyicha, keyin JK 59-moddasi sakkizinchi qismi qoidasiga koʻra, soʻngra birinchi hukm chiqarilganidan keyin sodir etilgan jinoyatlar majmui boʻyicha va oxirida bir necha hukm yuzasidan (JK 60-moddasi) uzil-kesil tayinlanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931975",
+      "matn": "Bunda, sudlarning eʼtibori shaxs boshqa-boshqa jinoyatlarda emas, balki JKning aynan bir moddasi turli qismlarida (masalan, JK 168-moddasining turli qismlarida) nazarda tutilgan oʻxshash qilmishni sodir etganlikda aybli deb topilib, ulardan ayrimlari birinchi hukm chiqarilgunga, boshqalari esa, hukm chiqarilgandan soʻng sodir etilgan hollarda, jazoni JKning 33-moddasi ikkinchi qismi talabidan kelib chiqib, shu moddaning ogʻirroq jazo belgilangan qismi boʻyicha tayinlab, soʻngra JKning 60-moddasi tartibida tayinlashning oʻzi yetarli boʻlib, JK 59-moddasining 8-qismi qoidalarini qoʻllash talab etilmasligiga qaratilsin."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457498",
+      "matn": "Shaxs davomli yoki uzoqqa choʻzilgan, yaʼni birinchi ish boʻyicha hukm chiqarilguncha qadar boshlanib, hukm chiqarilgandan soʻng ham davom etgan jinoyat uchun sudlanayotgan boʻlsa, sud ikkinchi hukm boʻyicha jazo tayinlashda JK 60-moddasini qoʻllashi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931979",
+      "matn": "JK 59-moddasining 8-qismiga muvofiq, jinoyatlar majmui bilan tayinlangan ozodlikdan mahrum qilish jazosining oʻtash muddatining boshlanishi birinchi hukmga koʻra qamoqqa olingan kundan, JK 60-moddasi qoidalariga muvofiq bir necha hukm yuzasidan tayinlangan uzil-kesil jazo muddati esa oxirgi hukm boʻyicha qamoqqa olingan kundan boshlab hisoblanadi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457481",
+      "matn": "59. Qonunga koʻra, agar mahkumning ahvoli yomonlashmasa va himoyaga boʻlgan huquqi buzilmasa, sud jinoiy qilmishni jinoyat qonunining bitta moddasidan yengilroq jinoyatlar uchun javobgarlikni nazarda tutuvchi bir necha moddasiga qayta kvalifikatsiya qilishga haqli."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457482",
+      "matn": "Bunda jinoyatlar majmui boʻyicha tayinlangan jazo jinoiy qilmish ayblanuvchi sifatida ishga jalb qilish haqidagi qarorda va ayblov xulosasida kvalifikatsiya qilingan Jinoyat kodeksi moddasi sanksiyasida nazarda tutilgan maksimal jazodan ogʻirroq boʻlishi mumkin emas."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7342123",
+      "matn": "Ishni apellyatsiya, kassatsiya va taftish instansiyalarida koʻrishda ham ushbu qoidani eʼtiborda tutish lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457484",
+      "matn": "60. Sudlarga tushuntirilsinki, har bir qilmish uchun alohida jazo tayinlamasdan turib jinoyatlar majmui boʻyicha jazo belgilanishi yoki alohida jinoyatlar uchun jazo tayinlanib, jinoyatlar majmui boʻyicha uzil-kesil jazo tayinlanmasligi yoxud tayinlangan jazoga ilgarigi hukm boʻyicha tayinlangan va sudga maʼlum boʻlgan jazoning oʻtalmagan qismi qoʻshilmasligi jinoyat qonuni normalarining notoʻgʻri qoʻllanilishi sifatida baholanib, hukmning bekor qilinishiga olib keladi."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-7931987",
+      "matn": "Bir necha jinoyat yoki bir necha hukm yuzasidan ozodlikdan mahrum qilish bilan bogʻliq boʻlmagan har xil jazolar tayinlanganda, shaxsning ushlab turilgan, uy qamogʻi va qamoqda saqlangan muddatlari JK 59, 59-moddasining 8-qismi va (yoki) 60-moddasi tartibida jazo tayinlanganidan soʻng JKning 62-moddasiga asosan ogʻirroq jazodan chegirilishi lozim."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-6081114",
+      "matn": "61. Qoraqalpogʻiston Respublikasi sudi, viloyatlar, Toshkent shahar sudlari, Oʻzbekiston Respublikasi Harbiy sudi:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457486",
+      "matn": "ishlarni barcha sud instansiyalarida koʻrishda jinoyat uchun jazo tayinlash haqidagi qonun normalarining toʻgʻri qoʻllanilishini taʼminlasinlar;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457487",
+      "matn": "jazo tayinlash amaliyotini doimiy ravishda oʻrganib borish va umumlashtirish, qonunni qoʻllashda yoʻl qoʻyilgan xatolarni tahlil qilgan holda, kamchiliklarni bartaraf qilish yuzasidan tegishli choralar koʻrsinlar."
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457488",
+      "matn": "62. Mazkur qaror qabul qilinishi munosabati bilan Oʻzbekiston Respublikasi Oliy sudi Plenumining quyidagi qarorlari oʻz kuchini yoʻqotgan deb topilsin:"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457489",
+      "matn": "1996-yil 19-iyuldagi “Jinoyat uchun jazo tayinlash amaliyoti toʻgʻrisida”gi 16-sonli;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457490",
+      "matn": "1999-yil 14-maydagi “Jinoiy jazo choralarini qoʻllash boʻyicha sud amaliyotida yuzaga kelgan ayrim masalalar haqida”gi 11-sonli;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457491",
+      "matn": "2000-yil 22-dekabrdagi “Jinoyat uchun jazo choralarini tayinlash borasida sud amaliyotida vujudga kelgan ayrim masalalar toʻgʻrisida”gi 31-sonli;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457492",
+      "matn": "2002-yil 14-iyundagi “Jinoiy jazolarning liberallashtirilishi munosabati bilan Oʻzbekiston Respublikasi Oliy sudi Plenumining ayrim qarorlariga oʻzgartirish va qoʻshimchalar kiritish toʻgʻrisida”gi 10-sonli qarorning 5, 20, 26-bandlari;"
+    },
+    {
+      "id": "https://lex.uz/docs/-1455976#-1457493",
+      "matn": "2003-yil 19-dekabrdagi “Oʻzbekiston Respublikasi Oliy sudi Plenumi tomonidan qabul qilingan ayrim qarorlarga oʻzgartirishlar va qoʻshimchalar kiritish toʻgʻrisida”gi 20-sonli qarorning 2, 6-bandlari."
+    }
+  ]
+}

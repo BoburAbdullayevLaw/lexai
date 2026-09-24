@@ -1,0 +1,33 @@
+{
+  "n": "123",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446060",
+  "sarlavha": "123-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446061",
+      "matn": "Viloyatlar, tumanlar, shaharlar hokimlarining vakolatlari quyidagilardan iborat:"
+    },
+    {
+      "q": 2,
+      "id": "-6446062",
+      "matn": "1) Oʻzbekiston Respublikasining Konstitutsiyasi va qonunlarini, Oliy Majlis palatalarining qarorlarini, Oʻzbekiston Respublikasi Prezidentining farmonlari, qarorlari hamda farmoyishlarini, Vazirlar Mahkamasining, yuqori turuvchi hokimlarning va tegishli xalq deputatlari Kengashlarining qarorlarini bajarish;"
+    },
+    {
+      "q": 3,
+      "id": "-6446063",
+      "matn": "2) hududlarni iqtisodiy, ijtimoiy, madaniy va ekologik jihatdan rivojlantirishni taʼminlashga qaratilgan chora-tadbirlarni amalga oshirish;"
+    },
+    {
+      "q": 4,
+      "id": "-6446064",
+      "matn": "3) mahalliy budjetni shakllantirish va ijro etish;"
+    },
+    {
+      "q": 5,
+      "id": "-6446065",
+      "matn": "4) ushbu Konstitutsiya va qonunlarda nazarda tutilgan boshqa vakolatlarni amalga oshirish."
+    }
+  ]
+}

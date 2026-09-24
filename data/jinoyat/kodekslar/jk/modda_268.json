@@ -1,0 +1,35 @@
+{
+  "n": "268",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268523",
+  "sarlavha": "268-modda. Transportning xavfsiz ishlashini taʼminlashga doir qoidalarni buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-268529",
+      "matn": "Yoʻlovchi, piyoda, velosiped, ot-ulov transportining haydovchisi yoki yoʻl harakatining boshqa qatnashchilari tomonidan, ushbu Kodeksning 261-263, 265 yoki 266-moddalarida nazarda tutilgan shaxslardan tashqari, harakat xavfsizligi qoidalarini yoki barcha turdagi transport vositalaridan foydalanish qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yigirma besh baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268532",
+      "matn": "Oʻsha harakat odam oʻlishiga sabab boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268535",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268536",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268537",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

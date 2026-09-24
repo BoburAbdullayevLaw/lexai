@@ -1,0 +1,17 @@
+﻿{
+  "n": 218,
+  "sarlavha_id": "-254600",
+  "sarlavha": "218-modda. Ushlab turilgan, qamoqqa olingan yoki tibbiy muassasaga joylashtirilgan shaxsning qaramogʻidagilarga homiylik qilish va uning mol-mulkini qoʻriqlash choralari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254601",
+      "matn": "Ushlab turilgan, qamoqqa olingan yoki ekspertiza oʻtkazish uchun tibbiy muassasaga joylashtirilgan shaxsning qarovsiz va yordamga muhtoj voyaga yetmagan farzandlari, keksaygan ota-onalari, boshqa boqimlari boʻlganda surishtiruvchi, tergovchi, prokuror yoki sud ularni qarindoshlarining yoki boshqa shaxslar yoxud muassasalarning homiyligiga topshirishi, majburlov chorasi qoʻllanilgan shaxsning nazoratsiz qolayotgan mol-mulki yoxud uy-joyi boʻlsa, ularni qoʻriqlash chorasini koʻrishi shart."
+    },
+    {
+      "q": 2,
+      "id": "-3349599",
+      "matn": "Shaxsning qaramogʻidagilarga homiylik qilish va uning mol-mulkini qoʻriqlash toʻgʻrisidagi koʻrsatilgan choralar ushlab turish tarzidagi protsessual majburlov chorasini qoʻllagan tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi tomonidan ham koʻrilishi shart."
+    }
+  ]
+}

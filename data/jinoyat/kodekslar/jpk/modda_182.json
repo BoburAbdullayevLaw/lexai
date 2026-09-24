@@ -1,0 +1,27 @@
+﻿{
+  "n": 182,
+  "sarlavha_id": "-1634837",
+  "sarlavha": "182-modda. Davlat sud-ekspertiza muassasasida yoki boshqa korxona, muassasa, tashkilotda ekspertiza oʻtkazish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3349444",
+      "matn": "Tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi yoki sud ekspertiza tayinlash toʻgʻrisida oʻzi chiqargan qarorni yoki ajrimni, tekshirish obyektlarini, zarur hollarda esa jinoyat ishini ham davlat sud-ekspertiza muassasasining yoki boshqa korxona, muassasa, tashkilotning rahbariga yuboradi. Agar qaror yoki ajrimda ekspert koʻrsatilmagan boʻlsa, tashkilotning rahbari mazkur tashkilot xodimlaridan qaysi biri ekspertiza oʻtkazishi toʻgʻrisida farmoyish berishi kerak. Bu haqda u ekspertizani tayinlagan organga (shaxsga) xabar beradi."
+    },
+    {
+      "q": 2,
+      "id": "-1634840",
+      "matn": "Davlat sud-ekspertiza muassasasining yoki boshqa korxona, muassasa, tashkilotning rahbari ekspertiza oʻtkazishni tashkil qiladi, tekshirish obyektlarining saqlanishini taʼminlaydi, ekspertizani oʻtkazish muddatlarini aniqlaydi, ekspert tekshiruvi tugaganidan soʻng xulosani, tekshirish obyektlari va ish materiallarini ekspertizani tayinlagan organga (shaxsga) yuboradi."
+    },
+    {
+      "q": 3,
+      "id": "-1634841",
+      "matn": "Davlat sud-ekspertiza muassasasining yoki boshqa korxona, muassasa, tashkilotning rahbari, agar mazkur tashkilotda ekspert tekshiruvlarini oʻtkazish uchun tegishli mutaxassislar yoxud zarur moddiy-texnik baza yoki maxsus sharoitlar boʻlmasa, ekspertizani tayinlash toʻgʻrisidagi qaror yoki ajrimni ijro etmasdan hamda ekspertizani oʻtkazish uchun taqdim etilgan tekshirish obyektlari va ish materiallarini uch kunlik muddatda qaytarish; ekspertizani tayinlagan organdan (shaxsdan) ekspertlar komissiyasi tarkibiga ushbu tashkilotda ishlamaydigan shaxslarni, shu jumladan boshqa davlatlardan mutaxassislarni, agar ekspertizani oʻtkazish uchun ularning maxsus bilimlari zarur boʻlsa, kiritish toʻgʻrisida iltimos qilish huquqiga ega."
+    },
+    {
+      "q": 4,
+      "id": "-1634843",
+      "matn": "Davlat sud-ekspertiza muassasasining yoki boshqa korxona, muassasa, tashkilotning rahbari ekspertizani tayinlagan organning (shaxsning) roziligisiz ekspertizani oʻtkazish uchun ushbu tashkilotda ishlamaydigan mutaxassislarni jalb etishga; ekspertizani oʻtkazish uchun zarur boʻlgan qoʻshimcha tekshirish obyektlarini ekspertizani tayinlagan organning (shaxsning) qarori yoki ajrimisiz talab qilib olishga haqli emas."
+    }
+  ]
+}

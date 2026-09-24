@@ -1,0 +1,32 @@
+﻿{
+  "n": 493,
+  "sarlavha_id": "-6626473",
+  "sarlavha": "493-modda. Hukmni bekor qilish va ishni birinchi instansiya sudiga yuborish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626476",
+      "matn": "Agar ushbu Kodeks 416, 417-moddalarining ikkinchi qismida nazarda tutilgan holatlar jinoyat ishini apellyatsiya, kassatsiya yoki taftish tartibida koʻrish chogʻida aniqlansa, sud prokurorning yoki jabrlanuvchining, uning vakilining yoxud mahkumning, uning himoyachisining, qonuniy vakilining iltimosnomasiga koʻra, sudlanuvchini yangi ayblov boʻyicha jinoiy javobgarlikka tortish yoki boshqa shaxsni ishda ayblanuvchi sifatida ishda ishtirok etishga jalb qilish toʻgʻrisidagi iltimosnomani qanoatlantirish haqida ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-6626477",
+      "matn": "Ajrimni ijro etish ayblov dalolatnomasini yoki ayblov xulosasini tasdiqlagan prokurorning zimmasiga yuklatiladi."
+    },
+    {
+      "q": 3,
+      "id": "-6626479",
+      "matn": "Sud ajrimi ushbu Kodeksning 416, 417-moddalarida belgilangan muddatda bajarilmagan yoki prokurorning ayblovga qoʻshimcha kiritish yoxud yangi shaxsni ishda ayblanuvchi sifatida ishtirok etish uchun jalb etish mumkin emasligi toʻgʻrisidagi xulosasi kelib tushgan taqdirda, apellyatsiya, kassatsiya va taftish instansiyasi sudi sud muhokamasini jinoyat ishida mavjud boʻlgan dalillar asosida davom ettiradi."
+    },
+    {
+      "q": 4,
+      "id": "-6626481",
+      "matn": "Mahkumga yangi ayblov qoʻyilgan yoki yangi shaxs ayblanuvchi sifatida ishtirok etish uchun ishga jalb etilgan taqdirda apellyatsiya, kassatsiya va taftish instansiyasi sudi ayblov hukmini bekor qiladi va ishni birinchi instansiya sudiga yangidan koʻrish uchun yuboradi."
+    },
+    {
+      "q": 5,
+      "id": "-6626483",
+      "matn": "Ishning muhokamasi birinchi instansiya sudi tomonidan umumiy asoslarda amalga oshiriladi."
+    }
+  ]
+}

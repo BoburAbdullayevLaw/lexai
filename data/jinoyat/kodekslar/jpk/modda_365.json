@@ -1,0 +1,32 @@
+﻿{
+  "n": 365,
+  "sarlavha_id": "-255692",
+  "sarlavha": "365-modda. Qidiruv eʼlon qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255693",
+      "matn": "Ayblanuvchining turgan joyi nomaʼlum boʻlganda tergovchi uning turgan joyini aniqlash uchun zarur boʻlgan barcha choralarni koʻrishi, zarur hollarda esa, unga nisbatan qidiruv eʼlon qilishi shart."
+    },
+    {
+      "q": 2,
+      "id": "-255694",
+      "matn": "Tergovchi faqat ayblanuvchi tariqasida ishda ishtirok etishga jalb qilinishi toʻgʻrisida qaror chiqarilgan shaxsga nisbatan qidiruv eʼlon qilishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-255696",
+      "matn": "Qidiruv dastlabki tergov oʻtkazilayotganida ham, shuningdek dastlabki tergov toʻxtatilganidan keyin ham eʼlon qilinishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-1325387",
+      "matn": "Ushbu Kodeksning 242 va 243-moddalarida nazarda tutilgan asoslar mavjud boʻlganda qidirilayotgan ayblanuvchi topilgan taqdirda, sudning ajrimi bilan unga nisbatan qamoqqa olish tarzidagi ehtiyot chorasi qoʻllanilishi mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-255698",
+      "matn": "Qidirilayotgan ayblanuvchi ushlangan taqdirda u ushlangan joydagi prokuror ushlangan shaxsning qidirilayotgan ayblanuvchi ekanligini aniqlashi va qamoqqa olish uchun qonuniy asoslar mavjudligiga ishonch hosil qilishi lozim."
+    }
+  ]
+}

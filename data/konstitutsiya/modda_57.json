@@ -1,0 +1,23 @@
+{
+  "n": "57",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445652",
+  "sarlavha": "57-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445653",
+      "matn": "Mehnatga layoqatsiz va yolgʻiz keksalar, nogironligi boʻlgan shaxslar hamda aholining ijtimoiy jihatdan ehtiyojmand boshqa toifalarining huquqlari davlat himoyasidadir."
+    },
+    {
+      "q": 2,
+      "id": "-6445654",
+      "matn": "Davlat aholining ijtimoiy jihatdan ehtiyojmand toifalarining turmush sifatini oshirishga, jamiyat va davlat hayotida toʻlaqonli ishtirok etishi uchun ularga shart-sharoitlar yaratishga hamda ularning asosiy hayotiy ehtiyojlarini mustaqil ravishda taʼminlash imkoniyatlarini kengaytirishga qaratilgan choralarni koʻradi."
+    },
+    {
+      "q": 3,
+      "id": "-6445655",
+      "matn": "Davlat nogironligi boʻlgan shaxslarning ijtimoiy, iqtisodiy va madaniy sohalar obyektlari va xizmatlaridan toʻlaqonli foydalanishi uchun shart-sharoitlar yaratadi, ularning ishga joylashishiga, taʼlim olishiga koʻmaklashadi, ularga zarur boʻlgan axborotni toʻsqinliksiz olish imkoniyatini taʼminlaydi."
+    }
+  ]
+}

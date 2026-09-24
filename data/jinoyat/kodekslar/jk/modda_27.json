@@ -1,0 +1,29 @@
+{
+  "n": 27,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179939",
+  "sarlavha": "27-modda. Jinoyatda ishtirokchilik tushunchasi",
+  "umumiy_sharh": [
+    "Ishtirokchilik - ikki yoki undan ortiq shaxsning qasddan jinoyat sodir etishda birgalashib qatnashishi. Ishtirokchilik faqat qasddan sodir qilinadigan jinoyatlarda bo'ladi, ehtiyotsizlikda bo'lmaydi.",
+    "Ishtirokchilikning alomatlari: ayni bir jinoyatda ikki yoki undan ortiq shaxsning ishtiroki, guruh a'zolarining birgalikda harakat qilishi, jinoyatning qasddan sodir etilishi.",
+    "Birgalashib qatnashishning obyektiv belgilari: birgalikda jinoiy harakatlarni sodir etish, umumiy yagona jinoiy natija, qilmish bilan oqibat o'rtasidagi sababiy aloqa.",
+    "Ishtirokchilikning subyektiv belgilari: ishtirokchilarning o'zaro xabardorligi, birgalashib qilish niyati, qasdning intellektual va irodaviy jihatlari bilan qamrab olinishi.",
+    "Jinoyat ishtirokchilari harakatlarining muvofiqlashtirilganligi ular o'rtasidagi zarur psixologik aloqani aks ettiradi.",
+    "Ishtirokchilar jinoyatni birgalashib sodir etishi ular uchun yagona oqibat kelib chiqishida, har bir ishtirokchining harakatlari va oqibat o'rtasidagi sababiy bog'lanishda namoyon bo'ladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179940",
+      "matn": "Ikki yoki undan ortiq shaxsning qasddan jinoyat sodir etishda birgalashib qatnashishi ishtirokchilik deb topiladi.",
+      "sharh": [
+        "Ishtirokchilikda sodir etilgan jinoyatlarni kvalifikatsiya qilishda ishtirokchilikning aniq belgilari va shakllariga e'tibor berish lozim.",
+        "Ishtirokchilikning obyektiv belgilari: birgalikda jinoiy harakatlar, umumiy yagona jinoiy natija, sababiy aloqa. Faqat tashqi xususiyat va ichki ongli aloqadan mahrum bo'lsa, ishtirokchilik deb bo'lmaydi.",
+        "Ishtirokchilar oldindan til biriktirgan bo'lsa, ishtirokchilikni aniqlash qiyin emas. Til biriktirmagan holda subyektiv holatlarni aniqlash qiyinlashadi.",
+        "Ishtirokchilikning subyektiv mezoni: umumiy kuch asosida yagona maqsadga erishish uchun harakat qilish va boshqa ishtirokchilar harakatini bilish va hisobga olish.",
+        "Bajaruvchi jinoyatni boshqa shaxslar bilan birgalashib sodir etayotganini anglamagan bo'lsa, ishtirokchilik mavjud bo'lmaydi.",
+        "Ishtirokchilar jinoyat subyektini tavsiflovchi majburiy alomatlarni anglashi kerak. Agar ishtirokchi bajaruvchini jinoyat subyekti bo'la olmaydigan yoshda deb hisoblasa, ishtirokchilik mavjud bo'lmaydi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "n": 59,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-286615",
+  "sarlavha": "59-modda. Bir necha jinoyat sodir etganlik uchun jazo tayinlash",
+  "umumiy_sharh": [
+    "Bir nechta jinoyat uchun jazo — alohida jazo tayinlash + og'irrog'i bilan qoplash yoki qo'shish.",
+    "Qo'llanilishi: Maxsus qismning turli moddalarida 2+ jinoyat, birortasi uchun ham sudlangan bo'lmasa.",
+    "Davomli yoki uzoqqa cho'zilgan jinoyat — jinoyatlar majmui emas (32-modda).",
+    "Ikkinchi va undan keyingi jinoyatlar — og'irlashtiruvchi holat."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-286620",
+      "matn": "Shaxs Maxsus qismning turli moddalarida nazarda tutilgan ikki yoki undan ortiq jinoyatni sodir etgan boʻlib, ulardan birortasi uchun ham sudlangan boʻlmasa, sud ushbu Kodeksning 54-moddasida nazarda tutilgan qoidalarga muvofiq har qaysi qilmish uchun jazo tayinlab, soʻngra tayinlangan yengilroq jazoni ogʻirrogʻi bilan qoplash yoxud tayinlangan jazolarni toʻla yoki qisman qoʻshish yoʻli bilan jinoyatlar majmui boʻyicha jazo tayinlaydi.",
+      "sharh": [
+        "Dastavval har bir jinoyatga alohida jazo (54-modda bo'yicha).",
+        "Keyin: og'irrog'i bilan qoplash YOKI jazolarni qo'shish.",
+        "Og'irlashtiruvchi: ikkinchi va undan keyingi jinoyatlar.",
+        "Qo'shimcha jazo ham alohida jinoyatga tegishli — majmuada emas."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-286623",
+      "matn": "Agar jinoyatlar majmuini faqat ijtimoiy xavfi katta boʻlmagan jinoyatlar va uncha ogʻir boʻlmagan jinoyatlar tashkil etsa, unda tayinlangan yengilroq jazoni ogʻirrogʻi bilan qoplash yoxud tayinlangan jazolarni toʻla yoki qisman qoʻshish yoʻli bilan jazo uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Faqat katta bo'lmagan + uncha og'ir bo'lmagan: og'irrog'i bilan qoplash yoki qo'shish.",
+        "Cheklov: uzil-kesil jazo eng og'ir jinoyat uchun eng ko'p muddatdan oshmasligi kerak.",
+        "Masalan: kissavurlik (2-qism) + litsenziyasiz faoliyat — eng og'ri 169/2 sanksiyasidan oshmaslik."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-286629",
+      "matn": "Agar jinoyatlar majmuini tashkil etuvchi jinoyatlardan loaqal bittasi ogʻir yoki oʻta ogʻir jinoyat boʻlsa, ushbu Kodeksning Umumiy qismida shu jazo turi uchun belgilangan doirada tayinlangan jazolarni toʻla yoki qisman qoʻshish yoʻli bilan jazo uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Birortasi og'ir yoki o'ta og'ir bo'lsa — faqat qo'shish (to'la yoki qisman).",
+        "Umumiy qism doirasi: masalan, ozodlikdan mahrum etish uchun eng ko'p 20 yil yoki 25 yil.",
+        "Sud Maxsus qism sanksiyasi bilan bog'lanmaydi — Umumiy qism chegarasi."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-1319724",
+      "matn": "Sodir etilgan jinoyatlardan bittasi uchun umrbod ozodlikdan mahrum qilish tariqasidagi jazo tayinlanganda yengilroq turdagi jazoni umrbod ozodlikdan mahrum qilish bilan qoplash orqali jazo uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Umrbod + boshqa jazo = umrbod bilan qoplash.",
+        "Umrbod eng og'ir — boshqa jazolar unga qo'shiladi."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-1319725",
+      "matn": "Sodir etilgan jinoyatlardan bittasi uchun uzoq muddatli ozodlikdan mahrum qilish jazosi tayinlanganda jazolarni toʻla yoki qisman qoʻshish yoxud yengilroq jazoni ogʻirrogʻi bilan qoplash orqali jazo uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Uzoq muddatli (10-20 yil) + boshqa jazolar: qo'shish yoki qoplash.",
+        "97/2 yoki 155/3 bo'lmasa — umumiy qoida: 20 yildan oshmaslik."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-286637",
+      "matn": "Jinoyatlar majmui boʻyicha har xil turdagi jazolarni qoʻshish yoʻli bilan jazo tayinlashda ushbu Kodeksning 61-moddasida nazarda tutilgan qoidalarga amal qilinib, jazoning ogʻirroq turi uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Har xil jazo turlari: 61-modda qoidalari bo'yicha.",
+        "Og'irroq jazo turi uzil-kesil belgilanadi.",
+        "Axloq tuzatish: eng ko'p foizli muddat + qo'shimcha foiz.",
+        "Jarima: alohida ijro etiladi."
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111453#-286641",
+      "matn": "Jinoyatlar majmui boʻyicha tayinlangan asosiy jazoga sud ayrim jinoyatlar uchun tayinlangan qoʻshimcha jazolarni ham qoʻshishi mumkin.",
+      "sharh": [
+        "Qo'shimcha jazolar ham qo'shilishi mumkin.",
+        "Bir xil turi: og'irrog'i bilan qoplash yoki qo'shish (5 yil maks).",
+        "Turlicha turlar: alohida ijro etiladi.",
+        "Muayyan huquqdan mahrum etish: asosiy (5 yil) + qo'shimcha (3 yil)."
+      ]
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111453#-3694439",
+      "matn": "Agar ish boʻyicha hukm chiqarilganidan keyin mahkumning ana shu ish boʻyicha chiqarilgan hukmga qadar sodir etilgan yana boshqa jinoyatda aybli ekanligi aniqlansa ham jazo oʻsha tartibda tayinlanadi.",
+      "sharh": [
+        "Hukmdan keyin avvalgi jinoyat aniqlansa — 59-modda tartibi.",
+        "Birinchi hukm o'talgan qismi qo'shib hisoblanadi.",
+        "Uzil-kesil jazo birinchi hukmdan kam bo'lishi mumkin emas.",
+        "Shartli hukm: sinov muddati yaxshi o'tgan bo'lsa — to'liq hisoblanadi.",
+        "Birinchi hukm + keyingi hukm: avval 59-modda, keyin 60-modda."
+      ]
+    }
+  ]
+}

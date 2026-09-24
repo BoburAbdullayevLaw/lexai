@@ -1,0 +1,18 @@
+{
+  "n": "13",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445237",
+  "sarlavha": "13-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445238",
+      "matn": "Oʻzbekiston Respublikasida demokratiya umuminsoniy prinsiplarga asoslanadi, ularga koʻra inson, uning hayoti, erkinligi, shaʼni, qadr-qimmati va boshqa ajralmas huquqlari oliy qadriyat hisoblanadi."
+    },
+    {
+      "q": 2,
+      "id": "-6445239",
+      "matn": "Demokratik huquq va erkinliklar Konstitutsiya va qonunlar bilan himoya qilinadi."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+  "n": 392,
+  "sarlavha_id": "-256177",
+  "sarlavha": "392-modda. Jinoyat ishlari birlashtirilganda ularning sudlovga tegishliligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3352149",
+      "matn": "Bir necha shaxsni turli hududlarda sodir etgan jinoyatlari uchun ayblash toʻgʻrisidagi jinoyat ishlari, shuningdek bir shaxsni bir necha jinoyatni sodir etishda ayblash toʻgʻrisidagi jinoyat ishlari birlashtirilganda, agar bu ishlar bir xil darajadagi ikki yoki bir necha sudning sudloviga tegishli boʻlsa, ish dastlabki tergov yoki surishtiruv qaysi hududda tamomlangan boʻlsa, shu hududdagi sud tomonidan koʻriladi."
+    },
+    {
+      "q": 2,
+      "id": "-256180",
+      "matn": "Bir shaxs yoki bir guruh shaxslar turli darajadagi sudlarning sudloviga tegishli bir necha jinoyatni sodir etishda ayblangan boʻlsa, bunday ishlar yuqori sud tomonidan koʻriladi."
+    },
+    {
+      "q": 3,
+      "id": "-256182",
+      "matn": "Basharti ish boʻyicha bir shaxs yoki bir guruh shaxslar bir necha jinoyatni sodir etishda ayblansalar va bu shaxslardan loaqal biri yoki jinoyatlardan biri haqidagi ish harbiy sudning sudloviga tegishli boʻlsa, barcha jinoyatlar va barcha shaxslarga doir ish harbiy sud tomonidan koʻriladi."
+    }
+  ]
+}

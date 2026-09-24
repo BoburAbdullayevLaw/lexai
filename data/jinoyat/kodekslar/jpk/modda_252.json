@@ -1,0 +1,27 @@
+﻿{
+  "n": 252,
+  "sarlavha_id": "-254818",
+  "sarlavha": "252-modda. Jamoat birlashmasi yoki jamoaning kafilligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254820",
+      "matn": "Jamoat birlashmasi yoki jamoa ishda ayblanuvchi, sudlanuvchi tariqasida ishtirok etishga jalb qilingan shaxsni kafillikka olish toʻgʻrisida qaror qabul qilishga haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-3350517",
+      "matn": "Jamoat birlashmasi yoki jamoa oʻz qarorini ayblanuvchining, sudlanuvchining munosib xulq-atvorda boʻlishiga kafil ekanligi toʻgʻrisidagi yozma majburiyat tarzida bayon qiladi. Bu majburiyat surishtiruvchi, tergovchi, prokuror yoki sudga taqdim qilinadi, ular jamoat birlashmasi yoki jamoaning qaroriga rozi boʻlsalar, shunday ehtiyot chorasini tanlab, bu haqda qaror yoki ajrim chiqaradilar. Ayni vaqtda jamoat birlashmasi yoki jamoa vakiliga ushbu ehtiyot chorasi qoʻllanilishiga sabab boʻlgan ayblovning mohiyati, ayblanuvchiga, sudlanuvchiga esa, basharti xulq-atvori nomunosib boʻlsa, ehtiyot chorasi jiddiyrogʻi bilan almashtirilishi mumkinligi tushuntirilgani toʻgʻrisida bayonnoma tuziladi."
+    },
+    {
+      "q": 3,
+      "id": "-3350531",
+      "matn": "Ayblanuvchi, sudlanuvchi boshqa ishga oʻtgan yoxud istiqomat joyini oʻzgartirgan taqdirda jamoat birlashmasi yoki jamoa bu haqda ehtiyot chorasini tanlagan surishtiruvchi, tergovchi, prokuror yoki sudga darhol xabar berishi shart. Bunday hollarda jamoa kafilligi bekor qilinadi va boshqa ehtiyot chorasi bilan almashtirilishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-254825",
+      "matn": "Ayblanuvchining, sudlanuvchining xulq-atvori nomunosib boʻlgan taqdirda jamoat birlashmasi yoki jamoa kafillikdan voz kechishga haqlidir."
+    }
+  ]
+}

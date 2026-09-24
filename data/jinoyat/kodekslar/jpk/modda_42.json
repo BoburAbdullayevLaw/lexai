@@ -1,0 +1,22 @@
+{
+  "n": 42,
+  "sarlavha_id": "https://lex.uz/docs/-111460#-253566",
+  "sarlavha": "42-modda. Jamoat ayblovchilari va jamoat himoyachilari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-253567",
+      "matn": "Jamoat birlashmalari va jamoalar sud muhokamasida jamoat ayblovchisi yoki jamoat himoyachisi tariqasida ishtirok etish uchun oʻz vakillarini yuborishlari mumkin."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-253568",
+      "matn": "Jamoat ayblovchilari va jamoat himoyachilarini jamoat birlashmasining yoki korxona, muassasa, tashkilot jamoasining yigʻilishi koʻrsatadi. Yigʻilish qarori sudga taqdim etilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-253569",
+      "matn": "Jamoat birlashmasi, jamoa oʻzi yoʻllagan jamoat ayblovchisi yoki jamoat himoyachisini xohlagan vaqtda chaqirib olishga yoki uni boshqa vakil bilan almashtirishga haqlidir."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "n": 289,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271481",
+  "sarlavha": "289-modda. Halok bo'layotgan harbiy kemani tashlab ketish",
+  "umumiy_sharh": [
+    "Jinoyatning bevosita obyekti halokat yoki avariyalarda harbiy kema halokatida harbiy munosabatlarning o'rnatilgan tartibi hisoblanadi.",
+    "Obyektiv tomondan halok bo'layotgan harbiy kemani o'z xizmat vazifalarini oxirigacha bajarmagan komandir tomonidan yoki komandirning farmoyishi bo'lmasdan kema komandasi tarkibidagi shaxs tomonidan tashlab ketilishida ifodalanadi.",
+    "Harbiy kema deb, harbiy xizmat o'rnatilgan vazirlikka tegishli, harbiy qo'mondon javobgarligida bo'lgan har qanday o'zi yurar suv kemasi tushuniladi.",
+    "Tashlab ketish ham qirg'oqqa chiqish, ham boshqa kemaga o'tish yoki qutqaruvchi suzuvchi vositaga o'tish bilan amalga oshiriladi. Harbiy xizmatchining ixtiyoridan tashqari kema halokatining tashqi ta'sirlari natijasida ilojsiz bort ortida qolishi jinoyat tarkibini hosil qilmaydi.",
+    "Komandirda odamlarni, mol-mulkni qutqarishni tashkil etish bo'yicha bevosita majburiyat yotadi. Birinchi navbatda kasallarni, yaradorlarni, bolalarni, ayollarni, fuqaro shaxslarni, keyin harbiy xizmatchilarni evakuatsiya qilishga majbur.",
+    "O'z xizmat vazifalarini oxirigacha bajarmaganlik deganda, Nizomga muvofiq o'z majburiyatlarini to'la bajarmaganlik yoki to'la bo'lmagan hajmda bajarganlik tushuniladi.",
+    "Zaruriy belgi harbiy kema hayotiga xavf solayotgan holatning mavjudligidan iborat. Sabablari turlicha bo'lishi mumkin. Kema halok bo'ldimi yoki yo'qmi — bu dalil ham kvalifikatsiyaga ta'sir etmaydi.",
+    "Jinoyat komandir o'z vazifalarini bajarmay tark etgan vaqtdan yoki komandirning ruxsatisiz komanda a'zolari tomonidan kemani tark etgan vaqtdan boshlab tugallangan deb topiladi.",
+    "Subyektiv tomondan to'g'ri qasd bilan sodir etiladi. Komandir o'z vazifalarini bajarmasdan kemani tashlab ketayotganini anglaydi. Ehtiyotsizlik shaklidagi ayblar jinoiy javobgarlikni istisno etadi.",
+    "Jinoyatning subyekti komandir yoki harbiy kema guruh a'zosi.",
+    "2-qism jangovar vaziyatda sodir etilgan kemani tashlab ketganlik uchun javobgarlikni nazarda tutadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271483",
+      "matn": "Halok boʻlayotgan harbiy kemani oʻz xizmat vazifalarini oxirigacha bajarmagan komandir tomonidan, shuningdek, komandirning tegishli farmoyishi boʻlmasdan kema komandasi tarkibidagi shaxs tomonidan tashlab ketilishi — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271501",
+      "matn": "O'sha qilmish jangovar vaziyatda sodir etilgan bo'lsa, — o'n yildan o'n besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

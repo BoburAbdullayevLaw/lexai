@@ -1,0 +1,39 @@
+{
+  "n": "586⁹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5306035",
+  "sarlavha": "586⁹-modda. Sudning aybga iqrorlik toʻgʻrisidagi kelishuvni tasdiqlashni rad etishi va jinoyat ishini prokurorga yuborishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5306036",
+      "matn": "Sud aybga iqrorlik toʻgʻrisida kelishuv tuzish haqidagi qarorni koʻrib chiqib, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5306037",
+          "matn": "kelishuvni tasdiqlash uchun asoslar mavjud boʻlmasa yoki kelishuvni tuzishda protsessual qonunchilik talablari buzilgan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5306038",
+          "matn": "sud kelishuvda nazarda tutilgan sudlanuvchiga qoʻyilgan ayblovda jinoyatning malakalanishga taalluqli shartlarga rozi boʻlmasa;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5306039",
+          "matn": "sudlanuvchining aybdorligi borasida sudda asosli shubha tugʻilgan boʻlsa;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-5306040",
+          "matn": "taraflar tuzilgan kelishuvdan voz kechsa, kelishuvni tasdiqlashni rad etish haqida ajrim chiqaradi va jinoyat ishini umumiy qoidalar boʻyicha tergov qilish yoki kelishuvni qayta koʻrib chiqish uchun prokurorga yuboradi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5306041",
+      "matn": "Sudning ajrimiga sudlanuvchi, jabrlanuvchi (fuqaroviy daʼvogar), ularning qonuniy vakillari, himoyachi tomonidan xususiy shikoyat berilishi hamda prokuror tomonidan xususiy protest keltirilishi mumkin."
+    }
+  ]
+}

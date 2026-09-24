@@ -1,0 +1,35 @@
+{
+  "n": 245,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-267133",
+  "sarlavha": "245-modda. Shaxsni garov sifatida tutqunlikka olish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-267135",
+      "matn": "Garov sifatida tutqunlikka olingan shaxsni ozod qilish sharti bilan davlat, xalqaro tashkilot, jismoniy yoki yuridik shaxsdan biron-bir harakat sodir etish yoki biron-bir harakat sodir etishdan oʻzini tiyib turishni talab qilish maqsadida shaxsni garov tariqasida tutqunlikka olish yoki tutqunlikda ushlab turish, ushbu Kodeksning 155, 165-moddalarida nazarda tutilgan alomatlar boʻlmasa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-267138",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-267139",
+          "matn": "voyaga yetmagan shaxsga nisbatan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-267140",
+          "matn": "ikki yoki undan ortiq shaxsga nisbatan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-267141",
+          "matn": "ogʻir oqibatlar kelib chiqishiga sabab boʻlsa, — oʻn yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

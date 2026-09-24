@@ -1,0 +1,38 @@
+{
+  "n": "29",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445518",
+  "sarlavha": "29-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445519",
+      "matn": "Har kimga malakali yuridik yordam olish huquqi kafolatlanadi. Qonunda nazarda tutilgan hollarda yuridik yordam davlat hisobidan koʻrsatiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6445520",
+      "matn": "Har bir shaxs jinoyat protsessining har qanday bosqichida, shaxs ushlanganida esa uning harakatlanish erkinligi huquqi amalda cheklangan paytdan eʼtiboran oʻz tanloviga koʻra advokat yordamidan foydalanish huquqiga ega."
+    },
+    {
+      "q": 3,
+      "id": "-6445522",
+      "matn": "Gumon qilinuvchi, ayblanuvchi yoki sudlanuvchi ayblovning mohiyati va asoslari toʻgʻrisida xabardor qilinish, unga qarshi yoki uning foydasiga guvohlik berayotgan shaxslarning soʻroq qilinishini talab etish, tarjimon yordamidan foydalanish huquqiga ega."
+    },
+    {
+      "q": 4,
+      "id": "-6445523",
+      "matn": "Qonunni buzgan holda olingan dalillardan odil sudlovni amalga oshirish chogʻida foydalanishga yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 5,
+      "id": "-6445524",
+      "matn": "Jinoyat uchun hukm qilingan har kim qonunda belgilangan tartibda hukmning yuqori turuvchi sud tomonidan qayta koʻrib chiqilishi huquqiga, shuningdek afv etish yoki jazoni yengillashtirish toʻgʻrisida iltimos qilish huquqiga ega."
+    },
+    {
+      "q": 6,
+      "id": "-6445525",
+      "matn": "Huquqbuzarliklardan jabrlanganlarning huquqlari qonun bilan muhofaza qilinadi. Davlat jabrlanganlarga himoyalanishni va odil sudlovdan foydalanishni taʼminlaydi, ularga yetkazilgan zararning oʻrni qoplanishi uchun shart-sharoitlar yaratadi."
+    }
+  ]
+}

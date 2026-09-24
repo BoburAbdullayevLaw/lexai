@@ -1,0 +1,37 @@
+﻿{
+  "n": 583,
+  "sarlavha_id": "-260993",
+  "sarlavha": "583-modda. Yarashuv toʻgʻrisidagi ariza",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7172708",
+      "matn": "Yarashuv toʻgʻrisidagi ariza jabrlanuvchi (fuqaroviy daʼvogar) yoxud uning qonuniy vakili tomonidan surishtiruv va dastlabki tergovning, shuningdek sud muhokamasining istalgan bosqichida, ammo sud alohida xonaga (maslahatxonaga) kirishidan oldin berilishi mumkin, bundan ushbu moddaning ikkinchi qismida nazarda tutilgan hollar mustasno."
+    },
+    {
+      "q": 2,
+      "id": "-7172712",
+      "matn": "Oilaviy (maishiy) zoʻravonlik bilan bogʻliq ishlar yuzasidan yarashuv toʻgʻrisidagi ariza sud muhokamasining istalgan bosqichida, ammo sud alohida xonaga (maslahatxonaga) kirishidan oldin berilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-260995",
+      "matn": "Arizada yetkazilgan ziyon bartaraf etilgani, shuningdek yarashilganligi munosabati bilan jinoyat ishi boʻyicha ish yuritilishini tugatish toʻgʻrisidagi iltimos koʻrsatilgan boʻlishi shart."
+    },
+    {
+      "q": 4,
+      "id": "-260996",
+      "matn": "Agar yarashuv toʻgʻrisidagi ariza ish birinchi instansiya sudida sud muhokamasidan oʻtkazilayotganda berilgan boʻlsa, sud uni darhol koʻrib chiqishga kirishadi."
+    },
+    {
+      "q": 5,
+      "id": "-260997",
+      "matn": "Agar ish boʻyicha bir necha jabrlanuvchi boʻlsa, faqat barcha jabrlanuvchilar bilan yarashuvga erishilgan taqdirda, yarashuv toʻgʻrisidagi ishni yuritish mumkin."
+    },
+    {
+      "q": 6,
+      "id": "-260998",
+      "matn": "Arizani qabul qilish paytida surishtiruvchi, tergovchi, prokuror va sud jabrlanuvchiga yoki uning qonuniy vakiliga sud yarashuvni tasdiqlasa, u mazkur ish boʻyicha ish yuritishni qayta tiklash toʻgʻrisida iltimosnoma berish huquqini yoʻqotishini tushuntirishi shart."
+    }
+  ]
+}

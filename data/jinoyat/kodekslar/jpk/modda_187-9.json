@@ -1,0 +1,44 @@
+{
+  "n": "187-9",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-3092937",
+  "sarlavha": "187⁹-modda. Qoʻshimcha yoki qayta taftish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-3092938",
+      "matn": "Qoʻshimcha taftish taftish natijalari toʻgʻrisidagi dalolatnomada mavjud boʻlgan kamchiliklarni toʻldirish va ish boʻyicha yangidan aniqlangan holatlarni aniqlashtirish uchun tayinlanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-3092939",
+      "matn": "Qayta taftish quyidagi hollarda tayinlanadi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-3092942",
+          "matn": "taftish xulosalari va natijalariga rozi emaslik toʻgʻrisida tekshirilgan subyekt, ayblanuvchi yoki sudlanuvchi tomonidan taqdim etilgan eʼtirozlar asosli deb topilganda;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-3092943",
+          "matn": "taftish natijalari toʻgʻrisidagi dalolatnomada taftish materiallari va jinoyat ishining boshqa materiallari bilan qarama-qarshiliklar mavjud boʻlganda, shuningdek taftish natijalari toʻgʻrisidagi dalolatnomadagi xulosalarga asos boʻlgan hujjatlar, axborot va materiallar notoʻgʻri deb topilganda;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-3092945",
+          "matn": "taftish natijalari toʻgʻrisidagi dalolatnomada koʻrsatilgan xulosalar asossiz boʻlganda yoki ularning toʻgʻriligi shubha tugʻdirganda."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-3092946",
+      "matn": "Dastlabki taftishni oʻtkazgan shaxslar qayta taftish oʻtkazish uchun tayinlanishi mumkin emas."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-3092947",
+      "matn": "Qoʻshimcha taftish yoki qayta taftish ushbu bobda belgilangan tartibda va muddatlarda oʻtkaziladi."
+    }
+  ]
+}

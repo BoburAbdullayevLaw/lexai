@@ -1,0 +1,29 @@
+﻿{
+  "n": 104,
+  "sarlavha_id": "-253871",
+  "sarlavha": "104-modda. Soʻroq qilinuvchining ilgarigi soʻroqlarda bergan koʻrsatuvlarini oʻqib eshittirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253873",
+      "matn": "Soʻroq qilinuvchining ilgarigi soʻroqda bergan koʻrsatuvlari faqat uning hozirgi soʻroqda bergan koʻrsatuvlari tinglanib, qayd qilinib, u imzo chekkanidan keyin va quyidagi hollarda oʻqib eshittirilishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253874",
+          "matn": "hozirgi va ilgarigi soʻroqlarda berilgan koʻrsatuvlar oʻrtasida jiddiy qarama-qarshiliklar boʻlganda;"
+        },
+        {
+          "b": 2,
+          "id": "-253876",
+          "matn": "soʻroq qilinuvchi sudda koʻrsatuv berishdan bosh tortganda;"
+        },
+        {
+          "b": 3,
+          "id": "-253877",
+          "matn": "ish soʻroq qilinuvchining ishtirokisiz koʻrib chiqilayotganda."
+        }
+      ]
+    }
+  ]
+}

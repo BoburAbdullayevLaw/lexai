@@ -1,0 +1,53 @@
+{
+  "n": "36",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381171",
+  "sarlavha": "36-modda. Normativ-huquqiy hujjatning rasmiy matnini tasdiqlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381173",
+      "matn": "Normativ-huquqiy hujjatning rasmiy matnini tasdiqlash:"
+    },
+    {
+      "q": 2,
+      "id": "-5381174",
+      "matn": "Oʻzbekiston Respublikasining qonuniga nisbatan — Oʻzbekiston Respublikasining Prezidenti;"
+    },
+    {
+      "q": 3,
+      "id": "-5381176",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining qaroriga nisbatan — Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining Spikeri;"
+    },
+    {
+      "q": 4,
+      "id": "-5381183",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisi Senatining qaroriga nisbatan — Oʻzbekiston Respublikasi Oliy Majlisi Senatining Raisi;"
+    },
+    {
+      "q": 5,
+      "id": "-5383926",
+      "matn": "Oʻzbekiston Respublikasi Prezidentining farmoni va qaroriga nisbatan — Oʻzbekiston Respublikasining Prezidenti;"
+    },
+    {
+      "q": 6,
+      "id": "-5381186",
+      "matn": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining qaroriga nisbatan — Oʻzbekiston Respublikasi Bosh vaziri;"
+    },
+    {
+      "q": 7,
+      "id": "-6688591",
+      "matn": "vazirliklar va idoralarning buyruqlari hamda qarorlariga nisbatan — normativ-huquqiy hujjatni qabul qilgan organ rahbari;"
+    },
+    {
+      "q": 8,
+      "id": "-7167610",
+      "matn": "xalq deputatlari Kengashlarining qarorlariga nisbatan — tegishli xalq deputatlari Kengashi raisi;"
+    },
+    {
+      "q": 9,
+      "id": "-7167612",
+      "matn": "viloyat, tuman va shahar hokimining qarorlariga nisbatan — tegishli hokim tomonidan imzolash orqali amalga oshiriladi."
+    }
+  ]
+}

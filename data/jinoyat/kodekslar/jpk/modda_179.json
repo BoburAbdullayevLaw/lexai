@@ -1,0 +1,49 @@
+﻿{
+  "n": 179,
+  "sarlavha_id": "-254298",
+  "sarlavha": "179-modda. Gumon qilinuvchi, ayblanuvchi, sudlanuvchining ekspertiza tayinlash va oʻtkazishdagi huquqlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254299",
+      "matn": "Gumon qilinuvchi, ayblanuvchi, sudlanuvchi ekspertiza tayinlash va oʻtkazishda:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-254300",
+          "matn": "ekspertiza oʻtkazilgunga qadar ekspertiza tayinlash toʻgʻrisidagi qaror yoki ajrim bilan tanishib chiqish va oʻziga berilgan huquqlar tushuntirilishini talab qilish. Bu haqda bayonnoma tuziladi yoki sud majlisi bayonnomasiga yozib qoʻyiladi;"
+        },
+        {
+          "b": 2,
+          "id": "-254301",
+          "matn": "ekspertni rad etish;"
+        },
+        {
+          "b": 3,
+          "id": "-254302",
+          "matn": "oʻzi koʻrsatgan shaxslar orasidan ekspert tayinlanishini iltimos qilish;"
+        },
+        {
+          "b": 4,
+          "id": "-254303",
+          "matn": "ekspert xulosa berishi uchun uning oldiga qoʻshimcha savollar qoʻyish, qoʻshimcha materiallar taqdim etish;"
+        },
+        {
+          "b": 5,
+          "id": "-254318",
+          "matn": "ekspertiza oʻtkazilayotganda surishtiruvchi, tergovchi, sudning ruxsati bilan hozir boʻlish, ekspertdan tekshiruv vaqtida qoʻllayotgan usullarining va olingan natijalarning mohiyatini tushuntirib berishni talab qilish, ekspertga tushuntirishlar berish;"
+        },
+        {
+          "b": 6,
+          "id": "-254319",
+          "matn": "ekspert xulosasi bilan tanishib chiqish va qoʻshimcha yoki qayta ekspertiza oʻtkazish toʻgʻrisida iltimos qilish huquqiga ega."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-254321",
+      "matn": "Sanab oʻtilgan huquqlardan tibbiy yoʻsindagi majburlov choralari qoʻllanayotgan shaxs ham, agar bunga uning ruhiy holati imkon bersa, foydalanadi."
+    }
+  ]
+}

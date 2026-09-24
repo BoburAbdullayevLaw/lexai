@@ -1,0 +1,44 @@
+﻿{
+  "n": 592,
+  "sarlavha_id": "-1687037",
+  "sarlavha": "592-modda. Protsessual harakatlarni xorijiy davlat hududida bajarish toʻgʻrisida soʻrov yuborish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3352560",
+      "matn": "Ushbu Kodeksda nazarda tutilgan protsessual harakatlarni xorijiy davlat hududida bajarish zarur boʻlganda sud, prokuror, tergovchi, surishtiruvchi mazkur harakatlar Oʻzbekiston Respublikasining xalqaro shartnomalariga muvofiq yoki oʻzarolik prinsipi asosida xorijiy davlatning vakolatli organi tomonidan bajarilishi toʻgʻrisida soʻrov kiritadi."
+    },
+    {
+      "q": 2,
+      "id": "-4508627",
+      "matn": "Oʻzarolik prinsipi soʻrov kiritilayotganda Oʻzbekiston Respublikasi Oliy sudi, Oʻzbekiston Respublikasi Ichki ishlar vazirligi, Oʻzbekiston Respublikasi Davlat xavfsizlik xizmati yoki Oʻzbekiston Respublikasi Bosh prokuraturasining ayrim protsessual harakatlarni bajarishda xorijiy davlatning vakolatli organiga huquqiy yordam koʻrsatish toʻgʻrisidagi yozma majburiyati bilan tasdiqlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-1687040",
+      "matn": "Protsessual harakatlarni bajarish toʻgʻrisidagi soʻrov:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1687041",
+          "matn": "umumiy yurisdiksiya sudlari tomonidan amalga oshiriladigan jinoyat ishlarini yuritish bilan bogʻliq masalalar boʻyicha — Oʻzbekiston Respublikasi Oliy sudi orqali;"
+        },
+        {
+          "b": 2,
+          "id": "-4508637",
+          "matn": "sudning qarori yoki prokurorning roziligi (sanksiyasi) talab qilinmaydigan protsessual harakatlar boʻyicha — Oʻzbekiston Respublikasi Ichki ishlar vazirligi, Oʻzbekiston Respublikasi Davlat xavfsizlik xizmati orqali;"
+        },
+        {
+          "b": 3,
+          "id": "-1687043",
+          "matn": "qolgan hollarda — Oʻzbekiston Respublikasi Bosh prokuraturasi orqali yuboriladi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-1687044",
+      "matn": "Zarur hollarda, ushbu moddaning uchinchi qismida koʻrsatilgan organlar Oʻzbekiston Respublikasi Tashqi ishlar vazirligi orqali xorijiy davlatlarning vakolatli organlari bilan aloqa bogʻlaydi."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿{
+  "n": 184,
+  "sarlavha_id": "-1634870",
+  "sarlavha": "184-modda. Ekspertning yoki ekspertlar komissiyasining xulosasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1634872",
+      "matn": "Ekspert yoki ekspertlar komissiyasi ekspert tekshiruvlarini oʻtkazib boʻlganidan keyin tegishincha ekspert yoxud ekspertlar komissiyasi tarkibiga kiruvchi har bir ekspert imzosi bilan tasdiqlanadigan xulosa tuzadi."
+    },
+    {
+      "q": 2,
+      "id": "-7752768",
+      "matn": "Xulosada: ekspertiza oʻtkazilgan sana va joy; ekspertizani oʻtkazish asosi; ekspertizani tayinlagan organ (shaxs) toʻgʻrisida maʼlumotlar; ekspert (familiyasi, ismi, otasining ismi, maʼlumoti, ixtisosligi, ish staji, ilmiy darajasi, ilmiy unvoni, egallab turgan lavozimi) va ekspertizani oʻtkazish topshirilgan tashkilot haqida maʼlumotlar; ekspertning bila turib notoʻgʻri xulosa berganligi, surishtiruv yoki dastlabki tergov maʼlumotlarini surishtiruvchining, tergovchining yoxud prokurorning ruxsatisiz, ish yopiq sud majlisida koʻrilganda esa yopiq sud majlisi muhokamasi maʼlumotlarini hamda tafsilotlarini sudning ruxsatisiz oshkor qilganligi, shuningdek xulosa berishni rad etganligi yoki bu ishdan boʻyin tovlaganligi uchun jinoiy javobgarlik toʻgʻrisida ogohlantirilganligi; ekspertning oldiga qoʻyilgan savollar; ekspertga taqdim etilgan tekshirish obyektlari va ish materiallari; ekspertiza oʻtkazilayotganda hozir boʻlgan shaxslar haqida maʼlumotlar; qoʻllanilgan usullar koʻrsatilgan holda ekspert tekshiruvlarining mazmuni va natijalari, shuningdek bu ekspert tekshiruvlari, agar ekspertlar komissiyasi ishlagan boʻlsa, kim tomonidan oʻtkazilganligi; ekspert tekshiruvi natijalarining baholanishi, qoʻyilgan savollarga berilgan asosli javoblar; ish uchun ahamiyatga molik boʻlgan va ekspertning tashabbusiga koʻra aniqlangan holatlar koʻrsatilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-1634876",
+      "matn": "Xulosada huquqbuzarlik sabablari va uning sodir etilishiga imkon bergan shart-sharoitlar, shuningdek ularni bartaraf etishga doir tashkiliy-texnikaviy tavsiyalar koʻrsatilgan boʻlishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-5458178",
+      "matn": "Xulosani va uning natijalarini tasvirlovchi materiallar ushbu xulosaga ilova qilinadi hamda uning tarkibiy qismi boʻlib xizmat qiladi. Ekspert tekshiruvining olib borilishi, shart-sharoitlari va natijalarini hujjatlashtiradigan materiallar davlat sud-ekspertiza muassasasida yoki boshqa korxona, muassasa, tashkilotda qonunchilikda belgilangan muddatlarda saqlanadi. Ular ekspertizani tayinlagan organning (shaxsning) talabiga binoan ishga qoʻshib qoʻyish uchun taqdim etiladi."
+    },
+    {
+      "q": 5,
+      "id": "-1634879",
+      "matn": "Agar taqdim etilgan tekshirish obyektlarining, materiallarning yoki ekspertning maxsus bilimlari yetarli emasligi ekspert tekshiruvi davomida maʼlum boʻlib qolsa, xulosa ayrim qoʻyilgan savollarga javob berishni rad etish asosini oʻz ichiga olgan boʻlishi lozim."
+    },
+    {
+      "q": 6,
+      "id": "-1634881",
+      "matn": "Ekspert tekshiruvi tugaganidan soʻng xulosa, tekshirish obyektlari va ish materiallari ekspertizani tayinlagan organga (shaxsga) yuboriladi."
+    }
+  ]
+}

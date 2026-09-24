@@ -1,0 +1,18 @@
+{
+  "n": "125",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446070",
+  "sarlavha": "125-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446071",
+      "matn": "Viloyat, tuman va shahar hokimi oʻz vakolatlarini yakkaboshchilik asosida amalga oshiradi hamda oʻzi rahbarlik qilayotgan organlarning qarorlari va harakatlari uchun shaxsan javobgar boʻladi."
+    },
+    {
+      "q": 2,
+      "id": "-6446072",
+      "matn": "Viloyat, tuman va shahar hokimi tegishli xalq deputatlari Kengashiga viloyatni, tumanni, shaharni ijtimoiy-iqtisodiy rivojlantirishning eng muhim va dolzarb masalalari yuzasidan hisobotlar taqdim etadi, ushbu hisobotlar boʻyicha xalq deputatlari Kengashi tomonidan tegishli qarorlar qabul qilinadi."
+    }
+  ]
+}

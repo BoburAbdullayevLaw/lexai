@@ -1,0 +1,57 @@
+{
+  "n": "270",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-268552",
+  "sarlavha": "270-modda. Taqiqlangan ekinlarni yetishtirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282177",
+      "matn": "Taqiqlangan ekinlarni, yaʼni koʻknor yoki moyli koʻknor, kannabis oʻsimligi yoxud tarkibida giyohvandlik vositalari yoki psixotrop moddalar boʻlgan ekinlarni qonunga xilof ravishda ekish yoki yetishtirish — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-268557",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282180",
+          "matn": "takroran, xavfli retsidivist yoki ilgari ushbu Kodeksning 271 — 276⁸-moddalarida nazarda tutilgan jinoyatlarni sodir etgan shaxs tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268559",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268560",
+          "matn": "oʻrtacha kattalikdagi ekin maydonida sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-268568",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-268569",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-268570",
+          "matn": "uyushgan guruh yoki uning manfaatlarini koʻzlab;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-268576",
+          "matn": "katta ekin maydonida sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

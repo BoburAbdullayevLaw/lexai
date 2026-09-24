@@ -1,0 +1,32 @@
+﻿{
+  "n": 499,
+  "sarlavha_id": "-6627270",
+  "sarlavha": "499-modda. Birinchi instansiya sudining hukmi, ajrimi ustidan kassatsiya tartibida shikoyat berishga (protest bildirishga) boʻlgan huquq",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627271",
+      "matn": "Mahkum, uning himoyachisi, qonuniy vakili, shuningdek jabrlanuvchi, uning vakili birinchi instansiya sudining hukmi, ajrimi ustidan kassatsiya tartibida shikoyat berishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6627273",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokurori, Qoraqalpogʻiston Respublikasi prokurori, viloyatlar, Toshkent shahar prokurorlari, Oʻzbekiston Respublikasi Harbiy prokurori va ularga tenglashtirilgan prokurorlar, shuningdek ularning oʻrinbosarlari birinchi instansiya sudining hukmi, ajrimi ustidan kassatsiya tartibida protest bildirishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-6627274",
+      "matn": "Fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari birinchi instansiya sudi hukmining, ajrimining fuqaroviy daʼvoga daxldor qismi ustidan kassatsiya tartibida shikoyat berishga haqli."
+    },
+    {
+      "q": 4,
+      "id": "-6627275",
+      "matn": "Sud tomonidan oqlangan shaxs, uning himoyachisi va qonuniy vakili birinchi instansiya sudi hukmining, ajrimining oqlash sabablari va asoslariga doir qismi ustidan kassatsiya tartibida shikoyat berishga haqli."
+    },
+    {
+      "q": 5,
+      "id": "-6627276",
+      "matn": "Ishda taraf boʻlmagan shaxslar ham birinchi instansiya sudi hukmining, ajrimining oʻz huquqlari hamda qonuniy manfaatlariga daxldor qismi ustidan kassatsiya tartibida shikoyat berishga haqli."
+    }
+  ]
+}

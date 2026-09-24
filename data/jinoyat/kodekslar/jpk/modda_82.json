@@ -1,0 +1,39 @@
+﻿{
+  "n": 82,
+  "sarlavha_id": "-253751",
+  "sarlavha": "82-modda. Ayblash va hukm qilish uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3348920",
+      "matn": "Ishni ayblov xulosasi yoki ayblov dalolatnomasi bilan sudga yuborish va ayblov hukmi chiqarish uchun quyidagilar isbotlangan boʻlishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253753",
+          "matn": "jinoyat obyekti; jinoyat tufayli yetkazilgan ziyonning xususiyati va miqdori, jabrlanuvchining shaxsini tavsiflovchi holatlar;"
+        },
+        {
+          "b": 2,
+          "id": "-253754",
+          "matn": "sodir etilgan jinoyatning vaqti, joyi, usuli, shuningdek Jinoyat kodeksida koʻrsatib oʻtilgan boshqa holatlari; qilmish va roʻy bergan ijtimoiy xavfli oqibatlar oʻrtasidagi sababiy bogʻlanish;"
+        },
+        {
+          "b": 3,
+          "id": "-253755",
+          "matn": "jinoyatning ushbu shaxs tomonidan sodir etilganligi;"
+        },
+        {
+          "b": 4,
+          "id": "-253756",
+          "matn": "jinoyat toʻgʻri yoki egri qasd bilan yoxud beparvolik yoki oʻz-oʻziga ishonish oqibatida sodir etilganligi, jinoyatning sabablari va maqsadlari;"
+        },
+        {
+          "b": 5,
+          "id": "-253757",
+          "matn": "ayblanuvchining, sudlanuvchining shaxsini tavsiflovchi holatlar."
+        }
+      ]
+    }
+  ]
+}

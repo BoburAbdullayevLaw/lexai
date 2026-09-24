@@ -1,0 +1,23 @@
+{
+  "n": "124",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446066",
+  "sarlavha": "124-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446067",
+      "matn": "Viloyat va Toshkent shahar hokimi Oʻzbekiston Respublikasi Prezidenti tomonidan qonunga muvofiq tayinlanadi va lavozimidan ozod etiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6446068",
+      "matn": "Tuman va shaharlarning hokimlari viloyat, Toshkent shahar hokimi tomonidan tayinlanadi va lavozimidan ozod etiladi hamda tegishli xalq deputatlari Kengashi tomonidan tasdiqlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6446069",
+      "matn": "Tumanga boʻysunadigan shaharlarning hokimlari tuman hokimi tomonidan tayinlanadi va lavozimidan ozod etiladi hamda xalq deputatlari tuman Kengashi tomonidan tasdiqlanadi."
+    }
+  ]
+}

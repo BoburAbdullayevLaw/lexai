@@ -1,0 +1,17 @@
+﻿{
+  "n": 459,
+  "sarlavha_id": "-256539",
+  "sarlavha": "459-modda. Shartli hukm qilingan shaxs ustidan kuzatuv olib borish masalasini muhokama qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256540",
+      "matn": "Shartli hukm qoʻllanilganda sud shartli hukm qilingan shaxs ustidan kuzatuv olib borishni kimga yuklatish lozimligini hal qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-256541",
+      "matn": "Shartli hukm qilish toʻgʻrisida jamoat birlashmasi yoki jamoaning iltimosnomasi boʻlsa, sud shartli hukm qilingan shaxsning xulq-atvorini kuzatish uchun uni shu birlashma yoki jamoaga topshirishi mumkin."
+    }
+  ]
+}

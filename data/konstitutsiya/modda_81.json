@@ -1,0 +1,23 @@
+{
+  "n": "81",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445735",
+  "sarlavha": "81-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445736",
+      "matn": "Ommaviy axborot vositalari erkindir va qonunga muvofiq ish olib boradilar."
+    },
+    {
+      "q": 2,
+      "id": "-6445737",
+      "matn": "Davlat ommaviy axborot vositalari faoliyatining erkinligini, ularning axborotni izlash, olish, undan foydalanish va uni tarqatishga boʻlgan huquqlari amalga oshirilishini kafolatlaydi."
+    },
+    {
+      "q": 3,
+      "id": "-6445738",
+      "matn": "Ommaviy axborot vositalari oʻzi taqdim etadigan axborotning ishonchliligi uchun javobgardir."
+    }
+  ]
+}

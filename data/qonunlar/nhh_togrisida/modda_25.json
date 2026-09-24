@@ -1,0 +1,28 @@
+{
+  "n": "25",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381065",
+  "sarlavha": "25-modda. Normativ-huquqiy hujjat loyihasining ekspertizasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381066",
+      "matn": "Normativ-huquqiy hujjat loyihasi huquqiy va korrupsiyaga qarshi ekspertizalardan oʻtkazilishi shart."
+    },
+    {
+      "q": 2,
+      "id": "-5381067",
+      "matn": "Normativ-huquqiy hujjat loyihasi ishlab chiquvchining yoki normativ-huquqiy hujjat qabul qilish huquqiga ega boʻlgan organning qaroriga koʻra iqtisodiy, moliyaviy, ilmiy, lingvistik, ekologik ekspertizadan, shuningdek boshqa turdagi ekspertizalardan oʻtkazilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-5381068",
+      "matn": "Normativ-huquqiy hujjat loyihasini tayyorlashda bevosita ishtirok etmagan tashkilotlar va (yoki) shaxslar ekspertlar sifatida jalb qilinadi. Ekspertiza oʻtkazish uchun olimlar va mutaxassislar, shu jumladan boshqa davlatlar hamda xalqaro tashkilotlardan olimlar va mutaxassislar jalb etilishi mumkin. Ekspertlar normativ-huquqiy hujjat loyihasiga baho berishda mustaqildir va ekspertiza oʻtkazish topshirigʻini bergan organning nuqtai nazari bilan bogʻliq boʻlmaydi."
+    },
+    {
+      "q": 4,
+      "id": "-5381069",
+      "matn": "Ekspertlarning normativ-huquqiy hujjat loyihasi boʻyicha xulosalari tavsiya xususiyatiga ega boʻlib, ular ishlab chiquvchi yoki normativ-huquqiy hujjat qabul qilish huquqiga ega boʻlgan organ tomonidan koʻrib chiqilishi lozim. Xulosaning inobatga olinmagan bandlari yuzasidan tegishli tushuntirishlar berilgan holda maʼlumotnoma tayyorlanadi."
+    }
+  ]
+}

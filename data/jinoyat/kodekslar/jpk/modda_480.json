@@ -1,0 +1,64 @@
+﻿{
+  "n": 480,
+  "sarlavha_id": "-6626288",
+  "sarlavha": "480-modda. Apellyatsiya, kassatsiya shikoyati va protestining mazmuniga qoʻyiladigan talablar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626292",
+      "matn": "Apellyatsiya, kassatsiya shikoyati va protestida quyidagilar koʻrsatilishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626295",
+          "matn": "shikoyat, protest yoʻllanayotgan sudning nomi;"
+        },
+        {
+          "b": 2,
+          "id": "-6626296",
+          "matn": "shikoyat (protest) bergan shaxs, uning protsessual mavqeyi, uning yashash joyi yoki joylashgan yeri toʻgʻrisidagi maʼlumotlar;"
+        },
+        {
+          "b": 3,
+          "id": "-6626299",
+          "matn": "hukm, ajrim chiqargan sudning nomi, hukm, ajrim chiqarilgan sana, sud ishining raqami, shikoyat (protest) berilayotgan hukm, ajrim, oʻziga nisbatan hukm, ajrim chiqarilgan shaxs toʻgʻrisidagi maʼlumotlar;"
+        },
+        {
+          "b": 4,
+          "id": "-6626303",
+          "matn": "shikoyat (protest) berayotgan shaxsning fikriga koʻra hukmning, ajrimning notoʻgʻriligi nimadan iborat ekanligiga doir vajlari, sudga qadar ish yuritishni yoki sud muhokamasini amalga oshirish chogʻida qaror qabul qilishga taʼsir koʻrsatgan qonunning qaysi normalari buzilganligi toʻgʻrisidagi vajlari, shuningdek uning iltimosining mazmuni;"
+        },
+        {
+          "b": 5,
+          "id": "-6626306",
+          "matn": "shaxs oʻz talablarini asoslayotgan dalillar, xususan, birinchi instansiya sudi tomonidan tekshirilmagan dalillar;"
+        },
+        {
+          "b": 6,
+          "id": "-6626307",
+          "matn": "yangidan taqdim etilayotgan dalillar va ularning birinchi instansiya sudiga taqdim etilmaganligining sababi;"
+        },
+        {
+          "b": 7,
+          "id": "-6626310",
+          "matn": "shikoyatga (protestga) ilova qilinayotgan materiallar roʻyxati;"
+        },
+        {
+          "b": 8,
+          "id": "-6626312",
+          "matn": "shikoyat (protest) berilgan sana, shikoyat (protest) bergan shaxsning imzosi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-6626315",
+      "matn": "Agar apellyatsiya, kassatsiya shikoyatining (protestining) mazmuni ushbu moddaning birinchi qismida koʻrsatilgan talablarga javob bermasa va bu ishni keyinchalik mazmunan koʻrib chiqishga toʻsqinlik qilsa, birinchi instansiya sudining sudyasi apellyatsiya, kassatsiya shikoyatini (protestini) uni bergan shaxsga qaytarish toʻgʻrisida uch kunlik muddatda ajrim chiqarib, apellyatsiya, kassatsiya shikoyatini yoki protestini qayta tuzish uchun muddat belgilaydi."
+    },
+    {
+      "q": 3,
+      "id": "-6626317",
+      "matn": "Sudyaning apellyatsiya, kassatsiya shikoyatini, protestini qaytarish toʻgʻrisidagi ajrimining talablari bajarilmagan va apellyatsiya, kassatsiya shikoyati (protesti) belgilangan vaqtda kelib tushmagan hollarda, u berilmagan deb hisoblanadi."
+    }
+  ]
+}

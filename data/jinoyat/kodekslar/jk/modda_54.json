@@ -1,0 +1,42 @@
+{
+  "n": 54,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184674",
+  "sarlavha": "54-modda. Jazo tayinlashning umumiy asoslari",
+  "umumiy_sharh": [
+    "Jazo tayinlash — jinoyat-huquqiy himoya qilishning asosiy bo'g'ini. Adolatli jazo jinoyatchilik bilan kurashning asosiy vositasi.",
+    "Jazo tayinlashda insonparvarlik va odillik prinsiplariga rioya etilishi shart. Faqat yetarli va zarur jazo qo'llanilishi kerak.",
+    "Jazoni individuallashtirish — jazoni tayinlashning asosiy tamoyili. Har bir holatda alohida qaror qabul qilinadi.",
+    "Sud jazoni tayinlashda jinoyatning xususiyatini, ijtimoiy xavflilikni, sababni, zararni, shaxsni va holatlarni hisobga oladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184675",
+      "matn": "Jinoyat sodir etishda qonunda belgilangan tartibda aybli deb topilgan shaxs jazoga tortiladi. Sud ushbu Kodeks Maxsus qismining jinoyat sodir etganlik uchun javobgarlik nazarda tutilgan moddasida belgilangan doirada Umumiy qismning qoidalariga muvofiq jazo tayinlaydi.",
+      "sharh": [
+        "Jazo faqat qonunda belgilangan tartibda aybli deb topilgan shaxsga qo'llaniladi.",
+        "Sud Maxsus qism moddasi sanksiyasi doirasida Umumiy qism qoidalariga muvofiq ish ko'radi.",
+        "Bir nechta asosiy jazo tayinlash mumkin emas — bu qonunni qo'pol buzish.",
+        "Jazo maqsadlari: axloqan tuzatish, jinoyatdan oldini olish, umumiy va maxsus proventsiya."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184676",
+      "matn": "Sud jazo tayinlashda sodir etilgan jinoyatning xususiyati va ijtimoiy xavflilik darajasini, qilmishning sababini, yetkazilgan zararning xususiyati va miqdorini, aybdorning shaxsini hamda jazoni yengillashtiruvchi va ogʻirlashtiruvchi holatlarni hisobga oladi.",
+      "sharh": [
+        "Hisobga olinadigan omillar: ijtimoiy xavflilik, sabab, zarar, shaxs, yengillashtiruvchi/og'irlashtiruvchi holatlar.",
+        "Ijtimoiy xavflilik: xususiyat (sifat) va daraja (miqdor). Obyektiv tahlil asosida baholanadi.",
+        "Sodir etish bosqichi, ishtirok shakli, roli — barchasi hisobga olinadi (tayyorgarlik, suiqasd, tugallangan jinoyat farqi).",
+        "Motiv (maqsad) va zararning turi/hajmi ijtimoiy xavflilikni aniqlashda asos.",
+        "Aybdorning shaxsi: jismoniy (yosh, jins, sog'liq), ijtimoiy-demografik (kasb, oila, ma'naviyat), jinoyat-huquqiy (sudlanganlik), kriminologik (moyillik).",
+        "Sudlanuvchining ko'rsatuvini o'zgartirishi — og'irlashtiruvchi emas. Haqqoniy ko'rsatma — yengillashtiruvchi.",
+        "Jabrlanuvchi shaxsi ham o'rganilishi kerak — o'zaro munosabatlar xolisona tahlil qilinadi.",
+        "Yengillashtiruvchi/og'irlashtiruvchi holatlar jinoyatga bevosita bog'liq bo'lishi kerak, tarkibning mustaqil qismi bo'lmasligi lozim.",
+        "Insonparvarlik tamoyili: qattiq jazo chorasi yengilchora bilan erishib bo'lmasa qo'llaniladi.",
+        "Ozodlikdan mahrum qilish bilan birga yengilroq jazo mavjud bo'lsa — muhokama qilinishi kerak."
+      ]
+    }
+  ]
+}

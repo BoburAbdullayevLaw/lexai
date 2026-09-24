@@ -1,0 +1,30 @@
+{
+  "n": 280,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271282",
+  "sarlavha": "280-modda. Buyruqni bajarmaslik",
+  "umumiy_sharh": [
+    "O'zbekiston Respublikasi Qurolli Kuchlarida o'rnatilgan bo'ysunish tartibini ta'minlovchi ijtimoiy munosabatlar jinoyatning asosiy bevosita obyekti hisoblanadi.",
+    "Obyektiv tomondan ko'p miqdorda zarar yoki og'ir oqibatlarga olib kelgan buyruqni bajarmaslikda namoyon bo'ladi.",
+    "Jinoyat ko'p miqdordagi zarar yoki og'ir oqibatlar kelib chiqqan paytdan boshlab tugallangan hisoblanadi.",
+    "Ko'p miqdordagi zarar deganda, bazaviy hisoblash miqdorining 300 barobaridan 500 barobarigacha bo'lgan zarar tushuniladi.",
+    "Og'ir oqibatlar JK 279-moddasi 2-qismida nazarda tutilgan oqibatlar bilan bir xildir.",
+    "Subyektiv tomondan ehtiyotsizlik yoki xizmatga sovuqqonlik bilan yondoshish natijasida sodir etiladi. Jinoiy ehtiyotsizlik natijasida aybdor buyruqni bajarmayotganligini anglamaydi. Jinoiy o'z-o'ziga ishonish natijasida buyruqni bajarmaslik aybdor buyruqda aytilganini bajarmagan va buni bila turib, asossiz ravishda o'z-o'ziga ishongan holda buyruq bajarilishiga ishonib harakat qilgan taqdirda yuzaga keladi.",
+    "Subyekti har qanday 18 yoshga to'lgan harbiy xizmatchi yoki harbiy yig'inlarga chaqirilgan harbiy xizmatga majbur bo'lgan shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271284",
+      "matn": "Buyruqni ehtiyotsizlik orqasida bajarmaslik koʻp miqdorda zarar yetkazilishi yoki ogʻir oqibatlarga sabab boʻlsa, — ikki yilgacha xizmat yuzasidan cheklash yoki bir yilgacha intizomiy qismga yuborish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271287",
+      "matn": "Oʻsha qilmish jangovar vaziyatda sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozoldikdan mahrum qilish bilan jazolanadi.",
+      "sharh": [
+        "Jangovar vaziyat tushunchasi to'g'risida JK 279-moddasi sharhiga qarang."
+      ]
+    }
+  ]
+}

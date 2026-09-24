@@ -1,0 +1,22 @@
+﻿{
+  "n": 314,
+  "sarlavha_id": "-255222",
+  "sarlavha": "314-modda. Muddatlarni hisoblash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3696290",
+      "matn": "Ushbu Kodeksda belgilangan muddatlar, shuningdek qonunda nazarda tutilgan hollarda surishtiruvchi, tergovchi, prokurorning qarori yoki sudning ajrimi bilan tayinlangan muddatlar soatlar, sutkalar va oylar bilan hisoblanadi. Muddatlarni hisoblashda muddatning oʻtishi boshlangan soat, sutka hisobga olinmaydi, ammo bu qoida ushlab turish, qamoqda saqlash yoki uy qamogʻida va tibbiy muassasada boʻlish muddatlarini hisoblashga taalluqli emas."
+    },
+    {
+      "q": 2,
+      "id": "-255226",
+      "matn": "Muddatni hisoblashda ishdan holi vaqt ham eʼtiborga olinadi. Muddatlar sutkalar bilan hisoblanganda muddat oxirgi sutkada soat 24-00 da tugaydi. Tegishli harakat sudda, prokuraturada yoki boshqa davlat muassasasida bajarilishi lozim boʻlsa, muddat ushbu muassasalarda ish vaqti tamom boʻlishi bilan tugaydi."
+    },
+    {
+      "q": 3,
+      "id": "-2461568",
+      "matn": "Oylar bilan hisoblanadigan muddat oxirgi oyning muddat boshlangan kuniga toʻgʻri kelgan sanasida tugaydi, muddatning tugashi tegishli sanasi boʻlmagan oyga toʻgʻri kelsa, muddat shu oyning soʻnggi sutkasida tamom boʻladi. Muddatning tugashi ishdan holi kunga (dam olish, bayram kuniga) toʻgʻri kelsa, muddat shundan keyingi birinchi ish kunida tugaydi, ushlab turish, qamoqda saqlash yoki uy qamogʻida va tibbiy muassasada boʻlish muddatini hisoblash hollari bundan mustasno."
+    }
+  ]
+}

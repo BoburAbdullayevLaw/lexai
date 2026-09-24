@@ -1,0 +1,40 @@
+{
+  "n": 42,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184338",
+  "sarlavha": "42-modda. Jazo tushunchasi va maqsadlari",
+  "umumiy_sharh": [
+    "Jazo — jinoyat sodir etishda aybli deb topilgan shaxsga nisbatan davlat nomidan sud hukmi bilan qo'llaniladigan va mahkumni huquq va erkinliklardan mahrum qilish yoki cheklashdan iborat majburlov chorasi.",
+    "Jazo jinoyat huquqining eng muhim instituti — jinoiy javobgarlikning yetakchi shakli. U jinoyat qonunini ijtimoiy aloqalarga ta'sir ko'rsatuvchi vositaga aylantiradi.",
+    "Jazoning asosiy belgilari: davlatning majburlov chorasi, davlat nomidan, faqat sud tomonidan tayinlanishi, jinoyatning huquqiy oqibati, shaxsiylik xususiyati.",
+    "Jazo sifat va miqdor xususiyatiga ega. Sifat — ta'sir mazmuni, miqdor — ta'sir chegarasi (summa, muddat). Qonunda belgilangan doiradan chiqib jazo tayinlanmaydi.",
+    "Jazo jismoniy azob berish yoki inson qadr-qimmatini kamsitish maqsadini ko'zlamaydi (7-modda). U faqat jinoyat qonunida ko'rsatilgan hollarda qo'llaniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184340",
+      "matn": "Jazo jinoyat sodir etishda aybli deb topilgan shaxsga nisbatan davlat nomidan sud hukmi bilan qoʻllanadigan va mahkumni qonunda nazarda tutilgan muayyan huquq va erkinliklardan mahrum qilish yoki ularni cheklashdan iborat majburlov chorasidir.",
+      "sharh": [
+        "Jazoning asosiy belgilari: davlatning majburlov chorasi; davlat organlari tomonidan davlat nomidan amalga oshirilishi; faqat sud tomonidan tayinlanishi.",
+        "Jazo faqat jinoyat sodir etishda aybdor deb topilgan shaxsga nisbatan tayinlanadi. Aybsiz shaxsga jazo tayinlanmaydi — 9-modda (ayb uchun javobgarlik tamoyili).",
+        "Jazoning shaxsiylik xususiyati — jazo faqat jinoyatchining o'ziga nisbatan qo'llanadi. Uning oilasi, yaqin kishilari zimmasiga yuklatilmaydi.",
+        "Jazoning mazmuni huquq va erkinliklardan mahrum etish yoki cheklashdan iborat. Mahrum etish — to'la, cheklash — qisman huquqni yo'qotish.",
+        "Jazo faqat Jinoyat kodeksida ko'rsatilgan hollarda qo'llaniladi. Kodeksda ko'rsatilmagan jazo choralari qo'llanilmaydi.",
+        "Sud qonunda belgilanganidan og'irroq jazo tayinlay olmaydi, lekin eng kam jazodan kamroq yoki boshqa yengilroq jazo tayinlashi mumkin."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184341",
+      "matn": "Jazo mahkumni axloqan tuzatish, uning jinoiy faoliyatni davom ettirishiga toʻsqinlik qilish hamda mahkum, shuningdek boshqa shaxslar yangi jinoyat sodir etishining oldini olish maqsadida qoʻllaniladi.",
+      "sharh": [
+        "Tarbiyalash — jazoning birinchi maqsadi. Jazoning ta'siri orqali qonunga itoatkor xulq-atvor, insonga va jamiyatga hurmat shakllantirish.",
+        "Jinoiy faoliyatga to'sqinlik qilish — jazoning maxsus maqsadi. U faqat sudlanuvchining emas, balki boshqa shaxslarning ham jinoyat sodir etishiga chek qo'yadi.",
+        "Oldini olish — maxsus (mahkumning yangi jinoyat qilishining) va umumiy (boshqa fuqarolarning jinoyat qilishining oldini olish) prevensiya.",
+        "Jazoni qo'llash preventiv ahamiyatga ega bo'lishi lozim. Davlatning tez javobi muhim — jinoyatga darhol javob berish kerak.",
+        "Umumiy prevensiya — boshqa fuqarolar yangi jinoyat sodir etishdan oldin jazoning mavjudligidan ogoh bo'lishi va undan qo'rqishi."
+      ]
+    }
+  ]
+}

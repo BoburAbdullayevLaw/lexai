@@ -1,0 +1,22 @@
+﻿{
+  "n": 388,
+  "sarlavha_id": "-255834",
+  "sarlavha": "388-modda. Jinoyat ishini sudga yuborish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3352128",
+      "matn": "Prokuror yoki uning oʻrinbosari ayblov xulosasini yoki ayblov dalolatnomasini tasdiqlab, jinoyat ishini tegishli sudga yuboradi. Shu sudga ish bilan birga sud majlisida tekshirish va hal etish uchun barcha iltimoslar va shikoyatlar yuboriladi."
+    },
+    {
+      "q": 2,
+      "id": "-3352135",
+      "matn": "Prokuror yoki uning oʻrinbosari ishning sudga yuborilganligi haqida ayblanuvchiga va himoyachiga, shuningdek jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillariga darhol xabar qiladi va, agar iltimoslari boʻlsa, ularni sudga yuborishga yoki sud majlisida bayon qilishga haqli ekanliklari toʻgʻrisida maʼlum qiladi. Ayni vaqtda prokuror yoki uning oʻrinbosari ayblanuvchiga va himoyachiga ayblov xulosasi yoki ayblov dalolatnomasi va unga qilingan ilovalarning tasdiqlangan nusxalarini yuboradi, sud majlisiga chaqirilishi lozim boʻlgan shaxslar roʻyxati bundan mustasno, basharti ayblov xulosasi yoki ayblov dalolatnomasi yoxud ilovaga oʻzgartishlar kiritilgan boʻlsa, ularni oʻzgartirish toʻgʻrisidagi qarorning nusxasi ham yuboriladi."
+    },
+    {
+      "q": 3,
+      "id": "-1881186",
+      "matn": "Agar ayblanuvchi qamoqda saqlanayotgan boʻlsa, ushbu moddaning ikkinchi qismida koʻrsatilgan hujjatlar prokurorning topshirigʻiga koʻra unga qamoqda saqlash joyining maʼmuriyati tomonidan ular kelib tushgan kuni tilxat olib topshiriladi, tilxat hujjatlar topshirilgan sana va vaqt koʻrsatilgan holda sudga taqdim etiladi."
+    }
+  ]
+}

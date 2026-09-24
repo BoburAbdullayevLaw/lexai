@@ -1,0 +1,41 @@
+{
+  "n": 66,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1723499",
+  "sarlavha": "66-modda. Aybdor o'z qilmishiga amalda pushaymon bo'lganligi munosabati bilan javobgarlikdan ozod qilish",
+  "umumiy_sharh": [
+    "Amalda pushaymonlik — shaxs ijtimoiy xavfliligini yo'qotganini tasdiqlashi.",
+    "Faqat katta bo'lmagan yoki uncha og'ir bo'lmagan jinoyatga qo'llaniladi.",
+    "Birinchi marta sodir etilgan bo'lishi shart.",
+    "Barcha shartlar bir vaqtda mavjud bo'lishi kerak — birortasi yo'q bo'lsa, faqat 55/1-a yengillashtiruvchi.",
+    "Og'ir/o'ta og'ir jinoyatlar uchun qo'llanilmaydi (Maxsus qism istisnolari bor).",
+    "Ixtiyoriy qaytishdan farqi: pushaymonlik tugallangan jinoyatdan keyin, qaytish — oldin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1723500",
+      "matn": "Ijtimoiy xavfi katta bo'lmagan yoki uncha og'ir bo'lmagan jinoyatni birinchi marta sodir etgan shaxs, agar u aybini bo'yniga olish to'g'risida arz qilgan, chin ko'ngildan pushaymon bo'lgan, jinoyatning ochilishiga faol yordam bergan va keltirilgan zararni bartaraf qilgan bo'lsa, javobgarlikdan ozod qilinishi mumkin.",
+      "sharh": [
+        "Shartlar (barchasi shart): birinchi marta + katta bo'lmagan/uncha og'ir + aybni bo'yniga olish + pushaymonlik + ochishga yordam + zararni bartaraf etish.",
+        "Aybni bo'yniga olish — majburlovsiz, o'zi murojaat qilishi.",
+        "Pushaymonlik — qilmishi va oqibatlari uchun afsuslanish.",
+        "Ochishga yordam: boshqa ishtirokchilarni fosh qilish, dalillar topish, tergovda ishtirok etish.",
+        "Zarni bartaraf etish — qoplash emas (tovon emas). Moddiy + ma'naviy.",
+        "Shartlardan biri yo'q bo'lsa — faqat 55/1-a yengillashtiruvchi holat."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1723501",
+      "matn": "Ushbu Kodeks Maxsus qismining tegishli moddasida alohida ko'rsatilgan hollarda, jinoyat sodir etgan shaxs o'z qilmishiga amalda pushaymon bo'lgan taqdirda javobgarlikdan ozod qilinishi lozim.",
+      "sharh": [
+        "Maxsus qismdagi alohida hollar: majburiy (lozim) ozod qilish.",
+        "Masalan: 157 (davlatga xoinlik), 159 (konstitutsiyaga tajovuz), 160 (josuslik), 211/212 (pora), 244-2 (ekstremizm), 248 (qurol).",
+        "JPK 84/1-8: ayblilik masalasini hal qilmay turib ish tugatiladi.",
+        "Ayblanuvchi rozilik bermasa — ish sudga o'tadi.",
+        "Oqlov yoki 71-modda bo'yicha jazodan ozod etish."
+      ]
+    }
+  ]
+}

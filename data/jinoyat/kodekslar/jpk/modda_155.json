@@ -1,0 +1,32 @@
+﻿{
+  "n": 155,
+  "sarlavha_id": "-254181",
+  "sarlavha": "155-modda. Eksperimentni oʻtkazish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254182",
+      "matn": "Surishtiruvchi yoki tergovchi eksperimentni xolislar, sud esa taraflar ishtirokida oʻtkazadi."
+    },
+    {
+      "q": 2,
+      "id": "-254183",
+      "matn": "Eksperiment oʻtkazishga mutaxassis va ekspert, shuningdek tajriba harakatlarini olib boruvchi shaxslar jalb qilinishi mumkin. Murakkab eksperimentlar kamida ikki nafar xolis va bir necha mutaxassis ishtirokida oʻtkazilishi mumkin. Eksperiment oʻtkazishga, shuningdek koʻrsatuvlari tekshirilishi lozim boʻlgan shaxslar ham jalb qilinishi lozim. Bunda guvohlar va jabrlanuvchilar koʻrsatuv berishdan boʻyin tovlaganlik va bila turib yolgʻon koʻrsatuv berganlik uchun javobgarlik toʻgʻrisida ogohlantirilishi lozim. Eksperiment ishtirokchilariga uning maqsadi va oʻtkazilish tartibi tushuntiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-254184",
+      "matn": "Tajriba harakatlarini oʻtkazishdan oldin oʻrganilayotgan hodisa sharoitlari tekshirilayotgan koʻrsatuv yoki tusmollarga toʻla muvofiq holda tiklangan boʻlishi lozim. Buning uchun gumon qilinuvchi, ayblanuvchi, sudlanuvchi, jabrlanuvchi, guvohlarning har biriga alohida-alohida oʻzi qatnashgan yoki shohid boʻlgan hodisaning sharoit va holatlarini tiklash taklif qilinishi mumkin. Shundan keyin surishtiruvchi, tergovchi yoki sud tegishli tajriba harakatlarini oʻtkazadi, shu maqsadda oʻlchash, fotosuratga tushirish, kinotasvirga olish, ovoz yozish, videoyozuv, reja, sxema va chizmalar tuzish, eksperimental qoliplar va izlarning nusxalarini tayyorlash mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-254185",
+      "matn": "Eksperiment oʻtkazish sharoiti tiklanayotgan harakat yoki hodisalar yuz bergan sharoitga iloji boricha oʻxshash boʻlishi lozim. Tajribalar imkon boricha bir necha marta oʻtkaziladi. Tajribalarning sharoitlari oʻzgartirilishi mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-254186",
+      "matn": "Gumon qilinuvchi, ayblanuvchi, sudlanuvchi, jabrlanuvchi, guvoh, mutaxassis va ekspertga eksperiment yuzasidan savol berilishi mumkin. Sudning ijozati bilan eksperimentda ishtirok etayotgan shaxslarga taraflar ham savol berishi mumkin. Taraflar va eksperimentda ishtirok etayotgan boshqa shaxslar surishtiruvchining, tergovchining va sudning eʼtiborini, ularning fikricha ish holatini aniqlashga yordam berishi mumkin boʻlgan barcha holatlarga qaratishga, eksperiment sharoitiga aniqlik kiritishni va tajriba harakatlarini takrorlashni talab qilishga haqlidir. Koʻrsatuvi tekshirilayotgan shaxs eksperiment munosabati bilan oʻzining qoʻshimcha soʻroq qilinishini talab qilishi mumkin."
+    }
+  ]
+}

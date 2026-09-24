@@ -1,0 +1,30 @@
+{
+  "n": 78,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195690",
+  "sarlavha": "78-modda. Sudlanganlik holatining tugallanishi",
+  "umumiy_sharh": [
+    "Sudlanganlik holatining tugallanishi deganda, muayyan muddatlarning o'tishi bilan mazkur masalaga oid sudning maxsus qarori qabul qilinmasdan uning avtomatik tarzda bekor bo'lishi tushuniladi. Sudlanganlik holatining bekor bo'lishini tasdiqlash uchun qandaydir maxsus hujjatlar talab qilinmaydi.",
+    "Ushbu modda qoidalariga muvofiq, sudlanganlikning tugatilishi sudlanganlik huquqiy ahamiyatga ega bo'lgan tegishli muddatlarning o'tishiga bog'liq bo'ladi. Ushbu muddatlarning davomiyligi tayinlangan jazo, uning turi, hajmi va shartli yoki shartli emasligiga bog'liq bo'ladi.",
+    "Sharhlanayotgan modda qoidalaridan kelib chiqib, sudlanganlik yo asosiy va qo'shimcha jazolar o'talganidan keyin qonunda belgilangan muddat o'tganidan so'ng, yo shartli hukm qilishda sinov muddati o'tganidan so'ng tugallanadi. Bunda, agar shartli hukm qilingan shaxs qo'shimcha jazoni o'tashdan ozod qilinmagan bo'lsa va ushbu jazoning muddati tayinlangan sinov muddatidan oshsa, sudlanganlik ushbu qo'shimcha jazo o'talganidan so'nggina tugallangan, deb e'tirof etiladi.",
+    "Shuni nazarda tutish kerakki, sudlanganlik muddatining tugashini hisoblashda sudlangan shaxsning xohish-irodasiga bog'liq bo'lmagan sabablarga ko'ra ijro etilmagan muddat hamda ijroning to'xtaganlik muddati ham hisobga olinadi. Bunda sud ayblov hukmining ijro etish muddatiga ham e'tibor berishi kerak, chunki ushbu muddatning o'tishi, jazo amalda ijro qilinmaganligi bois, shaxsning sudlangan deb e'tirof etilishini istisno qiladi (JKning 69-moddasi).",
+    "O'n besh yil va undan ortiq muddatga hukm qilingan shaxs ozodlikdan mahrum qilish jazosini o'tab chiqqanidan so'ng, shuningdek, o'ta xavfli retsidivist deb topilgan shaxslarga nisbatan sudlanganlik holati tugallanmaydi. Ularga nisbatan sudlanganlik muddati Jinoyat kodeksi 79-moddasi ikkinchi qismiga ko'ra olib tashlanishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195691",
+      "matn": "Shaxsning sudlanganlik holati quyidagi paytlarda tugallanadi:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-195692","matn":"shartli hukm qilinganlarga nisbatan — sinov muddati tugagan kundan boshlab;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-3165951","matn":"majburiy jamoat ishlari, xizmat bo'yicha cheklash yoki intizomiy qismga jo'natish tarzidagi jazolarini o'tab chiqqach;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-195694","matn":"jarima jazosi ijro etilgan kundan keyin, shuningdek muayyan huquqdan mahrum qilish yoki axloq tuzatish ishlari jazolari o'talganidan keyin bir yil o'tgach;","sharh":[]},
+        {"b":"g","id":"https://lex.uz/docs/-111453#-3165954","matn":"ozodlikni cheklash jazosi o'talganidan keyin — ikki yil o'tgach;","sharh":[]},
+        {"b":"d","id":"https://lex.uz/docs/-111453#-195696","matn":"besh yildan ko'p bo'lmagan muddatga ozodlikdan mahrum qilish jazosi o'talganidan keyin — to'rt yil o'tgach;","sharh":[]},
+        {"b":"e","id":"https://lex.uz/docs/-111453#-195697","matn":"besh yildan ortiq, lekin o'n yildan ko'p bo'lmagan muddatga ozodlikdan mahrum qilish jazosi o'talganidan keyin — yetti yil o'tgach;","sharh":[]},
+        {"b":"j","id":"https://lex.uz/docs/-111453#-195698","matn":"o'n yildan ortiq, lekin o'n besh yildan ko'p bo'lmagan muddatga ozodlikdan mahrum qilish jazosi o'talganidan keyin — o'n yil o'tgach.","sharh":[]}
+      ],
+      "sharh":[]
+    }
+  ]
+}

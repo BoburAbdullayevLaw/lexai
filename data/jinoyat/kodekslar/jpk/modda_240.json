@@ -1,0 +1,32 @@
+﻿{
+  "n": 240,
+  "sarlavha_id": "-254740",
+  "sarlavha": "240-modda. Ehtiyot chorasini qoʻllash, bekor qilish, oʻzgartirish toʻgʻrisidagi qaror yoki ajrim",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3349947",
+      "matn": "Ehtiyot chorasi surishtiruvchi, tergovchi, prokurorning qarori va sudning ajrimi bilan qoʻllanilishi, bekor qilinishi va oʻzgartirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-3349954",
+      "matn": "Ishni sudga qadar yuritish bosqichida qoʻllanilgan qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasi shaxsni bundan keyin qamoqda saqlash yoki uning uy qamogʻida boʻlishi uchun asoslar mavjud boʻlmaganda prokuror tomonidan, shuningdek prokurorning roziligi bilan surishtiruvchi yoki tergovchi tomonidan ehtiyot choralari toʻgʻrisida qaror chiqargan sudni albatta xabardor etgan holda bekor qilinishi yoki oʻzgartirilishi mumkin. Qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasining bekor qilinishi yoki oʻzgartirilishi ushbu ehtiyot chorasini aynan oʻsha shaxsga nisbatan qoʻllash toʻgʻrisidagi iltimosnoma bilan sudga takroran murojaat etishga monelik qilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-3696069",
+      "matn": "Ishni sudga qadar yuritish bosqichida sud tomonidan qoʻllanilgan garov tarzidagi ehtiyot chorasi uni bundan buyon qoʻllash uchun asoslar mavjud boʻlmaganda, xuddi shuningdek ish yuritish tugatilgan taqdirda, mazkur ehtiyot chorasini qoʻllash toʻgʻrisida qaror chiqargan sud albatta xabardor etilgan holda prokuror tomonidan, shuningdek prokurorning roziligi bilan surishtiruvchi yoki tergovchi tomonidan bekor qilinishi yoki oʻzgartirilishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-254745",
+      "matn": "Ehtiyot chorasini qoʻllash, bekor qilish, oʻzgartirish toʻgʻrisidagi qarorda yoki ajrimda: shaxsning qanday jinoyatni sodir etishda ayblanayotganligi; ehtiyot chorasi qanday qonuniy asoslarga tayanib qoʻllanganligi yoxud tegishli dalillar keltirish yoʻli bilan bu asoslar yoʻqligi yoki oʻzgargani; ehtiyot chorasini tanlashga taʼsir qiluvchi, qonun bilan belgilangan holatlarni hisobga olib, ehtiyot choralarini qoʻllash, bekor qilish yoki oʻzgartirish zaruratini izohlovchi sabablar koʻrsatilgan boʻlishi lozim. Qaror yoki ajrim kimga nisbatan chiqarilgan boʻlsa, shu shaxsga darhol eʼlon qilinadi, shaxsning ogʻir kasalligi yoki uning qochib ketganligi tufayli eʼlon qilinishi mumkin boʻlmagan hollar bundan mustasno."
+    },
+    {
+      "q": 5,
+      "id": "-2461129",
+      "matn": "Qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasi bekor qilingan yoxud oʻzgartirilgan taqdirda, qamoqda yoki uy qamogʻida boʻlgan shaxs darhol ozod qilinishi kerak."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "n": "276-9",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-8282773",
+  "sarlavha": "276⁹-modda. Tanosil yoki OIV kasalligini (OITSni) tarqatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282775",
+      "matn": "Bila turib, boshqa shaxsni tanosil kasalligini yuqtirish xavfi ostida qoldirish, — bazaviy hisoblash miqdorining yigirma besh baravarigacha miqdorda jarima yoki ikki yuz qirq soatgacha majburiy jamoat ishlari yoxud bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-8282778",
+      "matn": "Oʻzida tanosil kasalligi borligini bila turib, bu kasallikni boshqa shaxsga yuqtirish, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki ikki yuz qirq soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-8282781",
+      "matn": "Ushbu moddaning birinchi yoki ikkinchi qismida nazarda tutilgan harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282782",
+          "matn": "ikki yoki undan ortiq shaxsga nisbatan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-8282783",
+          "matn": "voyaga yetmagan shaxsga nisbatan sodir etilgan boʻlsa, — uch yuz oltmish soatdan toʻrt yuz sakson soatgacha majburiy jamoat ishlari yoki uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-8282786",
+      "matn": "Bila turib, boshqa shaxsni OIV kasalligini (OITSni) yuqtirish xavfi ostida qoldirish yoki unga OIV kasalligini (OITSni) yuqtirish, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-8282789",
+      "matn": "Shaxsning kasb yuzasidan oʻz vazifalarini bajarmaganligi yoki lozim darajada bajarmaganligi oqibatida boshqa shaxsga OIV kasalligini (OITSni) yuqtirishi, — bazaviy hisoblash miqdorining yuz baravaridan ikki yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatdan toʻrt yuz sakson soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari yoxud ikki yildan besh yilgacha ozodlikni cheklash yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿{
+  "n": 438,
+  "sarlavha_id": "-256416",
+  "sarlavha": "438-modda. Iltimoslar qilish va ularni hal etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7235293",
+      "matn": "Sud majlisining tayyorlov qismi iltimoslar bor-yoʻqligini aniqlash bilan yakunlanadi. Raislik qiluvchi taraflardan yangi guvohlar, ekspertlar yoki mutaxassislar chaqirish, ashyoviy, yozma va raqamli dalillar va hujjatlar talab qilib olish toʻgʻrisida ularning iltimoslari bor-yoʻqligini soʻraydi. Iltimos qiluvchi taraf qoʻshimcha dalillar aynan qaysi holatlarni aniqlash uchun zarurligini koʻrsatishi shart."
+    },
+    {
+      "q": 2,
+      "id": "-256418",
+      "matn": "Taraf arz qilgan har bir iltimosni muhokama qilib, sud boshqa tarafning fikrini tinglaydi va basharti, iltimos ish uchun ahamiyatli boʻlgan holatlarni aniqlashga qaratilgan boʻlsa, uni qanoatlantiradi, aks holda qanoatlantirishni rad etadi."
+    },
+    {
+      "q": 3,
+      "id": "-256419",
+      "matn": "Iltimosning rad etilishi sud muhokamasi davomida tarafni keyinchalik boshqa asoslarga koʻra yana shu iltimos bilan murojaat etish huquqidan mahrum qilmaydi."
+    },
+    {
+      "q": 4,
+      "id": "-256420",
+      "matn": "Sud oʻzining tashabbusi bilan yangi guvohlarni chaqirish, ekspertiza tayinlash, hujjatlarni va boshqa qoʻshimcha dalillarni talab qilib olish toʻgʻrisida ajrim chiqarishga haqlidir."
+    },
+    {
+      "q": 5,
+      "id": "-256422",
+      "matn": "Basharti sud qoʻshimcha dalillarni tekshirishni lozim deb topsa, sud majlisiga yangi guvohlar, ekspertlar kelishini yoki hujjatlar talab qilib olinishini taʼminlash choralarini koʻrib, ayni chogʻda muhokamani yo davom ettiradi yoki uni keyinga qoldiradi."
+    }
+  ]
+}

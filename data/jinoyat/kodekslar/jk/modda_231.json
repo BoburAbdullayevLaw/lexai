@@ -1,0 +1,33 @@
+{
+  "n": 231,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-266967",
+  "sarlavha": "231-modda. Adolatsiz hukm, hal qiluv qarori, ajrim yoki qaror chiqarish",
+  "umumiy_sharh": [
+    "Sudya tomonidan adolatsiz sud hujjatlarini chiqarish – odil sudlovga qarshi bo'lgan xavfli jinoyatlardan biridir.",
+    "Jinoyat obyekti sud hokimiyatini amalga oshirish jarayonida odil sudlovning va sud hokimiyatining manfaatlari, sud hokimiyati nufuzi, fuqarolarning qonuniy huquq va manfaatlari hisoblanadi.",
+    "Obyektiv tomondan jinoyat adolatsiz hukm, hal qiluv qarori, ajrim yoki qaror chiqarishda ifodalanadi.",
+    "Hukm – sudlanuvchining aybdor yoki aybdor emasligi masalasi bo'yicha va unga jinoiy jazoni qo'llash yoki qo'llamaslik to'g'risidagi sud tomonidan chiqarilgan hujjatidir.",
+    "Hal qiluv qarori – birinchi instansiya fuqarolik va xo'jalik sudining fuqarolik ishini yoki xo'jalik nizosini bevosita hal qiladigan hujjatidir.",
+    "Ajrim – birinchi instansiya sudi tomonidan hukm yoki hal qiluv qaroridan tashqari chiqarilgan istalgan sud akti tushuniladi.",
+    "Qaror – qonuniy kuchga kirgan sud hukmlari, ajrimlari va qarorlarini qayta ko'rib chiqish natijasida sud rayosatining qabul qilgan qarori hamda sud hukmidan tashqari sudyaning yakka tartibda qabul qilgan har qanday qarori.",
+    "Jinoyat obyektiv tomonining zaruriy belgisi – hujjatning adolatsizligi. Adolatsiz deb, ishning aniqlangan holatlariga zid ravishda yoki moddiy yoxud protsessual qonunni jiddiy buzgan holda qabul qilingan sud hujjati tushuniladi.",
+    "Jinoyat aktiv harakatlar orqali sodir etiladi. Sudya tomonidan imzolanishi paytida jinoyat tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan tavsiflanadi. Aybdor adolatsiz hujjatni qabul qilayotganida, ana shu qarorning adolatsiz ekanligini oldindan anglaganligi va buni xohlaganligi kerak.",
+    "Jinoyatning subyekti muayyan ish yuzasidan sudyaning odil sudlovni amalga oshirish huquq va majburiyatlariga ega bo'lgan shaxslardir.",
+    "Agar adolatsiz hukm kollegial tarzda chiqarilgan bo'lsa, jinoiy javobgarlikka faqat ushbu hujjat adolatsizligi oldindan ayon bo'lgan shaxslar tortilishi lozim.",
+    "Adolatsiz hukm aktining chiqarilishi odam o'limiga yoki boshqa og'ir oqibatlarga olib kelgan hollar 2-qism bilan kvalifikatsiya qilinadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-266969",
+      "matn": "Oldindan bila turib, adolatsiz hukm, hal qiluv qarori, ajrim yoki qaror chiqarish — ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-266972",
+      "matn": "Oʻsha harakat odam oʻlishiga yoki boshqa ogʻir oqibatlarga sabab boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

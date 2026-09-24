@@ -1,0 +1,27 @@
+﻿{
+  "n": 97,
+  "sarlavha_id": "-253843",
+  "sarlavha": "97-modda. Soʻroq qilish uchun chaqiruv",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253845",
+      "matn": "Guvoh, jabrlanuvchi, shuningdek ozodlikda yurgan gumon qilinuvchi, ayblanuvchi va sudlanuvchi surishtiruvchiga, tergovchiga, prokurorga va sudga chaqiruv qogʻozi bilan chaqiriladi. Chaqiruv qogʻozi pochta orqali joʻnatiladi yoki chopar orqali topshiriladi. Chaqiruv telefonogramma, telegramma, radiogramma bilan yoki telefaks orqali ham boʻlishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-253846",
+      "matn": "Chaqiruv qogʻozida shaxs kim sifatida, qaysi manzilga va kimning huzuriga chaqirilayotganligi, qaysi kunda va qaysi soatga kelishi kerakligi, shuningdek uzrsiz sabablarga koʻra kelmay qolgan taqdirda qanday oqibatlar roʻy berishi koʻrsatilgan boʻlishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-253848",
+      "matn": "Chaqiruv qogʻozi chaqiriluvchiga topshirilib, tilxat olinadi. Chaqiruv qogʻozi olib borilganda chaqiriluvchi vaqtincha yoʻq boʻlsa, unga berib qoʻyish uchun chaqiruv qogʻozi u bilan birga yashovchi voyaga yetgan oila aʼzolaridan biriga, yotoqxona maʼmuriyatiga, uy egasiga yoki fuqarolarning oʻzini oʻzi boshqarish organi vakiliga topshirilib, tilxat olinadi."
+    },
+    {
+      "q": 4,
+      "id": "-1881133",
+      "matn": "Qamoqda saqlash joylarida, reabilitatsiya markazlarida, jazoni ijro etish muassasalarida saqlanayotgan shaxslar soʻroq qilish uchun mazkur joylar va muassasalarning maʼmuriyati orqali chaqirtiriladi."
+    }
+  ]
+}

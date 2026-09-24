@@ -1,0 +1,27 @@
+{
+  "n": 23,
+  "sarlavha_id": "https://lex.uz/docs/-111460#-252892",
+  "sarlavha": "23-modda. Aybsizlik prezumpsiyasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-252893",
+      "matn": "Gumon qilinuvchi, ayblanuvchi yoki sudlanuvchi uning jinoyat sodir etishda aybdorligi qonunda nazarda tutilgan tartibda isbotlangunga va qonuniy kuchga kirgan sud hukmi bilan aniqlangunga qadar aybsiz hisoblanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-7568420",
+      "matn": "Aybdorlikka oid barcha shubhalar, agar ularni bartaraf etish imkoniyatlari tugagan boʻlsa, gumon qilinuvchining, ayblanuvchining, sudlanuvchining yoki mahkumning foydasiga hal qilinishi kerak. Shuningdek qonun qoʻllanilayotganda kelib chiqadigan shubhalar ham gumon qilinuvchining, ayblanuvchining, sudlanuvchining yoki mahkumning foydasiga hal qilinishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-7568422",
+      "matn": "Gumon qilinuvchi, ayblanuvchi yoki sudlanuvchi oʻzining aybsizligini isbotlashi shart emas va istalgan vaqtda sukut saqlash huquqidan foydalanishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-7568423",
+      "matn": "Agar shaxsning oʻz aybini tan olganligi unga qarshi yagona dalil boʻlsa, u aybdor deb topilishi yoki jazoga tortilishi mumkin emas."
+    }
+  ]
+}

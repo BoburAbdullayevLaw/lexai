@@ -1,0 +1,61 @@
+{
+  "n": 139,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-262239",
+  "sarlavha": "139-modda. Tuhmat",
+  "umumiy_sharh": [
+    "Jinoyat obyekti shaxsning sha'ni va qadr-qimmati hisoblanadi.",
+    "Obyektiv tomondan jinoyat boshqa shaxsni obro'sizlantiradigan yolg'on, uydirmalarni tarqatishda ifodalanadi.",
+    "Tuhmat qilish maqsadida uydirmalar tarqatish deganda ularni hech bo'lmaganda bir kishiga istalgan shaklda (og'zaki, yozma ravishda, telefon orqali, kompyuter va Internet yordamida) yetkazishni tushunish zarur.",
+    "Uydirma deganda uydirmachi tomonidan amalda mavjud bo'lmagan yoki soxtalashtirilgan hodisalarni tushunish kerak.",
+    "Rost bo'lgan, lekin shaxsni obro'sizlantiradigan ma'lumotlarni tarqatish tuhmat tarkibini vujudga keltirmaydi.",
+    "Tuhmatdagi uydirmalar mutlaqo yolg'on yoki kishini obro'sizlantiradigan bo'lishi lozim.",
+    "Jinoyat boshqa kishini obro'sizlantiradigan yolg'on uydirmalarni bila turib, hech bo'lmaganda bir kishiga yetkazilgan holatda tugallangan deb topiladi.",
+    "Sharhlanayotgan modda bo'yicha jinoyatni kvalifikatsiya qilish uchun aybdor ilgaridan o'zi tarqatayotgan uydirmalarning yolg'onligini bilishi muhim.",
+    "Nashr qilish yoki boshqacha usulda ko'paytirilgan matnda yoki ommaviy axborot vositalari orqali tuhmat qilish deganda kitob, jurnal, gazeta, varaqa va boshqa asarlardagi yoki radio, televideniye, video tasvirlari va hokazo orqali qilingan tuhmatni tushunish kerak.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyat subyekti 16 yoshga to'lgan shaxs hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-262241",
+      "matn": "Tuhmat qilish, yaʼni bila turib boshqa shaxsni sharmanda qiladigan uydirmalar tarqatish, shunday harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ikki yuz baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-5190917",
+      "matn": "Nashr qilish yoki boshqacha usulda koʻpaytirilgan tarzda, shu jumladan ommaviy axborot vositalarida, telekommunikatsiya tarmoqlarida yoki Internet jahon axborot tarmogʻida joylashtirish orqali tuhmat qilish, — bazaviy hisoblash miqdorining ikki yuz baravaridan toʻrt yuz baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud ikki yildan uch yilgacha axloq tuzatish ishlari yoki bir yilgacha ozodlikni cheklash bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-262267",
+      "matn": "Tuhmat:",
+      "sharh": [
+        "Og'ir va o'ta og'ir jinoyatlar to'g'risida JK 15-moddasining sharhiga qarang. Og'ir oqibatlar deganda jabrlanuvchining o'zini o'zi o'ldirishini, uning ruhiy kasallikka chalinilishi va hokazolarni tushunish lozim. Xavfli retsidivist tushunchasi to'g'risida JK 34-moddasining sharhiga qarang. G'arazli yoki boshqa past niyatlar tushunchasi to'g'risida JK 97 va 133-moddalari sharhlariga qarang."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-262268",
+          "matn": "ogʻir yoki oʻta ogʻir jinoyat sodir etishda ayblab;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-262269",
+          "matn": "ogʻir oqibatlar kelib chiqishiga sabab boʻlgan holda;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-262270",
+          "matn": "xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-262271",
+          "matn": "gʻarazgoʻylik yoki boshqa past niyatlarda qilinsa, — bazaviy hisoblash miqdorining uch yuz baravaridan besh yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatdan toʻrt yuz soatgacha majburiy jamoat ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

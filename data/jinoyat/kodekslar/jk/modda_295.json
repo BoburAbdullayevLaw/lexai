@@ -1,0 +1,47 @@
+{
+  "n": 295,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271555",
+  "sarlavha": "295-modda. Harbiy mulkni behuda sarflash, yo'qotish yoki ishdan chiqarish",
+  "umumiy_sharh": [
+    "Jinoyatning bevosita obyekti harbiy mulkdan foydalanish va saqlash tartiblariga rioya etilishini ta'minlash sohasidagi ijtimoiy munosabatlar.",
+    "Predmetga muddatli harbiy xizmatchiga shaxsiy foydalanish uchun berilgan harbiy aslaha-anjomlar (1-qism) hamda xizmatda foydalanish uchun ishonib topshirilgan qurol, o'q-dorilar, harakatlanish vositalari, texnika ta'minoti buyumlari (2-qism) kiradi.",
+    "Harbiy aslaha-anjomlar — kiyim-bosh va aslaha-anjomlar (bronjilet, protivogaz, sapyor kuragi, dozimetr va h.k.). Ofitserlar va kontraktchilarga shaxsiy mulk qilib beriladi.",
+    "Qurol — jonli yoki boshqa nishonni nobud etishga mo'ljallangan jangovar texnik qurilma. Sovuq qurol va signal qurollari ushbu jinoyatning predmeti hisoblanmaydi.",
+    "O'q-dorilar — jangga mo'ljallangan texnik buyumlar, portlovchi moddalar aslahalari, jangovar o'qlar, artilleriya snaryadlari, minalar, granatalar.",
+    "Harakat qilish vositalari — harbiy texnikaga kirmaydigan transport vositalari (avtomobil, daryo transporti va h.k.).",
+    "Texnika ta'minoti buyumlari — yoritgichlar, texnik ehtiyoj uskunalari, ehtiyot qismlar, yoqilg'i-moylash materiallari va h.k.",
+    "1-qism obyektiv tomondan harbiy aslaha-anjomlarni sotish, foydalanishga berish yoki garovga qo'yishdan iborat.",
+    "Behuda sarflashning zaruriy belgisi — shaxsiy foydalanishga berilgan buyumlarning boshqa shaxsning noqonuniy egaligiga o'tishidir.",
+    "Sotish — haq evaziga yoki moddiy manfaat evaziga topshirish.",
+    "Foydalanishga berish — tekinga berish (hadya qilish va h.k.).",
+    "Garovga qo'yish — pul yoki mulkiy ziyonni qoplash uchun vaqtinchalik topshirish.",
+    "Behuda sarflashda harbiy mulk davlat mulki bo'lib qoladi va g'ayriqonuniy egalikdan olib qo'yilishi lozim.",
+    "1-qism subyektiv tomondan to'g'ri qasd bilan sodir etiladi.",
+    "1-qism subyekti faqat muddatli harbiy xizmat harbiy xizmatchisi.",
+    "2-qism obyektiv tomondan saqlash qoidalarining buzilishi natijasida ishonib topshirilgan predmetlarning yo'qolishida ifodalanadi.",
+    "Ishonib topshirilgan mulk — harbiy xizmatchiga xizmatda foydalanish uchun o'rnatilgan tartibda topshirilgan harbiy mulk.",
+    "Yo'qotish — harbiy xizmatchining ixtiyoridan tashqarida sodir bo'ladi.",
+    "Ishdan chiqarish — predmetlarni qisman yoki to'la yaroqsizlikka keltirish.",
+    "2-qism subyektiv tomondan qasddan yoki ehtiyotsizlikdan sodir etiladi. Yo'qotish faqat ehtiyotsizlikdan.",
+    "2-qism subyekti ishonib topshirilgan harbiy mulkni saqlashga javobgar harbiy xizmatchi.",
+    "3-qism jangovar vaziyatda sodir etilganlik uchun javobgarlikni nazarda tutadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1563144",
+      "matn": "Harbiy mulkni behuda sarflash, yaʼni muddatli harbiy xizmat harbiy xizmatchisining shaxsan oʻzi foydalanishi uchun berilgan harbiy aslaha-anjomlarni sotishi, foydalanish uchun birovga berishi yoki garovga qoʻyishi — bir yilgacha intizomiy qismga yuborish yoki bir yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271576",
+      "matn": "Xizmatda foydalanish uchun ishonib topshirilgan qurol, oʻq-dori, harakat qilish vositalari, texnika taʼminoti buyumlarini saqlash qoidalarini buzish natijasida ularni yoʻqotish yoki ishdan chiqarish, — ikki yilgacha xizmat boʻyicha cheklash yoki bir yilgacha intizomiy qismga yuborish yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-271591",
+      "matn": "Ushbu moddaning birinchi yoki ikkinchi qismida nazarda tutilgan qilmishlar jangovar vaziyatda sodir etilgan boʻlsa, — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

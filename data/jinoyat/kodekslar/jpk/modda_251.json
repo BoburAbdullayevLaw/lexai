@@ -1,0 +1,37 @@
+﻿{
+  "n": 251,
+  "sarlavha_id": "-254806",
+  "sarlavha": "251-modda. Shaxsiy kafillik",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254807",
+      "matn": "Shaxsiy kafillik ishonchga sazovor boʻlgan shaxslarning ayblanuvchi, sudlanuvchi munosib xulq-atvorda boʻlishiga kafil ekanliklari haqida yozma majburiyat olishidan iboratdir."
+    },
+    {
+      "q": 2,
+      "id": "-3350457",
+      "matn": "Kafillar sonini surishtiruvchi, tergovchi, prokuror yoki sud belgilaydi. Alohida hollarda yuksak ishonchga sazovor boʻlgan bitta shaxs ham kafil boʻlishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-254811",
+      "matn": "Kafillar ushbu ehtiyot chorasi qoʻllanilishiga sabab boʻlgan ayblovning mohiyati, ayblanuvchiga qoʻllanilishi mumkin boʻlgan jazo, oldini olish maqsadida kafillik tariqasidagi ehtiyot chorasi koʻrilgan harakat ayblanuvchi, sudlanuvchi tomonidan sodir etilgan taqdirda kafillarning javobgarligi haqida ogohlantirilishi lozim. Bu maʼlumotlar kafillikka berish bayonnomasida qayd qilinib, uni shu ehtiyot chorasini qoʻllayotgan mansabdor shaxs, ayblanuvchi, sudlanuvchi va kafillar imzolashi lozim yoki bu maʼlumotlar sud majlisi bayonnomasida aks ettiriladi. Bundan tashqari, har bir kafillikka oluvchi kafillik toʻgʻrisida tilxat beradi."
+    },
+    {
+      "q": 4,
+      "id": "-254813",
+      "matn": "Kafillar ularni javobgarlikka tortish uchun sabab boʻladigan asoslar kelib chiqqunga qadar oʻz zimmalariga olingan majburiyatlardan voz kechishlari mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-254814",
+      "matn": "Kafillar ayblanuvchining, sudlanuvchining xulq-atvorini kuzatishga imkoni boʻlmaganligini bahona qilishga haqli emaslar, ular bartaraf etib boʻlmaydigan vaziyatning taʼsirini isbotlab beradigan hollar bundan mustasno."
+    },
+    {
+      "q": 6,
+      "id": "-254816",
+      "matn": "Ayblanuvchi, sudlanuvchi oldi olinishi uchun shaxsiy kafillik qoʻllanilgan harakatlarni sodir etgan taqdirda, kafil qonunda belgilangan javobgarlikka tortilishi mumkin."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "n": "10",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445229",
+  "sarlavha": "10-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445230",
+      "matn": "Oʻzbekiston xalqi nomidan faqat u saylagan Oʻzbekiston Respublikasi Oliy Majlisi va Prezidenti ish olib borishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-6445231",
+      "matn": "Jamiyatning biron-bir qismi, siyosiy partiya, jamoat birlashmasi, ijtimoiy harakat yoki alohida shaxs Oʻzbekiston xalqi nomidan ish olib borishga haqli emas."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "n": "104",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445934",
+  "sarlavha": "104-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445936",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputatlariga va Senati aʼzolariga ularning deputatlik yoki senatorlik faoliyati bilan bogʻliq xarajatlar belgilangan tartibda qoplanadi."
+    },
+    {
+      "q": 2,
+      "id": "-6445937",
+      "matn": "Qonunchilik palatasi deputatlari hamda Senatda doimiy asosda ishlovchi Senat aʼzolari oʻz vakolatlari davrida ilmiy, ijodiy va pedagogik faoliyatdan tashqari haq toʻlanadigan boshqa turdagi faoliyat bilan shugʻullanishlari mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-6445938",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputati va Senati aʼzosi daxlsizlik huquqidan foydalanadilar. Ular tegishincha Qonunchilik palatasi yoki Senatning roziligisiz jinoiy javobgarlikka tortilishi, ushlab turilishi, qamoqqa olinishi yoki sud tartibida beriladigan maʼmuriy jazo choralariga tortilishi mumkin emas."
+    }
+  ]
+}

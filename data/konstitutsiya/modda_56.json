@@ -1,0 +1,18 @@
+{
+  "n": "56",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445648",
+  "sarlavha": "56-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445649",
+      "matn": "Inson huquqlari boʻyicha milliy institutlar inson huquqlari va erkinliklarini himoya qilishning mavjud shakllari hamda vositalarini toʻldiradi, fuqarolik jamiyatini rivojlantirishga va inson huquqlari madaniyatini yuksaltirishga koʻmaklashadi."
+    },
+    {
+      "q": 2,
+      "id": "-6445650",
+      "matn": "Davlat inson huquqlari boʻyicha milliy institutlar faoliyatini tashkil etish uchun shart-sharoitlar yaratadi."
+    }
+  ]
+}

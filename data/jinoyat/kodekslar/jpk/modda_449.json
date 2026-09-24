@@ -1,0 +1,37 @@
+﻿{
+  "n": 449,
+  "sarlavha_id": "-256480",
+  "sarlavha": "449-modda. Taraflar muzokarasining mazmuni va tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256481",
+      "matn": "Sud tergovi tamomlanganidan soʻng sud taraflarning muzokarasini eshitishga oʻtadi. Muzokara davlat ayblovchisi va jamoat ayblovchisining nutqlari bilan boshlanadi. Soʻngra jabrlanuvchi, fuqaroviy daʼvogar yoki ularning vakillari, himoyachi va jamoat himoyachisi, sudlanuvchi, fuqaroviy javobgar yoki uning vakili soʻzga chiqadi."
+    },
+    {
+      "q": 2,
+      "id": "-256482",
+      "matn": "Davlat ayblovchisi va jamoat ayblovchisining, shuningdek himoyachi va jamoat himoyachisining soʻzga chiqish navbatini sud ularning takliflarini inobatga olgan holda belgilaydi."
+    },
+    {
+      "q": 3,
+      "id": "-256486",
+      "matn": "Taraflar oʻzlarining nutqlarida sud tergovida koʻrib chiqilmagan dalillarni keltirishga haqli emas. Tekshirish uchun sudga yangi dalillarni taqdim etish lozim boʻlsa, taraflar sud tergovini yangidan boshlash toʻgʻrisida iltimos qilishlari mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-256488",
+      "matn": "Davlat ayblovchisi sud tergovining yakunlarini inobatga olib, oʻz nutqida sudlanuvchining aybliligi yoki aybli emasligi toʻgʻrisidagi xulosasini asoslantirishi lozim. Davlat ayblovchisi sudlanuvchi aybli degan xulosaga kelganda, unga nisbatan qoʻllanilishi lozim boʻlgan jazo turi va meʼyori haqida sudga oʻz fikrini bayon qiladi."
+    },
+    {
+      "q": 5,
+      "id": "-256489",
+      "matn": "Taraflar nutq soʻzlab boʻlganlaridan keyin, ulardan har biri boshqa tarafning nutqlarida aytilgan masalalar yuzasidan eʼtirozlar yoki mulohazalar bilan yana bir martadan soʻzga chiqishlari mumkin. Soʻnggi eʼtiroz bildirish huquqi hamisha himoyachi va sudlanuvchiga beriladi."
+    },
+    {
+      "q": 6,
+      "id": "-256491",
+      "matn": "Sud taraflarning muzokarasini muayyan muddat bilan cheklab qoʻyishi mumkin emas, lekin raislik qiluvchi muzokarada ishtirok etayotgan shaxslarning nutqlarini, basharti ular koʻrilayotgan ishga daxli yoʻq holatlarga taalluqli boʻlsa, toʻxtatib qoʻyishga haqlidir."
+    }
+  ]
+}

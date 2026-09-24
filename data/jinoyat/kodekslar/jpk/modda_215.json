@@ -1,0 +1,22 @@
+﻿{
+  "n": 215,
+  "sarlavha_id": "-254589",
+  "sarlavha": "215-modda. Ushlab turilgan, qamoqda saqlanayotgan yoki tibbiy muassasaga joylashtirilgan shaxslar bilan munosabatda boʻlish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5459084",
+      "matn": "Ushlab turilgan, qamoqda saqlanayotgan yoki ekspertiza oʻtkazish uchun tibbiy muassasaga joylashtirilgan shaxslar, ular saqlanadigan joylardagi tartibga oid cheklashlarni istisno etganda, qonunchilikda belgilangan huquqlarga egadirlar va shu hujjatlarda koʻrsatilgan majburiyatlarni bajaradilar."
+    },
+    {
+      "q": 2,
+      "id": "-254591",
+      "matn": "Ushlab turilgan, qamoqda saqlanayotgan yoki tibbiy muassasaga joylashtirilgan shaxslarga nisbatan gʻayriinsoniy munosabatda boʻlish mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-5459285",
+      "matn": "Ushlab turilgan, qamoqda saqlanayotgan yoki tibbiy muassasaga joylashtirilgan shaxsga oʻzining himoyachisi bilan xoli uchrashish, qonunchilikka oid materiallardan foydalanish imkoniyati berilishi, shikoyat, iltimosnoma va boshqa protsessual hujjatlarni yozishi uchun ixtiyorida qogʻoz va yozuv jihozlari boʻlishi lozim."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "n": "53",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381358",
+  "sarlavha": "53-modda. Normativ-huquqiy hujjatlar ijrosining monitoringi va nazorati",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381359",
+      "matn": "Normativ-huquqiy hujjatlar ijrosining monitoringi va nazorati qonunchilikka muvofiq amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-5381360",
+      "matn": "Normativ-huquqiy hujjatlar qabul qilish huquqiga ega boʻlgan organlar va boshqa tashkilotlar tegishli normativ-huquqiy hujjatlar ijrosi ustidan nazoratni, shuningdek ularning ijrosi bilan bogʻliq masalalar boʻyicha huquqni qoʻllash amaliyoti monitoringini hamda jismoniy va yuridik shaxslar murojaatlarining tahlilini amalga oshiradi."
+    },
+    {
+      "q": 3,
+      "id": "-5381361",
+      "matn": "Normativ-huquqiy hujjatlarda boʻshliqlar, yuqoriroq yuridik kuchga ega boʻlgan normativ-huquqiy hujjatlar bilan ziddiyatlar, shuningdek ichki ziddiyatlar yoxud boshqa xatolar aniqlangan taqdirda, normativ-huquqiy hujjatlar qabul qilish huquqiga ega boʻlgan organ ularni bartaraf etish yuzasidan choralar koʻradi."
+    },
+    {
+      "q": 4,
+      "id": "-5381363",
+      "matn": "Fuqarolar, fuqarolarning oʻzini oʻzi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda roʻyxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari Oʻzbekiston Respublikasining “Jamoatchilik nazorati toʻgʻrisida”gi Qonuni va boshqa qonunchilik hujjatlariga muvofiq jamoatchilik monitoringi va nazoratini amalga oshiradilar."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "n": "57-2",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-5301216",
+  "sarlavha": "57²-modda. Aybga iqrorlik toʻgʻrisida kelishuv tuzilgan jinoyatlar boʻyicha jazo tayinlash",
+  "umumiy_sharh": [
+    "Aybga iqrorlik kelishuvi — gumon qilinuvchi aybini tan olib, zararni qoplash evaziga jazoning yarmigacha imtiyoz oladi.",
+    "Faqat ijtimoiy xavfi katta bo'lmagan, uncha og'ir va og'ir jinoyatlar uchun tuziladi.",
+    "Kelishuv prokuror bilan tuziladi, sud tomonidan tasdiqlanishi kerak.",
+    "Jazo eng ko'p muddatning yarmidan oshmasligi kerak."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-5301220",
+      "matn": "Aybga iqrorlik toʻgʻrisida kelishuv tuzilgan jinoyatlar boʻyicha tayinlanadigan jazoning muddati yoki miqdori ushbu Kodeks Maxsus qismining tegishli moddasida (qismida) nazarda tutilgan eng koʻp jazoning yarmidan oshmasligi kerak.",
+      "sharh": [
+        "Cheklov: eng ko'p jazoning yarmidan oshmaslik. Masalan: 20 yil eng ko'p → maksimum 10 yil.",
+        "Bir nechta jinoyat uchun: umumiy muddat sanksiyadagi eng ko'p muddatlarning yarmidan oshmasligi kerak.",
+        "Hisoblash: 20 yil → 10 yil; 25 yil → 12 yil 6 oy.",
+        "Kelishuv shartlari: ixtiyoriy, himoyachi bilan maslahat, zarar qoplangan, ayb tan olingan.",
+        "Tuzilishi mumkin emas: tibbiy majburlash asoslari bo'lsa yoki bir nechta jinoyatdan biri talablarga to'g'ri kelmasa.",
+        "Sud kelishuvni tasdiqlashi yoki rad etishi mumkin. Rad etsa — ish prokurorga qaytariladi.",
+        "Sud 1 oy ichida ko'rib chiqishi kerak — kechiktirmay."
+      ]
+    }
+  ]
+}

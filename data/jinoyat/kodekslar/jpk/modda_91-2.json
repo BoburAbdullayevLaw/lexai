@@ -1,0 +1,39 @@
+{
+  "n": "91-2",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-4354436",
+  "sarlavha": "91²-modda. Tergov harakatlarini videokonferensaloqa rejimida oʻtkazish asoslari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-4354438",
+      "matn": "Tergov harakatlari quyidagi hollarda videokonferensaloqa rejimida oʻtkaziladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-4354439",
+          "matn": "shaxsning jinoyat ishini tergov qilayotgan organga yoki tergov harakati oʻtkazilayotgan joyga sogʻligʻining holatiga yoki boshqa uzrli sabablarga koʻra bevosita kelish imkoniyati boʻlmaganda;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-4354441",
+          "matn": "jinoyat protsessi ishtirokchilarining xavfsizligini taʼminlash zarurati tugʻilganda;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-4354442",
+          "matn": "kechiktirib boʻlmaydigan tergov harakatlari oʻtkazilganda;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-4354443",
+          "matn": "tergov harakatini oʻtkazish qiyinlashishi yoki ortiqcha xarajatlar keltirib chiqarishi mumkinligi haqida asosli sabablar mavjud boʻlganda."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-4354444",
+      "matn": "Ushbu moddaning birinchi qismida koʻrsatilgan asoslar mavjud boʻlganda surishtiruvchi, tergovchi, prokuror yoki sud tegishli qaror chiqaradi."
+    }
+  ]
+}

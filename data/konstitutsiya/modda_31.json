@@ -1,0 +1,33 @@
+{
+  "n": "31",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445529",
+  "sarlavha": "31-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445531",
+      "matn": "Har bir inson shaxsiy hayotining daxlsizligi, shaxsiy va oilaviy sirga ega boʻlish, oʻz shaʼni va qadr-qimmatini himoya qilish huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445533",
+      "matn": "Har kim yozishmalari, telefon orqali soʻzlashuvlari, pochta, elektron va boshqa xabarlari sir saqlanishi huquqiga ega. Ushbu huquqning cheklanishiga faqat qonunga muvofiq va sudning qaroriga asosan yoʻl qoʻyiladi."
+    },
+    {
+      "q": 3,
+      "id": "-6445534",
+      "matn": "Har kim oʻz shaxsiga doir maʼlumotlarning himoya qilinishi huquqiga, shuningdek notoʻgʻri maʼlumotlarning tuzatilishini, oʻzi toʻgʻrisida qonunga xilof yoʻl bilan toʻplangan yoki huquqiy asoslarga ega boʻlmay qolgan maʼlumotlarning yoʻq qilinishini talab qilish huquqiga ega."
+    },
+    {
+      "q": 4,
+      "id": "-6445536",
+      "matn": "Har kim uy-joy daxlsizligi huquqiga ega."
+    },
+    {
+      "q": 5,
+      "id": "-6445537",
+      "matn": "Hech kim uy-joyga unda yashovchi shaxslarning xohishiga qarshi kirishi mumkin emas. Uy-joyga kirishga, shuningdek unda olib qoʻyishni va koʻzdan kechirishni oʻtkazishga faqat qonunda nazarda tutilgan hollarda va tartibda yoʻl qoʻyiladi. Uy-joyda tintuv oʻtkazishga faqat qonunga muvofiq va sudning qaroriga asosan yoʻl qoʻyiladi."
+    }
+  ]
+}

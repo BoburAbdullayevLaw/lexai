@@ -1,0 +1,41 @@
+{
+  "n": 61,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3165851",
+  "sarlavha": "61-modda. Jazolarni qoʻshishning hisoblash qoidalari",
+  "umumiy_sharh": [
+    "Bir necha jinoyat yoki hukm uchun bitta asosiy jazo qo'llaniladi.",
+    "Eng og'ir jazo asos sifatida olinadi, yengilroqi unga qo'shiladi.",
+    "Ozodlikdan mahrum etish — boshqa jazolarni o'zaro mutanosib aniqlash uchun 'etalon'.",
+    "Jarima va muayyan huquqdan mahrum etish — doimo alohida ijro etiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3165858",
+      "matn": "Har xil turdagi asosiy jazolarni qoʻshganda ozodlikdan mahrum qilishning bir kuni:",
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-3165859","matn":"ozodlikni cheklashning yoki intizomiy qismga joʻnatishning bir kuniga;","sharh":[]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-3165860","matn":"axloq tuzatish ishlarining yoki xizmat boʻyicha cheklashning uch kuniga;","sharh":[]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-3165861","matn":"majburiy jamoat ishlarining toʻrt soatiga toʻgʻri keladi.","sharh":[]}
+      ],
+      "sharh": [
+        "Ozodlikdan mahrum etish 1 kuni = ozodlikni cheklash/intizomiy qism 1 kuni.",
+        "Ozodlikdan mahrum etish 1 kuni = axloq tuzatish/xizmat cheklash 3 kuni.",
+        "Ozodlikdan mahrum etish 1 kuni = majburiy jamoat ishi 4 soati.",
+        "Bu proporsional birlik — boshqa jazolarni ozodlikdan mahrum etishga olib kelish emas.",
+        "Turli jazolarning og'irligi 43-modda ketma-ketligiga qarab aniqlanadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3165863",
+      "matn": "Jarima yoki muayyan huquqdan mahrum qilish tariqasidagi jazo ozodlikdan mahrum qilish, intizomiy qismga joʻnatish, ozodlikni cheklash, xizmat boʻyicha cheklash, axloq tuzatish ishlari, majburiy jamoat ishlari jazosi bilan qoʻshilganda har qaysisi alohida ijro etiladi.",
+      "sharh": [
+        "Jarima va muayyan huquqdan mahrum etish — doimo alohida ijro.",
+        "Qo'shilmaydi, qoplanmaydi — mustaqil.",
+        "Qo'shish faqat ozodlikdan mahrum etish, intizomiy qism, cheklash, axloq tuzatish, jamoat ishlari o'rtasida."
+      ]
+    }
+  ]
+}

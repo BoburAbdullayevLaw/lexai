@@ -1,0 +1,33 @@
+{
+  "n": "151",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446198",
+  "sarlavha": "151-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446199",
+      "matn": "Oʻzbekiston Respublikasining bank tizimi Oʻzbekiston Respublikasi Markaziy bankidan va banklardan iboratdir."
+    },
+    {
+      "q": 2,
+      "id": "-6446200",
+      "matn": "Oʻzbekiston Respublikasi Markaziy banki pul-kredit va valyuta siyosatini ishlab chiqadi hamda amalga oshiradi."
+    },
+    {
+      "q": 3,
+      "id": "-6446201",
+      "matn": "Oʻzbekiston Respublikasi Markaziy banki mamlakatda banklar faoliyatini tartibga solishni amalga oshiradi, bank va toʻlov tizimlarining barqaror faoliyat koʻrsatishini taʼminlaydi."
+    },
+    {
+      "q": 4,
+      "id": "-6446202",
+      "matn": "Oʻzbekiston Respublikasi Markaziy banki oʻz vazifalarini bajarishda mustaqildir."
+    },
+    {
+      "q": 5,
+      "id": "-6446203",
+      "matn": "Oʻzbekiston Respublikasi Markaziy bankining faoliyatini tashkil etish tartibi qonun bilan belgilanadi."
+    }
+  ]
+}

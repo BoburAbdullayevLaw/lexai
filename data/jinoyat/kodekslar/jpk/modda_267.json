@@ -1,0 +1,42 @@
+﻿{
+  "n": 267,
+  "sarlavha_id": "-2057075",
+  "sarlavha": "267-modda. Shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi yoki ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish haqidagi iltimosnomani koʻrib chiqish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7355394",
+      "matn": "Shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi iltimosnoma surishtiruv yoki dastlabki tergov yuritilayotgan joydagi jinoyat ishlari boʻyicha tuman (shahar) sudining tergov sudyasi tomonidan, mazkur sudning sudyasi boʻlmagan yoxud tibbiy muassasaga joylashtirish toʻgʻrisidagi iltimosnomani koʻrib chiqishda uning ishtirokini istisno etuvchi holatlar mavjud boʻlgan taqdirda, Qoraqalpogʻiston Respublikasi sudi, viloyat, Toshkent shahar sudi raisining koʻrsatmasiga binoan boshqa tegishli sudning tergov sudyasi tomonidan yakka tartibda koʻrib chiqiladi."
+    },
+    {
+      "q": 2,
+      "id": "-2057077",
+      "matn": "Shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi iltimosnoma yopiq sud majlisida, materiallar kelib tushgan paytdan eʼtiboran qirq sakkiz soat ichida koʻrib chiqiladi."
+    },
+    {
+      "q": 3,
+      "id": "-3350653",
+      "matn": "Shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi iltimosnoma prokuror, himoyachi, shuningdek, agar ishda qatnashayotgan boʻlsa, oʻziga nisbatan ekspertiza oʻtkazish uchun tibbiy muassasaga joylashtirish masalasi koʻrib chiqilayotgan shaxslarning manfaatlarini ifodalovchi jabrlanuvchining vakili, guvohning advokati, qonuniy vakillar ishtirokida koʻrib chiqiladi. Tibbiy muassasaga joylashtirilayotgan shaxs, agar uning sogʻligʻi imkon bersa, sud majlisida qatnashishga haqli. Zarur hollarda surishtiruvchi yoki tergovchi sudga chaqirilishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-2057079",
+      "matn": "Sud majlisining joyi, sanasi va vaqti haqida lozim darajada xabardor qilingan shaxslarning kelmaganligi shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi iltimosnomani koʻrib chiqish uchun monelik qilmaydi."
+    },
+    {
+      "q": 5,
+      "id": "-2057080",
+      "matn": "Shaxsni tibbiy muassasaga joylashtirish toʻgʻrisidagi iltimosnomani koʻrib chiqish prokurorning maʼruzasi bilan boshlanadi, u mazkur protsessual majburlov chorasini qoʻllash zaruratini asoslab beradi. Soʻngra tibbiy muassasaga joylashtirilayotgan shaxs, agar u sud majlisida ishtirok etayotgan boʻlsa, himoyachi, sudda hozir boʻlgan boshqa shaxslar eshitiladi, taqdim qilingan materiallar tekshiriladi. Shundan keyin sudya ajrim chiqarish uchun alohida xonaga kiradi."
+    },
+    {
+      "q": 6,
+      "id": "-3350665",
+      "matn": "Ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish toʻgʻrisidagi iltimosnoma surishtiruv yoki dastlabki tergov yuritilayotgan joyda yoki tibbiy muassasa joylashgan yerda, ushbu moddada nazarda tutilgan tartibda koʻrib chiqiladi."
+    },
+    {
+      "q": 7,
+      "id": "-2057082",
+      "matn": "Ayblanuvchining tibbiy muassasada boʻlishi muddatini uzaytirish toʻgʻrisidagi iltimosnomani koʻrib chiqishda sud taqdim etilgan materiallarning asosliligini, shuningdek protsessual normalarga va talablarga rioya etilganligini hisobga oladi."
+    }
+  ]
+}

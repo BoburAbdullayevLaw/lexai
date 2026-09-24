@@ -1,0 +1,60 @@
+{
+  "n": 46,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184586",
+  "sarlavha": "46-modda. Axloq tuzatish ishlari",
+  "umumiy_sharh": [
+    "Axloq tuzatish ishlari — shaxsning ish haqidan 10-30% ushlab qolinib, mehnatga majburiy jalb qilish. Jamiyatdan ajratmasdan tarbiyaviy ta'sir ko'rsatish usuli.",
+    "Bu jazo asosiy jazo turi sifatida Maxsus qism sanksiyasida nazarda tutilganda qo'llaniladi. Shuningdek, jarimani almashtirish, 57-modda (yengilroq), 74-modda (almashtirish) tartibida ham tayinlanishi mumkin.",
+    "Ish haqidan ushlab qolish 10-30% miqdorida. Ushlab qolinadigan summa mahkum oilasining moddiy ahvoliga ta'sir qilmasligi kerak.",
+    "Jazo muddati 6 oydan 3 yilgacha. Muddat ko'rsatilmaganligi hukmning bekor qilinishiga asos bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184587",
+      "matn": "Axloq tuzatish ishlari shaxs ish haqining oʻn foizidan oʻttiz foizigacha miqdorini davlat daromadi hisobiga ushlab qolgan holda uni mehnatga majburan jalb qilishdan iborat boʻlib, jazo sudning hukmiga muvofiq mahkumning oʻz ish joyi yoki mazkur jazo ijrosini nazorat qiluvchi organlar belgilab beradigan boshqa joylarda oʻtaladi.",
+      "sharh": [
+        "Ish haqidan ushlab qolish: 10-30% miqdorida. Ish haqining pul va natura qismi hisobga olinadi. Nafaqa, ijtimoiy yordam, sug'urta to'lovlari ushlab qolinmaydi.",
+        "O'tash joyi: odatda ish joyida. Agar kasb bilan bog'liq jinoyat bo'lsa — boshqa joyda o'tash belgilanishi mumkin.",
+        "Oliy sud ko'rsatmasi: axloq tuzatish ishlari odatda ish joyida o'tash sharti bilan tayinlanishi lozim.",
+        "Ish haqining aniq qismini belgilashda mahkumning moddiy ahvoli, oila a'zolari, qaramog'idagilari hisobga olinadi.",
+        "Bir necha modda bo'yicha tayinlanganda, muddat va chegirma alohida, keyin majmu bo'yicha belgilanadi. Chegirma 46-modda chegarasidan oshmasligi kerak."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184588",
+      "matn": "Axloq tuzatish ishlari olti oydan uch yilgacha muddatga tayinlanadi.",
+      "sharh": [
+        "Muddati: 6 oydan 3 yilgacha. Sud hukmda muddatni albatta ko'rsatishi kerak — ko'rsatilmasa hukm bekor qilinadi.",
+        "Eng kam muddat (6 oy) dan pastroq tayinlash mumkin emas — bu qonuniy chegaradir.",
+        "Muddat mahkumning ishlagan va ish haqidan ushlab qolingan davri bo'yicha hisoblanadi.",
+        "Doimiy ish joyi bo'lmaganlarda jazo hukm chiqargan sud hududidagi IIO belgilab bergan joyda ijro etiladi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3035051",
+      "matn": "Axloq tuzatish ishlari pensiya yoshiga yetganlarga, mehnatga qobiliyatsizlarga, homilador ayollarga, uch yoshga toʻlmagan bolalari bor ayollarga va harbiy xizmatchilarga nisbatan qoʻllanilmaydi.",
+      "sharh": [
+        "Qo'llanilmaydigan toifa: nafaqachilar, nogironlar, homilador ayollar, 3 yoshgacha bolali ayollar, harbiylar.",
+        "Bu shaxslar mehnatga jalb etilishga yaroqsiz yoki maxsus himoyaga muhtoj hisoblanadi.",
+        "Jazo muddatida holat o'zgarsa (nafaqaga chiqdi, nogiron bo'ldi), sud almashtirish yoki ozod etish masalasini hal qilishi mumkin."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-7060772",
+      "matn": "Agar shaxs sud tomonidan tayinlangan axloq tuzatish ishlari muddatining jami oʻttiz kundan koʻprogʻini oʻtashdan uzrli sabablarsiz boʻyin tovlasa yoki Oʻzbekiston Respublikasidan tashqariga chiqib ketsa, sud axloq tuzatish ishlarining oʻtalmagan muddatini xuddi shu muddatga ozodlikni cheklash yoki ozodlikdan mahrum qilish tariqasidagi jazo bilan almashtiradi.",
+      "sharh": [
+        "Almashtirish sharti: 30 kundan ko'p (jami muddatning 1/10 dan ortiq) bo'yin tovlanganda yoki mamlakatdan chiqib ketganda.",
+        "Almashtirish nisbati: o'talmagan mudda = ozodlikni cheklash yoki mahrum etishning teng muddati.",
+        "Bo'yin tovlanilgan vaqt jazoning o'talgan muddatiga qo'shib hisoblanmaydi.",
+        "Almashtirish to'liq amalga oshirilishi kerak — qisman almashtirishga yo'l qo'ymaydi.",
+        "Jazoni almashtirish IIO taqdimnomasi yoki jamoat birlashmasi iltimosiga asosan JPK 539-moddasi tartibida amalga oshiriladi.",
+        "Mahkum sudga kelishdan bo'yin tovlasa, ish uning ishtirokisiz ham ko'rilishi mumkin."
+      ]
+    }
+  ]
+}

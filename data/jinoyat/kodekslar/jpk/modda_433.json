@@ -1,0 +1,17 @@
+﻿{
+  "n": 433,
+  "sarlavha_id": "-256404",
+  "sarlavha": "433-modda. Protsess ishtirokchilaridan birortasi kelmaganda jinoyat ishini koʻrish mumkinligi yoki mumkin emasligi masalasini hal qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256405",
+      "matn": "Sudga chaqirilgan protsess ishtirokchilaridan birortasi kelmagan taqdirda sud jinoyat ishini muhokama qilish mumkinligi yoki mumkin emasligi toʻgʻrisida taraflarning fikrini eshitadi va muhokamani davom ettirish yoki uni keyinga qoldirish toʻgʻrisida ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-256406",
+      "matn": "Muhokamani keyinga qoldirish toʻgʻrisida ajrim chiqarilgan taqdirda sud hozir boʻlgan guvohlar va ekspertni soʻroq qilishi mumkin. Basharti keyinchalik ish sudning yana oʻsha tarkibida yoki oʻsha sudya tomonidan koʻriladigan boʻlsa, protsessning mazkur ishtirokchilari sud majlisiga ikkinchi marta faqat zarurat tugʻilgan hollarda chaqirilishi mumkin."
+    }
+  ]
+}

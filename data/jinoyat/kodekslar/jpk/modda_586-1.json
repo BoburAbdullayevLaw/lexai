@@ -1,0 +1,51 @@
+{
+  "n": "586¹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305968",
+  "sarlavha": "586¹-modda. Aybga iqrorlik toʻgʻrisidagi kelishuv va uni tuzish shartlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5305969",
+      "matn": "Aybga iqrorlik toʻgʻrisidagi kelishuv jinoyat ishini yuritishni oʻziga nisbatan qoʻyilgan gumonga, ayblovga rozi boʻlgan, jinoyatning ochilishiga faol koʻmaklashgan va keltirilgan zararni bartaraf etgan gumon qilinuvchining yoki ayblanuvchining iltimosnomasiga asosan nazorat qiluvchi prokuror bilan ijtimoiy xavfi katta boʻlmagan, uncha ogʻir boʻlmagan va ogʻir jinoyatlar boʻyicha tuziladigan kelishuvdir."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5305970",
+      "matn": "Aybga iqrorlik toʻgʻrisidagi kelishuv quyidagi shartlar mavjud boʻlgan taqdirda tuziladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305971",
+          "matn": "gumon qilinuvchi, ayblanuvchi oʻz harakatlarining mohiyatini, shuningdek oʻzi bergan iltimosnomaning oqibatini anglab yetgan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305972",
+          "matn": "iltimosnoma ixtiyoriy ravishda va ishda ishtirok etayotgan himoyachi bilan maslahatlashuvlar oʻtkazilganidan keyin berilgan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5305973",
+          "matn": "gumon qilinuvchi, ayblanuvchi surishtiruv yoki tergov organi tomonidan qoʻyilgan gumonni yoxud ayblovni, ish boʻyicha mavjud boʻlgan dalillarni, shuningdek yetkazilgan zararning xususiyati va miqdorini inkor etmasa hamda uni bartaraf etgan boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5305974",
+      "matn": "Aybiga iqrorlik toʻgʻrisidagi kelishuv quyidagi hollarda tuzilishi mumkin emas, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305975",
+          "matn": "ushbu Kodeksning 61-bobida belgilangan tartibda tibbiy yoʻsindagi majburlov choralarini qoʻllash uchun asoslar mavjud boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305976",
+          "matn": "shaxs tomonidan bir nechta jinoyat sodir etilgan boʻlib, ulardan loaqal bittasi ushbu moddada belgilangan talablarga toʻgʻri kelmasa."
+        }
+      ]
+    }
+  ]
+}

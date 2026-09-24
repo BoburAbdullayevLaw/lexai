@@ -1,0 +1,34 @@
+﻿{
+  "n": 487,
+  "sarlavha_id": "-6626411",
+  "sarlavha": "487-modda. Hukmda, ajrimda bayon etilgan sud xulosalarining ishning haqiqiy holatlariga muvofiq emasligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6626413",
+      "matn": "Sud hukmi, ajrimi quyidagi hollarda jinoyat ishining haqiqiy holatlariga muvofiq emas deb eʼtirof etiladi, agar:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6626415",
+          "matn": "sud xulosalari sud majlisida koʻrilgan dalillar bilan tasdiqlanmagan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-6626417",
+          "matn": "sud oʻz xulosalariga jiddiy taʼsir qilishi mumkin boʻlgan holatlarni hisobga olmagan boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-6626419",
+          "matn": "ish uchun muhim ahamiyatga ega boʻlgan holatlarga nisbatan bir-biriga zid dalillar mavjud boʻlgani holda, sud qaysi sabablarga koʻra ushbu dalillarning ayrimlarini ishonarli deb topganligi va boshqalarini rad etganligi hukmda, ajrimda koʻrsatilmagan boʻlsa;"
+        },
+        {
+          "b": 4,
+          "id": "-6626421",
+          "matn": "hukmda, ajrimda bayon etilgan xulosalarda jiddiy ziddiyatlar mavjud boʻlib, ular sudlanuvchining aybliligi toʻgʻrisidagi masalani hal qilishga, Jinoyat kodeksi normalarining toʻgʻri qoʻllanilishiga yoki jazo chorasini belgilashga taʼsir koʻrsatgan boʻlsa yoki taʼsir koʻrsatishi mumkin boʻlsa."
+        }
+      ]
+    }
+  ]
+}

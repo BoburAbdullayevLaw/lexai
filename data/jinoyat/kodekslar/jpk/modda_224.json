@@ -1,0 +1,79 @@
+﻿{
+  "n": 224,
+  "sarlavha_id": "-4817016",
+  "sarlavha": "224-modda. Jinoyat ishi qoʻzgʻatilgunga qadar ushlab turish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4817038",
+      "matn": "Ichki ishlar organi xodimi, boshqa vakolatli shaxs ushlab turishning ushbu Kodeksning 221-moddasida koʻrsatilgan asoslaridan bittasi mavjudligini bevosita aniqlasa yoki boshqa shohidlarning soʻzlaridan aniqlasa:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-4817045",
+          "matn": "oʻzini tanishtirishi va ushlab turilgan shaxsning talabiga koʻra oʻz shaxsini tasdiqlovchi hujjatni koʻrsatishi;"
+        },
+        {
+          "b": 2,
+          "id": "-4817046",
+          "matn": "gumon qilinuvchiga u jinoyat sodir etishda gumon qilib ushlanganligini maʼlum qilishi;"
+        },
+        {
+          "b": 3,
+          "id": "-4817048",
+          "matn": "ushlab turilgan shaxsga advokatga yoki yaqin qarindoshiga telefon qilish yoki xabar berish, himoyachiga ega boʻlish, koʻrsatuvlar berishni rad etishga boʻlgan protsessual huquqlarini tushuntirishi;"
+        },
+        {
+          "b": 4,
+          "id": "-4817049",
+          "matn": "ushlab turilgan shaxsga u bergan koʻrsatuvlardan jinoyat ishiga doir dalillar sifatida uning oʻziga qarshi foydalanilishi mumkinligini bildirishi;"
+        },
+        {
+          "b": 5,
+          "id": "-4817051",
+          "matn": "ushlab turilgan shaxsdan yaqin oradagi ichki ishlar organiga yoki huquqni muhofaza qiluvchi boshqa organga birga borishini talab qilishi shart."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-4817053",
+      "matn": "Ushlanayotgan shaxsda qurol borligi yoki u jinoyat sodir etganligini fosh qiluvchi dalillardan qutulish niyatida ekanligini taxmin qilishga yetarli asoslar mavjud boʻlsa, ushlayotgan vakolatli shaxs uni shaxsiy tintuv yoki olib qoʻyishni amalga oshirishga haqlidir. Shaxsiy tintuv oʻtkazish yoki olib qoʻyish toʻgʻrisidagi bayonnoma ushlangan shaxs ichki ishlar organiga yoki huquqni muhofaza qiluvchi boshqa organga keltirilganidan soʻng xolislar hozirligida tuzilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-4817059",
+      "matn": "Ushbu moddaning birinchi va ikkinchi qismlarida nazarda tutilgan protsessual harakatlar videoyozuv orqali qayd etilishi shart."
+    },
+    {
+      "q": 4,
+      "id": "-4817080",
+      "matn": "Ushbu moddaning birinchi va ikkinchi qismlarida nazarda tutilgan protsessual harakatlarni bajarishni kechiktirib boʻlmaydigan hollarda, ularni videoyozuv orqali qayd etmasdan amalga oshirishga yoʻl qoʻyiladi. Mazkur qoida ichki ishlar organi yoki huquqni muhofaza qiluvchi boshqa organ binosida amalga oshiriladigan ushlab turishga nisbatan tatbiq etilmaydi."
+    },
+    {
+      "q": 5,
+      "id": "-4817082",
+      "matn": "Shaxsni ushlash videoyozuv orqali qayd etilmagan holda, ichki ishlar organi xodimi yoki boshqa vakolatli shaxs ushlab turilgan shaxs yaqin oradagi ichki ishlar organiga yoki huquqni muhofaza qiluvchi boshqa organga olib kelinganidan soʻng videoyozuvdan foydalangan holda uning protsessual huquqlarini tushuntirishi shart. Ushlab turilgan shaxsga videoyozuv uni namoyish qilish orqali tanishtiriladi."
+    },
+    {
+      "q": 6,
+      "id": "-4817083",
+      "matn": "Shaxsni yalangʻochlash bilan bogʻliq shaxsiy tintuvni videoyozuv orqali qayd etish taqiqlanadi."
+    },
+    {
+      "q": 7,
+      "id": "-4817084",
+      "matn": "Ushlab turish, shaxsiy tintuv qilish yoki olib qoʻyish bayonnomasiga protsessual harakatlar videoyozuv orqali qayd etilganligi haqida yozib qoʻyilib, videoyozuv materiallari bayonnomaga qoʻshib qoʻyiladi."
+    },
+    {
+      "q": 8,
+      "id": "-4817085",
+      "matn": "Agar ushlangan shaxs ish yuritilayotgan tilni bilmasa yoki yetarlicha bilmasa, gumon qilinuvchining huquqlari unga tarjimon ishtirokida birinchi soʻroqqa qadar tushuntirilib, bu haqda bayonnomaga yozib qoʻyiladi."
+    },
+    {
+      "q": 9,
+      "id": "-4817087",
+      "matn": "Vakolatli shaxslar va fuqarolar qonunga xilof yoki asossiz ushlab turganlik yoxud ushlash vaqtida vakolatlari doirasidan chetga chiqqanlik uchun qonunda belgilangan javobgarlikka tortiladi."
+    }
+  ]
+}

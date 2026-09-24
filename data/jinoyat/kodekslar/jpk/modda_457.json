@@ -1,0 +1,119 @@
+﻿{
+  "n": 457,
+  "sarlavha_id": "-256514",
+  "sarlavha": "457-modda. Hukm chiqarish vaqtida sud hal qiladigan masalalar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256515",
+      "matn": "Sud hukm chiqarish vaqtida alohida xonada (maslahatxonada) quyidagi masalalarni hal qiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-256516",
+          "matn": "sudlanuvchi aybli deb topilayotgan qilmish haqiqatan sodir etilganmi;"
+        },
+        {
+          "b": 2,
+          "id": "-256517",
+          "matn": "bu qilmish jinoyat deb hisoblanadimi va u Jinoyat kodeksining qaysi moddasida nazarda tutilgan;"
+        },
+        {
+          "b": 3,
+          "id": "-256518",
+          "matn": "bu qilmishni sudlanuvchi sodir etganmi;"
+        },
+        {
+          "b": 4,
+          "id": "-256519",
+          "matn": "sudlanuvchi jinoyat sodir etilishida ayblimi va, basharti aybli boʻlsa, uning aybi qanday shaklda;"
+        },
+        {
+          "b": 5,
+          "id": "-256520",
+          "matn": "sudlanuvchining javobgarligini yengillashtiradigan va ogʻirlashtiradigan holatlar bormi;"
+        },
+        {
+          "b": 6,
+          "id": "-256521",
+          "matn": "sudlanuvchi sodir etgan jinoyati uchun jazolanishi kerakmi;"
+        },
+        {
+          "b": 7,
+          "id": "-256522",
+          "matn": "sudlanuvchiga qanday jazo tayinlanishi lozim va u shu jazoni oʻtashi kerakmi;"
+        },
+        {
+          "b": 8,
+          "id": "-256523",
+          "matn": "sudlanuvchini Jinoyat kodeksining 34-moddasiga muvofiq oʻta xavfli retsidivist deb topish lozimmi;"
+        },
+        {
+          "b": 9,
+          "id": "-256524",
+          "matn": "ozodlikdan mahrum qilingan mahkum jazoni qanday tartibli koloniyada oʻtashi lozim va jazo muddatining bir qismini turmada oʻtashi kerakmi;"
+        },
+        {
+          "b": 10,
+          "id": "-256525",
+          "matn": "fuqaroviy daʼvo qanoatlantirilishi kerakmi, bu daʼvo kimning foydasiga va qancha miqdorda qanoatlantirilishi lozim, shuningdek fuqaroviy daʼvo qoʻzgʻatilmagan boʻlsa, jinoyat tufayli keltirilgan mulkiy zarar undirilishi kerakmi, sudlanuvchilar sheriklik yoki hissadorlik tartibida javobgarlikka tortilishlari lozimmi;"
+        },
+        {
+          "b": 11,
+          "id": "-260439",
+          "matn": "fuqaroviy daʼvoni taʼminlash uchun xatlangan mol-mulkni nima qilish kerak;"
+        },
+        {
+          "b": 12,
+          "id": "-7235317",
+          "matn": "ashyoviy, yozma va raqamli dalillarni nima qilish kerak;"
+        },
+        {
+          "b": 13,
+          "id": "-256528",
+          "matn": "protsess chiqimlarini kimning zimmasiga va qancha miqdorda yuklash kerak;"
+        },
+        {
+          "b": 14,
+          "id": "-256529",
+          "matn": "sudlanuvchiga nisbatan ehtiyot chorasini tanlash, ilgarigisini qoldirish, oʻzgartirish yoki bekor qilish kerakmi;"
+        },
+        {
+          "b": 15,
+          "id": "-256530",
+          "matn": "sudlanuvchiga nisbatan tibbiy yoʻsindagi majburlov choralarini qoʻllash yoxud uning ustidan homiylik belgilash zarurmi;"
+        },
+        {
+          "b": 16,
+          "id": "-2057426",
+          "matn": "sudlanuvchiga nisbatan lavozimidan chetlashtirish tarzidagi protsessual majburlov chorasini bekor qilish kerakmi;"
+        },
+        {
+          "b": 17,
+          "id": "-7693079",
+          "matn": "sudlanuvchiga nisbatan Oʻzbekiston Respublikasidan chiqish huquqini vaqtincha cheklash tarzidagi protsessual majburlov chorasini bekor qilish zarurmi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-256531",
+      "matn": "Sudlanuvchi bir necha jinoyatni sodir etganlikda ayblanayotgan boʻlsa, sud ushbu moddaning 1 — 8-bandlarida nazarda tutilgan masalalarni har bir jinoyat boʻyicha alohida-alohida hal qiladi."
+    },
+    {
+      "q": 3,
+      "id": "-256532",
+      "matn": "Jinoyatni sodir etishda bir necha sudlanuvchi ayblanayotgan boʻlsa, sud ushbu moddada koʻrsatilgan masalalarni har bir sudlanuvchiga nisbatan alohida-alohida hal qiladi."
+    },
+    {
+      "q": 4,
+      "id": "-256533",
+      "matn": "Ushbu moddaning 15-bandida nazarda tutilgan tibbiy yoʻsindagi majburlov choralari ekspertning tegishli xulosasi mavjud boʻlgandagina qoʻllanilishi mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-256534",
+      "matn": "Sud muhokamasi jarayonida ushbu Kodeks 533-moddasining birinchi qismi 1 — 4-bandlarida nazarda tutilgan holatlardan birortasi aniqlanib qolsa, sud hukmning ijrosini qonunda belgilangan tartibda kechiktirish masalasini muhokama qilishi shart."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "n": "72",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445705",
+  "sarlavha": "72-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445706",
+      "matn": "Davlat nodavlat notijorat tashkilotlarining huquqlari va qonuniy manfaatlariga rioya etilishini taʼminlaydi, ularga jamiyat hayotida ishtirok etish uchun teng huquqiy imkoniyatlar yaratadi."
+    },
+    {
+      "q": 2,
+      "id": "-6445707",
+      "matn": "Davlat organlari va mansabdor shaxslarning nodavlat notijorat tashkilotlari faoliyatiga aralashishiga, shuningdek nodavlat notijorat tashkilotlarining davlat organlari va mansabdor shaxslar faoliyatiga aralashishiga yoʻl qoʻyilmaydi."
+    }
+  ]
+}

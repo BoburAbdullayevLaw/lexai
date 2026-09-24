@@ -1,0 +1,44 @@
+{
+  "n": "405³",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305771",
+  "sarlavha": "405³-modda. Jinoyat ishi boʻyicha dastlabki eshituvni oʻtkazish uchun asoslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5305773",
+      "matn": "Ushbu moddaning ikkinchi qismida nazarda tutilgan asoslar mavjud boʻlgan taqdirda, sud taraflarning iltimosiga koʻra yoki oʻz tashabbusi bilan jinoyat ishi boʻyicha dastlabki eshituv oʻtkazadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5305776",
+      "matn": "Dastlabki eshituv quyidagilar uchun asoslar mavjud boʻlgan taqdirda oʻtkaziladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305778",
+          "matn": "jinoyat ishi boʻyicha ish yuritishni toʻxtatib turish;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305781",
+          "matn": "jinoyat ishi boʻyicha ish yuritishni tugatish;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5305782",
+          "matn": "jinoyat ishini ayblov dalolatnomasini, ayblov xulosasini yoki tibbiy yoʻsindagi majburlov chorasini qoʻllash toʻgʻrisidagi qarorni tasdiqlagan prokurorga yuborish;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-5305783",
+          "matn": "ushbu Kodeksda nazarda tutilgan hollarda jinoyat ishlarini birlashtirish;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-5305786",
+          "matn": "nomaqbul dalillarni ishdan chiqarib tashlash toʻgʻrisida taraflardan birining iltimosi mavjud boʻlsa, ushbu dalillarni chiqarib tashlash."
+        }
+      ]
+    }
+  ]
+}

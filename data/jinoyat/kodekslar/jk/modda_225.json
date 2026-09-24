@@ -1,0 +1,56 @@
+{
+  "n": 225,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-321458",
+  "sarlavha": "225-modda. Harbiy yoki muqobil xizmatdan boʻyin tovlash",
+  "umumiy_sharh": [
+    "O'zbekiston Respublikasi Konstitutsiyasiga ko'ra, Respublikani himoya qilish har bir fuqaroning burchidir. Fuqarolar qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tashga majburdirlar.",
+    "Harbiy xizmat – O'zbekiston Respublikasi fuqarolarining Qurolli Kuchlar safida umumiy harbiy majburiyatni bajarish borasidagi davlat xizmatining alohida turidir.",
+    "Qo'rib chiqilayotgan jinoyatning ijtimoiy xavfliligi shundaki, harbiy yoki muqobil xizmatdan bo'yin tovlash O'zbekiston Respublikasining davlat manfaatlariga, mudofaa qudratiga, Qurolli Kuchlarning lozim darajada to'ldirilishiga putur yetkazadi.",
+    "Muddatli harbiy xizmat – chaqirilish yoshidagi fuqarolarning oddiy askar va serjantlar tarkibi lavozimlarida, shuningdek, muqaddam harbiy xizmatni o'tamagan ofitserlarning qonun hujjatlarida belgilangan muddat mobaynida Qurolli Kuchlar safidagi majburiy xizmatidir.",
+    "Muqobil xizmat – fuqarolarning umumiy harbiy majburiyatni bajarishining chaqiruv bo'yicha harbiy xizmat o'rniga iqtisodiyot, ijtimoiy sohaning turli tarmoqlarida kam malaka talab etiladigan ishlarni bajarish bilan bog'liq alohida turidir.",
+    "Safarbarlik chaqiruvi rezervidagi harbiy xizmat – muddatli harbiy xizmatni o'tashga yaroqli hamda chaqirilish muddatini kechiktirish va chaqirilishdan ozod etilish huquqiga ega bo'lmagan, biroq Qurolli Kuchlar safiga navbatdagi muddatga chaqirilmagan shaxslarning rezerv safiga olinishi.",
+    "Rezervdagi xizmatni o'tash – haqiqiy harbiy xizmatni, shuningdek, safarbarlik chaqiruvi rezervidagi xizmatni o'tagan shaxslarning Qurolli Kuchlarning qo'shilmalari, qismlari va bo'linmalari safini to'ldirish maqsadida umumiy harbiy majburiyat asosida joriy etiladigan harbiy xizmat turidir.",
+    "Sharhlanayotgan jinoyatning obyekti harbiy xizmatga chaqiruv, safarbarlik chaqiruv rezerviga olinish, harbiy xizmatni o'tashning va rezervdagi xizmatni o'tashning belgilangan tartibi hisoblanadi.",
+    "Obyektiv tomondan jinoyat harbiy yoki muqobil xizmatga chaqiruvdan, safarbarlik chaqiruv rezervi safiga olinishdan yoki Qurolli Kuchlar rezervida xizmatni o'tashdan uzrli sabablarsiz bo'yin tovlashda ifodalanadi.",
+    "Uzrli sabablar sifatida kasallik, yaqin tug'ishgan vafot etishi, tabiiy to'siqlar va boshqalar tan olinadi.",
+    "Ma'muriy jazo qo'llanilganidan keyin bir yil davomida qilmish qayta sodir etilganda jinoiy javobgarlik kelib chiqadi (ma'muriy preyuditsiya).",
+    "Jinoyat chaqiruv muddati tayinlangan payt tamom bo'lgandan e'tiboran tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd shaklida ifodalanadi.",
+    "Jinoyat subyekti O'zbekiston Respublikasining fuqarosi, o'n sakkiz yoshga to'lgan, harbiy xizmatga chaqiruvdan ozod etilish huquqiga ega bo'lmagan erkak hisoblanadi.",
+    "2-qism a bandi – o'z badaniga shikast yetkazish orqali bo'yin tovlash kvalifikatsiya qilinadi.",
+    "2-qism b bandi – hujjatlarni qalbakilashtirish yoki boshqacha aldash yo'li bilan bo'yin tovlash kvalifikatsiya qilinadi.",
+    "3-qism obyektiv tomoni safarbarlik bo'yicha chaqiruvdan bo'yin tovlashda ifodalanadi.",
+    "Safarbarlikdan bo'yin tovlash uzrli sabablarsiz chaqirilish punktiga yetib kelmaslik yoki g'ayriqonuniy ravishda safarbarlikdan ozod bo'lishda ifodalanadi.",
+    "Jinoyat safarbarlikdan bo'yin tovlangan paytdan e'tiboran tugallangan hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-321462",
+      "matn": "Fuqarolarning muddatli harbiy xizmat yoki muqobil xizmatga chaqiruvdan, safarbarlik chaqiruvi rezervi xizmati safiga olinish yoxud xizmatni Oʻzbekiston Respublikasi Qurolli Kuchlari rezervida oʻtashdan uzrli sababsiz boʻyin tovlashi, shunday qilmish uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki uch yuz soatgacha majburiy jamoat ishlari yoxud ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-321468",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-321469",
+          "matn": "oʻz badaniga shikast yetkazish;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-321470",
+          "matn": "hujjatlarni qalbakilashtirish yoki boshqacha aldash yoʻli bilan sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravarigacha miqdorda jarima yoki uch yuz soatdan uch yuz oltmish soatgacha majburiy jamoat ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-321473",
+      "matn": "Fuqarolarning Oʻzbekiston Respublikasi Qurolli Kuchlariga safarbarlik boʻyicha chaqiruvdan boʻyin tovlashi — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

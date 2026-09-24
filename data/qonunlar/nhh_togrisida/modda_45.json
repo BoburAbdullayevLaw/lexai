@@ -1,0 +1,43 @@
+{
+  "n": "45",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381252",
+  "sarlavha": "45-modda. Normativ-huquqiy hujjatning amal qilishini toʻxtatib turish va tugatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381253",
+      "matn": "Normativ-huquqiy hujjatning yoki uning bir qismining amal qilishi uni qabul qilgan organ yoxud uning yuqori turuvchi organi tomonidan muayyan muddatga yoki muayyan hodisa yuz berguniga qadar toʻxtatib turilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-5381255",
+      "matn": "Normativ-huquqiy hujjat yoki uning bir qismi quyidagi hollarda oʻzining amal qilishini tugatadi:"
+    },
+    {
+      "q": 3,
+      "id": "-5381256",
+      "matn": "normativ-huquqiy hujjat yoki uning bir qismi qaysi muddat yoki hodisa yuz berishi uchun moʻljallangan boʻlsa, oʻsha muddat tugaganida yoki hodisa yuz berganida;"
+    },
+    {
+      "q": 4,
+      "id": "-5381258",
+      "matn": "normativ-huquqiy hujjat yoki uning bir qismi qonunda belgilangan tartibda Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiq emas yoxud haqiqiy emas deb topilganda;"
+    },
+    {
+      "q": 5,
+      "id": "-5381260",
+      "matn": "normativ-huquqiy hujjat yoki uning bir qismi oʻz kuchini yoʻqotgan deb topilganda;"
+    },
+    {
+      "q": 6,
+      "id": "-5381261",
+      "matn": "normativ-huquqiy hujjat yoki uning bir qismi bekor qilinganda."
+    },
+    {
+      "q": 7,
+      "id": "-6688717",
+      "matn": "Oʻzbekiston Respublikasi Prezidenti favqulodda holat joriy etilgan hududda amalda boʻlgan Oʻzbekiston Respublikasi Prezidenti farmonlari va qarorlarining, Oʻzbekiston Respublikasi Vazirlar Mahkamasi qarorlarining, vazirliklar hamda idoralar buyruqlari va qarorlarining, shuningdek mahalliy davlat hokimiyati organlari qarorlarining amal qilishini ushbu hujjatlar Oʻzbekiston Respublikasi Prezidentining favqulodda holat joriy etish toʻgʻrisidagi farmoniga zid boʻlgan taqdirda, favqulodda holatning amal qilish muddatida toʻxtatib turishga haqli."
+    }
+  ]
+}

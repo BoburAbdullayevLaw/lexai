@@ -1,0 +1,77 @@
+{
+  "n": 28,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179941",
+  "sarlavha": "28-modda. Jinoyat ishtirokchilarining turlari",
+  "umumiy_sharh": [
+    "Jinoyat ishtirokchilarini turlarga bo'lishda ulardan har birining birgalikda sodir etadigan qilmishidagi funksional roli asos qilib olingan. Ishtirokchilar: bajaruvchi, tashkilotchi, dalolatchi va yordamchi.",
+    "Ishtirokchilikning asosiy mezonlari: jinoyatda ikki yoki undan ortiq shaxsning ishtiroki, guruh a'zolarining birgalikda harakat qilishi, jinoyatning qasddan sodir etilishi. Har bir ishtirokchi jinoyati tarkibining obyektiv tomonini tashkil etuvchi harakatlarni amalga oshirish fe'atlaviy roli bo'yicha farqlanadi.",
+    "Ishtirokchilikning obyektiv belgilari: birgalikda jinoiy harakatlarni sodir etish, umumiy yagona jinoiy natija, qilmish bilan oqibat o'rtasidagi sababiy aloqa. Subyektiv belgilari: ishtirokchilarning o'zaro xabardorligi, birgalashib qilish niyati.",
+    "Ishtirokchilikda sodir etilgan jinoyatlarda bajaruvchi asosiy figura sifatida chiqadi. Bajaruvchi faqat boshqa ishtirokchilar (tashkilotchi, dalolatchi, yordamchi) bilan birgalikda harakat qilgandagina mavjud bo'ladi.",
+    "Jinoyatning tashkilotchisi ishtirokchilar ichida eng xavfli shaxsdir. U jinoyat rejasini ishlab chiqadi, ishtirokchilarni tanlaydi, vazifalarni taqsimlaydi, yo'l-yo'riqlar ko'rsatadi.",
+    "Dalolatchi — jinoyat sodir etishga qiziqtiruvchi shaxs. U bajaruvchida jinoyat sodir etish istagini uyg'otadi va bu istakni so'ndirmaslikka harakat qiladi.",
+    "Yordamchi — jinoyat sodir etilishiga o'z maslahatlari, ko'rsatmalari bilan, vositalar berish yoki to'siqlarni yo'qotish bilan ko'maklashgan shaxs. Yordamchilik jismoniy yoki ruhiy (aqliy) bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179942",
+      "matn": "Jinoyatni bajaruvchi bilan bir qatorda tashkilotchi, dalolatchi va yordamchilar ham jinoyat ishtirokchilari deb topiladi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179943",
+      "matn": "Jinoyatni bevosita toʻla yoki qisman sodir etgan yoxud ushbu Kodeksga muvofiq javobgarlikka tortilishi mumkin boʻlmagan shaxslardan yoki boshqa vositalardan foydalanib, jinoyat sodir etgan shaxs bajaruvchi deb topiladi.",
+      "sharh": [
+        "Bajaruvchining qonunda belgilangan belgilari: jinoiy qilmishning to'liq yoki qisman amalga oshirilishi, jinoyatning bevosita bajaruvchi tomonidan sodir etilishi.",
+        "Jinoyatni to'la sodir etish — Maxsus qism moddasi dispozitsiyasida ko'rsatilgan qilmish obyektiv tomonining to'liq sodir etilishi. Qisman sodir etish — qilmish bajaruvchiga bog'liq bo'lmagan holda tamom bo'lmagan holda.",
+        "Jinoyatning bevosita bajaruvchi tomonidan sodir etilishi — bajaruvchi shaxs tomonidan Maxsus qismida ko'rsatilgan jinoyatning sodir etilganligi yoki sodir etilishini anglatadi.",
+        "Bajaruvchi o'zining boshqa ishtirokchilar bilan birgalikda sodir etayotgan qilmishining ijtimoiy xavfliligini anglaydi, umumiy yagona oqibatning kelib chiqishi va muqarrarligiga ko'zi yetadi.",
+        "Jinoyat boshqa shaxslar yoki vositalardan foydalanish orqali ham sodir etilishi mumkin. Bunda javobgarlik bevosita boshqaruvchi shaxsga yuklatiladi.",
+        "Birgalikdagi bajaruvchilik — jinoyatning obyektiv tomonini bir necha shaxs amalga oshirganda, ularning har biriga jinoiy faoliyatning faqat bir qismigina to'g'ri keladi.",
+        "Jinoyatning bajaruvchisi muayyan jinoyat subyektini tavsiflovchi belgilarga ega bo'lgan shaxsgina bo'lishi mumkin (muayyan yoshga to'lganlik, aqli rasolik, maxsus belgilar)."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-179944",
+      "matn": "Jinoyatga tayyorgarlik koʻrilishiga yoki jinoyat sodir etilishiga rahbarlik qilgan shaxs tashkilotchi deb topiladi.",
+      "sharh": [
+        "Tashkilotchi jinoyat ishtirokchilari ichida eng xavfli shaxsdir. U jinoyat rahbari bo'lib, ishtirokchilarni birlashtirishga, jinoiy niyatni amalga oshirishga intiladi.",
+        "Tashkilotchilikning ikki turi: jinoyatga tayyorgarlik ko'rilishiga tashkilotchilik va jinoyat sodir etilishiga tashkilotchilik.",
+        "Tashkilotchi har doim jinoyat sodir etish tashabbuskori bo'ladi. Jinoyat sodir etish g'oyasi va undan so'nggi harakatlarni rejalashtirish unga tegishlidir.",
+        "Tashkilotchi ishtirokchilarni izlab topadi, ularni birlashtiradi, jinoyat sodir etish rejasini ishlab chiqadi, ishtirokchilar o'rtasida vazifalarni taqsimlaydi.",
+        "Tashkilotchi har doim to'g'ri qasd bilan harakat qiladi. U ishtirokchilar tomonidan sodir etilishi lozim bo'lgan harakatlar fe'l-atvorini anglaydi va jinoyat sodir etilishini xohlaydi.",
+        "Agar tashkilotchi jinoyatga tayyorgarlik ko'rish va sodir etishga rahbarlik qilgan bo'lsa-da, o'zi jinoyatning obyektiv tomonini bajarishda bevosita ishtirok etmasa, uning harakati 28-moddaning 3-qismi bilan kvalifikatsiya qilinadi."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-179945",
+      "matn": "Jinoyat sodir etilishiga qiziqtiruvchi shaxs dalolatchi deb topiladi.",
+      "sharh": [
+        "Dalolatchi — jinoyat sodir etishga qat'iyat uyg'otgan shaxs. U bajaruvchida jinoyat sodir etish istagini uyg'otadi va bu istakni so'ndirmaslikka harakat qiladi.",
+        "Dalolat aniq bir obyekt yoki shaxslarga nisbatan qaratilgan bo'lishi kerak. Umumiy yoki noaniq shaxslar guruhini dalolat qilish dalolatchilik hisoblanmaydi.",
+        "Dalolatchilik vosita va shakllarining to'la ro'yxatini mustahkamlab qo'yish mumkin emas. Bu yerda dalolatchi qanday vosita ishlatgani emas, balki bu vositalar qanchalik samara bergani muhim.",
+        "Dalolatchilik og'dirib olish, iltimos qilish, ishontirish, undirish, buyruq berish, zo'rlik ishlatish, aldash va boshqa yo'llar bilan amalga oshirilishi mumkin.",
+        "Ishontirish — dalolatchi tomonidan jinoyat sodir etish motivi bo'lib keladigan holatlarni bajaruvchiga xabar qilishdan iborat. Dalolatchi tashqi tomondan jinoyatga aloqasi bo'lmagandek ko'rinsa-da, uning manfaatlari bajaruvchi manfaatlariga mos keladi.",
+        "Dalolatchilikning subyektiv tomoni: dalolatchi qanday harakat sodir etishidan qat'i nazar, bajaruvchida jinoyat sodir etish istagini uyg'otishga va bu istakni so'ndirmaslikka harakat qilishda ifodalanadi.",
+        "Dalolatchi ishtirokchi-bajaruvchi tomonidan sodir etilgan jinoyatning obyektiv tomonini tashkil etuvchi harakatlarni amalga oshirishda bevosita ishtirok etmaydi. Dalolatning jinoyat uchun javobgarlik belgisi — 28-moddaning 4-qismi."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-179946",
+      "matn": "Jinoyat sodir etilishiga oʻz maslahatlari, koʻrsatmalari bilan, vositalar berish yoki toʻsiqlarni yoʻqotish bilan koʻmaklashgan, shuningdek jinoyatchini, jinoyat sodir etish quroli, izlari va vositalarini yoxud jinoiy yoʻl bilan qoʻlga kiritilgan narsalarni yashirishga, shuningdek bunday narsalarni olish va oʻtkazish toʻgʻrisida oldindan vaʼda bergan shaxs yordamchi deb topiladi.",
+      "sharh": [
+        "Yordamchi dalolatchidan shunisi bilan farq qiladiki, u o'zining harakati bilan jinoyatda ishtirokchi-bajaruvchida jinoyat sodir etish istagini vujudga keltirmaydi, bu holat yordamchilikni amalga oshirgunga qadar vujudga keladi.",
+        "Yordamchilikning ikki turi: jismoniy va ruhiy (aqliy). Ruhiy yordamchilik: maslahatlar va ko'rsatmalar bilan ko'maklashish, jinoyatchini yashirishga oldindan va'da berish, jinoiy yo'l bilan topilgan buyumlarni olishga va'da berish.",
+        "Jismoniy yordamchilik: jinoyat sodir etish uchun bajaruvchiga zarur vositalarni yetkazib berish, jinoyatga qo'yilgan to'siqlarni olib tashlash.",
+        "Maslahat va ko'rsatmalar dalolatchilikning vositalaridir. Maslahat yordamchi vositasi sifatida, agar u mavjud jinoyat sodir etish niyatini mustahkamlashga qaratilgan bo'lsa, yordamchilik hisoblanadi.",
+        "Yordamchilik faqat aniq bir shaxs yoki guruhga ko'maklashishdan iborat bo'lgan harakatdir. Subyektiv tomondan yordamchi birgalikda sodir etilayotgan jinoyatning faktik holatlarini anglaydi.",
+        "Yordamchilikning obyektiv belgilari: yordamchining xatti-harakatlari bajaruvchi qilmishi bilan sababiy bog'liqlikda bo'lishi lozim. Yordamchilik faol harakat yoki harakatsizlik orqali amalga oshirilishi mumkin.",
+        "Yordamchilik jinoyat sodir etayotgan aniq bir shaxs yoki guruhga ko'maklashishdan iborat. Yordamchi kelib chiqadigan jinoiy oqibatni oldindan ko'ra bilib, uning yuz berishini istaydi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "n": 498,
+  "sarlavha_id": "-6627243",
+  "sarlavha": "498-modda. Kassatsiya tartibida qayta koʻrilishi mumkin boʻlgan sud hukmlari, ajrimlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627245",
+      "matn": "Birinchi instansiya sudining hukmlari, ajrimlari, agar ular apellyatsiya tartibida koʻrilmagan boʻlsa, kassatsiya tartibida qayta koʻrilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-6627247",
+      "matn": "Birinchi instansiya sudining sud muhokamasi davomida chiqarilgan ajrimlari ustidan hukm bilan bir vaqtda kassatsiya tartibida shikoyat berilishi va protest bildirilishi mumkin."
+    }
+  ]
+}

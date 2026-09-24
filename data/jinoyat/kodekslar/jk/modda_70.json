@@ -1,0 +1,29 @@
+{
+  "n": 70,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195165",
+  "sarlavha": "70-modda. Shaxsning ijtimoiy xavflilik xususiyatini yoʻqotishi munosabati bilan uni jazodan ozod qilish",
+  "umumiy_sharh": [
+    "Ikkita mustaqil asos: 1) sharoit o'zgarishi; 2) shaxsning ijtimoiy xavfliligini yo'qotishi.",
+    "Bittasi yetarli — ikkalasi ham shart emas.",
+    "Sudning huquqi, majburiyati emas.",
+    "Shartsiz ozod qilish — keyingi xulqqa talab yo'q."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195166",
+      "matn": "Jinoyat sodir etgan shaxs agar ish sudda koʻrilayotgan vaqtgacha sharoit oʻzgardi yoki shaxs namunali xulqi, mehnatga yoki oʻqishga halol munosabati bilan oʻzini koʻrsatib, ijtimoiy xavfliligini yoʻqotdi deb eʼtirof etilsa, sud uni jazodan ozod qilishi mumkin.",
+      "sharh": [
+        "Asos 1: sharoitning o'zgarishi — obyektiv, irodaga bog'liq emas (siyosiy, iqtisodiy, tashkiliy).",
+        "Asos 2: ijtimoiy xavflilikning yo'qolishi — namunali xulq, mehnat/o'qishga halol munosabat.",
+        "Namunali xulq: huquqqa rioya, tartib buzmaslik, giyohvandlik qilmaslik, zararni qoplash.",
+        "Mehnatga halol: vazifalarni lozim darajada bajarish, intizom, ijtimoiy foydali harakat.",
+        "O'qishga halol: soatlarni to'liq o'zlashtirish, tartib, namunali xulq.",
+        "Nisbatan uzoq vaqt kuzatilishi kerak — bir kunlik emas.",
+        "Sud tavsif qismida asoslantirishi, qaror qismida jazosiz aybdor deb ko'rsatishi shart.",
+        "Shartsiz — ozod qilingan shaxs sudlangan hisoblanmaydi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "n": "278-2",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1300046",
+  "sarlavha": "278²-modda. Kompyuter axborotidan qonunga xilof ravishda (ruxsatsiz) foydalanish",
+  "umumiy_sharh": [
+    "Kompyuter axborotidan qonunga xilof ravishda (ruxsatsiz) foydalanishning bevosita obyekti kompyuter axboroti xavfsizligini va EHM, ularning tizimlari yoki tarmog'i normal ishlashini ta'minlashga doir munosabatlardir.",
+    "Jinoyatning predmeti kompyuter axboroti, ya'ni axborot-hisoblash tizimlari, tarmoqlari va ularning tarkibiy qismlaridagi axborotlardir.",
+    "Axborot-hisoblash tizimlari, tarmoqlari va ularning tarkibiy qismlaridagi axborotlar – ichki va tashqi jamg'argichlar, kompyuter xotirasi, periferiya qurilmalari xotirasidagi axborot hamda aloqa kanallari orqali o'tuvchi axborotlardir.",
+    "Obyektiv tomondan axborotning yo'q qilib yuborilishi, to'sib qo'yilishi, modifikatsiyalashtirilishi, undan nusxa ko'chirilishi yoxud uning qo'lga kiritilishiga, EHM, EHM tizimi yoki ularning tarmoqlari ishining buzilishiga sabab bo'lgan kompyuter axborotidan qonunga xilof ravishda (ruxsatsiz) foydalanish bilan tavsiflanadi.",
+    "Kompyuter axborotidan foydalanish deganda, unga kirishning har qanday shakli, tarmoqdagi, tizimdagi yoki mashina manbalaridagi ma'lumotlar bilan shaxsning tanishishi tushuniladi.",
+    "Kompyuter axborotidan qonuniy (ruxsat bilan) foydalanish axborot tizimi mulkdori yoki qonuniy egasi tomonidan ruxsat etilgan foydalanuvchining mashina manbai, EHM, EHM tizimi yoki tarmog'idagi axborot bilan tanishishidir.",
+    "Kompyuter ma'lumotlariga g'ayriqonuniy (ruxsatsiz) kirish bu ma'lumotga egasi yoki boshqa qonuniy foydalanuvchisining ruxsatisiz kirish, shu jumladan, ular bilan tanishishdir.",
+    "Kompyuter axborotidan qonunga xilof ravishda (ruxsatsiz) foydalanish deb, mashina manbalaridagi yoki EHMdagi ma'lumotlar bilan shaxsning tegishli huquqsiz, ya'ni axborot mulkdori (egasi)ning ruxsatisiz yoki bunday ruxsat mavjud bo'lganda, tizimda belgilangan ruxsatni tartibga solish qoidalarini buzib tanishishi e'tirof etilishi lozim.",
+    "Kompyuter axborotidan qonunga xilof ravishda (ruxsatsiz) foydalanish doim aybdor tomonidan faol harakatlar bilan sodir etiladi. Bu jinoyat harakatsizlik yo'li bilan sodir etilishi mumkin emas.",
+    "Mazkur jinoyatni sodir etish vositasi sifatida kompyuter texnikasi, ya'ni har xil turdagi EHM, apparat vositalari, periferiya qurilmalari, shuningdek, aloqa liniyalari amal qiladi.",
+    "Kompyuter axborotidan qonunga xilof ravishda (ruxsatsiz) foydalanish natijasida shaxs, avvalo, bu axborot bilan tanishish imkoniyatini qo'lga kiritadi. Bunday tanishish o'zga qasddan jinoyatni, masalan, josuslik yoki tovlamachilikni sodir etishga tayyorgarlik ko'rish yoki suiqasd qilish sifatida kvalifikatsiya qilinishi mumkin.",
+    "Axborotning yo'q qilib yuborilishi deganda, axborotning mashina manbalaridan to'liq yoki qisman chiqarib (o'chirib) tashlanishi tushuniladi. Axborotni yo'q qilish uni qayta tiklanishi mumkin bo'lmagan holatga keltirish yoki uni tiklash imkoniyati saqlanib qolib uni o'chirishdir.",
+    "Axborotning to'sib qo'yilishi mazkur axborot saqlanib qolgani holda mulkdor yoki qonuniy foydalanuvchi undan bevosita vazifasiga ko'ra vaqtinchalik yoki doimiy ravishda foydalana olmasligidir.",
+    "Axborotning modifikatsiyalashtirilishi texnika vositalari bilan ishlov berish chog'ida uning dastlabki mazmuni yoki manbalardagi hajmi ruxsatsiz o'zgartirilishida aks etadi.",
+    "Nusxa ko'chirish tegishli axborotni yoki uning bir qismini bir moddiy jismdan boshqa moddiy jismga asl nusxasiga shikast yetkazmasdan o'tkazishni anglatadi.",
+    "Axborotning qo'lga kiritilishi keng tarqatish uchun mo'ljallanmagan axborotni qasddan ruxsatsiz egallab olishdir.",
+    "EHM, EHM tizimi yoki ularning tarmoqlari ishining buzilishi EHM yoki uning qurilmalari bilan nostandart vaziyat yuzaga kelishidan iborat bo'lib, bunda ularning normal faoliyat ko'rsatishiga xalaqitlar yaratiladi, lekin moddiy yaxlitligiga daxl etilmaydi.",
+    "Subyektiv tomondan qasddan, ya'ni to'g'ri yoki egri qasd bilan sodir etiladi. Aybdor kompyuter axborotidan bu axborot mulkdori (egasi)ning ruxsatisiz yoki ruxsat bilan foydalanishning belgilangan tartibini buzib foydalanayotganini anglaydi.",
+    "Subyekti 16 yoshga to'lgan har qanday aqli raso jismoniy shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1300048",
+      "matn": "Kompyuter axborotidan, yaʼni axborot-hisoblash tizimlari, tarmoqlari va ularning tarkibiy qismlaridagi axborotlardan qonunga xilof ravishda (ruxsatsiz) foydalanish, agar ushbu harakat axborotning yoʻq qilib yuborilishi, toʻsib qoʻyilishi, modifikatsiyalashtirilishi, undan nusxa koʻchirilishi yoxud uning qoʻlga kiritilishiga, elektron hisoblash mashinalari, elektron hisoblash mashinalari tizimi yoki ularning tarmoqlari ishining buzilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining yuz baravarigacha miqdorda jarima yoki uch yilgacha muayyan huquqdan mahrum qilish yoxud bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1300051",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1300052",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;",
+          "sharh": [
+            "Jinoyat 2-qism 'a' bandi bo'yicha kvalifikatsiya qilinishi uchun jinoyat sodir etgan shaxslar uni birgalikda sodir etish haqida oldindan kelishgan bo'lishlari lozim. Misol uchun, jinoiy guruhning bir ishtirokchisi muhofaza tizimini buzib kirishi va shu tariqa kompyuter axborotidan foydalanish uchun bevosita imkoniyat yaratishi, guruhning boshqa ishtirokchisi esa, bu axborot bilan ijtimoiy xavfli oqibatlar yuz berishiga sabab bo'lgan tegishli manipulyatsiyalarni bajarishi mumkin."
+          ]
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1300053",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-1300054",
+          "matn": "xizmat mavqeyidan foydalangan holda;",
+          "sharh": [
+            "Xizmat mavqeidan foydalanish deganda, mehnat yoki fuqarolik-huquqiy shartnomasiga binoan bajaruvchi ishiga ko'ra kompyuter axborotidan foydalanish huquqiga ega bo'lgan shaxsning kompyuter axborotidan qonunga xilof ravishda (ruxsatsiz) foydalanishini yoki o'z xizmat mavqeiga ko'ra bunday foydalanish huquqiga ega bo'lgan boshqa shaxslarga ta'sir o'tkazishini tushunish lozim.",
+            "Shaxs o'z xizmat mavqeidan foydalanar ekan, xizmat bo'yicha o'ziga berilgan huquqlar va burchlardan amalda foydalanadi, lekin bu huquqlar va burchlarni amalga oshirish tartibini buzadi.",
+            "Kompyuter tizimidan foydalanuvchi tashkilotlarning xodimlari ham, nazorat qiluvchi tashkilotlarning xodimlari ham ushbu band bo'yicha jinoyatning subyekti bo'lishi mumkin. Agar subyekt mansabdor shaxs bo'lsa, qilmish jinoyatlar jami tariqasida JK 278² va 205 yoki 206-moddalar bilan kvalifikatsiya qilinishi mumkin."
+          ]
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-1300055",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan uch yuz baravarigacha miqdorda jarima yoki bir yildan ikki yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

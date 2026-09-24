@@ -1,0 +1,22 @@
+﻿{
+  "n": 201,
+  "sarlavha_id": "-3092996",
+  "sarlavha": "201-modda. Surishtiruvchi, tergovchi, prokuror yoki sudning talabiga koʻra hujjatlarni taqdim qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3092997",
+      "matn": "Korxonalar, muassasalar, tashkilotlarning rahbarlari va boshqa mansabdor shaxslari surishtiruvchi, tergovchi, prokuror yoki sudning talabiga koʻra oʻz ixtiyoridagi hujjatlarni yoki oʻzlaridagi mavjud maʼlumotlar asosida maxsus tuzilgan hujjatlarni taqdim qilishlari shart."
+    },
+    {
+      "q": 2,
+      "id": "-3092998",
+      "matn": "Korxonalar, muassasalar, tashkilotlarning rahbarlari va boshqa mansabdor shaxslari surishtiruvchi, tergovchi, prokuror yoki sudning talabiga koʻra oʻz vakolatlari doirasida taftish yoki boshqa xizmat tekshiruvi oʻtkazishlari va taftish yoki tekshiruv natijalari toʻgʻrisidagi dalolatnomani barcha ilovalari bilan birga belgilangan muddatda taqdim qilishlari shart."
+    },
+    {
+      "q": 3,
+      "id": "-3092999",
+      "matn": "Surishtiruvchi, tergovchi, prokuror yoki sud taftish yoki tekshiruv natijalari toʻgʻrisidagi dalolatnomada yoxud boshqa hujjatda belgilangan qoidalardan chekinishlar, nuqsonlar, ziddiyatlar va boshqa kamchiliklarni aniqlagan taqdirda, hujjatdagi qayd etilgan xatolar bartaraf etilishini talab qilishga haqli."
+    }
+  ]
+}

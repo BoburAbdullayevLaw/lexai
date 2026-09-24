@@ -1,0 +1,32 @@
+﻿{
+  "n": 276,
+  "sarlavha_id": "-255028",
+  "sarlavha": "276-modda. Fuqaroviy daʼvoni qoʻzgʻatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255029",
+      "matn": "Jinoyat tufayli yoki aqli noraso shaxsning ijtimoiy xavfli qilmishi natijasida oʻzini mulkiy ziyon koʻrgan deb hisoblovchi shaxs yoxud uning vakili jinoyat ishi qoʻzgʻatilgan paytdan boshlab to sud tergovi boshlangunga qadar fuqaroviy daʼvo qoʻzgʻatishga haqlidir."
+    },
+    {
+      "q": 2,
+      "id": "-255030",
+      "matn": "Jinoyat sodir etish yoki aqli noraso shaxsning ijtimoiy xavfli qilmishi natijasida mol-mulki yoʻqolgan yoki shikastlangan shaxs vafot etgan taqdirda uning merosxoʻrlari jinoyat protsessida fuqaroviy daʼvo qoʻzgʻatish va uni quvvatlash huquqiga ega boʻladi."
+    },
+    {
+      "q": 3,
+      "id": "-255031",
+      "matn": "Fuqaroviy daʼvo yozma shaklda ham, ogʻzaki shaklda ham qoʻzgʻatilishi mumkin. Ogʻzaki daʼvo arizasi bayonnomaga yozib qoʻyiladi."
+    },
+    {
+      "q": 4,
+      "id": "-255032",
+      "matn": "Jinoyat protsessida fuqaroviy daʼvo qoʻzgʻatish, uni koʻrib chiqish va hal qilish uchun davlat boji undirilmaydi."
+    },
+    {
+      "q": 5,
+      "id": "-255033",
+      "matn": "Jinoyat protsessida fuqaroviy daʼvo qoʻzgʻatmagan shaxs, shuningdek daʼvosi koʻrilmasdan qoldirilgan shaxs uni fuqaroviy sud ishlarini yuritish tartibida qoʻzgʻatishga haqlidir."
+    }
+  ]
+}

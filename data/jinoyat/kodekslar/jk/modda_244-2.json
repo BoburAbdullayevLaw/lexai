@@ -1,0 +1,35 @@
+{
+  "n": "244-2",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-325976",
+  "sarlavha": "244²-modda. Diniy ekstremistik, separatistik, fundamentalistik yoki boshqa taqiqlangan tashkilotlar tuzish, ularga rahbarlik qilish, ularda ishtirok etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-325978",
+      "matn": "Diniy ekstremistik, separatistik, fundamentalistik yoki boshqa taqiqlangan tashkilotlar tuzish, ularga rahbarlik qilish, ularda ishtirok etish — besh yildan oʻn besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2966067",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-2966068",
+          "matn": "ogʻir oqibatlar kelib chiqishiga sabab boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-2966069",
+          "matn": "voyaga yetmagan shaxsni jalb etgan holda sodir etilgan boʻlsa, — oʻn besh yildan yigirma yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-325988",
+      "matn": "Basharti shaxs taqiqlangan tashkilotlar mavjudligi toʻgʻrisida oʻz ixtiyori bilan xabar qilgan va jinoyatni ochishga yordam bergan boʻlsa, u ushbu moddaning birinchi qismida nazarda tutilgan jinoyat uchun javobgarlikdan ozod qilinadi."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+﻿{
+  "n": 173,
+  "sarlavha_id": "-254261",
+  "sarlavha": "173-modda. Ekspertiza tayinlash va oʻtkazishning shartligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254262",
+      "matn": "Basharti, ish boʻyicha:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-254263",
+          "matn": "oʻlimning sababini, yetkazilgan tan jarohatlarining xususiyati va ogʻirlik darajasini;"
+        },
+        {
+          "b": 2,
+          "id": "-254264",
+          "matn": "jinsiy aloqada boʻlganlikni, homiladorlik holatini va homilani sunʼiy yoʻl bilan tushirish belgilarini;"
+        },
+        {
+          "b": 3,
+          "id": "-254265",
+          "matn": "gumon qilinuvchi, ayblanuvchi, sudlanuvchi, jabrlanuvchining yoshini, agar bu haqda hujjatlar boʻlmasa yoki hujjatlar shubha tugʻdirsa;"
+        },
+        {
+          "b": 4,
+          "id": "-254266",
+          "matn": "gumon qilinuvchi, ayblanuvchi, sudlanuvchining, ustidan tibbiy yoʻsindagi majburlov choralarini qoʻllashga doir ish yuritilayotgan shaxsning ruhiy va jismoniy ahvolini hamda ularning gʻayrihuquqiy qilmishni sodir etayotgan paytda oʻz harakatlarini idrok etish va idora qilish layoqatini, shuningdek jinoiy javobgarlikning ahamiyatini tushunish, jinoyat protsessida koʻrsatuvlar berish hamda oʻz huquqlari va qonuniy manfaatlarini mustaqil himoya qila olish layoqatini;"
+        },
+        {
+          "b": 5,
+          "id": "-254267",
+          "matn": "jabrlanuvchining, guvohning ruhiy va jismoniy holatini hamda ular ish uchun ahamiyatli boʻlgan holatlarni idrok qilish, esda saqlash va soʻroq qilganda ifodalab berish layoqatiga ega ekanliklarini, shuningdek jabrlanuvchining jinoyat protsessi chogʻida oʻz huquqlari va qonuniy manfaatlarini mustaqil himoya qila olish layoqatini;"
+        },
+        {
+          "b": 6,
+          "id": "-254268",
+          "matn": "tanosil va boshqa yuqumli kasalliklarga chalingan, surunkali ichkilikbozlikka va giyohvandlikka duchor boʻlgan shaxslarni davolash zarurligini va imkoniyatlarini;"
+        },
+        {
+          "b": 7,
+          "id": "-4022445",
+          "matn": "giyohvandlik vositalari, ularning analoglari yoki psixotrop moddalar va ularning turi mavjudligini;"
+        },
+        {
+          "b": 8,
+          "id": "-254270",
+          "matn": "pul belgilari, qimmatli qogʻozlar va boshqa hujjatlar qalbakilashtirilganligini;"
+        },
+        {
+          "b": 9,
+          "id": "-254271",
+          "matn": "portlashlar, halokatlar va boshqa favqulodda hodisalarning texnikaviy sabablarini aniqlash zarur boʻlganda ekspertiza tayinlash va oʻtkazish shart."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-254272",
+      "matn": "Ish uchun ahamiyatga molik boshqa holatlarni aniqlashda ham, agar buning uchun maxsus bilimlarni qoʻllash zarur boʻlsa va bu holatlar isbotlashning boshqa vositalari bilan puxta aniqlanmagan boʻlsa, ekspertiza oʻtkazish shart."
+    }
+  ]
+}

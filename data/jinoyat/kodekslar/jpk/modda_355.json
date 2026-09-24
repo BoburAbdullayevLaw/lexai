@@ -1,0 +1,54 @@
+﻿{
+  "n": 355,
+  "sarlavha_id": "-255623",
+  "sarlavha": "355-modda. Tergovchilar guruhi rahbarining vakolatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255625",
+      "matn": "Guruh rahbari boʻlgan tergovchi jinoyat ishini oʻz yuritishiga qabul qilib oladi va dastlabki tergovning umumiy yoʻnalishi va pirovard natijasi uchun, shuningdek jinoyat protsessining shu bosqichida bajariladigan har bir harakat va qarorning qonuniy hamda asoslangan boʻlishi uchun toʻla javobgar boʻladi."
+    },
+    {
+      "q": 2,
+      "id": "-255626",
+      "matn": "Guruh rahbari boʻlgan tergovchi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255628",
+          "matn": "ishni oʻzi rahbarlik qilayotgan tergovchilarga taqsimlab beradi, ularning har biri bajaradigan ish qismi yoki tergov yoʻnalishini belgilaydi, ayrim tergov harakatlari bajarishni topshirib, ularni ijro etish muddatini belgilaydi;"
+        },
+        {
+          "b": 2,
+          "id": "-255630",
+          "matn": "shaxsan oʻzi tergov harakatlarini bajaradi va rahbarligi ostidagi tergovchilar oʻtkazayotgan ayrim tergov harakatlarida ishtirok etadi;"
+        },
+        {
+          "b": 3,
+          "id": "-2461631",
+          "matn": "qarorlar chiqaradi, shu jumladan shaxsni ishda ayblanuvchi tariqasida ishtirok etishga jalb qilish, qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasini qoʻllash toʻgʻrisida iltimosnomalar qoʻzgʻatish, ishni toʻla yoki uning biror qismini tugatish yoxud toʻxtatish haqida qarorlar chiqaradi;"
+        },
+        {
+          "b": 4,
+          "id": "-255633",
+          "matn": "prokurorning koʻrsatmalari ijro etilishini taʼminlaydi, ushbu Kodeks 36-moddasining uchinchi qismida nazarda tutilgan hollarda ishni oʻz eʼtirozlari bilan birga yuqori turuvchi prokurorga yuboradi;"
+        },
+        {
+          "b": 5,
+          "id": "-3351388",
+          "matn": "tergovga qadar tekshiruvni amalga oshiruvchi organlarga va tezkor-qidiruv faoliyatini amalga oshiruvchi organlarga tergov harakatlarini yoki tezkor-qidiruv tadbirlarini olib borish toʻgʻrisida topshiriqlar va koʻrsatmalar beradi, shuningdek ulardan tergovchilar bajarayotgan tergov harakatlarini oʻtkazishda yordam berishni talab qiladi, oʻz topshiriqlari, koʻrsatmalari, talablari bajarilishi ustidan nazorat qilib boradi;"
+        },
+        {
+          "b": 6,
+          "id": "-255637",
+          "matn": "jinoyatning sabablari va uning sodir etilishiga imkon bergan shart-sharoitlarni bartaraf qilish choralari toʻgʻrisida taqdimnomalar yuboradi;"
+        },
+        {
+          "b": 7,
+          "id": "-1423355",
+          "matn": "ayblov xulosasini tuzadi yoki tibbiy yoʻsindagi majburlov choralarini qoʻllash uchun ishni sudga yuborish toʻgʻrisida qaror chiqaradi va tasdiqlash uchun ularni ish bilan birga prokurorga yuboradi yoxud amnistiya aktiga asosan jinoyat ishini tugatish toʻgʻrisida sudga iltimosnoma kiritish haqida prokurorga taqdimnoma kiritadi."
+        }
+      ]
+    }
+  ]
+}

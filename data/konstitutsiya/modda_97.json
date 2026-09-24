@@ -1,0 +1,18 @@
+{
+  "n": "97",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445871",
+  "sarlavha": "97-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445872",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi va Senati oʻz vakolatlariga kiritilgan masalalar yuzasidan qarorlar qabul qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-6445873",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi va Senatining qarorlari Qonunchilik palatasi deputatlari yoki Senat aʼzolari umumiy sonining koʻpchilik ovozi bilan qabul qilinadi, ushbu Konstitutsiyada nazarda tutilgan hollar bundan mustasno."
+    }
+  ]
+}

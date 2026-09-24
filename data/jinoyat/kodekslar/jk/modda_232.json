@@ -1,0 +1,28 @@
+{
+  "n": 232,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1427044",
+  "sarlavha": "232-modda. Sud hujjatini ijro etmaslik",
+  "umumiy_sharh": [
+    "Sud hokimiyati chiqargan hujjatlar barcha davlat organlari, jamoat birlashmalari, korxonalar, muassasalar, tashkilotlar, mansabdor shaxslar va fuqarolar uchun majburiydir.",
+    "Jinoyat obyekti sudning normal faoliyati, sud hokimiyatining nufuzi, fuqarolarning qonun bilan qo'riqlanadigan huquqlari yoxud yuridik shaxslarning manfaatlari hisoblanadi.",
+    "Obyektiv tomondan jinoyat hukm, hal qiluv qarori, ajrim yoki qarorni bajarmaslik yoki bajarishga to'sqinlik qilishda ifodalanadi.",
+    "Sud hujjatini bajarmaslik deganda, qonunda o'rnatilgan muddatlarda uni ijro qilish bo'yicha yoxud ijroga kelib tushgan sud hujjatini tatbiq qilish bo'yicha boshqa harakatlarni amalga oshirishda choralar ko'rmaslik tushuniladi.",
+    "Sud hujjatini bajarishga to'sqinlik qilish deganda, shaxsning sud hujjatlari bajarilmay qolishiga qaratilgan xatti-harakati tushuniladi.",
+    "Jinoyat tugallangan deb hisoblanadi. Bunda qandaydir oqibatlarning kelib chiqishi talab etilmaydi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyat subyekti faqat mansabdor shaxslar – yuborilgan sud hujjatlarini bajarish vakolati doirasiga kiruvchi tashkilot, korxona, muassasalarning rahbarlari bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-5955703",
+      "matn": "Muayyan harakatlarni sodir etish yoxud ularni sodir etishdan oʻzini tiyish majburiyatini yuklovchi sud hujjatini bajarishdan boʻyin tovlashni maʼmuriy jazo qoʻllanilganidan keyin davom ettirish, — bazaviy hisoblash miqdorining yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud uch yilgacha axloq tuzatish ishlari yoki bir yilgacha ozodlikni cheklash yoki bir yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1427049",
+      "matn": "Oʻsha qilmishlar mansabdor shaxs tomonidan sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yuz baravaridan ikki yuz baravarigacha miqdorda jarima yoki besh yilgacha muayyan huquqdan mahrum qilish yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

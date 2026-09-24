@@ -1,0 +1,22 @@
+﻿{
+  "n": 264,
+  "sarlavha_id": "-254897",
+  "sarlavha": "264-modda. Majburiy keltirish toʻgʻrisidagi qarorni yoki ajrimni bajarish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254901",
+      "matn": "Majburiy keltirish toʻgʻrisidagi qaror yoki ajrim ijro etish uchun ish yuritilayotgan joydagi ichki ishlar organiga topshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-254904",
+      "matn": "Majburiy keltirilishi lozim boʻlgan shaxsni topgan ichki ishlar organining xodimi uni qaror yoki ajrim bilan tanishtirib tilxat oladi va mazkur qarorni yoki ajrimni chiqargan surishtiruvchi, tergovchi, prokuror yoxud sudga olib keladi. Bunda qarorga (ajrimga) shaxs topilgan vaqt va joy, uni olib kelib topshirilgan vaqt, shuningdek uning majburiy keltirilishi bilan bogʻliq ariza, shikoyat va iltimoslar haqidagi maʼlumotnoma ilova qilinishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-254905",
+      "matn": "Ichki ishlar organi shaxsning qochib ketganligi, taʼtilda, xizmat safarida ekanligi, ogʻir kasalligi yoki boshqa sabablarga koʻra yoʻqligi oqibatida majburiy keltirishga imkon boʻlmaganligini aniqlasa, bu haqda maʼlumotnoma tuzadi hamda qarorni yoki ajrimni chiqargan surishtiruvchi, tergovchi, prokurorga yoxud sudga xabar beradi."
+    }
+  ]
+}

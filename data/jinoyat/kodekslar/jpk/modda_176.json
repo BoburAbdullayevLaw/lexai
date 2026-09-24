@@ -1,0 +1,32 @@
+﻿{
+  "n": 176,
+  "sarlavha_id": "-1634747",
+  "sarlavha": "176-modda. Qoʻshimcha va qayta ekspertizalar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1634748",
+      "matn": "Qoʻshimcha ekspertiza ekspert (ekspertlar komissiyasi) xulosasidagi boʻshliqlarning oʻrnini toʻldirish uchun tayinlanadi va shu yoki boshqa ekspert (ekspertlar komissiyasi) tomonidan oʻtkaziladi."
+    },
+    {
+      "q": 2,
+      "id": "-1634750",
+      "matn": "Ekspert (ekspertlar komissiyasi) xulosasi asoslantirilmaganda yoki uning toʻgʻriligiga shubha tugʻilganda yoxud unga asos qilib olingan dalillar ishonchli emas deb topilganda yoki ekspertizani oʻtkazishning protsessual qoidalari jiddiy buzilganda qayta ekspertiza tayinlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-1634752",
+      "matn": "Qayta ekspertiza tayinlanganda ekspert (ekspertlar komissiyasi) oldiga ilgari qoʻllanilgan ekspert tekshiruvi usullarining ilmiy asoslanganligi toʻgʻrisidagi masala qoʻyilishi mumkin."
+    },
+    {
+      "q": 4,
+      "id": "-1634753",
+      "matn": "Qayta ekspertizani tayinlash toʻgʻrisidagi qarorda yoki ajrimda qayta ekspertizani tayinlagan organning (shaxsning) birinchi (oldingi) ekspertiza xulosasiga qoʻshilmaganligi sabablari koʻrsatilishi lozim."
+    },
+    {
+      "q": 5,
+      "id": "-1634755",
+      "matn": "Qayta ekspertizani oʻtkazish boshqa ekspertga (ekspertlar komissiyasiga) topshiriladi. Birinchi (oldingi) ekspertizani oʻtkazgan ekspert (ekspertlar komissiyasi) qayta ekspertizani oʻtkazishda hozir boʻlishi va tushuntirishlar berishi mumkin, lekin u ekspert tekshiruvini oʻtkazish va xulosa tuzishda ishtirok etmaydi."
+    }
+  ]
+}

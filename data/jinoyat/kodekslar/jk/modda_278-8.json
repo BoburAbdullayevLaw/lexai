@@ -1,0 +1,82 @@
+{
+  "n": "278-8",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-6773392",
+  "sarlavha": "278\u2078-modda. Kripto-aktivlar aylanmasi sohasidagi qonunchilikni buzish",
+  "umumiy_sharh": [
+    "Ma'lumotlarning taqsimlangan reyestri texnologiyalari, sun'iy aql, superkompyuterlar imkoniyatlaridan foydalanish, shuningdek, kripto-aktivlar bo'yicha faoliyat jahonning ko'plab mamlakatlarida raqamli iqtisodiyotni rivojlantirish yo'nalishlaridan biri hisoblanadi.",
+    "Ko'rib chiqilayotgan moddaning obyekti kripto-aktivlarni olish, o'tkazish yoki ayirboshlashning qonuniy tartib-tamoyillari, qolaversa, kripto-aktivlar aylanmasi sohasidagi xizmatlar provayderlari faoliyatini amalga oshirish sohasiga doir ijtimoiy munosabatlar hisoblanadi.",
+    "Obyektiv tomondan ma'muriy jazo qo'llanilganidan keyin kripto-aktivlarni qonunga xilof ravishda olish, o'tkazish yoki ayirboshlash; litsenziya olmasdan xizmatlar provayderlari faoliyatini amalga oshirish; anonim kripto-aktivlar bilan operatsiyalarni amalga oshirishda ifodalanadi.",
+    "Kripto-aktiv deganda, ma'lumotlarning taqsimlangan reyestridagi raqamli yozuvlar yig'indisini ifodalaydigan, qiymati va egasiga ega bo'lgan mulkiy huquq tushuniladi.",
+    "Kripto-aktivlar aylanmasi sohasidagi qonunchilikni buzish deganda, kripto-aktivlar aylanmasini tartibga soluvchi maxsus normativ-huquqiy hujjatlar doirasidan chiqish tushuniladi.",
+    "Kripto-aktivlar aylanmasi sohasidagi faoliyat turlari: mayning; kripto-aktivlar aylanmasi sohasidagi xizmatlar provayderlari faoliyati.",
+    "Xizmatlar provayderlari jismoniy yoki yuridik shaxslarga kripto-aktivlarni sotib olish, sotish va (yoki) ayirboshlash, saqlash, chiqarish, joylashtirish va boshqarish bo'yicha xizmatlar ko'rsatadi. Faqat O'zbekiston Respublikasining rezidentlari yuridik shaxslar bo'lishi mumkin.",
+    "Xizmatlar provayderlari turlariga kripto-birja, mayning, kripto-depozitariy, kripto-do'kon kiradi.",
+    "Litsenziyalash va ruxsat berish tartib-taomillaridan o'tish tartibi O'zbekiston Respublikasi Istiqbolli loyihalar milliy agentligi tomonidan belgilanadi.",
+    "Jinoyat formal tarkibli bo'lib, oqibatidan qat'i nazar kripto-aktivlarni qonunga xilof ravishda olgan, o'tkazgan yoki ayirboshlagan paytdan tugallangan hisoblanadi.",
+    "Subyektiv tomondan to'g'ri qasd bilan sodir etiladi.",
+    "Subyekti 16 yoshga to'lgan har qanday aqli raso jismoniy shaxs."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6773399",
+      "matn": "Kripto-aktivlarni qonunga xilof ravishda olish, o\u02bbtkazish yoki ayirboshlash, belgilangan tartibda litsenziya olmasdan kripto-aktivlar aylanmasi sohasidagi xizmatlar provayderlari faoliyatini amalga oshirish yoxud kripto-aktivlar aylanmasi sohasidagi xizmatlar provayderlari tomonidan anonim kripto-aktivlar bilan operatsiyalarni amalga oshirish shunday harakatlar uchun ma\u02bbmuriy jazo qo\u02bblanilganidan keyin sodir etilgan bo\u02bblsa, \u2014 bazaviy hisoblash miqdorining yuz baravarigacha miqdorda jarima yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoxud bir yilgacha ozodlikni cheklash yoki bir yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-6773404",
+      "matn": "O\u02bbsha harakatlar:",
+      "sharh": [
+        "2-qismda takroran yoki xavfli retsidivist tomonidan, ko'p miqdorda, bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan hollarda javobgarlik belgilangan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-6773408",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-6773413",
+          "matn": "ko\u02bbp miqdorda;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-6773418",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan bo\u02bblsa, \u2014 bazaviy hisoblash miqdorining uch yuz baravaridan to\u02bbrt yuz baravarigacha miqdorda jarima yoki uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-6773425",
+      "matn": "O\u02bbsha harakatlar:",
+      "sharh": [
+        "3-qismda juda ko'p miqdorda, xizmat mavqeyidan foydalangan holda, uyushgan guruh tomonidan yoki uning manfaatlarini ko'zlab sodir etilganda og'irroq javobgarlik belgilangan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-6773428",
+          "matn": "juda ko\u02bbp miqdorda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-6773430",
+          "matn": "xizmat mavqeyidan foydalangan holda;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-6773433",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini ko\u02bbzlab sodir etilgan bo\u02bblsa, \u2014 uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": "eslatma",
+      "id": "https://lex.uz/docs/-111453#-6773438",
+      "matn": "Tayyorgarlik ko\u02bbrilayotgan yoki sodir etilayotgan jinoyat haqida o\u02bbz ixtiyori bilan arz qilgan va uni ochishga faol yordam bergan shaxs javobgarlikka tortilmaydi."
+    }
+  ]
+}

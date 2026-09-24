@@ -1,0 +1,64 @@
+﻿{
+  "n": 76,
+  "sarlavha_id": "-3348068",
+  "sarlavha": "76-modda. Sudyaning, prokurorning, tergovchining, surishtiruvchining, tergovga qadar tekshiruvni amalga oshiruvchi organ mansabdor shaxsining va sud majlisi kotibining ishda ishtirok etishiga monelik qiladigan holatlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3348283",
+      "matn": "Quyidagi hollarda sudya, shuningdek xalq maslahatchisi, prokuror, tergovchi, surishtiruvchi tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, sud majlisining kotibi jinoyat ishini yuritishda ishtirok etishga haqli emas va uni rad qilish lozim, basharti:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3348232",
+          "matn": "u shu ish boʻyicha jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar, ekspert, mutaxassis, tarjimon, xolis, guvoh, himoyachi sifatida, gumon qilinuvchining, ayblanuvchining, sudlanuvchining qonuniy vakili yoki jabrlanuvchining, fuqaroviy daʼvogarning, fuqaroviy javobgarning vakili sifatida ishtirok etayotgan yoki ilgari ishtirok etgan boʻlsa;"
+        },
+        {
+          "b": 2,
+          "id": "-3348235",
+          "matn": "u ushbu ishni yuritish uchun masʼul boʻlgan biror mansabdor shaxsning yoki ushbu modda birinchi qismining 1-bandida koʻrsatilgan oʻzga shaxslarning qarindoshi boʻlsa;"
+        },
+        {
+          "b": 3,
+          "id": "-3348257",
+          "matn": "uning xolisligiga va begʻarazligiga shubha tugʻdiradigan boshqa holatlar mavjud boʻlsa."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-3348819",
+      "matn": "Sudya ilgari shu ishni yuritishda tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi surishtiruvchi, tergovchi, prokuror, sud majlisining kotibi sifatida ishtirok etgan boʻlsa, oʻsha ishni kelgusida koʻrishda qatnasha olmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-6626003",
+      "matn": "Birinchi, apellyatsiya, kassatsiya va taftish instansiyasi sudida ishni koʻrishda ishtirok etgan sudya oʻz ishtirokida chiqarilgan hukm, ajrim bekor qilinganidan keyin oʻsha ishni koʻrishda ishtirok eta olmaydi."
+    },
+    {
+      "q": 4,
+      "id": "-6626006",
+      "matn": "Jinoyat ishini birinchi instansiya sudida koʻrishda ishtirok etgan sudya shu jinoyat ishini apellyatsiya, kassatsiya va taftish instansiyasi sudida koʻrishda ishtirok eta olmaydi."
+    },
+    {
+      "q": 5,
+      "id": "-6626009",
+      "matn": "Jinoyat ishini apellyatsiya instansiyasi sudida koʻrishda ishtirok etgan sudya shu jinoyat ishini birinchi instansiya yoki taftish instansiyasi sudida koʻrishda ishtirok eta olmaydi."
+    },
+    {
+      "q": 6,
+      "id": "-6626012",
+      "matn": "Jinoyat ishini kassatsiya instansiyasi sudida koʻrishda ishtirok etgan sudya shu jinoyat ishini birinchi instansiya yoki taftish instansiyasi sudida koʻrishda ishtirok etishi mumkin emas."
+    },
+    {
+      "q": 7,
+      "id": "-6626016",
+      "matn": "Jinoyat ishini taftish instansiyasi sudida koʻrishda ishtirok etgan sudya ushbu jinoyat ishini birinchi instansiya, apellyatsiya yoki kassatsiya instansiyasi sudida koʻrishda, shuningdek ishni yuqori instansiya sudida taftish tartibida qayta koʻrishda ishtirok etishi mumkin emas."
+    },
+    {
+      "q": 8,
+      "id": "-5231825",
+      "matn": "Surishtiruvchining, tergovchining, shuningdek sud majlisi kotibining oʻz protsessual majburiyatlarini bajarishi ularning shu ish boʻyicha tegishincha surishtiruvni, dastlabki tergovni yuritishda takroran ishtirok etishi, shuningdek sud majlisi bayonnomasini yuritishi uchun monelik qilmaydi."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "n": "50-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3165846",
+  "sarlavha": "50-1-modda. Ozodlikdan mahrum qilish muddatini hisoblash",
+  "umumiy_sharh": [
+    "Ozodlikdan mahrum qilish muddati jazoni ijro etish muassasasiga joylashtirilgan kundan boshlab hisoblanadi.",
+    "Sudlanganlik bekor qilinsa yoki afv qilinsa, o'talmagan mudda hisobdan chiqariladi.",
+    "Turma qamoq muddati 5 yildan oshmaydi va faqat jazoning boshida o'taladi.",
+    "Hukm qonuniy kuchga kirganidan keyin 3 oy ichida ijro etilishi kerak."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "matn": "Ozodlikdan mahrum qilish muddati jazoni ijro etish muassasasiga joylashtirilgan kundan boshlab hisoblanadi.",
+      "sharh": [
+        "Muddat muassasaga joylashtirilgan kundan boshlanadi — bu asosiy qoida.",
+        "Oldingi hibsdagi vaqt (tergov, sud) avtomatik qo'shilmaydi."
+      ]
+    },
+    {
+      "q": 2,
+      "matn": "Sudlanganlikning bekor qilinishi yoki olib tashlanishi, afv qilish yoki umrbod ozodlikdan mahrum qilish jazosining ozodlikdan mahrum qilish bilan almashtirilishi natijasida ozodlikdan mahrum qilish jazosidan ozod qilgan bo'lsa, ushbu jazoning o'talmagan muddati hisobdan chiqariladi.",
+      "sharh": [
+        "O'talmagan mudda hisobdan chiqariladi — bu imtiyoz.",
+        "Umrbod ozodlikdan mahrum qilish almashtirilganda ham qo'llaniladi."
+      ]
+    },
+    {
+      "q": 3,
+      "matn": "Ishdan qasddan yoki ehtiyotsizlik oqibatida ajratilganlik tufayli ish haqidan mahrum bo'lganlik to'g'risidagi da'vo haqiqiy yo'qotilgan ish haqidan hisobga olinadi.",
+      "sharh": [
+        "Yo'qotilgan ish haqi haqiqatda hisoblanadi — nazariy emas.",
+        "Qasddan yoki ehtiyotsizlik — ikki holatda ham qo'llaniladi."
+      ]
+    },
+    {
+      "q": 4,
+      "matn": "Bir necha jinoyat uchun jazo bir necha hukmlar yuzasidan tayinlanganda, muddat qo'shib hisoblanadi.",
+      "sharh": [
+        "Bir necha hukm — qo'shib hisoblash qoidasi.",
+        "Umumiy muddat 25 yildan oshmasligi kerak (60-modda)."
+      ]
+    },
+    {
+      "q": 5,
+      "matn": "Turma qamoq muddati ozodlikdan mahrum qilish muddatining muayyan qismiga tayinlanadi va bu qism 5 yildan oshmaydi.",
+      "sharh": [
+        "Turma maksimum 5 yil. Bu qat'iy chegaradir.",
+        "Turma faqat boshida o'taladi — keyin koloniya."
+      ]
+    },
+    {
+      "q": 6,
+      "matn": "Koloniya turi jinoyatlar majmui bo'yicha uzil-kesil jazo belgilangandan keyin tayinlanadi.",
+      "sharh": [
+        "Koloniya turi faqat jazo to'liq belgilangandan keyin tayinlanadi.",
+        "Hukmda koloniya turini ko'rsatish shart."
+      ]
+    },
+    {
+      "q": 7,
+      "matn": "Ozodlikdan mahrum qilishda turma muddati qat'iy hisoblanadi. Summali hisobga yo'l qo'yilmaydi.",
+      "sharh": [
+        "Turma muddati qat'iy — sumali (qisma-qisma) hisobga yo'l qo'ymaydi.",
+        "Masalan: 15 yil uchun turma 5 yil — uni 3 qismga bo'lib bo'lmaydi."
+      ]
+    },
+    {
+      "q": 8,
+      "matn": "Turmada o'tash uzluksiz fe'l-atvorga ega. Muddat turmaga qamatilgan paytdan boshlab hisoblanadi.",
+      "sharh": [
+        "Uzluksiz — turma davomida to'xtamaydi.",
+        "Qamatilgan kundan boshlab hisoblanadi."
+      ]
+    },
+    {
+      "q": 9,
+      "matn": "Hukm qonuniy kuchga kirganidan keyin 3 oy ichida ijro etilishi kerak.",
+      "sharh": [
+        "3 oy ichida ijro — bu bog'lovchi muddat.",
+        "Bog'lovchi muddat: 10 yil."
+      ]
+    },
+    {
+      "q": 10,
+      "matn": "O'talgan jazodan keyin ham ma'lum cheklovlar qo'llanilishi mumkin.",
+      "sharh": [
+        "Jazo o'talgandan keyin ham cheklovlar saqlanib qolishi mumkin.",
+        "Bu jazoning ogohlantiruvchi funksiyasini davom ettiradi."
+      ]
+    }
+  ]
+}

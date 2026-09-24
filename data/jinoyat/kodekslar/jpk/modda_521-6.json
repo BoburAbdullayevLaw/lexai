@@ -1,0 +1,74 @@
+{
+  "n": "521⁶",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-6627617",
+  "sarlavha": "521⁶-modda. Ishni taftish tartibida koʻruvchi Qoraqalpogʻiston Respublikasi sudining, viloyatlar, Toshkent shahar sudlarining, Oʻzbekiston Respublikasi Harbiy sudining hukmi, ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-6627618",
+      "matn": "Ishni taftish tartibida koʻruvchi Qoraqalpogʻiston Respublikasi sudining, viloyatlar, Toshkent shahar sudlarining, Oʻzbekiston Respublikasi Harbiy sudining hukmida, ajrimida quyidagilar koʻrsatilgan boʻlishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-6627619",
+          "matn": "sud ishining raqami, hukm, ajrim chiqarilgan sana va joy;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-6627620",
+          "matn": "sudning nomi va tarkibi, ishni koʻrishda ishtirok etgan prokuror va boshqa shaxslar;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-6627621",
+          "matn": "taftish tartibida shikoyat, protest (xususiy shikoyat, xususiy protest) bergan shaxs;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-6627622",
+          "matn": "ustidan taftish tartibida shikoyat, protest (xususiy shikoyat, xususiy protest) berilgan hukmning, ajrimning qaror qismi mazmuni;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-6627623",
+          "matn": "shikoyatning, protestning (xususiy shikoyatning, xususiy protestning) taftish instansiyasi sud majlisida ishtirok etayotgan shaxslar eʼtirozlarining va tushuntirishlarining mohiyati, shuningdek prokurorning fikri;"
+        },
+        {
+          "b": 6,
+          "id": "https://lex.uz/docs/-111460#-6627625",
+          "matn": "ishni taftish tartibida koʻruvchi sudning qarori."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-6627626",
+      "matn": "Shikoyat, protest (xususiy shikoyat, xususiy protest) qanoatlantirilmay qoldirilgan taqdirda, ishni taftish tartibida koʻruvchi sudning ajrimida birinchi instansiya, apellyatsiya yoki kassatsiya instansiyasi sudining hukmi qonuniy, asosli va adolatli deb, birinchi instansiya, apellyatsiya, kassatsiya instansiyasi sudining ajrimi qonuniy va asosli deb topilganligining, shikoyat yoki protest (xususiy shikoyat, xususiy protest) esa qanoatlantirilmasdan qoldirilishining asoslari koʻrsatilishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-6627627",
+      "matn": "Hukm, ajrim bekor qilingan yoki oʻzgartirilgan taqdirda, ishni taftish tartibida koʻruvchi sudning ajrimida Jinoyat kodeksining va ushbu Kodeksning qaysi normalari talablari buzilganligi va bekor qilinayotgan yoki oʻzgartirilayotgan sud qarorining asossizligi nimadan iborat ekanligi koʻrsatilishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-6627631",
+      "matn": "Ishni taftish tartibida koʻruvchi sudning hukmi, ajrimi sudning toʻliq tarkibi tomonidan imzolanadi. Ovoz berishda ozchilik tomonda qolgan sudya hukmga, ajrimga imzo qoʻyib, oʻzining alohida fikrini ushbu Kodeksning 472-moddasi talablariga rioya etgan holda yozma shaklda qoldirishga haqlidir."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-6627632",
+      "matn": "Ishni taftish tartibida koʻruvchi sudning hukmi, ajrimi sud majlisi zalida oʻqib eshittiriladi va darhol qonuniy kuchga kiradi."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-6627633",
+      "matn": "Ishni taftish tartibida koʻruvchi sudning hukmi, ajrimi uni chiqargan sudga yoki boshqa sudga chiqarilgan kundan eʼtiboran besh sutkadan kechiktirmay jinoyat ishi bilan birga ijro etish uchun yuboriladi."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-6627634",
+      "matn": "Mahkumni darhol qamoqdan yoki ozodlikni cheklash tariqasidagi jazodan ozod etish uchun asos boʻladigan hukm, ajrim, agar mahkum sud majlisida ishtirok etayotgan boʻlsa, sud zalida ijro etiladi. Boshqa hollarda, hukmning, ajrimning koʻchirma nusxasi hukm, ajrim chiqarilganidan keyin taftish instansiyasi sudi tomonidan jazoni ijro etish muassasasining maʼmuriyatiga yoki mahkumning yashash joyidagi ozodlikni cheklash tariqasidagi jazoni ijro etish oʻz zimmasiga yuklatilgan ichki ishlar organiga yigirma toʻrt soatdan kechiktirmay yuboriladi."
+    }
+  ]
+}

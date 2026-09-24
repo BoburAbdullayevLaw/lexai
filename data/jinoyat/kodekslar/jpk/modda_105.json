@@ -1,0 +1,17 @@
+﻿{
+  "n": 105,
+  "sarlavha_id": "-7234158",
+  "sarlavha": "105-modda. Soʻroq qilinuvchiga narsalarni, hujjatlarni va elektron maʼlumotlarni koʻrsatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7234161",
+      "matn": "Soʻroq jarayonida surishtiruvchi, tergovchi va sud, shuningdek sud muhokamasida taraflar ishga qoʻshib qoʻyilgan yoki taraflar ixtiyorida boʻlgan narsalarni, hujjatlarni va elektron maʼlumotlarni soʻroq qilinuvchiga koʻrsatishlari, shuningdek bu hujjatlarni oʻqib eshittirishlari mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-7234162",
+      "matn": "Soʻroq bayonnomasida yoki sud majlisi bayonnomasida qanday narsalar yoki hujjatlar yoxud elektron maʼlumotlar koʻrsatilganligi, hujjat matnining qaysi qismi va uning kim tomonidan oʻqib eshittirilganligi, narsalarni yoki hujjatlarni yoxud elektron maʼlumotlarni koʻrsatish vaqtida qanday savollar berilganligi va bunga javoban soʻroq qilinuvchi qanday koʻrsatuvlar berganligi aniq aks ettirilishi kerak."
+    }
+  ]
+}

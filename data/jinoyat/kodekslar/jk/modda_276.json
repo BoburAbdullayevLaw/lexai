@@ -1,0 +1,35 @@
+{
+  "n": "276",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-8282349",
+  "sarlavha": "276-modda. Giyohvandlik vositalarini, psixotrop moddalarni yoki ularning analoglarini oʻtkazish maqsadini koʻzlamay qonunga xilof ravishda tayyorlash, olish, saqlash va boshqa harakatlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282357",
+      "matn": "Giyohvandlik vositalarini, psixotrop moddalarni yoki ularning analoglarini oʻtkazish maqsadini koʻzlamay, qonunga xilof ravishda tayyorlash, saqlash, olish, tashish yoki joʻnatish, — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-271171",
+      "matn": "Oʻsha qilmishlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-271173",
+          "matn": "koʻp miqdorda;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-8282361",
+          "matn": "takroran, xavfli retsidivist yoki ilgari ushbu Kodeksning 270 — 275, 276¹ — 276⁸-moddalarida nazarda tutilgan jinoyatlarni sodir etgan shaxs tomonidan sodir etilgan boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": "eslatma",
+      "id": "https://lex.uz/docs/-111453#-8282364",
+      "matn": "Ushbu moddaning birinchi qismida nazarda tutilgan qilmishlarni sodir etgan shaxs oʻz ixtiyori bilan aybini boʻyniga olish toʻgʻrisida hokimiyat organlariga arz qilsa va giyohvandlik vositalarini, psixotrop moddalarni yoki ularning analoglarini topshirsa, jazodan ozod qilinadi."
+    }
+  ]
+}

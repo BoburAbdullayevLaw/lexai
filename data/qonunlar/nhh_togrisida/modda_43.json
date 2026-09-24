@@ -1,0 +1,23 @@
+{
+  "n": "43",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381245",
+  "sarlavha": "43-modda. Normativ-huquqiy hujjatning vaqt boʻyicha amal qilishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381246",
+      "matn": "Normativ-huquqiy hujjat, agar uning matnida boshqacha izoh berilmagan boʻlsa, muddatsiz amal qiladi."
+    },
+    {
+      "q": 2,
+      "id": "-5381247",
+      "matn": "Normativ-huquqiy hujjatning amal qilish muddati butun hujjat yoki uning bir qismi uchun belgilanishi mumkin. Bunday holda normativ-huquqiy hujjat yoxud uning bir qismi qaysi muddatga yoki qanday hodisa yuz berguniga qadar oʻz kuchini saqlab qolishi koʻrsatilishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "-5381248",
+      "matn": "Normativ-huquqiy hujjatni qabul qilgan organ belgilangan muddat tugaguniga qadar yoki hodisa yuz berguniga qadar hujjatning yoki uning bir qismining amal qilishini yangi muddatga, boshqa hodisa yuz berguniga qadar uzaytirish toʻgʻrisida yoxud normativ-huquqiy hujjat qonunchilikka, oʻtkazilayotgan islohotlarning ustuvor yoʻnalishlariga, jamiyatdagi barqaror huquqiy munosabatlarga muvofiq boʻlgan taqdirda normativ-huquqiy hujjatga (uning qismiga) muddatsiz tus berish haqida qaror qabul qilishi mumkin."
+    }
+  ]
+}

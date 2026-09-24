@@ -1,0 +1,43 @@
+{
+  "n": 109,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-234113",
+  "sarlavha": "109-modda. Qasddan badanga yengil shikast yetkazish",
+  "umumiy_sharh": [
+    "Sharhlanayotgan moddaning 1-qismida sog'liqning qisqa muddatga yomonlashuviga yoki mehnat qobiliyatining uncha uzoq bo'lmagan muddatga yo'qolishiga olib kelmagan badanga yengil shikast yetkazish uchun javobgarlik nazarda tutilgan. Bunday shikastlarga uncha ahamiyatli bo'lmagan, olti kundan ortiq muddatga cho'zilmagan, tez o'tib ketadigan shikastlar taalluqlidir (lat yeyish, tirnalish, shilinish, uncha katta bo'lmagan g'urra va hokazo).",
+    "Sodir etilgan qilmishni JKning 109-moddasi 1-qismi bo'yicha kvalifikatsiya qilishda inobatga olish lozimki, sog'liqning qisqa muddatga yomonlashuviga yoki mehnat qobiliyatining uncha uzoq bo'lmagan muddatga yo'qolishiga olib kelmagan qasddan badanga yengil shikast yetkazish uchun jinoiy javobgarlik faqat u shunday qilmish uchun shaxsga nisbatan ma'muriy jazo qo'llash to'g'risidagi qaror kuchga kirgan kundan boshlab bir yil ichida takroran sodir etilgan holdagina kelib chiqadi.",
+    "Do'pposlash, jismoniy og'riq beradigan, lekin JKning 109-moddasi 1-qismida nazarda tutilgan sog'liqning yomonlashuviga olib kelmaydigan boshqa zo'ravonlik harakatlarni jismoniy azob bermaydigan, lekin shaxsga ma'naviy ziyon yetkazadigan harakat bilan haqorat qilishdan (JKning 140-moddasi 1-qismi) farqlash kerak bo'ladi. Bunday harakatlar jumlasiga, masalan, shaxsning qadr-qimmatini kamsitadigan, ammo aytarli jismoniy og'riq bermaydigan shapaloq urish, yuzga tupurish, ayol badaniga hayosizlarcha tegish, kiyimni kuch ishlatib yulib olish kabilar kiradi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6436790",
+      "matn": "Sogʻliqning qisqa vaqt, yaʼni olti kundan ortiq, ammo yigirma bir kundan koʻp boʻlmagan muddatga yomonlashuviga yoki umumiy mehnat qobiliyatining uncha uzoq boʻlmagan muddatga yoʻqotilishiga sabab boʻlgan qasddan badanga yengil shikast yetkazish ushbu Kodeksning 126¹-moddasida nazarda tutilgan jinoyat alomatlari mavjud boʻlmasa — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari yoxud bir yilgacha ozodlikni cheklash yoki bir yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7143459",
+      "matn": "Ushbu moddaning birinchi qismida nazarda tutilgan harakatlar:",
+      "sharh": [
+        "Agar aybdorning harakatlari jabrlanuvchi badaniga yengil shikast yetkazib, uning sog'lig'ini qisqa muddatga ishdan chiqarsa yoki mehnat qobiliyatining uncha uzoq bo'lmagan muddatga yo'qotilishiga olib kelsa, aybdorning harakatlari JKning 109-moddasi 2-qismi bilan kvalifikatsiya qilinadi. Qisqa muddatli sifatida sog'liqning olti kundan ortiq, lekin yigirma bir kundan ko'p bo'lmagan muddatga yomonlashuvi e'tirof etilishi zarur. Mehnat qobiliyatini uncha uzoq bo'lmagan muddatga yo'qotish deganda umumiy mehnat qobiliyatining o'n foizigacha yo'qotilishini tushunish lozim."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7143462",
+          "matn": "diniy taassublar zamirida;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7143464",
+          "matn": "bir guruh shaxslar yoki uyushgan guruh aʼzosi tomonidan yoxud shu guruh manfaatlarini koʻzlab;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7143469",
+          "matn": "qurolni yoki sovuq qurol sifatida foydalanilishi mumkin boʻlgan ashyolarni ishlatib sodir etilgan boʻlsa, — bir yildan ikki yilgacha ozodlikni cheklash yoki bir yildan ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

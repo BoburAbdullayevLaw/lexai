@@ -1,0 +1,43 @@
+{
+  "n": "22",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381028",
+  "sarlavha": "22-modda. Normativ-huquqiy hujjat loyihasini tayyorlashni tashkil etish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381030",
+      "matn": "Normativ-huquqiy hujjat loyihasini tayyorlash uchun ishlab chiquvchi tomonidan ishchi guruh (komissiya) tashkil etilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-6688555",
+      "matn": "Ishchi guruh (komissiya) tarkibiga ishlab chiquvchi boʻlinmalarining, tegishli tarmoqlar holati va rivojlanishi uchun javobgar boʻlgan vazirliklarning yoki idoralarning, boshqa manfaatdor davlat organlarining, ilmiy va boshqa tashkilotlarning vakillari, shuningdek fuqarolar kiritilishi mumkin. Bunda nodavlat tashkilotlar vakillari, shuningdek fuqarolar oʻz roziligi bilan ishchi guruh (komissiya) tarkibiga kiritiladi."
+    },
+    {
+      "q": 3,
+      "id": "-5381033",
+      "matn": "Ishchi guruh (komissiya) aʼzolari normativ-huquqiy hujjat loyihasini tayyorlash uchun zarur boʻlgan bilim va tajribaga ega boʻlishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "-5381035",
+      "matn": "Ishlab chiquvchi ishchi guruhning (komissiyaning) faoliyatini taʼminlash uchun davlat organlaridan va boshqa tashkilotlardan normativ-huquqiy hujjat loyihasini tayyorlash uchun zarur boʻlgan materiallarni, statistika maʼlumotlarini hamda boshqa maʼlumotlarni olishga, normativ-huquqiy hujjatning loyihasi yuzasidan ilmiy va boshqa tashkilotlarning, olimlar va mutaxassislarning maslahatlari hamda tavsiyalarini, shuningdek ekspertlar xulosalarini olishga haqlidir."
+    },
+    {
+      "q": 5,
+      "id": "-5381037",
+      "matn": "Normativ-huquqiy hujjat qabul qilish huquqiga ega boʻlgan organ, zarur boʻlganda, normativ-huquqiy hujjat loyihasini tayyorlashni davlat organlariga, ilmiy va boshqa tashkilotlarga, ayrim fuqarolarga belgilangan tartibda, oʻz vakolatlari doirasida topshirishga yoki ularga shartnoma asosida buyurtma berishga haqlidir."
+    },
+    {
+      "q": 6,
+      "id": "-5381039",
+      "matn": "Normativ-huquqiy hujjat qabul qilish huquqiga ega boʻlgan organ, zarur boʻlganda, normativ-huquqiy hujjatlarning muqobil loyihalarini tayyorlashni bir nechta davlat organiga, ilmiy va boshqa tashkilotlarga, ayrim fuqarolarga belgilangan tartibda, oʻz vakolatlari doirasida topshirishga yoki ularga shartnoma asosida buyurtma berishga, shuningdek eng yaxshi normativ-huquqiy hujjat loyihasini tayyorlash uchun tanlovlar oʻtkazishga haqlidir."
+    },
+    {
+      "q": 7,
+      "id": "-6688562",
+      "matn": "Vazirliklar va idoralarning, shuningdek mahalliy davlat hokimiyati organlarining normativ-huquqiy hujjatlar loyihalarini tayyorlashga doir ishlarini muvofiqlashtirish Oʻzbekiston Respublikasi Adliya vazirligi tomonidan amalga oshiriladi."
+    }
+  ]
+}

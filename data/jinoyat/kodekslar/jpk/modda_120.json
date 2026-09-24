@@ -1,0 +1,17 @@
+﻿{
+  "n": 120,
+  "sarlavha_id": "-253981",
+  "sarlavha": "120-modda. Guvohni va jabrlanuvchini ularning iltimosiga koʻra soʻroq qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253982",
+      "matn": "Tergov olib borilayotgan joyda yoki sudda boʻlgan guvoh yoki jabrlanuvchi koʻrsatuv berishga xohish bildirsa, ular qoida tariqasida oʻsha kunning oʻzida yoki keyingi kundan kechiktirmay soʻroq qilinishi kerak."
+    },
+    {
+      "q": 2,
+      "id": "-253984",
+      "matn": "Guvoh yoki jabrlanuvchining koʻrsatuv berishga xohishi toʻgʻrisidagi xabar tergovchi yoki sudga pochta orqali kelsa, unga soʻroq oʻtkaziladigan joy va vaqt darhol xabar qilinadi va u kelishi bilanoq soʻroq oʻtkaziladi."
+    }
+  ]
+}

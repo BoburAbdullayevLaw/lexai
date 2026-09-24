@@ -1,0 +1,67 @@
+{
+  "n": "229-6",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-5612910",
+  "sarlavha": "229⁶-modda. Sugʻoriladigan yer uchastkasiga yoki uning bir qismiga boʻlgan huquqni sotish yoxud qonunga xilof ravishda boshqacha tarzda oʻzga shaxsga berish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-5612914",
+      "matn": "Sugʻoriladigan yer uchastkasiga yoki uning bir qismiga boʻlgan huquqni sotish yoxud qonunga xilof ravishda boshqacha tarzda oʻzga shaxsga berish, — bazaviy hisoblash miqdorining toʻrt yuz baravaridan besh yuz baravarigacha miqdorda jarima yoki muayyan huquqdan mahrum qilib, ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-5612923",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-5612924",
+          "matn": "yerlarga koʻp miqdorda zarar yetkazilishiga sabab boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-5612927",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-5612928",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-5612929",
+          "matn": "xizmat mavqeyidan foydalanib sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining besh yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki muayyan huquqdan mahrum qilib, besh yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-5612939",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-5612940",
+          "matn": "yerlarga juda koʻp miqdorda zarar yetkazilishiga sabab boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-5612941",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-5612943",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — muayyan huquqdan mahrum qilib, sakkiz yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-5612946",
+      "matn": "Ushbu moddaning birinchi va ikkinchi qismlarida nazarda tutilgan jinoyatni birinchi marta sodir etgan shaxsga nisbatan, agar u yer uchastkasining qaytarilishini hamda yerning qishloq xoʻjaligi oborotiga kiritilishini taʼminlasa, ozodlikni cheklash va ozodlikdan mahrum qilish tariqasidagi jazo qoʻllanilmaydi."
+    }
+  ]
+}

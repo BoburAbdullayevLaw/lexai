@@ -1,0 +1,74 @@
+﻿{
+  "n": 580,
+  "sarlavha_id": "-4516568",
+  "sarlavha": "580-modda. Tibbiy yoʻsindagi majburlov chorasini uzaytirish, oʻzgartirish yoki tugatish va ish yuritishni umumiy tartibda tiklash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4516572",
+      "matn": "Tibbiy yoʻsindagi majburlov chorasini uzaytirish, oʻzgartirish yoki tugatish va ish yuritishni umumiy tartibda tiklash toʻgʻrisidagi masalalarni sud tomonidan koʻrib chiqishga quyidagilar sabab boʻladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-257247",
+          "matn": "majburlov chorasi tayinlangan shaxs saqlanayotgan tibbiy muassasa maʼmuriyatining shifokorlar komissiyasi bergan xulosaga asoslangan iltimosnomasi;"
+        },
+        {
+          "b": 2,
+          "id": "-257248",
+          "matn": "prokurorning shifokorlar komissiyasi bergan xulosaga asoslangan taqdimnomasi;"
+        },
+        {
+          "b": 3,
+          "id": "-257249",
+          "matn": "mazkur shaxsning himoyachisi, yaqin qarindoshlari, qonuniy vakillari yoki boshqa manfaatdor fuqarolarning, shuningdek jamoat birlashmalari va jamoalarning iltimosnomasi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-4516576",
+      "matn": "Tibbiy yoʻsindagi majburlov chorasi tayinlangan, ruhiy holati buzilgan shaxslarni shifokorlar komissiyalari yoki tibbiy-maslahat komissiyalari tomonidan tekshiruvdan oʻtkazish olti oyda kamida bir marta amalga oshiriladi."
+    },
+    {
+      "q": 3,
+      "id": "-4516579",
+      "matn": "Tibbiy yoʻsindagi majburlov choralarini uzaytirish, oʻzgartirish yoki tugatish, shuningdek ish yuritishni umumiy tartibda tiklash masalalarini tibbiy yoʻsindagi majburlov choralarini qoʻllash toʻgʻrisida ajrim chiqargan sud yoki ushbu chora qoʻllanayotgan joydagi sud koʻrib chiqadi."
+    },
+    {
+      "q": 4,
+      "id": "-257251",
+      "matn": "Ish sudda koʻrishga tayinlangani toʻgʻrisida sud taraflarga, shuningdek iltimosnoma bilan murojaat qilgan tibbiy muassasa maʼmuriyatiga, shaxslarga, jamoat birlashmalari va jamoalar rahbarlariga xabar qiladi."
+    },
+    {
+      "q": 5,
+      "id": "-257252",
+      "matn": "Sud majlisida prokuror va himoyachining ishtirok etishi shart."
+    },
+    {
+      "q": 6,
+      "id": "-257254",
+      "matn": "Ushbu modda birinchi qismining 3-bandida nazarda tutilgan hollarda sudya ishni sudda koʻrishga tayinlashdan oldin tegishli tibbiy muassasadan shu shaxsning sogʻligʻi toʻgʻrisida shifokorlar komissiyasining xulosasini talab qilib oladi."
+    },
+    {
+      "q": 7,
+      "id": "-257256",
+      "matn": "Shifokorlar komissiyasining iltimosnomaga qoʻshib berilgan yoki talab qilib olingan xulosasi sudda shubha tugʻdirsa, sud sud-psixiatriya ekspertizasini tayinlashi, qoʻshimcha hujjatlar talab qilishi, iltimosnoma kim haqida berilgan boʻlsa, shu shaxsni, jabrlanuvchini, guvohlarni soʻroq qilishi va boshqa zaruriy harakatlarni oʻtkazishi mumkin."
+    },
+    {
+      "q": 8,
+      "id": "-257257",
+      "matn": "Sud majlisida dalillarni tekshirish ushbu Kodeksning 439 — 448-moddalarida nazarda tutilgan qoidalarga muvofiq oʻtkaziladi."
+    },
+    {
+      "q": 9,
+      "id": "-257258",
+      "matn": "Dalillarni tekshirish nihoyasiga yetgach, sud tomonlarning muzokarasini eshitadi, bu muzokara prokuror va himoyachi nutqidan iborat boʻladi."
+    },
+    {
+      "q": 10,
+      "id": "-4516582",
+      "matn": "Tibbiy yoʻsindagi majburlov chorasini uzaytirish, oʻzgartirish yoki tugatish haqida, shuningdek uni uzaytirishni, oʻzgartirishni yoki tugatishni rad etish toʻgʻrisida sud ajrim chiqaradi, bu ajrim sud majlisida oʻqib eshittiriladi."
+    }
+  ]
+}

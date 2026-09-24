@@ -1,0 +1,55 @@
+{
+  "n": 90,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195992",
+  "sarlavha": "90-modda. Jazoni yengilrogʻi bilan almashtirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-2722318",
+      "matn": "Oʻn sakkiz yoshga toʻlguncha sodir etgan jinoyati uchun ozodlikdan mahrum qilish, ozodlikni cheklash yoki axloq tuzatish ishiga hukm qilingan shaxsga nisbatan jazoning oʻtalmagan qismi yengilroq jazo bilan almashtirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-202055",
+      "matn": "Jazoni yengilrogʻi bilan almashtirish ushbu moddaning birinchi qismida koʻrsatilgan jazo turlari uchun belgilangan tartib-qoida talablarini bajargan va mehnat yoki oʻqishga halol munosabatda boʻlib kelayotgan mahkumga nisbatan qoʻllanilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-288495",
+      "matn": "Jazoning oʻtalmagan qismini yengilrogʻi bilan almashtirish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-288497",
+          "matn": "ijtimoiy xavfi katta boʻlmagan yoki uncha ogʻir boʻlmagan jinoyat uchun tayinlangan jazo muddatining kamida beshdan bir qismi;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-288501",
+          "matn": "ogʻir jinoyat uchun tayinlangan jazo muddatining kamida toʻrtdan bir qismi;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-288503",
+          "matn": "oʻta ogʻir jinoyat uchun, shuningdek qasddan sodir etgan jinoyati uchun, agar shaxs ilgari qasddan sodir etilgan jinoyat uchun ozodlikdan mahrum etishga hukm qilingan boʻlsa, tayinlangan jazo muddatining kamida uchdan bir qismini oʻtab boʻlinganidan keyin qoʻllanilishi mumkin."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-2722322",
+      "matn": "Ozodlikdan mahrum qilish yoki ozodlikni cheklash tariqasidagi jazoning oʻtalmagan qismi axloq tuzatish ishlari bilan almashtirilganda axloq tuzatish ishlari ozodlikdan mahrum qilish yoki ozodlikni cheklash jazosining oʻtalmagan qismi muddatiga tayinlanadi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-202061",
+      "matn": "Jazo yengilrogʻi bilan almashtirilgan shaxslarga nisbatan yengilroq jazoning tegishli qismi oʻtab boʻlinganidan keyin ushbu Kodeksning 89-moddasida nazarda tutilgan qoidalarga muvofiq, jazodan muddatidan ilgari shartli ravishda ozod qilish qoʻllanilishi mumkin."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-3694471",
+      "matn": "Jazo yengilrogʻi bilan almashtirilgan shaxs jazoning oʻtalmagan qismi mobaynida yangi jinoyat sodir etsa, sud unga nisbatan ushbu Kodeksning 60 va 86-moddalarida nazarda tutilgan qoidalarga muvofiq jazo tayinlaydi."
+    }
+  ]
+}

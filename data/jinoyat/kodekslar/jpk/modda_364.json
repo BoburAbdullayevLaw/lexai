@@ -1,0 +1,44 @@
+﻿{
+  "n": 364,
+  "sarlavha_id": "-255679",
+  "sarlavha": "364-modda. Dastlabki tergovni toʻxtatish asoslari va tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-255680",
+      "matn": "Dastlabki tergov:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-255681",
+          "matn": "ish boʻyicha ayblanuvchi tariqasida ishtirok etishga jalb qilinishi lozim boʻlgan shaxs aniqlanmagan;"
+        },
+        {
+          "b": 2,
+          "id": "-255682",
+          "matn": "ayblanuvchining qayerda ekanligi nomaʼlum boʻlgan;"
+        },
+        {
+          "b": 3,
+          "id": "-255683",
+          "matn": "ayblanuvchi Oʻzbekiston Respublikasi hududidan chiqib ketgan, basharti uning tergovga kelishini taʼminlash imkoniyati boʻlmasa;"
+        },
+        {
+          "b": 4,
+          "id": "-255685",
+          "matn": "ayblanuvchi ishni yuritishda uning ishtirok etishini istisno etadigan ogʻir va davomli, lekin davolab boʻladigan kasallikka chalingan hollarda toʻxtatiladi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-255687",
+      "matn": "Dastlabki tergov ushbu moddaning birinchi qismida nazarda tutilgan asoslar yuzaga kelgan vaqtdan boshlab toʻxtatiladi. Lekin dastlabki tergov toʻxtatilgunga qadar tergovchi ayblanuvchi yoʻqligida bajarish mumkin boʻlgan barcha tergov harakatlarini bajarishi shart."
+    },
+    {
+      "q": 3,
+      "id": "-255690",
+      "matn": "Dastlabki tergovni toʻxtatish toʻgʻrisida tergovchi qaror chiqaradi va uning nusxasini prokurorga yuboradi."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "n": 25,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179930",
+  "sarlavha": "25-modda. Jinoyatga tayyorgarlik koʻrish va jinoyat sodir etishga suiqasd qilish",
+  "umumiy_sharh": [
+    "Jinoyat sodir etish bosqichlari tushunchasiga jinoyat huquqida jinoyatga tayyorgarlik ko'rish va uni bevosita sodir etish bosqichlari kiradi. Ular bir-biridan aybli harakatlarning xususiyati va jinoiy qilmishning tamomlanganlik darajasiga ko'ra farq qiladi.",
+    "Jinoyat qonuni jinoyat sodir etish bosqichi sifatida qasdning shakllanishini tan olmaydi. Shaxs o'z fikrlari uchun, hatto ular jinoiy bo'lsa ham, javobgarlikka tortilishi mumkin emas.",
+    "Jinoyatga tayyorgarlik ko'rish va suiqasd qilish faqat to'g'ri qasd bilan sodir etiladi. Egri qasd bilan bu bosqichlar bo'lmaydi, chunki ular jinoyatni mantiqiy yakuniga yetkazishga qaratilgan harakatlardan iborat.",
+    "Ehtiyotsizlik bilan sodir etiladigan jinoyatlarda tayyorgarlik va suiqasd bosqichlari mavjud bo'lmaydi.",
+    "Subyektga bog'liq bo'lmagan holatlarga ko'ra jinoiy natijaning mavjud emasligi tamom bo'lgan va tamom bo'lmagan jinoyat o'rtasidagi chegara hisoblanadi.",
+    "Jinoyatga tayyorgarlik ko'rish va suiqasd qilish har qanday jinoiy oqibatning yuz berishini istisno etadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179931",
+      "matn": "Shaxsning qasddan qilinadigan jinoyatni sodir etish yoki yashirish uchun shart-sharoit yaratuvchi qilmishi oʻziga bogʻliq boʻlmagan holatlarga koʻra sodir etilishi boshlangunga qadar toʻxtatilgan boʻlsa, bunday qilmish jinoyatga tayyorgarlik koʻrish deb topiladi.",
+      "sharh": [
+        "Jinoyatga tayyorgarlik ko'rish jinoyat sodir etish uchun shart-sharoitlarni yaratishda ifodalanadi. Bu jinoiy faoliyatning dastlabki bosqichi bo'lib, ijtimoiy xavflilik darajasi nisbatan pastroq.",
+        "Tayyorgarlik harakatlari: jinoyat quroli yoki vositalarini izlash, tayyorlash, jinoyat sodir etish vaqti va sharoitini aniqlash, to'siqlarni bartaraf etish, jinoiy sheriklarni topish, jinoiy guruh tuzish.",
+        "Jinoyatga tayyorgarlik ko'rish faqat aniq bir jinoyatni sodir etishda ifodalanadi. Turli predmetlarni 'har ehtimolga qarshi' egallash tayyorgarlik deb baholanmaydi.",
+        "Tayyorgarlik faqat tayyorgarlik harakatlari shaxsga bog'liq bo'lmagan holatlarga ko'ra to'xtatilgan holdagina mavjud bo'ladi.",
+        "Til biriktirish — bu kamida ikki shaxsning muayyan jinoyat sodir etishi haqida zarur kelishuvga erishishi. U jinoyat sodir etishga ham, jinoyat izlarini yashirishga ham qaratilishi mumkin."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-179932",
+      "matn": "Qasddan sodir etiladigan jinoyat boshlanib, shaxsga bogʻliq boʻlmagan holatlarga koʻra oxiriga yetkazilmagan boʻlsa, jinoyat sodir etishga suiqasd deb topiladi.",
+      "sharh": [
+        "Jinoyat sodir etishga suiqasd qilish — jinoyatning bevosita boshlanishi. Bunda jinoyat qonuni bilan qo'riqlanadigan obyektga tajovuz qilinadi va zarar yetkazish xavfi vujudga keladi.",
+        "Suiqasdning obyektiv belgilari: jinoyatni bajarishning boshlanishi (harakat sodir etilishi), jinoyat tamom bo'lmaganligi, jinoyatning shaxsga bog'liq bo'lmagan holatga ko'ra tugallanishi.",
+        "Tamom bo'lgan suiqasdda jinoiy maqsadga erishish uchun aybdor o'ziga bog'liq bo'lgan barcha harakatlarni qiladi, ammo jinoiy natija shaxsga bog'liq bo'lmagan sabablarga ko'ra yuz bermaydi.",
+        "Tamom bo'lmagan suiqasdda aybdor jinoyatni oxiriga yetkazish uchun zarur harakatlarni o'ziga bog'liq bo'lmagan sabablarga ko'ra bajarmaydi.",
+        "'Yaroqsiz' obyektga suiqasd qilish — shaxsning xatosi tufayli jinoyat qonuni bilan qo'riqlanadigan obyektga zarar yetkazmasligi. Bunda shaxs jinoyat obyektiga emas, predmetiga nisbatan xato qiladi.",
+        "'Yaroqsiz' vositalar bilan suiqasd qilish — jinoyatni oxiriga yetkazish uchun yaroqsiz bo'lgan vositalarni qo'llab tajovuz qilish. Masalan, zararsiz kukunni zahar sifatida berish.",
+        "Suiqasdning subyektiv tomoni faqat to'g'ri qasdda ifodalanadi. Aybdor jinoyatni mantiqiy yakuniga yetkazishni, zarur jinoiy natijaga erishishni xohlaydi.",
+        "Suiqasdni tayyorgarlikdan farqi: tayyorgarlikda shart-sharoit yaratish bilan cheklaniladi, suiqasdda esa jinoiy qilmishni sodir etishga bevosita qaratilgan harakatlar amalga oshiriladi.",
+        "Suiqasd uchun javobgarlik jinoyat qaysi toifaga mansubligidan qat'i nazar, og'ir yoki o'ta og'ir, uncha og'ir bo'lmagan jinoyatlarda ham kelib chiqadi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-179933",
+      "matn": "Jinoyatga tayyorgarlik koʻrganlik va jinoyat sodir etishga suiqasd qilganlik uchun javobgarlik ham ushbu Kodeks Maxsus qismining tamom boʻlgan jinoyat uchun javobgarlikni belgilovchi moddasiga muvofiq hal qilinadi.",
+      "sharh": [
+        "Jinoyatga tayyorgarlik ko'rish va suiqasd qilish uchun javobgarlik, sodir etilishi mo'ljallangan tamom bo'lgan jinoyat uchun belgilangan javobgarlikka muvofiq belgilanadi.",
+        "Jinoyat sodir etishga suiqasd qilish uchun javobgarlik jinoyat qaysi toifaga mansubligidan qat'i nazar kelib chiqadi — og'ir, o'ta og'ir yoki uncha og'ir bo'lmagan jinoyatlarda ham."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "n": "241-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1396841",
+  "sarlavha": "241¹-modda. Jinoyatni hisobga olishdan qasddan yashirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3835916",
+      "matn": "Jinoyatlar toʻgʻrisidagi arizalar, xabarlar va boshqa maʼlumotlarni qabul qilish, roʻyxatdan oʻtkazish yoki koʻrib chiqish xizmat vazifalariga kiradigan mansabdor shaxsning jinoyatni hisobga olishdan qasddan yashirishi, — ikki yildan uch yilgacha axloq tuzatish ishlari yoki muayyan huquqdan mahrum qilib, uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3835920",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3835926",
+          "matn": "takroran sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3835927",
+          "matn": "bir guruh shaxslar tomonidan sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3835929",
+          "matn": "ogʻir oqibatlarga sabab boʻlsa, — muayyan huquqdan mahrum qilib, besh yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

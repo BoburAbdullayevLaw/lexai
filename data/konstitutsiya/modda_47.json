@@ -1,0 +1,28 @@
+{
+  "n": "47",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445597",
+  "sarlavha": "47-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445598",
+      "matn": "Har kim uy-joyli boʻlish huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445599",
+      "matn": "Hech kim sudning qarorisiz va qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas. Uy-joyidan mahrum etilgan mulkdorga uy-joyning qiymati hamda u koʻrgan zararlarning oʻrni qonunda nazarda tutilgan hollarda va tartibda oldindan hamda teng qiymatda qoplanishi taʼminlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6445601",
+      "matn": "Davlat uy-joy qurilishini ragʻbatlantiradi va uy-joyga boʻlgan huquqning amalga oshirilishi uchun shart-sharoitlar yaratadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445602",
+      "matn": "Aholining ijtimoiy jihatdan ehtiyojmand toifalarini uy-joy bilan taʼminlash tartibi qonun bilan belgilanadi."
+    }
+  ]
+}

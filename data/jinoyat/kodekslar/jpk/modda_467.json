@@ -1,0 +1,32 @@
+﻿{
+  "n": 467,
+  "sarlavha_id": "-256584",
+  "sarlavha": "467-modda. Ayblov hukmining tavsif qismi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256585",
+      "matn": "Ayblov hukmining tavsif qismida sud isbot etilgan deb eʼtirof etgan jinoiy qilmishning tavsifi, sodir etilgan joyi, vaqti, usuli, aybning shakli, jinoyatning sabablari, maqsadlari va oqibatlari koʻrsatilishi lozim. Hukmda sudning har bir sudlanuvchiga nisbatan xulosalariga asos boʻlgan dalillar va sudning boshqa dalillarni rad etish sabablari yoziladi. Javobgarlikni yengillashtiruvchi yoki ogʻirlashtiruvchi holatlar, aybning bir qismi asossiz deb topilgan taqdirda yoki jinoyatning tavsifi notoʻgʻriligi aniqlanganda esa ayblovni oʻzgartirish asoslari va sabablari koʻrsatiladi."
+    },
+    {
+      "q": 2,
+      "id": "-256586",
+      "matn": "Sud, shuningdek Jinoyat kodeksi moddasining jazo qismida ozodlikdan mahrum qilish bilan bogʻliq boʻlmagan boshqa jazo choralari ham nazarda tutilgan boʻlsa, ozodlikdan mahrum etish tariqasidagi jazo nimaga asoslanib tayinlaganini; ozodlikdan mahrum etish jazosiga hukm qilinganga koloniyada saqlash tartibining muayyan turini belgilashni yoki ozodlikdan mahrum etish jazosini turmada oʻtashni tayinlashni; sudlanuvchi oʻta xavfli retsidivist deb topilganligini; shartli hukm qoʻllanilganini; Jinoyat kodeksining moddasida xuddi shunday jinoyat uchun nazarda tutilgan eng kam jazodan ham kamroq jazo tayinlanganligini; boshqa yengilroq jazoga oʻtilganligini; umumiy qoidalardan chekinib koloniya turi tayinlanganligini; boshqa taʼsir choralarini qoʻllab yoki qoʻllamasdan sudlanuvchi jazodan ozod etilganligini asoslab berishi shart."
+    },
+    {
+      "q": 3,
+      "id": "-5459968",
+      "matn": "Sud qonunchilikka muvofiq sudlanuvchiga nisbatan tibbiy yoʻsindagi majburlov chorasi qoʻllash yoki uning ustidan homiylik tayinlash lozim deb topsa, bunday qarorga kelish sabablarini koʻrsatishi shart."
+    },
+    {
+      "q": 4,
+      "id": "-256591",
+      "matn": "Jamoat birlashmasining yoki jamoaning sudlanuvchini shartli hukm qilib, u bilan tarbiyaviy ish olib borish uchun oʻzlariga berishni soʻragan iltimosnomalari boʻlsa, sud bu iltimosnomalarni qanoatlantirish yoki rad etish sabablarini hukmda koʻrsatadi."
+    },
+    {
+      "q": 5,
+      "id": "-256592",
+      "matn": "Sud, shuningdek qoʻzgʻatilgan fuqaroviy daʼvo toʻgʻrisida yoki jinoyat oqibatida keltirilgan mulkiy zararni undirish toʻgʻrisida oʻz tashabbusi bilan chiqargan qarorning asoslarini ham koʻrsatishi lozim."
+    }
+  ]
+}

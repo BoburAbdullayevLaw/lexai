@@ -1,0 +1,17 @@
+﻿{
+  "n": 159,
+  "sarlavha_id": "-7355146",
+  "sarlavha": "159-modda. Olib qoʻyishni oʻtkazish toʻgʻrisidagi qaror yoki ajrim",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7355147",
+      "matn": "Olib qoʻyish surishtiruvchining yoki tergovchining qarori yoxud sudning ajrimiga koʻra oʻtkaziladi, bunda ular olib qoʻyishni oʻtkazishni surishtiruv organiga yoki tergovchiga topshirishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-7355149",
+      "matn": "Olib qoʻyishni oʻtkazish toʻgʻrisidagi qarorda yoki ajrimda bu harakat qayerda va kimnikida bajarilishi zarurligi, qaysi narsalar yoki hujjatlar yoxud elektron maʼlumotlar olib qoʻyilishi lozimligi koʻrsatilgan boʻlishi kerak."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "n": 586,
+  "sarlavha_id": "-261024",
+  "sarlavha": "586-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-261025",
+      "matn": "Sudning ajrimi quyidagi qoidalar boʻyicha tuziladi."
+    },
+    {
+      "q": 2,
+      "id": "-261026",
+      "matn": "Sud ajrimining kirish qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5655859",
+          "matn": "sud ishining raqami, ajrim chiqarilgan vaqt va joy;"
+        },
+        {
+          "b": 2,
+          "id": "-261028",
+          "matn": "ajrim chiqargan sudning nomi, sudyaning, sud majlisi kotibining, taraflarning, tarjimonning ismi, otasining ismi va familiyasi;"
+        },
+        {
+          "b": 3,
+          "id": "-261029",
+          "matn": "gumon qilinuvchining, ayblanuvchining, sudlanuvchining ismi, otasining ismi va familiyasi, tugʻilgan yili, oyi, kuni va joyi, yashash joyi, ishlash joyi, mashgʻuloti, maʼlumoti va ish uchun ahamiyatga molik boshqa maʼlumotlar koʻrsatiladi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-261030",
+      "matn": "Sud ajrimining tavsif qismida yarashuv uchun asos boʻlgan holatlar bayon etiladi, ushbu Kodeksning 585-moddasida sanab oʻtilgan masalalarga javoblar ifodalanadi."
+    },
+    {
+      "q": 4,
+      "id": "-261031",
+      "matn": "Ajrimning qaror qismida sud quyidagi masalalarni hal etadi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3352540",
+          "matn": "jinoyat ishini taraflarning yarashganligi munosabati bilan yoki ushbu Kodeksning 83 va 84-moddalarida belgilangan boshqa asoslar boʻyicha tugatish yoxud uni umumiy qoidalar boʻyicha surishtiruv yoki dastlabki tergovni amalga oshirish uchun prokurorga yuborish toʻgʻrisidagi;"
+        },
+        {
+          "b": 2,
+          "id": "-261033",
+          "matn": "ehtiyot chorasi toʻgʻrisidagi;"
+        },
+        {
+          "b": 3,
+          "id": "-7235357",
+          "matn": "ashyoviy, yozma va raqamli dalillar toʻgʻrisidagi;"
+        },
+        {
+          "b": 4,
+          "id": "-261035",
+          "matn": "zararni qoplash toʻgʻrisidagi."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "-261036",
+      "matn": "Sudning ajrimiga gumon qilinuvchi, ayblanuvchi, sudlanuvchi, jabrlanuvchi (fuqaroviy daʼvogar), ularning qonuniy vakillari, himoyachi tomonidan xususiy shikoyat berilishi hamda prokuror tomonidan xususiy protest keltirilishi mumkin."
+    }
+  ]
+}

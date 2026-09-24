@@ -1,0 +1,48 @@
+{
+  "n": 189,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-265603",
+  "sarlavha": "189-modda. Savdo yoki xizmat koʻrsatish qoidalarini buzish",
+  "umumiy_sharh": [
+    "Jinoyat obyekti fuqaro manfaatlari, mulkchilik shaklidan qat'i nazar, savdo korxonalari, umumiy ovqatlanish korxonalarining me'yoriy faoliyati hisoblanadi.",
+    "Obyektiv tomondan jinoyat shunday qilmishlar uchun ma'muriy jazo qo'llangandan so'ng savdo yoki xizmat ko'rsatish qoidalarini ancha miqdordagi qiymatda buzishda ifodalanadi.",
+    "Jinoyatni kvalifikatsiya qilishda har bir alohida vaziyatda aybdor savdoning qaysi qoidasini, ushbu qoidalarning qaysi bandini buzganligini aniqlash lozim.",
+    "Kam o'lchash – bu sotib oluvchi yoki buyurtmachiga tovarlarni ularga bildirmay to'liq bo'lmagan miqdorda yoki o'lchovda berish.",
+    "Kam tortish – bu tovarlarni har qanday usulda tarozidan urib qolish.",
+    "Haqdan urib qolish – bu sotib oluvchi yoki buyurtmachiga bildirmay tovarlar yoki xizmatlar uchun to'lanishi lozim bo'lgan pul mablag'larini bila turib noto'g'ri hisoblash.",
+    "Xaridor yoki buyurtmachilarni boshqa tarzda aldash deganda, xaridor yoki buyurtmachilarni amalga oshirilayotgan bitimga nisbatan yanglishtirishning har qanday usuli tushuniladi.",
+    "JK 189-moddasi 1-qismi ma'muriy preyuditsiyaga ega, ya'ni jinoiy javobgarlik shunday harakatlar uchun ma'muriy jazo qo'llanilganidan keyin kelib chiqadi.",
+    "Jinoyat qoidaning biron-bir bandi buzilgan paytdan tugallangan hisoblanadi.",
+    "Subyektiv tomondan savdo yoki xizmat ko'rsatish qoidalarini buzish qasddan sodir etiladi.",
+    "Jinoyat subyekti savdo yoki xizmat ko'rsatish sohasida ishlayotgan va o'n olti yoshga to'lgan har qanday shaxs bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-265605",
+      "matn": "Savdo yoki xizmat koʻrsatish qoidalarini ancha miqdordagi qiymatda buzish, shunday qilmishlar uchun maʼmuriy jazo qoʻllanilgandan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravarigacha miqdorda jarima yoki besh yilgacha muayyan huquqdan mahrum qilish yoxud bir yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-265605",
+      "matn": "Tovarlar savdosi yoki xizmat koʻrsatish qoidalarini koʻp miqdordagi qiymatda buzish, shuningdek, savdo yoki xizmat koʻrsatish qoidalarini buzish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1422385",
+          "matn": "xavfli retsidivist yoki ilgari ushbu Kodeksning 188 yoki 190-moddalarida nazarda tutilgan jinoyatlarni sodir etgan shaxs tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1422386",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravaridan uch yuz baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-265605",
+      "matn": "Tovarlar savdosi yoki xizmat koʻrsatish qoidalarini juda koʻp miqdordagi qiymatda buzish — bazaviy hisoblash miqdorining uch yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki olti oygacha qamoq bilan jazolanadi."
+    }
+  ]
+}

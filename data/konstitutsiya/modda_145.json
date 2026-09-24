@@ -1,0 +1,23 @@
+{
+  "n": "145",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446173",
+  "sarlavha": "145-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446174",
+      "matn": "Oʻzbekiston Respublikasining prokuratura organlari oʻz vakolatlarini boshqa davlat organlaridan, oʻzga tashkilotlardan, mansabdor shaxslardan mustaqil ravishda, faqat Oʻzbekiston Respublikasining Konstitutsiyasiga va qonunlariga boʻysungan holda amalga oshiradi."
+    },
+    {
+      "q": 2,
+      "id": "-6446175",
+      "matn": "Prokurorlar oʻz vakolatlari davrida siyosiy partiyalarga va siyosiy maqsadlarni koʻzlovchi boshqa jamoat birlashmalariga aʼzolikni toʻxtatib turadilar."
+    },
+    {
+      "q": 3,
+      "id": "-6446176",
+      "matn": "Prokuratura organlarini tashkil etish, ularning vakolatlari va faoliyat koʻrsatish tartibi qonun bilan belgilanadi."
+    }
+  ]
+}

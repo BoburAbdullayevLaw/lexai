@@ -1,0 +1,59 @@
+﻿{
+  "n": 577,
+  "sarlavha_id": "-257229",
+  "sarlavha": "577-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4516549",
+      "matn": "Keyinchalik ruhiy holatining buzilishi yuzaga kelgan shaxs sodir etgan jinoyat toʻgʻrisidagi yoki aqli norasolik holatida sodir etilgan ijtimoiy xavfli qilmish haqidagi ish boʻyicha sud majlisida chiqarilgan sud ajrimi quyidagi qoidalar asosida tuziladi."
+    },
+    {
+      "q": 2,
+      "id": "-5655852",
+      "matn": "Sud ajrimning kirish qismida sud ishining raqamini, ishi koʻrilayotgan shaxsning familiyasi, ismi, otasining ismi, tugʻilgan yili, oyi, kuni va joyi, turar joyi, ish joyi, mashgʻulot turi, maʼlumotini va shaxsi toʻgʻrisidagi ish uchun ahamiyatga molik boshqa maʼlumotlarni koʻrsatadi."
+    },
+    {
+      "q": 3,
+      "id": "-257232",
+      "matn": "Ajrimning tavsif-asoslash qismida sud tibbiy yoʻsindagi majburlov choralarini qoʻllash yoki qoʻllamaslik uchun asos boʻlib xizmat qilgan holatlarni bayon qiladi, shu chorani qoʻllashni taqozo qiladigan, shubha ostiga qoʻyadigan yoki unga monelik qiladigan dalillar keltiradi. Shundan soʻng ajrimda sud ushbu Kodeksning 576-moddasida sanab oʻtilgan masalalarga oʻzining javoblarini ifodalaydi."
+    },
+    {
+      "q": 4,
+      "id": "-257233",
+      "matn": "Ajrimning xulosa qismida sud quyidagi qarorlardan birini bayon qiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-4516552",
+          "matn": "shaxsni jinoyat sodir etgan, keyinchalik unda ruhiy holatining buzilishi yuzaga kelgan deb eʼtirof etish yoxud uni ijtimoiy xavfli qilmishni aqli noraso holatda sodir etgan deb topish toʻgʻrisida, shuningdek bu shaxsga nisbatan tibbiy yoʻsindagi majburlov choralarini qoʻllash yoki qoʻllamaslik toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "-257235",
+          "matn": "ishi koʻrilayotgan shaxs qilgan deb hisoblanayotgan jinoyat hodisasi yoki ijtimoiy xavfli qilmish yoʻqligi sababli ishni tugatish toʻgʻrisida;"
+        },
+        {
+          "b": 3,
+          "id": "-3175043",
+          "matn": "shaxsning daxldor emasligi tufayli tibbiy yoʻsindagi majburlov choralarini qoʻllash toʻgʻrisidagi ish yuritishni tugatish haqida va ushbu shaxsni aniqlash hamda uni ayblanuvchi tariqasida ishda ishtirok etishga jalb qilish choralarini koʻrish uchun ishni prokurorga yuborish toʻgʻrisida;"
+        },
+        {
+          "b": 4,
+          "id": "-3175046",
+          "matn": "tibbiy yoʻsindagi majburlov choralarini qoʻllash toʻgʻrisidagi ishni yuritishni tugatish va mazkur shaxsga nisbatan ish boʻyicha ushbu Kodeksning 579-moddasiga asosan sud ishi yurituvini qoʻzgʻatish haqida."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "-4516555",
+      "matn": "Keyinchalik ruhiy holatining buzilishi yuzaga kelgan shaxs sodir etgan jinoyat yoki aqli norasolik holatida sodir etilgan ijtimoiy xavfli qilmish tufayli mulkiy ziyon yetkazilgan boʻlsa, ziyonning oʻrnini qoplash toʻgʻrisidagi masala fuqaroviy sud ishlarini yuritish tartibida hal etiladi."
+    },
+    {
+      "q": 6,
+      "id": "-257240",
+      "matn": "Ruhiy holati buzilgan va umumiy asosda davolanishga muhtoj boʻlgan shaxsga nisbatan tibbiy yoʻsindagi majburlov choralarini qoʻllash toʻgʻrisidagi ishni yuritish tugatilgan taqdirda, sud bu haqda shaxsning turar joyidagi sogʻliqni saqlash organiga darhol xabar qiladi."
+    }
+  ]
+}

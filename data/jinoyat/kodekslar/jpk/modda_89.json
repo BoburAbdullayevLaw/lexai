@@ -1,0 +1,22 @@
+﻿{
+  "n": 89,
+  "sarlavha_id": "-253809",
+  "sarlavha": "89-modda. Davlat sirlarini qoʻriqlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7234103",
+      "matn": "Davlat sirlari boʻlgan narsalarni yoki hujjatlarni yoxud elektron maʼlumotlarni koʻzdan kechirish, olib qoʻyish va unga doir boshqa harakatlar faqat surishtiruvchi yoki tergovchining prokuror sanksiya bergan qaroriga binoan yoxud sud ajrimiga koʻra amalga oshirilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-7234109",
+      "matn": "Prokuror yoki sud majlisida raislik qiluvchi bunday harakatlarni oʻtkazish vaqti, joyi va boshqa shartlarini shu narsalarni yoki hujjatlarni yoxud elektron maʼlumotlarni saqlash uchun javobgar boʻlgan korxona, muassasa yoki tashkilot rahbari bilan kelishib oladi."
+    },
+    {
+      "q": 3,
+      "id": "-7234129",
+      "matn": "Bunday harakatlarni yuritishda ekspert, mutaxassis, xolis sifatida faqat davlat sirlari boʻlgan narsalar, hujjatlar va elektron maʼlumotlar bilan tanishishga ruxsat berilgan shaxslar ishtirok etadilar."
+    }
+  ]
+}

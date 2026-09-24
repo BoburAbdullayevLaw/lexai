@@ -1,0 +1,45 @@
+{
+  "n": 226,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-266908",
+  "sarlavha": "226-modda. Maʼmuriy nazorat qoidalarini buzish",
+  "umumiy_sharh": [
+    "Jazoni ijro etish muassasalaridan bo'shatilgan shaxslar ustidan ichki ishlar idoralarining ma'muriy nazorati to'g'risidagi Qonun qabul qilingan. Ma'muriy nazorat tarbiyaviy va jinoyatlar sodir etilishining oldini olishga qaratilgan ta'sir choralarining yig'indisi bo'lib, nazorat ostidagi shaxslarga ma'muriy cheklashlarni tatbiq etishdan iborat.",
+    "Ma'muriy nazorat voyaga yetgan og'ir jinoyatlar uchun ozodlikdan mahrum qilishga hukm etilgan yoki ikki yoki undan ortiq marta hukm etilgan shaxslarga nisbatan o'rnatiladi.",
+    "Ma'muriy nazorat ostiga olingan shaxslarga kunning ichki ishlar idoralari belgilab qo'ygan vaqtida uydan chiqib ketishni taqiqlash, muayyan joylarda bo'lishni taqiqlash, militsiya ruxsatisiz tashqariga chiqishni taqiqlash kabi cheklashlar qo'llanilishi mumkin.",
+    "Ma'muriy nazorat ostida turgan shaxs halol mehnat qilib kun kechirishi, jamoat tartibini buzmasligi, boshqa fuqarolarning qonuniy manfaatlariga putur yetkazmasligi shart.",
+    "Sudyaning qarori ma'muriy nazorat o'rnatilishi uchun asos hisoblanadi. Ma'muriy nazorat olti oydan bir yilgacha muddatga belgilanadi.",
+    "Ma'muriy nazorat muddati ichki ishlar idoralarining taqdimnomasiga binoan har safar yana olti oyga uzaytirilishi mumkin.",
+    "Ma'muriy nazorat belgilangan muddat tugaganda, shaxs tuzalish yo'liga o'tganida yoki sudlanganlik muhlati tugaganda to'xtatiladi.",
+    "Jinoyat obyekti ma'muriy nazoratni amalga oshirishning belgilangan tartibi, ichki ishlar idoralarining normal faoliyati hisoblanadi.",
+    "Obyektiv tomondan jinoyat ma'muriy nazorat qo'llanilgan shaxslar tomonidan nazorat qoidalarining buzilishida ifodalanadi.",
+    "Jinoyat biron-bir bandi buzilgan paytdan e'tiboran tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat qasddan sodir etiladi. Motiv va maqsad kvalifikatsiyada ahamiyatga ega emas.",
+    "Jinoyat subyekti faqat nisbatan ma'muriy nazorat qo'llanilgan shaxs hisoblanadi.",
+    "Istiqomat joyidan o'zboshimchalik bilan ketib qolish deganda, ma'muriy nazoratni amalga oshirayotgan ichki ishlar idoralarining rasmiy ijozatisiz istiqomat joyidan ketib qolish tushuniladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-266910",
+      "matn": "Ustidan maʼmuriy nazorat oʻrnatilgan shaxsning maʼmuriy nazorat qoidalarini buzishi, mazkur shaxsga shunday qilmish uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki ikki yilgacha ozodlikni cheklash yoxud ikki yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-266913",
+      "matn": "Maʼmuriy nazorat qoidalarini buzish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-266914",
+          "matn": "maʼmuriy nazoratdan boʻyin tovlash maqsadida oʻz istiqomat joyini oʻzboshimchalik bilan tashlab ketish;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-266915",
+          "matn": "maʼmuriy nazorat ozodlikdan mahrum qilish joylaridan ozod qilish vaqtida shaxsga nisbatan oʻrnatilgan boʻlib, u oʻzi tanlagan yashash joyiga uzrli sabablarsiz muayyan muddatda yetib kelmasligi tufayli sodir etilgan boʻlsa, — ikki yildan toʻrt yilgacha ozodlikni cheklash yoxud ikki yildan toʻrt yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

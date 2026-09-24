@@ -1,0 +1,87 @@
+{
+  "n": 105,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-233974",
+  "sarlavha": "105-modda. Qasddan badanga oʻrtacha ogʻir shikast yetkazish",
+  "umumiy_sharh": [
+    "Badanga o'rtacha og'ir shikast yetkazish jinoyati badanga og'ir shikast yetkazish jinoyatidan eng avvalo shunisi bilan farq qiladiki, u hayot uchun xavfli bo'lmaydi va odatdagidek kechganida insonning o'limiga olib kelishi mumkin emas. Bundan tashqari, badanga o'rtacha og'ir shikast yetkazish badanga og'ir shikast yetkazishga xos bo'lgan oqibatlarni keltirib chiqarmaydi.",
+    "Badanga o'rtacha og'ir shikast yetkazishning asosiy belgilari quyidagilardir: yetkazilayotgan paytda shaxs hayotiga xavfning mavjud emasligi; sog'liqning kamida yigirma bir kun, biroq to'rt oydan ko'p bo'lmagan davrga yomonlashuvi; umumiy mehnat qobiliyatining o'n foizidan o'ttiz uch foizigacha yo'qolishi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6436768",
+      "matn": "Sodir etilayotgan paytda hayot uchun xavfli boʻlmagan va ushbu Kodeksning 104-moddasida nazarda tutilgan oqibatlarga olib kelmagan, lekin sogʻliqning uzoq vaqt, yaʼni kamida yigirma bir kun, ammo toʻrt oydan koʻp boʻlmagan davrda yomonlashuviga yoki umumiy mehnat qobiliyatining oʻn foizidan oʻttiz uch foizigacha yoʻqolishiga sabab boʻlgan qasddan badanga oʻrtacha ogʻir shikast yetkazish ushbu Kodeksning 126¹-moddasida nazarda tutilgan jinoyat alomatlari mavjud boʻlmasa — uch yuz oltmish soatgacha majburiy jamoat ishlari yoki uch yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-233979",
+      "matn": "Qasddan badanga oʻrtacha ogʻir shikast yetkazish:",
+      "sharh": [
+        "Agar qasddan badanga o'rtacha og'ir shikast yetkazish: a) ikki yoki undan ortiq shaxsga nisbatan (JKning 104-moddasi 3-qismi «a» bandi sharhiga qarang); b) homiladorligi aybdorga ayon bo'lgan ayolga nisbatan (JKning 104-moddasi 2-qismi «a» bandi sharhiga qarang); v) o'z xizmat yoki fuqarolik burchini bajarishi munosabati bilan shaxsga yoki uning yaqin qarindoshlariga nisbatan (JKning 104-moddasi 2-qismi «b» bandi sharhiga qarang); g) o'ta shafqatsizlik bilan (JKning 104-moddasi 2-qismi «v» bandi sharhiga qarang); d) ommaviy tartibsizliklar jarayonida (JKning 104-moddasi 2-qismi «g» bandi sharhiga qarang); ye) tamagirlik niyatida (JKning 104-moddasi 2-qismi «d» bandi sharhiga qarang); j) millatlararo yoki irqiy adovat zamirida (JKning 104-moddasi 2-qismi «j» bandi sharhiga qarang); z) diniy taassublar zamirida (JKning 104-moddasi 2-qismi «z» bandi sharhiga qarang); i) bir guruh shaxslar yoki uyushgan guruh a'zosi tomonidan yoki shu guruh manfaatlarini ko'zlab (JKning 104-moddasi 2-qismi «k» bandi sharhiga qarang); k) takroran, xavfli retsidivist yoki ilgari JKning 104-moddasida nazarda tutilgan qasddan badanga og'ir shikast yetkazish jinoyatini sodir etgan yoki JKning 97-moddasida nazarda tutilgan qasddan odam o'ldirish jinoyatini sodir etgan shaxs tomonidan (JKning 32, 34, 97-moddalari va 104-moddasining 3-qismi «b» bandi sharhiga qarang); l) o'ta xavfli retsidivist tomonidan (JKning 34 va 97-moddalari sharhiga qarang); m) qurolni yoki sovuq qurol sifatida foydalanilishi mumkin bo'lgan ashyolarni ishlatib sodir etilgan bo'lsa (JKning 104-modda 2-qism sharhiga qarang)."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-233980",
+          "matn": "ikki yoki undan ortiq shaxsga nisbatan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-233981",
+          "matn": "homiladorligi aybdorga ayon boʻlgan ayolga nisbatan;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-233982",
+          "matn": "oʻz xizmat yoki fuqarolik burchini bajarishi munosabati bilan shaxsga yoki uning yaqin qarindoshlariga nisbatan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-233983",
+          "matn": "oʻta shafqatsizlik bilan;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-233984",
+          "matn": "ommaviy tartibsizliklar jarayonida;"
+        },
+        {
+          "b": "e",
+          "id": "https://lex.uz/docs/-111453#-233985",
+          "matn": "tamagirlik niyatida;"
+        },
+        {
+          "b": "j",
+          "id": "https://lex.uz/docs/-111453#-233986",
+          "matn": "millatlararo yoki irqiy adovat zamirida;"
+        },
+        {
+          "b": "z",
+          "id": "https://lex.uz/docs/-111453#-233987",
+          "matn": "diniy taassublar zamirida;"
+        },
+        {
+          "b": "i",
+          "id": "https://lex.uz/docs/-111453#-234094",
+          "matn": "bir guruh shaxslar yoki uyushgan guruh aʼzosi tomonidan yoxud shu guruh manfaatlarini koʻzlab;"
+        },
+        {
+          "b": "k",
+          "id": "https://lex.uz/docs/-111453#-234095",
+          "matn": "takroran, xavfli retsidivist yoki ilgari ushbu Kodeksning 104-moddasida nazarda tutilgan qasddan badanga ogʻir shikast yetkazish jinoyatini sodir etgan yoxud ushbu Kodeksning 97-moddasida nazarda tutilgan qasddan odam oʻldirish jinoyatini sodir etgan shaxs tomonidan;"
+        },
+        {
+          "b": "l",
+          "id": "https://lex.uz/docs/-111453#-5089719",
+          "matn": "oʻta xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "m",
+          "id": "https://lex.uz/docs/-111453#-5089720",
+          "matn": "qurolni yoki sovuq qurol sifatida foydalanilishi mumkin boʻlgan ashyolarni ishlatib sodir etilgan boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

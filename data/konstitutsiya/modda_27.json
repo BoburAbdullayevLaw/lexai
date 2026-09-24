@@ -1,0 +1,28 @@
+{
+  "n": "27",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445434",
+  "sarlavha": "27-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445477",
+      "matn": "Har kim erkinlik va shaxsiy daxlsizlik huquqiga ega."
+    },
+    {
+      "q": 2,
+      "id": "-6445506",
+      "matn": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi, qamoqqa olinishi, qamoqda saqlanishi yoki uning ozodligi boshqacha tarzda cheklanishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-6445507",
+      "matn": "Hibsga olishga, qamoqqa olishga va qamoqda saqlashga faqat sudning qaroriga koʻra yoʻl qoʻyiladi. Shaxs sudning qarorisiz qirq sakkiz soatdan ortiq muddat ushlab turilishi mumkin emas."
+    },
+    {
+      "q": 4,
+      "id": "-6445508",
+      "matn": "Shaxsni ushlash chogʻida unga tushunarli tilda uning huquqlari va ushlab turilishi asoslari tushuntirilishi shart."
+    }
+  ]
+}

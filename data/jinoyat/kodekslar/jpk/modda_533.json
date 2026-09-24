@@ -1,0 +1,44 @@
+﻿{
+  "n": 533,
+  "sarlavha_id": "-257034",
+  "sarlavha": "533-modda. Hukmning ijrosini kechiktirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-257035",
+      "matn": "Sudya ozodlikdan mahrum etilgan shaxsga nisbatan hukm ijrosini quyidagi asoslardan birortasi mavjud boʻlganda kechiktirishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-257036",
+          "matn": "mahkum jazoni oʻtashiga monelik qiladigan darajada ogʻir kasal boʻlib qolganida — u sogʻayguncha;"
+        },
+        {
+          "b": 2,
+          "id": "-257037",
+          "matn": "hukmni ijro etish paytigacha mahkuma homilador boʻlib qolsa — bir yildan oshiq boʻlmagan muddatga;"
+        },
+        {
+          "b": 3,
+          "id": "-257038",
+          "matn": "mahkumaning yosh bolasi boʻlsa — u uch yoshga toʻlgunga qadar;"
+        },
+        {
+          "b": 4,
+          "id": "-257040",
+          "matn": "jazoni darhol oʻtashni boshlash yongʻin yoki boshqa biror tabiiy ofat yuz berganligi, oilaning mehnatga yaroqli yagona aʼzosi ogʻir kasal boʻlib qolganligi, vafot etganligi oqibatida yoki boshqa favqulodda holatlar mahkum yoki uning oilasini juda mushkul ahvolga solib qoʻyishi mumkin boʻlsa — uch oydan oshmagan muddatga."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-257041",
+      "matn": "Hukmning jarima solish, fuqaroviy daʼvoni qanoatlantirish yoki keltirilgan ziyonni qoplash qismining ijro etilishini olti oygacha kechiktirish yoki toʻlovlarni boʻlib-boʻlib toʻlash masalasini sudya ishning muayyan holatlarini va mahkumning moddiy ahvolini eʼtiborga olib hal qiladi."
+    },
+    {
+      "q": 3,
+      "id": "-257042",
+      "matn": "Oʻta xavfli retsidivistlarga va oʻta ogʻir jinoyat sodir etgan shaxslarga nisbatan hukmning ijrosini kechiktirish mumkin emas."
+    }
+  ]
+}

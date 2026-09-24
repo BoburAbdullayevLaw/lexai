@@ -1,0 +1,54 @@
+{
+  "n": 56,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-194989",
+  "sarlavha": "56-modda. Jazoni ogʻirlashtiruvchi holatlar",
+  "umumiy_sharh": [
+    "Jazoni og'irlashtiruvchi holatlar - jinoyat va aybdorning ijtimoiy xavfliligini oshiruvchi omillar.",
+    "Bu holatlar mavjud bo'lganda sud og'irroq jazoni berishi shart.",
+    "Ro'yxat qat'iy - kengaytirib bo'lmaydi. Boshqa holatlarni og'irlashtiruvchi deb topish mumkin emas (3-qism).",
+    "Sodir etilgan holat jinoyat tarkibining zaruriy belgisi bo'lsa - qo'shimcha hisobga olinmaydi (4-qism)."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-194990",
+      "matn": "Quyidagi holatlarda jinoyat sodir etish jazoni ogʻirlashtiruvchi holatlar deb topiladi:",
+      "sharh": ["14 ta og'irlashtiruvchi holat sanab o'tilgan. Har biri mustaqil baholanadi."],
+      "bandlar": [
+        {"b":"a","id":"https://lex.uz/docs/-111453#-194991","matn":"homiladorligi aybdorga ayon boʻlgan ayolga nisbatan;","sharh":["Aybdor homiladorlikni oldindan bilishi yoki taxmin qilishi kerak.","Taxmin xato bo'lsa (homilador emas ekan) - hisobga olinmaydi.","Homiladorlik muddati va oqibatlaridan qat'i nazar og'irlashtiruvchi."]},
+        {"b":"b","id":"https://lex.uz/docs/-111453#-194992","matn":"yosh bola, qariya yoki ojiz ahvoldagi shaxsga nisbatan;","sharh":["Yosh bola: 14 yoshgacha. Qariya: ayol 55+, erkak 60+.","Ojiz: kasallik, jismoniy kamchilik tufayli qarshilik ko'stara olmaydiganlar.","Aybdor jabrlanuvchining holatini anglab yetgan bo'lishi kerak."]},
+        {"b":"v","id":"https://lex.uz/docs/-111453#-194993","matn":"xizmat vazifasi yoki fuqarolik burchini bajarganligi munosabati bilan shaxsga yoki uning yaqin qarindoshlariga nisbatan;","sharh":["Xizmat burchi: mehnat vazifalari doirasidagi harakatlar.","Fuqarolik burchi: qonun bilan yuklatilgan majburiyatlar, jinoyatni xabar qilish.","Jinoyat sababini ongli anglashi kerak. Vaqti ahamiyatsiz - oldin yoki keyin ham."]},
+        {"b":"g","id":"https://lex.uz/docs/-111453#-194994","matn":"aybdorga moddiy tomondan, xizmat jihatidan yoki boshqa jihatdan qaram shaxsga nisbatan;","sharh":["Qaramlik jinoiy maqsadni yengillashtiradi va qochish imkonini beradi.","Jabrlanuvchi qaramligidan foydalanilgan bo'lishi kerak.","Masalan: xodimga rahbar tomonidan ta'sir ko'rsatish."]},
+        {"b":"d","id":"https://lex.uz/docs/-111453#-194995","matn":"oʻta shafqatsizlik bilan;","sharh":["Oddiy shafqatsizlik emas - O'TA shafqatsizlik kerak.","Usul va vositalar jabrlanuvchiga ortiqcha azob berishi kerak.","Aybdor buni anglashi shart - subyektiv jihat."]},
+        {"b":"e","id":"https://lex.uz/docs/-111453#-194996","matn":"koʻpchilik uchun xavfli boʻlgan usulda;","sharh":["Yong'in, portlash, suv bostirish kabi usullar.","Usulning obyektiv xavfliligi aniqlanadi.","Oqibatlar emas, aynan usulning xavfliligi baholanadi."]},
+        {"b":"j","id":"https://lex.uz/docs/-111453#-4516871","matn":"yosh bola yoki ruhiy holatining buzilganligi aybdorga ayon boʻlgan shaxsdan foydalangan holda;","sharh":["Boladan foydalanish: jinoyatga jalb etish yoki yordamchi sifatida ishlatish.","Ruhiy holati buzilgan: es-hushini yo'qotmagan, lekin atrofni to'g'ri baholay olmaydiganlar.","Aybdor bu holatni anglab yetgan bo'lishi kerak."]},
+        {"b":"z","id":"https://lex.uz/docs/-111453#-194998","matn":"jinoyat natijasida ogʻir oqibatlarning kelib chiqqanligi;","sharh":["Oqibatlar jinoyat tarkibidan tashqarida bo'lishi kerak.","Qasddan yoki ehtiyotsizlik oqibatida bo'lishi mumkin.","Oqibatlar aybdor ongi bilan qamrab olingan bo'lishi shart."]},
+        {"b":"i","id":"https://lex.uz/docs/-111453#-194999","matn":"umumiy ofat sharoitidan foydalangan holda yoki favqulodda holat vaqtida yoxud ommaviy tartibsizliklar jarayonida;","sharh":["Foydalanish ongli bo'lishi kerak - tasodifiy emas.","Qonuniy harakatlar (odamlarni qutqarish) bu bandga kirmaydi.","Jamiyat kuchlarini uyg'otib, muvozanatni buzish xavfi."]},
+        {"b":"k","id":"https://lex.uz/docs/-111453#-195000","matn":"gʻarazli yoki boshqacha past niyatlarda;","sharh":["G'arazli: moddiy naf olish yoki xarajatlardan qutulish.","Past niyatlar: hasad, o'ch, bezorilik, qo'rqoqlik.","Niyat jinoyatdan oldin paydo bo'lishi kerak."]},
+        {"b":"l","id":"https://lex.uz/docs/-111453#-195001","matn":"irqiy yoki milliy dushmanlik yoxud adovat zamirida;","sharh":["Boshqa millatga, irqga nisbatan nafrat yoki g'ayirlik.","Millatlararo nifoq solish maqsadida harakat qilish.","Jamiyatda keskinlik va beqarorlikka olib keladi."]},
+        {"b":"m","id":"https://lex.uz/docs/-111453#-195002","matn":"bir guruh shaxslar tomonidan oldindan til biriktirgan holda yoki uyushgan guruh yoxud jinoiy uyushma tomonidan;","sharh":["Oldindan til biriktirish shart - tasodifiy birgalik emas.","Uyushgan guruh yoki jinoiy uyushma - 29-modda asosida.","Jinoyatni fosh etishni murakkablashtiradi."]},
+        {"b":"n","id":"https://lex.uz/docs/-111453#-195003","matn":"ilgari ham qasddan jinoyat sodir etgan shaxsning takroran yoki qasddan yangi jinoyat sodir etishi;","sharh":["Takroran: oldingi jinoyat uchun javobgarlik tugallanmagan.","Sudlanganlik bekor qilingan yoki javobgarlikdan ozod etilgan bo'lsa - hisobga olinmaydi.","Retsidiv retsidivdan og'irroq."]},
+        {"b":"o","id":"https://lex.uz/docs/-111453#-8282081","matn":"mastlik holatida yoki giyohvandlik vositalari, psixotrop moddalar yoxud ularning analoglari yoki shaxsning aql-idrokiga taʼsir qiluvchi boshqa moddalar taʼsiri ostida jinoyat sodir etish.","sharh":["Mastlik sababini qo'llangan vosita ahamiyatsiz - spirt yoki narkotik bir xil.","Sud mastlikni og'irlashtiruvchi deb topmasligi mumkin.","Mastlik darajasi jazoning og'irligiga ta'sir qiladi."]}
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195005",
+      "matn": "Sud sodir etilgan jinoyatning xususiyatini eʼtiborga olib, ushbu moddaning birinchi qismida nazarda tutilgan holatlarni ogʻirlashtiruvchi holat deb topmasligi ham mumkin.",
+      "sharh": ["Sud har qanday holatni og'irlashtiruvchi deb topmaslik huquqiga ega.","Bu miqdoriy emas, sifat jihatdan baholash - jinoyat xususiyatiga qarab."]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-195006",
+      "matn": "Sud jazo tayinlashda ushbu moddada nazarda tutilmagan holatlarni ogʻirlashtiruvchi holat deb topishi mumkin emas.",
+      "sharh": ["Ro'yxat qat'iy - boshqa holatlarni qo'shib bo'lmaydi.","Bu 55-moddaning 2-qismidan farqi - u ochiq ro'yxat."]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-195007",
+      "matn": "Ushbu holatlar Kodeks Maxsus qismining moddasida jinoyat tarkibining zaruriy belgisi sifatida nazarda tutilgan boʻlsa, jazo tayinlashda hisobga olinmaydi.",
+      "sharh": ["Konstruktiv yoki baholovchi belgi bo'lsa - qo'shimcha hisobga olinmaydi.","Takroran hisobga olish Jinoyat kodeksi prinsiplariga zid."]
+    }
+  ]
+}

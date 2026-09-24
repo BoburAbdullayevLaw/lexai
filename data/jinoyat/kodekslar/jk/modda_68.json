@@ -1,0 +1,29 @@
+{
+  "n": 68,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195151",
+  "sarlavha": "68-modda. Amnistiya akti asosida javobgarlikdan ozod qilish",
+  "umumiy_sharh": [
+    "Amnistiya — Oliy Majlis Senati tomonidan qabul qilinadigan insonparvarlik akti.",
+    "Faqat kuchga kirishidan oldin sodir etilgan jinoyatlarga qo'llaniladi.",
+    "Jinoyat qonunini va sud hukmini inkor qilmaydi — faqat holatni yengillashtiradi.",
+    "Muqaddam amnistiya qo'llanilgan shaxsga qayta qo'llanilishi mumkin (shartlar bilan).",
+    "Ijro etish — 3 oy ichida."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195152",
+      "matn": "Jinoyat sodir etgan shaxs amnistiya akti asosida javobgarlikdan ozod qilinishi mumkin.",
+      "sharh": [
+        "Amnistiya — Oliy Majlis Senati + Prezident taqdimnomasi.",
+        "Oqibatlari: javobgarlikdan ozod, jazodan ozod, muddat kamaytirish, shartli ozod, jazoni almashtirish, sudlanganlikni olib tashlash.",
+        "Qo'llanilmaslik: o'ta xavfli retsidivistlar, jazo rejimini buzuvchilar, amnistiyadan keyin qasddan jinoyat etganlar.",
+        "Qo'llanilishi mumkin: jinoyat qonuni o'zgargan, muddat o'tgan, boshqa davlat amnistiyasi.",
+        "Bir nechta amnistiya ta'siriga tushsa — oxirgisi yoki eng yaxshisi qo'llaniladi.",
+        "Amnistiya akti qabul qilingan yoki e'lon qilingan kundan kuchga kiradi.",
+        "Ayblanuvchi rozilik bermasa — ish oxirigacha ko'riladi, keyin amnistiya qo'llaniladi."
+      ]
+    }
+  ]
+}

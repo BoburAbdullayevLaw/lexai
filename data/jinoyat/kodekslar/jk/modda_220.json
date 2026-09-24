@@ -1,0 +1,49 @@
+{
+  "n": 220,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-266633",
+  "sarlavha": "220-modda. Ozodlikdan mahrum qilish jazosini ijro etish muassasalarining ishini izdan chiqaruvchi harakatlar",
+  "umumiy_sharh": [
+    "Davlat jinoiy javobgarlikni o'rnatsa va ozodlikdan mahrum qilish tarzidagi jazoni qo'llash orqali aybdor shaxslarni izolyatsiya qiladi. Jazoni ijro etish muassasalarida alohida rejim o'rnatiladi.",
+    "Ozodlikdan mahrum qilish tarzidagi jazoni ijro etish muassasalarining bir me'yorda faoliyat yuritishi sharhlanayotgan moddaning obyekti hisoblanadi.",
+    "Qonun chiqaruvchi jabrlanuvchi sifatida ikki toifani belgilaydi: ma'muriyat vakillari va mahkumlar.",
+    "Ozodlikdan mahrum qilish tarzidagi jazoni ijro etish muassasalari jazoni ijro etish koloniyalari, tarbiya koloniyalari, turmalardir.",
+    "Obyektiv tomondan jinoyat mahkumlarni terror qilish, ma'muriyat vakillariga hujum qilish, jinoiy guruhlar tashkil qilish yoki ular faoliyatida qatnashishda ifodalanadi.",
+    "Terror jismoniy kuch ishlatish, hayot yoki sog'liqqa zarar yetkazish. Mahkumlarni qo'rqitish turli shakllarda bo'lishi mumkin.",
+    "Ma'muriyat vakillariga hujum qilish ularning qonuniy harakatlari tufayli kelib chiqqan bo'lishi lozim.",
+    "Jinoiy guruh tashkil qilish deganda ozodlikdan mahrum qilish jazosini ijro etish muassasasining ishini izdan chiqaruvchi harakatlar maqsadida tashkil etilgan faoliyat tushuniladi.",
+    "Jinoiy guruh ishtirokchilari orasidan faqat tashkilotchi va faol ishtirokchilargina javobgarlikka tortiladilar.",
+    "Jinoyat formal tarkibli bo'lib, harakatlar sodir etilgan vaqtdan boshlab tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan ifodalanadi.",
+    "O'n olti yoshga to'lgan va ozodlikdan mahrum qilish jazosini ijro etish muassasasida jazoni o'tayotgan shaxs subyekt hisoblanadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-266635",
+      "matn": "Ozodlikdan mahrum qilish jazosini oʻtayotgan shaxsning mahkumlarni terror qilish yoki maʼmuriyat vakillariga hujum qilishda, shuningdek, bunday maqsadlarda jinoiy guruhlar tashkil qilish yoki shunday guruhlar faoliyatida faol qatnashishda ifodalanadigan ozodlikdan mahrum qilish jazosini ijro etish muassasasining ishini izdan chiqaruvchi harakatlari — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-266638",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-266639",
+          "matn": "oʻta xavfli retsidivist;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-266642",
+          "matn": "ogʻir yoki oʻta ogʻir jinoyati uchun hukm etilgan shaxs;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-266643",
+          "matn": "bir guruh shaxslar tomonidan sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

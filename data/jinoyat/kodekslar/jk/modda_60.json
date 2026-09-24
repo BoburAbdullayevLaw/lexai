@@ -1,0 +1,73 @@
+{
+  "n": 60,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-195020",
+  "sarlavha": "60-modda. Bir necha hukm yuzasidan jazo tayinlash",
+  "umumiy_sharh": [
+    "Bir necha hukm — hukm chiqarilgandan keyin jazo o'talmay turib yangi jinoyat sodir etilganda qo'llaniladi.",
+    "Jazo o'talmagan qismi yangi hukm jazosiga qo'shiladi.",
+    "Hukm e'lon qilingan vaqtdan boshlab hisoblanadi (qonuniy kuchga kirgan emas).",
+    "Sudlanganlik holati emas, jazo o'talgan vaqt hisobga olinadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-195021",
+      "matn": "Agar mahkum hukm chiqarilganidan keyin jazoni toʻla oʻtamay turib, yangi jinoyat sodir etsa, sud yangi hukm boʻyicha tayinlangan jazo muddatiga ilgarigi hukm yuzasidan oʻtalmay qolgan jazo muddatini toʻla yoki qisman qoʻshadi.",
+      "sharh": [
+        "Hukm e'lon qilingan vaqtdan boshlab hisoblanadi.",
+        "Yangi jinoyat uchun jazo to'liq hisobga olinishi kerak.",
+        "Bir necha jinoyat bo'lsa — avval majmui, keyin o'talmagan qism qo'shiladi.",
+        "Ehtiyot chorasi tanlanmagan bo'lsa — oxirgi hukm chiqarilgan kundan boshlab."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-195022",
+      "matn": "Bir necha hukm yuzasidan har xil turdagi jazolarni qoʻshish yoʻli bilan jazo tayinlashda ushbu Kodeksning 61-moddasida nazarda tutilgan qoidalarga amal qilinib, jazoning ogʻirroq turi uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Har xil jazo turlari: 61-modda qoidalari bo'yicha.",
+        "Og'irroq jazo turi uzil-kesil belgilanadi.",
+        "Uzil-kesil jazo yangi jazo + o'talmagan qismdan ko'p bo'lishi kerak."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-1319755",
+      "matn": "Agar hukmlardan biri bilan umrbod ozodlikdan mahrum qilish tariqasidagi jazo tayinlangan boʻlsa, bir necha hukmlar yuzasidan jazolarni qoʻshishda yengilroq jazo turini umrbod ozodlikdan mahrum qilish bilan qoplash orqali jazo uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Umrbod + boshqa jazolar = umrbod bilan qoplash.",
+        "Umrbod eng og'ir — boshqa jazolar unga qo'shiladi."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-1319756",
+      "matn": "Agar hukmlardan biri bilan uzoq muddatga ozodlikdan mahrum qilish jazosi tayinlangan boʻlsa, bir necha hukmlar yuzasidan jazolarni qoʻshishda yengilroq jazoni ogʻirrogʻi bilan qoplash yoxud jazolarni toʻla yoki qisman qoʻshish yoʻli bilan jazo uzil-kesil tayinlanadi.",
+      "sharh": [
+        "Uzoq muddatli (10-20 yil) + boshqa jazolar: qo'shish yoki qoplash.",
+        "Umumiy qoida: umrbod bo'lmasa 20 yildan oshmaslik."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-195023",
+      "matn": "Bir necha hukmlar yuzasidan axloq tuzatish ishlariga yoki xizmat boʻyicha cheklashga hukm qilinib, ish haqi yoki pul taʼminotidan ushlab qolishning har xil miqdori belgilangan hollarda bu jazolarning faqat muddatlari qoʻshiladi.",
+      "sharh": [
+        "AxtI yoki xizmat cheklash: faqat muddatlar qo'shiladi.",
+        "Ushlab qolish foizlari alohida hisoblanadi."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-195024",
+      "matn": "Ilgarigi hukm yuzasidan ijro etilmay qolgan qoʻshimcha jazolar hukmlar jami tariqasida tayinlangan asosiy jazoga qoʻshib tayinlanadi.",
+      "sharh": [
+        "O'talmagan qo'shimcha jazolar asosiy jazoga qo'shiladi.",
+        "Bir xil turi: og'irrog'i bilan qoplash yoki qo'shish.",
+        "Turlicha turlar: alohida ijro etiladi.",
+        "Muayyan huquqdan mahrum etish: asosiy (5 yil) + qo'shimcha (3 yil)."
+      ]
+    }
+  ]
+}

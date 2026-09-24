@@ -1,0 +1,42 @@
+﻿{
+  "n": 393,
+  "sarlavha_id": "-256183",
+  "sarlavha": "393-modda. Jinoyat ishining sudlovga tegishliligiga koʻra oʻtkazilishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256184",
+      "matn": "Jinoyat ishi toʻla, xolisona va oʻz vaqtida koʻrilishini taʼminlash maqsadida ishni bir suddan boshqa sudga yuqori sud raisi qarori bilan oʻtkazish mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-256186",
+      "matn": "Ishni boshqa viloyatdagi yoki Qoraqalpogʻiston Respublikasidagi sudga oʻtkazish masalasi Oʻzbekiston Respublikasi Oliy sudining Raisi tomonidan hal etiladi."
+    },
+    {
+      "q": 3,
+      "id": "-256187",
+      "matn": "Basharti sudya jinoyat ishini sudda muhokama qilish uchun tayinlash masalasini hal qilish chogʻida ish mazkur sudning sudloviga tegishli emasligini aniqlasa, ishni sudlovga tegishliligiga koʻra oʻtkazish toʻgʻrisida ajrim chiqaradi."
+    },
+    {
+      "q": 4,
+      "id": "-256189",
+      "matn": "Ishning oʻtkazilishiga faqat ish sud majlisida koʻrila boshlangunga qadar yoʻl qoʻyiladi."
+    },
+    {
+      "q": 5,
+      "id": "-256191",
+      "matn": "Ish shu darajadagi boshqa sudning sudloviga tegishli ekani sud majlisida maʼlum boʻlib qolsa, ishning holatlarini toʻla tekshirishga zarar yetkazmaydigan boʻlsa, sud ishni koʻrishni davom ettiraveradi, aks holda sud ishni sudlovga tegishliligiga koʻra boshqa sudga yuborib, bu haqda ajrim chiqaradi."
+    },
+    {
+      "q": 6,
+      "id": "-256192",
+      "matn": "Sud oʻz majlisida ishning yuqori sud yoki harbiy sud sudloviga tegishliligini aniqlagach, uni tegishli sudga yuborib, bu xususda ajrim chiqaradi."
+    },
+    {
+      "q": 7,
+      "id": "-256193",
+      "matn": "Yuqori sudning sud majlisida koʻrila boshlangan ishni quyi sudga yuborishga yoʻl qoʻyilmaydi."
+    }
+  ]
+}

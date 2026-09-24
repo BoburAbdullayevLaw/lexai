@@ -1,0 +1,39 @@
+﻿{
+  "n": 523,
+  "sarlavha_id": "-5234421",
+  "sarlavha": "523-modda. Yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash muddatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5234423",
+      "matn": "Mahkumning foydasini koʻzlab, ayblov hukmini yangi ochilgan holatlar tufayli qayta koʻrib chiqish hech qanday muddatlar bilan chegaralanmaydi."
+    },
+    {
+      "q": 2,
+      "id": "-5234428",
+      "matn": "Mahkumning oʻlimi uni reabilitatsiya qilish maqsadida ish yuritishni yangi ochilgan holatlar tufayli qaytadan boshlash uchun monelik qilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-5234429",
+      "matn": "Oqlov hukmini yoki ishni tugatish haqidagi sud ajrimini yoki ayblov hukmini jazoning yengilligi yoki ogʻirroq jinoyatga doir qonunni qoʻllash zarurligi munosabati bilan qayta koʻrishga faqat Jinoyat kodeksining 64-moddasida belgilangan javobgarlikka tortishning oʻtish muddatlari davomida va yangi holatlar ochilgan kundan eʼtiboran bir yildan kechiktirilmagan holda yoʻl qoʻyiladi."
+    },
+    {
+      "q": 4,
+      "id": "-5234433",
+      "matn": "Yangi ochilgan holatlar ochilgan kun quyidagicha hisoblanadi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5234435",
+          "matn": "ushbu Kodeks 522-moddasi uchinchi qismining 1 — 3-bandlarida nazarda tutilgan hollarda — soxta dalillar taqdim etganlikda, bila turib notoʻgʻri tarjima qilganlikda yoki ish boʻyicha tergov yuritishda yoxud ishni sudda koʻrishda jinoiy suiisteʼmol sodir etganlikda aybli shaxslarga nisbatan chiqarilgan hukm qonuniy kuchga kirgan kun;"
+        },
+        {
+          "b": 2,
+          "id": "-5234437",
+          "matn": "ushbu Kodeks 522-moddasi uchinchi qismining 4-bandida nazarda tutilgan hollarda — yangi ochilgan holatlar munosabati bilan ish yuritishni qaytadan boshlash toʻgʻrisida sudga prokuror tomonidan protest yoki ushbu Kodeks 524-moddasining birinchi qismida nazarda tutilgan shaxslar tomonidan iltimosnoma kiritilgan kun."
+        }
+      ]
+    }
+  ]
+}

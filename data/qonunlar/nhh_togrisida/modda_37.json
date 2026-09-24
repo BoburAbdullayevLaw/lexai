@@ -1,0 +1,28 @@
+{
+  "n": "37",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-6688595",
+  "sarlavha": "37-modda. Vazirliklar va idoralarning normativ-huquqiy hujjatlarini davlat roʻyxatidan oʻtkazish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6688598",
+      "matn": "Vazirliklar va idoralar normativ-huquqiy hujjatlar qabul qilingan kundan eʼtiboran oʻn kun ichida ularni davlat roʻyxatidan oʻtkazish uchun Oʻzbekiston Respublikasi Adliya vazirligiga taqdim etadi."
+    },
+    {
+      "q": 2,
+      "id": "-6688608",
+      "matn": "Vazirliklar va idoralarning davlat roʻyxatidan oʻtkazilmagan normativ-huquqiy hujjatlari tegishli ijtimoiy munosabatlarni huquqiy jihatdan tartibga solish uchun asos boʻlib xizmat qilishi mumkin emas hamda huquqiy oqibatlarga olib kelmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-6688612",
+      "matn": "Vazirliklar va idoralarning mansabdor shaxslari davlat roʻyxatidan oʻtkazilmagan normativ-huquqiy hujjatlarni amalga kiritganlik uchun qonunda belgilangan tartibda maʼmuriy javobgarlikka tortiladi."
+    },
+    {
+      "q": 4,
+      "id": "-6688628",
+      "matn": "Vazirliklar va idoralarning normativ-huquqiy hujjatlarini davlat roʻyxatidan oʻtkazish tartibi qonunchilikda belgilanadi."
+    }
+  ]
+}

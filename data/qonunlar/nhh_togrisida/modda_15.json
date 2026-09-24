@@ -1,0 +1,28 @@
+{
+  "n": "15",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-6687884",
+  "sarlavha": "15-modda. Vazirliklar yoki idoralar tomonidan qabul qilingan normativ-huquqiy hujjatlarga nisbatan huquqiy vorislik",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6687889",
+      "matn": "Tegishli normativ-huquqiy hujjatlarni qabul qilish huquqi berilgan vazirlik yoki idora qayta tashkil etilgan taqdirda, huquqiy vorisga oʻz vakolatlari doirasida normativ-huquqiy hujjatlar qabul qilish huquqi bilan birga ilgari qabul qilingan normativ-huquqiy hujjatlarga oʻzgartishlar, qoʻshimchalar kiritish, ularning amal qilishini toʻxtatib turish va tugatish vakolatlari ham oʻtadi, bundan ushbu moddaning ikkinchi qismida nazarda tutilgan hollar mustasno."
+    },
+    {
+      "q": 2,
+      "id": "-6687896",
+      "matn": "Vazirlik yoki idora tugatilgan yoxud u tegishli normativ-huquqiy hujjatlarni qabul qilish huquqini huquqiy vorisiga bermasdan qayta tashkil etilgan taqdirda, ilgari qabul qilingan normativ-huquqiy hujjatlarga oʻzgartishlar, qoʻshimchalar kiritish, ularning amal qilishini toʻxtatib turish va tugatish vakolatlari yuqori turuvchi organga yoki boshqa vakolatli organga oʻtadi."
+    },
+    {
+      "q": 3,
+      "id": "-6687910",
+      "matn": "Vazirlik yoki idora qayta nomlangan taqdirda, uning ilgarigi nomi koʻrsatilgan normativ-huquqiy hujjatlarning qayta nomlanishiga oid qismiga oʻzgartirish yoki qoʻshimcha kiritilishi lozim. Bunday oʻzgartirishlar yoxud qoʻshimchalar kiritilguniga qadar ilgarigi nomni oʻz ichiga olgan normativ-huquqiy hujjatlarning amal qilishi qayta nomlangan vazirlikka yoki idoraga nisbatan toʻliq hajmda tatbiq etiladi."
+    },
+    {
+      "q": 4,
+      "id": "-6688540",
+      "matn": "Vazirlik yoki idora maqomining oʻzgarishi ular tomonidan ilgari qabul qilingan normativ-huquqiy hujjatlarning amal qilishi tugatilishiga olib kelmaydi."
+    }
+  ]
+}

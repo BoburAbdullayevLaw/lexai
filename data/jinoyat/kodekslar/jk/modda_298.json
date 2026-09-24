@@ -1,0 +1,68 @@
+{
+  "n": 298,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-271639",
+  "sarlavha": "298-modda. Mashinalarni boshqarish yoki ulardan foydalanish qoidalarini buzish",
+  "umumiy_sharh": [
+    "Jinoyatning asosiy bevosita obyekti jangovar texnikani, maxsus va transport mashinalarini boshqarish va foydalanish tartiblarini ta'minlovchi ijtimoiy munosabatlar. Qo'shimcha obyekti odamlarning hayoti va salomatligi.",
+    "Predmet jangovar, maxsus va transport mashinalari. Har qanday avtonom dvigatelga ega, odam boshqaradigan harbiy-transport vositasi tushuniladi.",
+    "Jangovar mashinalar — jangovar vazifani bajarish uchun mo'ljallangan, jonli kuchlarni va dushman texnikasini nishonga olish uchun jihozlangan (tanklar, bronetransportyorlar, o'zi yurar artilleriya va raketa qurilmalari va h.k.).",
+    "Maxsus mashinalar — jangovar mashinalar qatoriga kirmaydigan, harbiy qismlarni muhandislik-texnik ta'minlashda maxsus funksiyalarni bajarish uchun mo'ljallangan (buldozerlar, sanitar transporti, harakatlanuvchi ta'mirlash ustaxonalari va h.k.).",
+    "Transport mashinalari — shaxsiy tarkibni, qurollarni, o'q-dorilarni tashish uchun mo'ljallangan mashinalar (yengil va yuk avtomobillari, avtobuslar, relsli transport va h.k.).",
+    "Obyektiv tomondan badanga o'rtacha og'ir yoki og'ir shikast yetishiga olib kelgan boshqarish yoki foydalanish qoidalarini buzishda ifodalanadi.",
+    "Ichki xizmat Nizomi, Yo'l harakati qoidalari va boshqa huquqiy aktlarda belgilangan tartibga qat'iy rioya qilish nazarda tutiladi.",
+    "Moddaning dispozitsiyasi blanket. Qaysi punkt buzilganligi, buzilish va oqibatlar orasidagi sababiy bog'lanish aniqlanishi zarur.",
+    "Boshqarish deganda mashinani bevosita boshqarish jarayoni tushuniladi. Harakat boshidan oxirigacha haydovchi o'rnatilgan qoidalarga rioya etishi lozim.",
+    "Foydalanish deganda mashinadan mo'ljalga muvofiq foydalanish va zarur texnik xizmatni ko'rsatish tushuniladi.",
+    "Jinoyatning zaruriy belgisi qonun-buzarliklar natijasida badanga og'ir yoki o'rtacha og'ir shikast yetkazilishi. Hayot va sog'liqqa zarar ushbu jinoyat tarkibi bilan qamrab olingan.",
+    "Jinoyat badanga shikastlar yetkazilgan vaqtdan boshlab tugallangan hisoblanadi.",
+    "Subyektiv tomondan qasddan yoki ehtiyotsizlik orqasida sodir etiladi. Oqibatlarga aybdor faqat ehtiyotsizlik bilan munosabatda bo'ladi.",
+    "Subyekti mashinadan foydalanish uchun mas'ul bo'lgan yoki uni bevosita boshqaradigan harbiy xizmatchi. Shtat bo'yicha haydovchi bo'lish-Bo'lmasligining ahamiyati yo'q.",
+    "Harbiy mashinalardan foydalanish qoidalarini buzish subyekti faqat maxsus yuklatilgan harbiy xizmatchigina bo'lishi mumkin (haydovchilar, mashina bo'yicha kattalar, KPP navbatchilari).",
+    "Instruktor nazorati ostida o'quv mashinasida boshqarishni o'rganayotgan harbiy xizmatchi javobgarlikka tortilmaydi. Harakat xavfsizligini ta'minlash instruktorga yuklatilgan.",
+    "Mashinaning texnik holatini nazorat qilish majburiyatlari yuklatilmagan harbiy xizmatchilar (sutkalik naryad shaxslari, KPP navbatchilari) ushbu jinoyatning subyektlari bo'la olmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-271641",
+      "matn": "Jangovar, maxsus yoki transport mashinalarini boshqarish yoxud ulardan foydalanish qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — ikki yilgacha xizmat boʻyicha cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3262166",
+      "matn": "O'sha qilmish odam o'lishiga sabab bo'lsa, — uch yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+      "sharh": [
+        "Jangovar mashinani boshqarish qoidalarini buzish va hayoti xavf ostida qolgan shaxsga yordam ko'rsatmaslik birgalikda sodir etilsa, JK 298 va JK 117-moddasining tegishli qismi bo'yicha kvalifikatsiya qilinishi lozim."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3262169",
+      "matn": "O'sha qilmish:",
+      "sharh": [
+        "3-qismda maxsus kvalifikatsiya belgilari sifatida odamlar o'limi, halokat va boshqa og'ir oqibatlar nazarda tutilgan."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3262170",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3262171",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3262172",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — yetti yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+          "sharh": [
+            "Boshqa og'ir oqibatlar: ancha miqdordagi moddiy yoki moddiy bo'lmagan zarar. Moddiy zarar avtomashina, muhandislik qurilmalari va boshqa binolarni yo'q qilish yoki shikast yetkazishda, chorva mollarining nobud bo'lishida ifodalanishi mumkin. Moddiy bo'lmagan og'ir oqibatlar muhim harbiy topshiriqlar, jangovar vazifalarning barbod bo'lishida ifodalanishi mumkin."
+          ]
+        }
+      ]
+    }
+  ]
+}

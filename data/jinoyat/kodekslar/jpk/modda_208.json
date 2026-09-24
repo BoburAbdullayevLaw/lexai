@@ -1,0 +1,32 @@
+﻿{
+  "n": 208,
+  "sarlavha_id": "-7235231",
+  "sarlavha": "208-modda. Ashyoviy, yozma va raqamli dalillarni saqlash hamda boshqa joyga yuborish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7235233",
+      "matn": "Ashyoviy, yozma va raqamli dalillarni saqlash, shuningdek ushbu dalillarning ekspertizaga yuborilganligi yoki jinoyat ishi boshqa tergovga qadar tekshiruv, surishtiruv, dastlabki tergov organiga, prokurorga yoxud sudga oʻtkazilganligi munosabati bilan ularni boshqa joyga yuborish chogʻida ashyoviy, yozma va raqamli dalillar yoʻqolishining, shikastlanishining, buzilishining, bir-biriga qoʻshilib yoki aralashib ketishining oldini olish choralari koʻrilishi kerak."
+    },
+    {
+      "q": 2,
+      "id": "-7235237",
+      "matn": "Ishni oʻtkazishda u bilan birga yuborilayotgan ashyoviy, yozma va raqamli dalillar ilova xatda yoki unga ilova qilinayotgan roʻyxatda sanab oʻtiladi. Bundan tashqari ayblov xulosasiga yoki ayblov dalolatnomasiga ilova qilingan maʼlumotnomada ishdagi mavjud barcha ashyoviy, yozma va raqamli dalillar xar birining qayerda ekanligi koʻrsatilgan xolda birma-bir sanab oʻtilgan boʻlishi kerak."
+    },
+    {
+      "q": 3,
+      "id": "-7235239",
+      "matn": "Ashyoviy, yozma va raqamli dalillar pochta yoki chopar orqali yetkazib berilganda tergovga qadar tekshiruvni amalga oshirayotgan organning mansabdor shaxsi, surishtiruvchi, tergovchi, prokuror yoki sudya olingan dalillarni xolislar ishtirokida, zarur boʻlgan hollarda esa ekspert yoxud mutaxassislar ishtirokida koʻzdan kechiradi va ularni ilova xati yoki roʻyxati bilan solishtiradi. Koʻzdan kechirish jarayoni va natijalari toʻgʻrisida bayonnoma tuziladi."
+    },
+    {
+      "q": 4,
+      "id": "-7235249",
+      "matn": "Ashyoviy, yozma va raqamli dalillar ular haqidagi masala sudning qonuniy kuchga kirgan hukmi, ajrimi bilan yoxud tergovga qadar tekshiruvni amalga oshirayotgan organ mansabdor shaxsining, surishtiruvchining, tergovchining, prokurorning ishni tugatish toʻgʻrisidagi qarori bilan hal qilinmaguniga qadar saqlab turiladi. Ushbu Kodeksning 210-moddasida nazarda tutilgan hollarda ashyoviy dalillar toʻgʻrisidagi qaror ish yuritish tamom boʻlguniga qadar qabul qilinishi mumkin."
+    },
+    {
+      "q": 5,
+      "id": "-7235250",
+      "matn": "Ashyoviy, yozma va raqamli dalil sifatida ishga qoʻshib qoʻyilgan narsaga, hujjatga va (yoki) elektron maʼlumotlarga egalik qilish huquqi toʻgʻrisidagi nizo fuqaroviy sud ishlarini yuritish tartibida hal qilinishi lozim boʻlganda ushbu narsa, hujjat va (yoki) elektron maʼlumotlar fuqaroviy ish boʻyicha sud chiqargan hal qiluv qarori qonuniy kuchga kirguniga qadar saqlanishi kerak."
+    }
+  ]
+}

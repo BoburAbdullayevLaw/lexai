@@ -1,0 +1,28 @@
+{
+  "n": 201,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-265988",
+  "sarlavha": "201-modda. Zararli kimyoviy moddalar bilan muomalada boʻlish qoidalarini buzish",
+  "umumiy_sharh": [
+    "Kimyoviy moddalar, preparatlar, himoya vositalari (agar ular o'ta zararli bo'lsa) atrof muhit uchun xavflidir, shuning uchun ulardan foydalanishda ularni saqlash, tashish, ishlab chiqarish, foydalanish qoidalariga qat'iy rioya qilish lozim.",
+    "Jinoyat obyekti inson hayoti va sog'lig'ini himoya qilishni, farovon tabiiy muhitni ta'minlashni o'z ichiga oluvchi ekologik xavfsizlik muhofazasi manfaatlari hisoblanadi.",
+    "Jinoyat predmeti kimyoviy moddalar, mineral o'g'itlar, o'sish biostimulyatorlari va boshqa kimyoviy dorilar hisoblanadi.",
+    "Obyektiv tomondan jinoyat zararli kimyoviy moddalarni ishlab chiqarish, saqlash, tashish yoki ulardan foydalanish qoidalarini buzish odamlarning ommaviy kasallanishi, hayvonlar, parrandalar yoki baliqlarning qirilib ketishi yoki boshqa og'ir oqibatlarning kelib chiqishida ifodalanadi.",
+    "Saqlash deganda, zararli moddalarni muayyan joyda asrash tushuniladi. Tashish deganda, ularni bir joydan ikkinchi joyga olib yurish nazarda tutiladi. Foydalanish deganda, preparatlarning maqsadga muvofiq qo'llanilishi tushuniladi.",
+    "Jinoyat sanab o'tilgan oqibatlardan loaqal bittasi ro'y bergan paytdan e'tiboran tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat egri qasd yoki ehtiyotsizlik shaklida sodir etiladi.",
+    "Jinoyat subyekti o'n olti yoshga to'lgan har qanday aqli raso shaxs, shu jumladan zararli kimyoviy moddalar bilan ishlash uchun mas'ul mansabdor shaxslar bo'lishi mumkin."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-265995",
+      "matn": "Xoʻjalik faoliyatida oʻsimliklarni himoya qilishning kimyoviy vositalari, mineral oʻgʻit, oʻsish biostimulyatori yoki boshqa kimyoviy dorilarni ishlab chiqarish, saqlash, tashish yoki ulardan foydalanish qoidalarini buzish odamlarning ommaviy kasallanishi, hayvonlar, parrandalar yoki baliqlarning qirilib ketishi yoxud boshqacha ogʻir oqibatlarning kelib chiqishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki besh yilgacha muayyan huquqdan mahrum qilish yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoxud uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-266001",
+      "matn": "Oʻsha harakatlar odam oʻlishiga sabab boʻlsa, — muayyan huquqdan mahrum qilib, uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

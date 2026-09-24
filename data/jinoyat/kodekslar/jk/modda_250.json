@@ -1,0 +1,30 @@
+{
+  "n": "250",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-267813",
+  "sarlavha": "250-modda. Portlash xavfi boʻlgan moddalar yoki pirotexnika buyumlaridan foydalanish qoidalarini buzish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-267839",
+      "matn": "Portlovchi, tez alangalanuvchi, oʻyuvchi moddalarni yoxud pirotexnika buyumlarini saqlash, hisobga olish, ulardan foydalanish, ularni tashish, joʻnatish qoidalarini buzish badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yuz oltmish soatgacha majburiy jamoat ishlari yoki ikki yilgacha axloq tuzatish ishlari yoxud bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-267848",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-267851",
+          "matn": "odam oʻlishiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-267854",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

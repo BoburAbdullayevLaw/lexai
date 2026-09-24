@@ -1,0 +1,34 @@
+﻿{
+  "n": 500,
+  "sarlavha_id": "-6627282",
+  "sarlavha": "500-modda. Kassatsiya shikoyatini (protestini) berish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627283",
+      "matn": "Qonuniy kuchga kirgan hukmlar, ajrimlar ustidan kassatsiya tartibida quyidagicha shikoyat berilishi va protest bildirilishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6627285",
+          "matn": "jinoyat ishlari boʻyicha tuman (shahar) sudlarining hukmlari, ajrimlari ustidan — Qoraqalpogʻiston Respublikasi sudiga, viloyatlar va Toshkent shahar sudlariga;"
+        },
+        {
+          "b": 2,
+          "id": "-6627286",
+          "matn": "hududiy harbiy sudlarning hukmlari, ajrimlari ustidan — Oʻzbekiston Respublikasi Harbiy sudiga;"
+        },
+        {
+          "b": 3,
+          "id": "-6627288",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudining, Qoraqalpogʻiston Respublikasi sudining, viloyatlar va Toshkent shahar sudlarining, Oʻzbekiston Respublikasi Harbiy sudining hukmlari, ajrimlari ustidan — ayni shu sudlarga."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-6627290",
+      "matn": "Kassatsiya shikoyatlari va protestlari hukmni, ajrimni chiqargan sud orqali beriladi. Shikoyat (protest) bevosita kassatsiya instansiyasi sudiga berilgan taqdirda, sud uni hukmni, ajrimni chiqargan sudga ushbu Kodeksning 479-moddasida nazarda tutilgan talablarni bajarish uchun yuboradi."
+    }
+  ]
+}

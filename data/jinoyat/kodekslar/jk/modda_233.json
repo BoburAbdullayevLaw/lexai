@@ -1,0 +1,33 @@
+{
+  "n": 233,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-266982",
+  "sarlavha": "233-modda. Band solingan mulkni qonunga xilof ravishda tasarruf etish",
+  "umumiy_sharh": [
+    "Jinoiy yo'l bilan topilgan mulkni davlat daromadiga o'tkazish maqsadida, hukmning fuqaroviy da'voga oid qismini ijrosini ta'minlash uchun gumon qilinuvchi, ayblanuvchi, sudlanuvchi yoki fuqaroviy javobgarning mol-mulkini xatlashi shart.",
+    "Jinoyat obyekti sud idoralarining normal faoliyati hisoblanadi. Qo'shimcha obyekti aybdordan xatlangan mol-mulk hisobidan qoplanishi mumkin bo'lgan summa foydasiga undirilgan davlat yoki boshqa mulkdorlarning huquqlari.",
+    "Obyektiv tomondan jinoyat ro'yxatga olingan yoki xatlangan yoxud garov predmeti bo'lgan mol-mulkni o'zlashtirish, sarf qilish, yashirish, nobud qilish yoki unga shikast yetkazishda ifodalanadi.",
+    "O'zlashtirish deganda, mol-mulk saqlashga topshirilgan shaxs tomonidan xatlangan yoxud garovga qo'yilgan mol-mulkning aybdor yoki uchinchi shaxs foydasiga o'zlashtirilishini tushunish lozim.",
+    "Rastrata qilish deganda, mol-mulkning uni saqlashga topshirilgan shaxs tomonidan begonalashtirilishi tushuniladi.",
+    "Yashirish deganda, mol-mulkning saqlash uchun boshqa shaxslarga yoxud boshqa joyga joylashtirilishi, bu haqdagi xabarni vakolatli organlardan yashirilishi tushuniladi.",
+    "Nobud qilish deganda, mulkning to'liq yaroqsiz, undan asl maqsadda foydalanish imkonini bermaydigan holga keltirilishini tushunish lozim.",
+    "Shikast yetkazish deganda, mol-mulkni qisman yaroqsiz holga keltirish tushuniladi.",
+    "Ko'p miqdorda zarar yetkazilishi obyektiv tomonning zaruriy belgisi hisoblanadi.",
+    "Jinoyat sodir etilgan paytdan boshlab tugallangan hisoblanadi.",
+    "Subyektiv tomondan jinoyat to'g'ri qasd bilan sodir etiladi.",
+    "Jinoyat subyekti mol-mulk saqlashga topshirilgan o'n olti yoshga to'lgan aqli raso shaxs, shuningdek, uning mulkdori, egasi yoki oila a'zolari bo'lishi mumkin.",
+    "2-qism yetkazilgan moddiy zararni uch baravar miqdorida qoplanganda ozodlikdan mahrum qilish jazosini qo'llashni man qiluvchi rag'batlantiruvchi normani belgilab beradi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1427054",
+      "matn": "Band solingan mulkni qonunga xilof ravishda tasarruf etish, yaʼni band solingan yoxud garovga qoʻyilgan mulkni ishonib topshirib qoʻyilgan shaxs tomonidan qonunga xilof ravishda oʻzlashtirish, rastrata qilish, yashirish, nobud qilish yoki unga shikast yetkazish ancha miqdorda zarar yetkazilishiga sabab boʻlsa, xuddi shuningdek bank yoki boshqa kredit tashkiloti xodimi tomonidan band solingan pul mablagʻlari (omonatlari) bilan bank operatsiyalarini amalga oshirish, — bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha miqdorda jarima yoki uch yilgacha axloq tuzatish ishlari yoxud ikki yildan besh yilgacha ozodlikni cheklash yoki besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-2723174",
+      "matn": "Yetkazilgan moddiy zarar uch karra miqdorida qoplangan taqdirda, ozodlikni cheklash va ozodlikdan mahrum qilish tariqasidagi jazo qoʻllanilmaydi."
+    }
+  ]
+}

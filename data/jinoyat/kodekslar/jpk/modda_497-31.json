@@ -1,0 +1,84 @@
+{
+  "n": "497³¹",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5233436",
+  "sarlavha": "497³¹-modda. Apellyatsiya instansiyasi sudining hukmi va ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5233437",
+      "matn": "Apellyatsiya instansiyasi sudining hukmi ushbu Kodeksning 454 — 477-moddalarida nazarda tutilgan qoidalarga rioya etilgan holda Oʻzbekiston Respublikasi nomidan chiqariladi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5233438",
+      "matn": "Apellyatsiya instansiyasi sudining ajrimida quyidagilar koʻrsatilgan boʻlishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5655271",
+          "matn": "sud ishining raqami, ajrim chiqarilgan sana va joy;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5233440",
+          "matn": "sudning nomi va tarkibi, ishni koʻrishda ishtirok etgan prokuror va boshqa shaxslar;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5233441",
+          "matn": "apellyatsiya shikoyati yoki protesti bergan shaxs;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-5233442",
+          "matn": "birinchi instansiya sudining shikoyat yoki protest berilgan hukmining qaror qismi mazmuni;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-5233443",
+          "matn": "shikoyatning, protestning, ishda ishtirok etayotgan shaxslar eʼtirozlari va tushuntirishlarining mohiyati, shuningdek prokurorning fikri;"
+        },
+        {
+          "b": 6,
+          "id": "https://lex.uz/docs/-111460#-5233444",
+          "matn": "shikoyat, protest boʻyicha apellyatsiya instansiyasi sudining qarori."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5233447",
+      "matn": "Shikoyat, protest qanoatlantirilmay qoldirilganda apellyatsiya instansiyasi sudining ajrimida hukm qonuniy, asosli va adolatli deb, birinchi instansiya sudining ajrimi qonuniy hamda asosli deb topilganligining, shikoyat yoki protest esa qanoatlantirilmasdan qoldirilganligining asoslari koʻrsatilishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-5233448",
+      "matn": "Hukm, ajrim bekor qilingan yoki oʻzgartirilgan taqdirda, apellyatsiya instansiyasi sudining ajrimida qonunning qaysi normalari talablari buzilganligi va bekor qilinayotgan yoki oʻzgartirilayotgan qarorning asossizligi nimadan iborat ekanligi koʻrsatilishi kerak."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-5233449",
+      "matn": "Apellyatsiya instansiyasi sudi qaror qabul qilish chogʻida birinchi instansiya sudi tomonidan tekshirilgan dalillar va apellyatsiya instansiyasi sudi tomonidan tekshirilgan yangi dalillarga asoslanishi mumkin."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-6627160",
+      "matn": "Apellyatsiya instansiyasi sudining ajrimi sudning butun tarkibi tomonidan imzolanadi. Ovoz berish chogʻida ozchilik tarafda qolgan sudya ajrimni imzolab, oʻzining alohida fikrini yozma shaklda bayon etishga haqli."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-6627165",
+      "matn": "Apellyatsiya instansiyasi sudining hukmi, ajrimi sud majlisi zalida oʻqib eshittiriladi va darhol qonuniy kuchga kiradi."
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111460#-5233452",
+      "matn": "Apellyatsiya instansiyasi sudining hukmi, ajrimi uni chiqargan sudga yoki boshqa sudga chiqarilgan kundan eʼtiboran besh sutkadan kechiktirmay jinoyat ishi bilan birga ijro etish uchun yuboriladi."
+    },
+    {
+      "q": 9,
+      "id": "https://lex.uz/docs/-111460#-5233453",
+      "matn": "Mahkumni darhol qamoqdan yoki uy qamogʻidan ozod etish uchun asos boʻladigan hukm, ajrim, agar mahkum sud majlisida ishtirok etayotgan boʻlsa, sud zalida ijro etilishi lozim. Boshqa hollarda hukmning, ajrimning koʻchirma nusxasi hukm, ajrim chiqarilganidan keyin apellyatsiya instansiyasi tomonidan jazoni ijro etish muassasasining maʼmuriyatiga yoki mahkumning yashash joyidagi uy qamogʻini ijro etish oʻz zimmasiga yuklatilgan ichki ishlar organiga yigirma toʻrt soatdan kechiktirmay yuboriladi."
+    }
+  ]
+}

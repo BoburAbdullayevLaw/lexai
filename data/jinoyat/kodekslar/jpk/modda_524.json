@@ -1,0 +1,59 @@
+﻿{
+  "n": 524,
+  "sarlavha_id": "-5234439",
+  "sarlavha": "524-modda. Yangi ochilgan holatlar tufayli ish yuritishni qoʻzgʻatish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627752",
+      "matn": "Mahkum, oqlangan shaxs, ularning himoyachilari va qonuniy vakillari, jabrlanuvchi hamda uning vakili taftish instansiyasi sudiga yangi ochilgan holatlar tufayli ish yuritishni qoʻzgʻatish toʻgʻrisida iltimosnoma berishga haqli."
+    },
+    {
+      "q": 2,
+      "id": "-6627755",
+      "matn": "Oʻzbekiston Respublikasi Bosh prokurori, uning oʻrinbosarlari, Qoraqalpogʻiston Respublikasi prokurori, viloyatlar va Toshkent shahar prokurorlari hamda ularga tenglashtirilgan prokurorlar taftish instansiyasi sudiga yangi ochilgan holatlar tufayli ish yuritishni qoʻzgʻatish toʻgʻrisida protest berishga haqli."
+    },
+    {
+      "q": 3,
+      "id": "-5234458",
+      "matn": "Yangi ochilgan holatlar tufayli ish yuritishni qoʻzgʻatish toʻgʻrisida sudga protest kiritish uchun quyidagilar sabab boʻlishi mumkin:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5234459",
+          "matn": "fuqarolarning, korxonalar, muassasalar, tashkilotlar, jamoat birlashmalari mansabdor shaxslarining xabarlari;"
+        },
+        {
+          "b": 2,
+          "id": "-5234461",
+          "matn": "ommaviy axborot vositalarining xabarlari;"
+        },
+        {
+          "b": 3,
+          "id": "-5234462",
+          "matn": "surishtiruv, dastlabki tergov jarayonida va sudda boshqa jinoyat ishini koʻrish jarayonida olingan maʼlumotlar."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-6627758",
+      "matn": "Agar sudga kelib tushgan iltimosnomada, protestda ushbu Kodeks 522-moddasi uchinchi qismining 1 — 3-bandlarida nazarda tutilgan holatlarni koʻrsatuvchi maʼlumotlarga havola mavjud boʻlsa, sudya surishtiruv, tergov organlaridan va suddan tegishli protsessual hujjatlarni talab qilib oladi hamda asoslar mavjud boʻlgan taqdirda yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash toʻgʻrisidagi yoki bunday asoslar mavjud emasligi haqidagi masalani oʻz ajrimi bilan taftish instansiyasi sudida koʻrib chiqish uchun kiritadi."
+    },
+    {
+      "q": 5,
+      "id": "-5234468",
+      "matn": "Agar sudga kelib tushgan iltimosnomada ushbu Kodeks 522-moddasi uchinchi qismining 4-bandida koʻrsatilgan holatlar koʻrsatilgan boʻlsa, sud materiallarni tergov oʻtkazish uchun prokurorga yuborish toʻgʻrisida ajrim chiqaradi. Yangi ochilgan holatlar tergov qilinayotganda ushbu Kodeksda nazarda tutilgan qoidalarga rioya etilgan holda soʻroq, koʻzdan kechirish, ekspertiza, olib qoʻyish va boshqa tergov harakatlari oʻtkazilishi mumkin. Tergov natijalari boʻyicha prokuror uch oylik muddatda sudga yangi ochilgan holatlar tufayli sud hukmi, ajrimini qayta koʻrish uchun asoslar mavjudligi yoki mavjud emasligi toʻgʻrisida tegishli materiallarni ilova qilgan holda xulosa yuboradi."
+    },
+    {
+      "q": 6,
+      "id": "-6627761",
+      "matn": "Prokurorning xulosasini koʻrib chiqish natijalari boʻyicha sudya oʻz ajrimi bilan yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash toʻgʻrisidagi yoki bunday asoslar mavjud emasligi haqidagi masalani taftish instansiyasi sudida koʻrib chiqish uchun kiritadi."
+    },
+    {
+      "q": 7,
+      "id": "-6627764",
+      "matn": "Sudyaning yangi ochilgan holatlar tufayli ish yuritishni qaytadan boshlash uchun asoslar mavjud emasligi toʻgʻrisidagi ajrimi manfaatdor shaxslarning shikoyatiga koʻra yoki Oʻzbekiston Respublikasi Bosh prokurorining yoki uning oʻrinbosarlarining protestiga koʻra, materiallarni taftish instansiyasi sudiga koʻrib chiqish uchun oʻtkazgan holda Oʻzbekiston Respublikasi Oliy sudi raisi yoki uning oʻrinbosarlari tomonidan bekor qilinishi mumkin."
+    }
+  ]
+}

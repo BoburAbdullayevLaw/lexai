@@ -1,0 +1,18 @@
+{
+  "n": "43",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445583",
+  "sarlavha": "43-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445584",
+      "matn": "Davlat fuqarolarning bandligini taʼminlash, ularni ishsizlikdan himoya qilish, shuningdek kambagʻallikni qisqartirish choralarini koʻradi."
+    },
+    {
+      "q": 2,
+      "id": "-6445585",
+      "matn": "Davlat fuqarolarning kasbiy tayyorgarligini va qayta tayyorlanishini tashkil etadi hamda ragʻbatlantiradi."
+    }
+  ]
+}

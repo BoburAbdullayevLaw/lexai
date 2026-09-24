@@ -1,0 +1,29 @@
+﻿{
+  "n": 199,
+  "sarlavha_id": "-254514",
+  "sarlavha": "199-modda. Surishtiruvchi, tergovchi yoki sudning talabiga koʻra narsalarni taqdim qilish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254515",
+      "matn": "Surishtiruvchi, tergovchi yoki sud tintuv yoki olib qoʻyish oʻtkazmasdan turib, korxona, muassasa, tashkilot rahbaridan, shuningdek fuqarodan tergov va sud harakatlarini yuritish chogʻida vaqtincha foydalanish uchun zarur boʻlgan narsalarni taqdim etishlarini talab qilishga haqlidir. Bunday narsalar jumlasiga quyidagilar kiradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-254516",
+          "matn": "eksperiment oʻtkazishda tekshirilayotgan hodisaning holatini va sharoitini qayta tiklash uchun foydalaniladigan oʻxshash narsalar yoki maketlar;"
+        },
+        {
+          "b": 2,
+          "id": "-254517",
+          "matn": "tanib olish uchun koʻrsatilayotgan narsa bilan turdosh boʻlgan narsalar;"
+        },
+        {
+          "b": 3,
+          "id": "-254518",
+          "matn": "tergov yoki sud harakatlarini yuritish yoxud ekspert tekshiruvini oʻtkazish uchun zarur boʻlgan moslamalar, asbob-uskunalar, anjomlar, materiallar, agar bunday narsalar surishtiruvchi, tergovchi yoki sudda yoxud ularning topshirigʻi boʻyicha harakat qilayotgan mutaxassis, ekspert yoki ekspertiza muassasasida boʻlmasa. Zarurat qolmagach, bu narsalar egasiga qaytarilishi lozim."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "n": 144,
+  "sarlavha_id": "-254145",
+  "sarlavha": "144-modda. Guvohlantirishni oʻtkazish toʻgʻrisidagi qaror yoki ajrim",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254146",
+      "matn": "Gumon qilinuvchi, ayblanuvchi, sudlanuvchi yoki jabrlanuvchining badanida jinoyat izlari, ish uchun ahamiyatga molik boshqa belgilar yoki uning gʻayritabiiy fiziologik holati toʻgʻrisida yetarli maʼlumotlar boʻlsa, guvohlantirishni oʻtkazish haqida surishtiruvchi yoki tergovchi qaror, sud esa ajrim chiqaradi."
+    },
+    {
+      "q": 2,
+      "id": "-254147",
+      "matn": "Qarorda yoki ajrimda: guvohlantirishni kim va qanday maqsadda oʻtkazishi; kimni guvohlantirish kerakligi; guvohlantirilishi uchun shaxs kimning huzuriga va qachon yetib kelishi koʻrsatilgan boʻlishi lozim."
+    }
+  ]
+}

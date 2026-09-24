@@ -1,0 +1,18 @@
+{
+  "n": "18",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445359",
+  "sarlavha": "18-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445360",
+      "matn": "Oʻzbekiston Respublikasi davlatlar va xalqaro tashkilotlar bilan ikki va koʻp tomonlama munosabatlarni har taraflama rivojlantirishga qaratilgan tinchliksevar tashqi siyosatni amalga oshiradi."
+    },
+    {
+      "q": 2,
+      "id": "-6445361",
+      "matn": "Oʻzbekiston Respublikasi davlatning, xalqning oliy manfaatlaridan, uning farovonligi va xavfsizligidan kelib chiqqan holda ittifoqlar tuzishi, hamdoʻstliklarga va boshqa davlatlararo tuzilmalarga kirishi hamda ulardan chiqishi mumkin."
+    }
+  ]
+}

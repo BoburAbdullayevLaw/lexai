@@ -1,0 +1,18 @@
+{
+  "n": "130",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446096",
+  "sarlavha": "130-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446097",
+      "matn": "Oʻzbekiston Respublikasida odil sudlov faqat sud tomonidan amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-6446098",
+      "matn": "Oʻzbekiston Respublikasida sud hokimiyati qonun chiqaruvchi va ijro etuvchi hokimiyatdan, siyosiy partiyalardan, fuqarolik jamiyatining boshqa institutlaridan mustaqil holda ish yuritadi."
+    }
+  ]
+}

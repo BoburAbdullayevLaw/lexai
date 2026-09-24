@@ -1,0 +1,28 @@
+{
+  "n": "78",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445724",
+  "sarlavha": "78-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445725",
+      "matn": "Farzandlar ota-onasining nasl-nasabi va fuqarolik holatidan qatʼi nazar, qonun oldida tengdirlar."
+    },
+    {
+      "q": 2,
+      "id": "-6445726",
+      "matn": "Bolaning huquqlari, erkinliklari va qonuniy manfaatlarini taʼminlash hamda himoya qilish, uning jismoniy, aqliy va madaniy jihatdan toʻlaqonli rivojlanishi uchun eng yaxshi shart-sharoitlarni yaratish davlatning majburiyatidir."
+    },
+    {
+      "q": 3,
+      "id": "-6445727",
+      "matn": "Onalik, otalik va bolalik davlat tomonidan muhofaza qilinadi."
+    },
+    {
+      "q": 4,
+      "id": "-6445728",
+      "matn": "Davlat va jamiyat bolalarda hamda yoshlarda milliy va umuminsoniy qadriyatlarga sodiqlikni, mamlakatidan hamda xalqning boy madaniy merosidan faxrlanishni, vatanparvarlik va Vatanga boʻlgan mehr-muhabbat tuygʻularini shakllantirish toʻgʻrisida gʻamxoʻrlik qiladi."
+    }
+  ]
+}

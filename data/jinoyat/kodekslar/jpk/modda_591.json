@@ -1,0 +1,76 @@
+﻿{
+  "n": 591,
+  "sarlavha_id": "-1423650",
+  "sarlavha": "591-modda. Sudning ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1423651",
+      "matn": "Sud ajrimining kirish qismida:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-5655862",
+          "matn": "sud ishining raqami, ajrim chiqarilgan vaqt va joy;"
+        },
+        {
+          "b": 2,
+          "id": "-1423653",
+          "matn": "ajrim chiqargan sudning nomi, sudyaning, sud majlisi kotibining, taraflarning, tarjimonning ismi, otasining ismi va familiyasi;"
+        },
+        {
+          "b": 3,
+          "id": "-1423654",
+          "matn": "amnistiya aktini qoʻllash haqidagi masala qaysi shaxsga nisbatan qoʻyilayotgan boʻlsa, oʻsha shaxsning, gumon qilinuvchining, ayblanuvchining ismi, otasining ismi va familiyasi, tugʻilgan yili, oyi, kuni va joyi, yashash joyi, ishlash joyi, mashgʻuloti, maʼlumoti, oilaviy ahvoli va ularning shaxsi toʻgʻrisidagi, ish uchun ahamiyatli boshqa maʼlumotlar koʻrsatiladi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-1423655",
+      "matn": "Sud ajrimining tavsif-asoslash qismida iltimosnomani qanoatlantirish yoki qanoatlantirishni rad etish uchun asos boʻlgan holatlar bayon etiladi."
+    },
+    {
+      "q": 3,
+      "id": "-1423656",
+      "matn": "Ajrimning qaror qismida sud quyidagi masalalarni hal etadi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1423657",
+          "matn": "amnistiya aktiga asosan jinoyat ishini qoʻzgʻatishni rad qilish haqidagi yoxud jinoyat ishini tugatish toʻgʻrisidagi;"
+        },
+        {
+          "b": 2,
+          "id": "-3352554",
+          "matn": "prokurorning jinoyat ishini qoʻzgʻatishni rad qilish toʻgʻrisidagi yoki jinoyat ishini tugatish haqidagi iltimosnomasini qanoatlantirishni rad etish hamda tergovga qadar oʻtkazilgan tekshiruv yoki surishtiruv materiallarini yoxud jinoyat ishini umumiy qoidalar boʻyicha tegishincha tergovga qadar tekshiruv oʻtkazish yoki surishtiruv yoxud dastlabki tergov ishini yuritish uchun prokurorga yuborish toʻgʻrisidagi;"
+        },
+        {
+          "b": 3,
+          "id": "-3175060",
+          "matn": "prokurorning iltimosnomasini qisman qanoatlantirish va ushbu Kodeksning 83 va 84-moddalarida belgilangan boshqa asoslar boʻyicha jinoyat ishini qoʻzgʻatishni rad etish yoki jinoyat ishini tugatish toʻgʻrisidagi;"
+        },
+        {
+          "b": 4,
+          "id": "-1423659",
+          "matn": "ehtiyot chorasi toʻgʻrisidagi;"
+        },
+        {
+          "b": 5,
+          "id": "-7235375",
+          "matn": "ashyoviy, yozma va raqamli dalillar toʻgʻrisidagi;"
+        },
+        {
+          "b": 6,
+          "id": "-1423661",
+          "matn": "fuqaroviy daʼvoni taʼminlash choralari toʻgʻrisidagi."
+        }
+      ]
+    },
+    {
+      "q": 4,
+      "id": "-5234692",
+      "matn": "Sudning ajrimiga amnistiya aktini qoʻllash haqidagi masala qaysi shaxsga nisbatan qoʻyilgan boʻlsa, oʻsha shaxs tomonidan gumon qilinuvchi, ayblanuvchi, jabrlanuvchi (fuqaroviy daʼvogar), ularning himoyachilari, qonuniy vakillari tomonidan xususiy shikoyat berilishi va prokuror tomonidan xususiy protest keltirilishi mumkin, bunday shikoyat va protestlar tegishincha apellyatsiya tartibida koʻrib chiqilishi lozim."
+    }
+  ]
+}

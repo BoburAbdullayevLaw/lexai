@@ -1,0 +1,188 @@
+{
+  "n": 50,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184607",
+  "sarlavha": "50-modda. Ozodlikdan mahrum qilish",
+  "umumiy_sharh": [
+    "Ozodlikdan mahrum qilish — eng og'ir jazo turlaridan biri. Mahkumni jamiyatdan ajratib, koloniya yoki turmaga joylashtirishdan iborat.",
+    "Bu jazo og'ir va o'ta og'ir jinoyatlar sodir etgan shaxslarga qo'llaniladi. Agar jamiyatdan ajratmasdan tuzatish imkoni bo'lmasa, qisqa muddatlarga ham qo'llanishi mumkin.",
+    "Asosiy jazo — bir vaqtda boshqa asosiy jazolar bilan birga qo'llanilmaydi. Faqat sanksiyada ko'rsatilgan hollarda qo'llaniladi.",
+    "Sudlar ozodlikdan mahrum qilishni qo'llashda qisqa muddatlarning samarasizligini, alternativ jazolarning mavjudligini hisobga olishi kerak."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184615",
+      "matn": "Ozodlikdan mahrum qilish mahkumni jamiyatdan ajratib jazoni ijro etish koloniyasi yoki turmaga joylashtirishdan iboratdir.",
+      "sharh": [
+        "Mahkum jamiyatdan ajratiladi — ruhiy va jismoniy izolyatsiya qilinadi.",
+        "Maxsus tartib qo'llaniladi: mehnat, dam olish, harakatlanish, posilka olish cheklanadi.",
+        "Qamoqdan farqi: ozodlikdan mahrum qilishda huquqlarning cheklanishi kompleks xususiyatga ega.",
+        "Bu jazo to'g'ri qo'llansa ijobiy, noto'g'ri qo'llansa salbiy ta'sir ko'rsatadi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3165845",
+      "matn": "Ozodlikdan mahrum qilish bir oydan yigirma yilgacha muddatga belgilanadi, ushbu moddaning uchinchi qismida nazarda tutilgan hollar bundan mustasno.",
+      "sharh": [
+        "Asosiy muddati: 1 oydan 20 yilgacha.",
+        "Eng kam muddat (1 oy) hech qachon oshirib bo'lmaydi (57-modda mustasno — 46-modda 4-qism holati).",
+        "Eng ko'p muddat (20 yil) bir jinoyat uchun chegaradir.",
+        "Bir necha jinoyat uchun 60-modda tartibida qo'shib 25 yilgacha belgilanishi mumkin."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-1319429",
+      "matn": "Uzoq muddatli ozodlikdan mahrum qilish yigirma yildan ortiq, lekin yigirma besh yildan koʻp boʻlmagan muddatga belgilanadi va faqat javobgarlikni ogʻirlashtiradigan holatlarda qasddan odam oʻldirish (97-moddaning ikkinchi qismi) va terrorizm (155-moddaning uchinchi qismi) uchun tayinlanishi mumkin.",
+      "sharh": [
+        "Uzoq muddat: 20 yildan ortiq, 25 yildan ko'p emas.",
+        "Faqat 2 ta jinoyat uchun: qasddan odam o'ldirish (97/2) va terrorizm (155/3).",
+        "Umrbod ozodlikdan mahrum qilish istisno qilingan hollarda (tugallanmagan jinoyat, 15 yil ortiq noo'rin) qo'llanilishi mumkin."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-1319459",
+      "matn": "Uzoq muddatga ozodlikdan mahrum qilish jazosi ayolga, oʻn sakkiz yoshga toʻlmasdan jinoyat sodir etgan shaxsga va oltmish yoshdan oshgan erkakka nisbatan tayinlanishi mumkin emas.",
+      "sharh": [
+        "Uzoq muddat qo'llanilmaydiganlar: ayollar, 18 yoshgacha, 60+ erkaklar.",
+        "Bu cheklov imperativ — hatto og'irlashtiruvchi holatlarda ham bajarilishi shart.",
+        "Erkakning yoshi hukm chiqarilgan kunga qarab belgilanadi. Apellyatsiyada ish ko'rilsa — shu kunga qadar."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-184617",
+      "matn": "Ozodlikdan mahrum qilish ushbu Kodeksning 60-moddasida nazarda tutilgan bir necha jazolarni qoʻshish tartibida tayinlanganda, uning muddati yigirma besh yilgacha belgilanishi mumkin.",
+      "sharh": [
+        "60-modda: bir necha jazo qo'shish tartibida umumiy muddat 25 yildan oshmasligi kerak.",
+        "Bu qoida bir nechta jinoyat uchun alohida hukm qilingan hollarga ham tatbiq etiladi."
+      ]
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111453#-2722249",
+      "matn": "Ozodlikdan mahrum etishga hukm qilinayotgan ayollarga hamda oltmish yoshdan oshgan erkaklarga nisbatan tayinlanayotgan jazo muddati ushbu Kodeks Maxsus qismining tegishli moddasida nazarda tutilgan ozodlikdan mahrum etish eng koʻp muddatining uchdan ikki qismidan ortiq boʻlishi mumkin emas.",
+      "sharh": [
+        "Ayollar va 60+ erkaklar uchun: eng ko'p muddatning 2/3 dan ortiq emas.",
+        "Masalan: sanksiyada 10 yil ko'rsatilgan — ayolga maksimum 6 yil 8 oy.",
+        "Bu qoida bir nechta jinoyat uchun ham qo'llaniladi.",
+        "Yoshi hukm chiqarilgan kunga qarab aniqlanadi."
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111453#-1230061",
+      "matn": "Ozodlikdan mahrum etishga hukm qilinayotgan erkaklarga nisbatan:",
+      "sharh": [
+        "Erkaklar uchun koloniya turlari jinoyat og'irligi va retsidivga qarab belgilanadi.",
+        "Hukmda koloniya turini ko'rsatish shart — yo'qligi hukmning bekor qilinishiga asos."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1230062",
+          "matn": "ijtimoiy xavfi katta boʻlmagan jinoyati, ehtiyotsizlik oqibatida sodir etilgan jinoyati uchun va qasddan uncha ogʻir boʻlmagan jinoyat sodir etganlik uchun ozodlikdan mahrum etishga hukm qilinayotganlarga nisbatan jazoni manzil-koloniyalarda;",
+          "sharh": []
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1230063",
+          "matn": "qasddan ogʻir jinoyat sodir etganlik va oʻta ogʻir jinoyati uchun birinchi marta ozodlikdan mahrum etishga hukm qilinayotganlarga nisbatan jazoni umumiy tartibli koloniyalarda;",
+          "sharh": []
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-3035054",
+          "matn": "ilgari qasddan sodir etgan jinoyati uchun ozodlikdan mahrum qilish tariqasidagi jazoni oʻtab chiqib yoki oʻtayotgan chogʻida, qasddan yangi sodir etgan jinoyati uchun hukm qilinayotganlarga nisbatan jazoni qattiq tartibli koloniyalarda;",
+          "sharh": []
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-1319474",
+          "matn": "oʻta xavfli retsidivistlarga nisbatan jazoni maxsus tartibli koloniyalarda oʻtash tayinlanadi. Umrbod ozodlikdan mahrum qilishga hukm etilganlar, shuningdek afv etish tartibida umrbod ozodlikdan mahrum qilish jazosi ozodlikdan mahrum qilish bilan almashtirilgan shaxslar ham jazoni maxsus tartibli koloniyalarda oʻtaydilar.",
+          "sharh": []
+        }
+      ]
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111453#-1230068",
+      "matn": "Ozodlikdan mahrum etishga hukm qilinayotgan ayollarga nisbatan:",
+      "sharh": [
+        "Ayollar uchun koloniya turlari erkaklarikidan farqli — maxsus tartibli koloniya yo'q.",
+        "Ayollar uchun eng qattiq koloniya — qattiq tartibli."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1230069",
+          "matn": "ijtimoiy xavfi katta boʻlmagan jinoyat, ehtiyotsizlik oqibatida jinoyat sodir etganlarga hamda qasddan uncha ogʻir boʻlmagan jinoyat sodir etganlarga nisbatan jazoni manzil-koloniyalarda;",
+          "sharh": []
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1230070",
+          "matn": "ogʻir va oʻta ogʻir jinoyat uchun jazoni umumiy tartibli koloniyalarda;",
+          "sharh": []
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-1230071",
+          "matn": "ilgari ozodlikdan mahrum qilish tariqasidagi jazoni oʻtab chiqib, yangi sodir etgan oʻta ogʻir jinoyati uchun hukm qilinayotganlarga, shuningdek oʻta xavfli retsidivist deb topilganlarga nisbatan jazoni qattiq tartibli koloniyalarda oʻtash tayinlanadi.",
+          "sharh": []
+        }
+      ]
+    },
+    {
+      "q": 9,
+      "id": "https://lex.uz/docs/-111453#-184630",
+      "matn": "Turmaga qamash tariqasidagi ozodlikdan mahrum qilish, jazoning muayyan qismiga, lekin besh yildan koʻp boʻlmagan muddatga:",
+      "sharh": [
+        "Turma faqat 5 yildan ko'p bo'lmagan muddatga tayinlanadi.",
+        "Turma qattiqroq tartibli hisoblanadi — huquqiy maqomi ham qattiqroq chegaralanadi.",
+        "Turmaga qamash muddati uzluksiz hisoblanadi — sumali hisobga yo'l qo'ymaydi.",
+        "Hukmda turma muddati va qolgan qism uchun koloniya turi ko'rsatilishi shart."
+      ],
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-184631",
+          "matn": "oʻta xavfli retsidivistlarga;",
+          "sharh": []
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-184638",
+          "matn": "ogʻir yoki oʻta ogʻir jinoyati uchun besh yildan ortiq muddatga ozodlikdan mahrum etishga hukm qilingan shaxslarga nisbatan tayinlanishi mumkin.",
+          "sharh": []
+        }
+      ]
+    },
+    {
+      "q": 10,
+      "id": "https://lex.uz/docs/-111453#-5449399",
+      "matn": "Ijtimoiy xavfi katta boʻlmagan jinoyat sodir etganlik, ehtiyotsizlik oqibatida jinoyat sodir etganlik va qasddan uncha ogʻir boʻlmagan jinoyat sodir etganlik uchun ozodlikdan mahrum etish tariqasidagi jazo homilador ayollarga va uch yoshga toʻlmagan bolalari bor ayollarga, shuningdek qonunchilikka muvofiq yoshga doir pensiyaga chiqish huquqiga ega boʻlgan shaxslarga nisbatan tayinlanmaydi.",
+      "sharh": [
+        "Qo'llanilmaydiganlar: homilador ayollar, 3 yoshgacha bolali ayollar, nafaqachilar.",
+        "Homiladorlik fakti hukm chiqarilgan paytda aniqlanadi — jinoyat sodir etgan paytda emas.",
+        "Bola yoshi tug'ilgan kunidan keyin ertasi kunning 00:00 dan hisoblanadi.",
+        "3 yoshgacha bola: tug'ilgan, farzandlikka olingan, vasiy/homiylikdagi.",
+        "Nafaqa huquqi: erkaklar 60 yosh/25 yil staj, ayollar 55 yosh/20 yil staj."
+      ]
+    },
+    {
+      "q": 11,
+      "id": "https://lex.uz/docs/-111453#-284535",
+      "matn": "Sud tomonidan jazoni manzil-koloniyada oʻtashi tayinlangan mahkum saqlash rejimini ashaddiy buzuvchi deb topilgan taqdirda, sud uni jazoning oʻtalmagan qismi muddatiga umumiy tartibli koloniyaga oʻtkazadi.",
+      "sharh": [
+        "Ashaddiy buzuvchi: kamida 2 marta qo'pol buzish + intizomiy jazo olib tashlanmagan.",
+        "24 soatdan ortiq ruxsatsiz yo'q bo'lgan ham ashaddiy buzuvchi deb hisoblanadi.",
+        "O'tkazish IIO tavsiyasiga asosan sud ajrimi bilan amalga oshiriladi.",
+        "Sud rad etsa, 6 oydan keyin qayta murojaat qilish mumkin."
+      ]
+    }
+  ]
+}

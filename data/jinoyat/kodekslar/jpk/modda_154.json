@@ -1,0 +1,22 @@
+﻿{
+  "n": 154,
+  "sarlavha_id": "-254177",
+  "sarlavha": "154-modda. Eksperiment oʻtkazish toʻgʻrisidagi qaror yoki ajrim",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254178",
+      "matn": "Eksperiment oʻtkazish toʻgʻrisida surishtiruvchi, tergovchi qaror, sud esa ajrim chiqaradi. Eksperiment natijasida fuqarolar, korxonalar, muassasalar va tashkilotlarga mulkiy zarar yetkazilishi, ishlab chiqarish tartibotining, transport vositalari harakati jadvalining buzilishi va boshqa noxush oqibatlarning kelib chiqishi ehtimol boʻlsa, surishtiruvchining, tergovchining bunday eksperiment oʻtkazish toʻgʻrisidagi qaroriga prokuror sanksiya berishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-254179",
+      "matn": "Eksperiment jamoat tartibi yoki axloq normalarining buzilishiga olib keladigan boʻlsa, uni oʻtkazishga yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-254180",
+      "matn": "Ekspert tomonidan oʻtkaziladigan eksperiment sud ekspertizasining tarkibiy qismi hisoblanadi."
+    }
+  ]
+}

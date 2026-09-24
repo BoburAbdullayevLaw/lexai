@@ -1,0 +1,27 @@
+﻿{
+  "n": 544,
+  "sarlavha_id": "-257083",
+  "sarlavha": "544-modda. Sudlanganlikni olib tashlash toʻgʻrisidagi masalani koʻrib chiqish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-257084",
+      "matn": "Sudlanganlikni olib tashlash toʻgʻrisidagi masala sudya tomonidan jazoni oʻtab boʻlgan shaxsning, uning himoyachisi yoki qonuniy vakilining yoxud jamoat birlashmasi yoki jamoaning iltimosnomasiga asosan koʻrib chiqiladi."
+    },
+    {
+      "q": 2,
+      "id": "-257085",
+      "matn": "Sudlanganlikni olib tashlash toʻgʻrisidagi iltimosnomani koʻrib chiqishda iltimosnoma kim haqida berilgan boʻlsa, shu shaxsning sud majlisida qatnashishi shart. U himoyachi olish huquqi bilan taʼminlanadi. Sudlanganlikni olib tashlash toʻgʻrisidagi iltimosnoma jamoat birlashmasi yoki jamoa tomonidan berilgan boʻlsa, ularning vakillari sud majlisida ishtirok etishi shart."
+    },
+    {
+      "q": 3,
+      "id": "-257086",
+      "matn": "Sudlanganlikni olib tashlash toʻgʻrisidagi masalani koʻrib chiqish taqdim qilingan iltimosnomani oʻqib eshittirishdan boshlanadi, soʻng sudya sudda hozir boʻlganlarning fikrlarini eshitadi va ajrim chiqarish uchun alohida xonaga kiradi."
+    },
+    {
+      "q": 4,
+      "id": "-257087",
+      "matn": "Sudlanganlikni olib tashlash rad etilsa, sudyaga bu masalaga doir qayta iltimosnoma ajrim chiqqan kundan boshlab kamida bir yil oʻtganidan keyin kiritilishi mumkin."
+    }
+  ]
+}

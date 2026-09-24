@@ -1,0 +1,59 @@
+﻿{
+  "n": 239,
+  "sarlavha_id": "-254728",
+  "sarlavha": "239-modda. Ehtiyot chorasi qoʻllanilishi mumkin boʻlgan shaxslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-4516286",
+      "matn": "Ehtiyot chorasi faqat ayblanuvchilarga, sudlanuvchilarga, mahkumlarga va aqli norasolik holatida ijtimoiy xavfli qilmishlar sodir etgan yoki jinoyat sodir etganidan keyin ruhiy holatining buzilishi yuzaga kelgan shaxslarga nisbatan qoʻllanilishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-3696056",
+      "matn": "Alohida hollarda, ishni sudga qadar yuritish bosqichida ushlab turilgan gumon qilinuvchiga nisbatan sud tomonidan qamoqqa olish, uy qamogʻi yoki garov tarzidagi ehtiyot choralari qoʻllanilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-2460905",
+      "matn": "Qamoqqa olish yoki uy qamogʻi tarzidagi ehtiyot chorasi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-1325131",
+          "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputati va Senati aʼzosiga nisbatan — Oʻzbekiston Respublikasi Oliy Majlisining tegishli palatasi yoki uning Kengashi roziligi bilan;"
+        },
+        {
+          "b": 2,
+          "id": "-1325132",
+          "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Inson huquqlari boʻyicha vakiliga (ombudsmanga) nisbatan — Oʻzbekiston Respublikasi Oliy Majlisi palatalarining roziligi bilan;"
+        },
+        {
+          "b": "2¹",
+          "id": "-3358378",
+          "matn": "Oʻzbekiston Respublikasi Prezidenti huzuridagi Tadbirkorlik subyektlarining huquqlari va qonuniy manfaatlarini himoya qilish boʻyicha vakilga nisbatan — Oʻzbekiston Respublikasi Prezidentining roziligi bilan;"
+        },
+        {
+          "b": 3,
+          "id": "-5227430",
+          "matn": "Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesi deputatiga, xalq deputatlari viloyat, Toshkent shahar, tuman va shahar Kengashining deputatiga nisbatan — Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesi, tegishli xalq deputatlari Kengashi roziligi bilan;"
+        },
+        {
+          "b": 4,
+          "id": "-5231908",
+          "matn": "Oʻzbekiston Respublikasi Konstitutsiyaviy sudining sudyalariga nisbatan — Oʻzbekiston Respublikasi Konstitutsiyaviy sudining roziligi bilan, Oʻzbekiston Respublikasi Oliy sudi, Qoraqalpogʻiston Respublikasi sudining, viloyatlar va Toshkent shahar sudlarining, Qoraqalpogʻiston Respublikasi, viloyatlar va Toshkent shahar maʼmuriy sudlarining, fuqarolik ishlari boʻyicha tumanlararo, tuman, shahar sudlarining, jinoyat ishlari boʻyicha tuman, shahar sudlarining, tumanlararo, tuman, shahar iqtisodiy sudlarining, tumanlararo maʼmuriy sudlarining va Oʻzbekiston Respublikasi harbiy sudlarining sudyalariga nisbatan — Oʻzbekiston Respublikasi Sudyalar oliy kengashining xulosasi mavjud boʻlganda Oʻzbekiston Respublikasi Oliy sudi Plenumining roziligi bilan;"
+        },
+        {
+          "b": "4¹",
+          "id": "-3540545",
+          "matn": "Oʻzbekiston Respublikasi Sudyalar oliy kengashining aʼzosiga nisbatan — Oʻzbekiston Respublikasi Sudyalar oliy kengashining roziligi bilan;"
+        },
+        {
+          "b": 5,
+          "id": "-1325135",
+          "matn": "prokuror va prokuratura tergovchisiga nisbatan — Oʻzbekiston Respublikasi Bosh prokurorining roziligi bilan qoʻllanilishi mumkin."
+        }
+      ]
+    }
+  ]
+}

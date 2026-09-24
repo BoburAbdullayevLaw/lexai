@@ -1,0 +1,49 @@
+﻿{
+  "n": 108,
+  "sarlavha_id": "-253905",
+  "sarlavha": "108-modda. Qoʻshimcha soʻroq",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253906",
+      "matn": "Qoʻshimcha soʻroq quyidagi hollarda oʻtkaziladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253908",
+          "matn": "soʻroq qilinuvchi ishning oʻziga maʼlum boʻlgan barcha holatlari toʻgʻrisida koʻrsatuv bera olishi uchun ushbu Kodeksning 107-moddasida nazarda tutilgan soʻroqning umumiy davom etish vaqti yetarli boʻlmasa;"
+        },
+        {
+          "b": 2,
+          "id": "-253910",
+          "matn": "soʻroq qilingan shaxs ilgari bergan koʻrsatuvlarini toʻldirish yoki oʻzgartirish istagini bildirsa;"
+        },
+        {
+          "b": 3,
+          "id": "-253911",
+          "matn": "ayblanuvchiga yangi yoki oʻzgartirilgan yoxud qoʻshimcha ayblov eʼlon qilinsa;"
+        },
+        {
+          "b": 4,
+          "id": "-253913",
+          "matn": "surishtiruvchi yoki tergovchi tomonidan ilgari soʻroq qilingan shaxsning koʻrsatuvlari toʻgʻri yozilganligini prokuror qoʻshimcha soʻroq qilish yoʻli bilan tekshirib koʻrishni lozim topsa;"
+        },
+        {
+          "b": 5,
+          "id": "-3348969",
+          "matn": "boshqa surishtiruvchi yoki tergovchi tomonidan ilgari soʻroq qilingan shaxsning koʻrsatuvlari toʻgʻri yozilganligini ishni yuritish uchun qabul qilgan surishtiruvchi yoki tergovchi qoʻshimcha soʻroq qilish yoʻli bilan tekshirib koʻrishni lozim topsa;"
+        },
+        {
+          "b": 6,
+          "id": "-253915",
+          "matn": "ilgari soʻroq qilingan shaxsga berilishi kerak boʻlgan ish uchun muhim yangi savollar tugʻilsa;"
+        },
+        {
+          "b": 7,
+          "id": "-253917",
+          "matn": "shaxs soʻroq qilinganidan keyin ishga kirishgan zaxiradagi xalq maslahatchisi ushbu shaxsni yangitdan soʻroq qilishni talab qilsa."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "n": "254⁴",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-4497842",
+  "sarlavha": "254⁴-modda. Sud ajrimi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-4497843",
+      "matn": "Sudya pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish toʻgʻrisidagi iltimosnomani koʻrib chiqib, quyidagi ajrimlardan birini chiqaradi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-4497844",
+          "matn": "pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish toʻgʻrisida;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-4497845",
+          "matn": "pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turishni rad etish haqida."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-4497846",
+      "matn": "Pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish toʻgʻrisidagi sudyaning ajrimida: qidiruv eʼlon qilingan ayblanuvchi yoki sudlanuvchi haqidagi maʼlumotlar; pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish asoslari koʻrsatiladi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-4497847",
+      "matn": "Pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turishni rad etish haqidagi sudyaning ajrimi asoslantirilgan boʻlishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-4497850",
+      "matn": "Pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish toʻgʻrisidagi yoki pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turishni rad etish haqidagi sudyaning ajrimi u oʻqib eshittirilgan paytdan eʼtiboran kuchga kiradi. Sudyaning ajrimi ijro etish uchun prokurorga, maʼlumot uchun esa, himoyachiga yuboriladi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-4497851",
+      "matn": "Sudyaning ushbu moddaning birinchi qismida nazarda tutilgan ajrimi ustidan u chiqarilgan kundan eʼtiboran qirq sakkiz soat ichida ayblanuvchining yoki sudlanuvchining himoyachisi va qonuniy vakili tomonidan shikoyat berilishi yoxud apellyatsiya tartibida prokuror tomonidan protest bildirilishi mumkin. Shikoyat, protest ajrimni chiqargan sud orqali berilib, mazkur sud qirq sakkiz soat ichida ularni materiallar bilan birga apellyatsiya instansiyasi sudiga yuborishi shart."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-4497852",
+      "matn": "Shikoyat yoki protest berish pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turish toʻgʻrisidagi sudyaning ajrimi ijrosini toʻxtatib turadi."
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-7355358",
+      "matn": "Apellyatsiya instansiyasi sudining sudyasi ushbu materiallarni shikoyat yoki protest bilan birga kelib tushgan paytdan eʼtiboran qirq sakkiz soatdan kechiktirmay yakka tartibda koʻrib chiqishi kerak."
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111460#-4497854",
+      "matn": "Apellyatsiya instansiyasi sudi apellyatsiya shikoyatini, protestini koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-4497855",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni yoki protestni esa, qanoatlantirmasdan qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-4497856",
+          "matn": "sudyaning ajrimini bekor qilishga va pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turishga yoki pasportning (harakatlanish hujjatining) amal qilishini toʻxtatib turishni rad etishga haqli."
+        }
+      ]
+    }
+  ]
+}

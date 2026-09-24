@@ -1,0 +1,313 @@
+{
+  "kod": "NHH_TOGRISIDA",
+  "title": "Normativ-huquqiy hujjatlar to'g'risida",
+  "total_articles": 60,
+  "articles": [
+    {
+      "n": "1",
+      "sarlavha": "1-modda. Ushbu Qonunning maqsadi",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "2",
+      "sarlavha": "2-modda. Normativ-huquqiy hujjatlar toʻgʻrisidagi qonunchilik",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "3",
+      "sarlavha": "3-modda. Normativ-huquqiy hujjat tushunchasi",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "4",
+      "sarlavha": "4-modda. Normativ-huquqiy hujjatlar qabul qilish huquqiga ega boʻlgan organlar yoki mansabdor shaxslar",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "5",
+      "sarlavha": "5-modda. Ushbu Qonunning asosiy prinsiplari",
+      "qismlar_soni": 8
+    },
+    {
+      "n": "6",
+      "sarlavha": "6-modda. Normativ-huquqiy hujjatlarning turlari",
+      "qismlar_soni": 8
+    },
+    {
+      "n": "7",
+      "sarlavha": "7-modda. Oʻzbekiston Respublikasining qonunchiligi",
+      "qismlar_soni": 3
+    },
+    {
+      "n": "8",
+      "sarlavha": "8-modda. Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarining ustuvorligi",
+      "qismlar_soni": 3
+    },
+    {
+      "n": "9",
+      "sarlavha": "9-modda. Oʻzbekiston Respublikasining qonunlari",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "10",
+      "sarlavha": "10-modda. Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qarorlari",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "11",
+      "sarlavha": "11-modda. Qonunosti hujjatlarini tartibga solish doiralari",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "12",
+      "sarlavha": "12-modda. Oʻzbekiston Respublikasi Prezidentining farmonlari va qarorlari",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "13",
+      "sarlavha": "13-modda. Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "14",
+      "sarlavha": "14-modda. Vazirliklar va idoralarning buyruqlari hamda qarorlari",
+      "qismlar_soni": 7
+    },
+    {
+      "n": "15",
+      "sarlavha": "15-modda. Vazirliklar yoki idoralar tomonidan qabul qilingan normativ-huquqiy hujjatlarga nisbatan huquqiy vorislik",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "16",
+      "sarlavha": "16-modda. Mahalliy davlat hokimiyati organlarining qarorlari",
+      "qismlar_soni": 3
+    },
+    {
+      "n": "17",
+      "sarlavha": "17-modda. Normativ-huquqiy hujjatlar bilan tasdiqlanadigan nizomlar, qoidalar, yoʻriqnomalar va boshqa hujjatlar",
+      "qismlar_soni": 9
+    },
+    {
+      "n": "18",
+      "sarlavha": "18-modda. Normativ-huquqiy hujjatlarning oʻzaro nisbati",
+      "qismlar_soni": 6
+    },
+    {
+      "n": "19",
+      "sarlavha": "19-modda. Normativ-huquqiy hujjatlar loyihalarini tayyorlashni rejalashtirish",
+      "qismlar_soni": 14
+    },
+    {
+      "n": "20",
+      "sarlavha": "20-modda. Normativ-huquqiy hujjatlar loyihalarini tayyorlashni tashabbus qilish",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "21",
+      "sarlavha": "21-modda. Normativ-huquqiy hujjat loyihasini tayyorlash",
+      "qismlar_soni": 13
+    },
+    {
+      "n": "22",
+      "sarlavha": "22-modda. Normativ-huquqiy hujjat loyihasini tayyorlashni tashkil etish",
+      "qismlar_soni": 7
+    },
+    {
+      "n": "23",
+      "sarlavha": "23-modda. Normativ-huquqiy hujjat loyihasini tayyorlashda qonunchilikning holatini, qoʻllanilish amaliyotini, jamoatchilik fikrini va xalqaro tajribani oʻrganish",
+      "qismlar_soni": 14
+    },
+    {
+      "n": "24",
+      "sarlavha": "24-modda. Normativ-huquqiy hujjatlar loyihalarining jamoatchilik muhokamasi",
+      "qismlar_soni": 6
+    },
+    {
+      "n": "25",
+      "sarlavha": "25-modda. Normativ-huquqiy hujjat loyihasining ekspertizasi",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "26",
+      "sarlavha": "26-modda. Normativ-huquqiy hujjat loyihasining huquqiy ekspertizasi",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "27",
+      "sarlavha": "27-modda. Normativ-huquqiy hujjatlar loyihalarini Oʻzbekiston Respublikasi Adliya vazirligi va uning hududiy boʻlinmalari tomonidan huquqiy ekspertizadan oʻtkazish",
+      "qismlar_soni": 6
+    },
+    {
+      "n": "28",
+      "sarlavha": "28-modda. Oʻzbekiston Respublikasi Adliya vazirligi va uning hududiy boʻlinmalari tomonidan normativ-huquqiy hujjatlar loyihalarini huquqiy ekspertizadan hamda vazirliklar va idoralarning normativ-huquqiy hujjatlarini davlat roʻyxatidan oʻtkazish muddatlari",
+      "qismlar_soni": 7
+    },
+    {
+      "n": "29",
+      "sarlavha": "29-modda. Normativ-huquqiy hujjatlarning va ular loyihalarining korrupsiyaga qarshi ekspertizasi",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "30",
+      "sarlavha": "30-modda. Normativ-huquqiy hujjatlar loyihalarini kelishish",
+      "qismlar_soni": 11
+    },
+    {
+      "n": "31",
+      "sarlavha": "31-modda. Normativ-huquqiy hujjatlar loyihalarini kelishish muddatlari buzilganligi uchun javobgarlik",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "32",
+      "sarlavha": "32-modda. Normativ-huquqiy hujjat loyihasini normativ-huquqiy hujjat qabul qilish huquqiga ega boʻlgan organga kiritish",
+      "qismlar_soni": 6
+    },
+    {
+      "n": "33",
+      "sarlavha": "33-modda. Normativ-huquqiy hujjatni qabul qilish",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "34",
+      "sarlavha": "34-modda. Huquqiy eksperiment",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "35",
+      "sarlavha": "35-modda. Tartibga solish taʼsirini baholash",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "36",
+      "sarlavha": "36-modda. Normativ-huquqiy hujjatning rasmiy matnini tasdiqlash",
+      "qismlar_soni": 9
+    },
+    {
+      "n": "37",
+      "sarlavha": "37-modda. Vazirliklar va idoralarning normativ-huquqiy hujjatlarini davlat roʻyxatidan oʻtkazish",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "38",
+      "sarlavha": "38-modda. Normativ-huquqiy hujjatlarni eʼlon qilishga doir talablar",
+      "qismlar_soni": 6
+    },
+    {
+      "n": "39",
+      "sarlavha": "39-modda. Normativ-huquqiy hujjatlar eʼlon qilinadigan rasmiy manbalar",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "40",
+      "sarlavha": "40-modda. Normativ-huquqiy hujjatlarning kuchga kirishi",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "41",
+      "sarlavha": "41-modda. Normativ-huquqiy hujjatning orqaga qaytish kuchi",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "42",
+      "sarlavha": "42-modda. Normativ-huquqiy hujjatning makon boʻyicha amal qilishi",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "43",
+      "sarlavha": "43-modda. Normativ-huquqiy hujjatning vaqt boʻyicha amal qilishi",
+      "qismlar_soni": 3
+    },
+    {
+      "n": "44",
+      "sarlavha": "44-modda. Normativ-huquqiy hujjatning shaxslar doirasi boʻyicha amal qilishi",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "45",
+      "sarlavha": "45-modda. Normativ-huquqiy hujjatning amal qilishini toʻxtatib turish va tugatish",
+      "qismlar_soni": 7
+    },
+    {
+      "n": "46",
+      "sarlavha": "46-modda. Ilgari qabul qilingan normativ-huquqiy hujjatlarni yangi normativ-huquqiy hujjat qabul qilinganligi munosabati bilan qayta koʻrib chiqish",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "47",
+      "sarlavha": "47-modda. Normativ-huquqiy hujjatlarning matnlarini tarqatish",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "48",
+      "sarlavha": "48-modda. Normativ-huquqiy hujjatlarning ijrosini tashkil etuvchi va taʼminlovchi organlar",
+      "qismlar_soni": 3
+    },
+    {
+      "n": "49",
+      "sarlavha": "49-modda. Oʻzbekiston Respublikasi Vazirlar Mahkamasining normativ-huquqiy hujjatlar ijrosini tashkil etish va taʼminlashga doir vakolatlari",
+      "qismlar_soni": 6
+    },
+    {
+      "n": "50",
+      "sarlavha": "50-modda. Oʻzbekiston Respublikasi Adliya vazirligining normativ-huquqiy hujjatlar ijrosini tashkil etishga doir vakolatlari",
+      "qismlar_soni": 7
+    },
+    {
+      "n": "51",
+      "sarlavha": "51-modda. Vazirliklar va idoralarning normativ-huquqiy hujjatlar ijrosini tashkil etish hamda taʼminlashga doir vakolatlari",
+      "qismlar_soni": 8
+    },
+    {
+      "n": "52",
+      "sarlavha": "52-modda. Mahalliy davlat hokimiyati organlarining normativ-huquqiy hujjatlar ijrosini tashkil etish va taʼminlashga doir vakolatlari",
+      "qismlar_soni": 7
+    },
+    {
+      "n": "53",
+      "sarlavha": "53-modda. Normativ-huquqiy hujjatlar ijrosining monitoringi va nazorati",
+      "qismlar_soni": 4
+    },
+    {
+      "n": "54",
+      "sarlavha": "54-modda. Normativ-huquqiy hujjatlarga qoʻyiladigan asosiy talablar",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "55",
+      "sarlavha": "55-modda. Normativ-huquqiy hujjatlarni rasmiy sharhlash",
+      "qismlar_soni": 5
+    },
+    {
+      "n": "56",
+      "sarlavha": "56-modda. Normativ-huquqiy hujjatlarni davlat hisobiga olish",
+      "qismlar_soni": 2
+    },
+    {
+      "n": "57",
+      "sarlavha": "57-modda. Oʻzbekiston Respublikasining ayrim qonun hujjatlarini oʻz kuchini yoʻqotgan deb topish",
+      "qismlar_soni": 14
+    },
+    {
+      "n": "58",
+      "sarlavha": "58-modda. Ushbu Qonunning ijrosini, yetkazilishini, mohiyati va ahamiyati tushuntirilishini taʼminlash",
+      "qismlar_soni": 1
+    },
+    {
+      "n": "59",
+      "sarlavha": "59-modda. Qonunchilik hujjatlarini ushbu Qonunga muvofiqlashtirish",
+      "qismlar_soni": 3
+    },
+    {
+      "n": "60",
+      "sarlavha": "60-modda. Ushbu Qonunning kuchga kirishi",
+      "qismlar_soni": 1
+    }
+  ],
+  "appendices": [
+    {
+      "name": "Normativ-huquqiy hujjatlar loyihalarini, shuningdek ularga ilova qilinadigan axborot-tahliliy materiallarni yuridik-texnik jihatdan rasmiylashtirishning YAGONA USLUBIYOTI",
+      "file": "ilova/ilova.json"
+    }
+  ]
+}

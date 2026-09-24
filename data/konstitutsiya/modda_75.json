@@ -1,0 +1,18 @@
+{
+  "n": "75",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445712",
+  "sarlavha": "75-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445713",
+      "matn": "Diniy tashkilotlar davlatdan ajratilgan hamda qonun oldida tengdirlar. Davlat diniy tashkilotlarning faoliyatiga aralashmaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6445715",
+      "matn": "Davlat qonunda belgilangan tartibda faoliyat koʻrsatayotgan diniy tashkilotlar faoliyatining erkinligini kafolatlaydi."
+    }
+  ]
+}

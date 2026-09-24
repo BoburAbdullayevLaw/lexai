@@ -1,0 +1,79 @@
+﻿{
+  "n": 426,
+  "sarlavha_id": "-3696578",
+  "sarlavha": "426-modda. Sud majlisining bayonnomasi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3696580",
+      "matn": "Sud muhokamasi vaqtida sud majlisining kotibi ushbu Kodeksning 90 — 92-moddalarida nazarda tutilgan qoidalar asosida bayonnoma yuritadi."
+    },
+    {
+      "q": 2,
+      "id": "-5232208",
+      "matn": "Bayonnoma qoʻlda yoki kompyuterda yozilishi mumkin. Bayonnomaning toʻliq boʻlishini taʼminlash uchun audioyozuv vositalaridan, stenogramma yuritishdan foydalanish mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-5655243",
+      "matn": "Sud majlisining bayonnomasida quyidagilar koʻrsatiladi: sud ishining raqami; majlisning joyi va sanasi, majlis boshlangan va tamom boʻlgan vaqt koʻrsatilgan holda; sudning nomi va tarkibi; sud majlisining kotibi, tarjimon, ayblovchi, himoyachi, sudlanuvchi, jabrlanuvchi va uning vakili, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari, shuningdek sud chaqirgan boshqa shaxslar; koʻrilayotgan ish; sudlanuvchining shaxsiga doir maʼlumotlar; hozir boʻlgan va hozir boʻlmagan guvohlar hamda ularning kelmaganlik sabablari. Bayonnomada: raislik qiluvchining barcha farmoyishlari koʻrsatiladi va sudning harakatlari qanday tartibda oʻtgan boʻlsa, shu tartibda yoziladi; ishda ishtirok etuvchi shaxslarning ariza va iltimosnomalari; sudlanuvchi, jabrlanuvchi va guvohlar koʻrsatuvlarining batafsil mazmuni; berilgan savollarga ekspertning javoblari; sud muzokaralarining ketma-ketligi, sud muzokaralarida ishtirok etgan shaxslarning xulosalari hamda sudlanuvchi oxirgi soʻzining mazmuni; basharti jinoyat protsessi ishtirokchilari iltimos qilsa, ishni koʻrish paytida yuz bergan holatlar toʻgʻrisidagi arzlar aks ettiriladi."
+    },
+    {
+      "q": 4,
+      "id": "-3696591",
+      "matn": "Sud majlisi videokonferensaloqa rejimida oʻtkazilgan taqdirda, sud majlisi bayonnomasida ushbu moddaning ikkinchi qismida nazarda tutilganlardan tashqari:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3696597",
+          "matn": "sud majlisi videokonferensaloqa rejimida oʻtkazilganligi haqidagi;"
+        },
+        {
+          "b": 2,
+          "id": "-3696598",
+          "matn": "texnika vositalari toʻgʻrisidagi;"
+        },
+        {
+          "b": 3,
+          "id": "-3696600",
+          "matn": "sud majlisini videokonferensaloqa rejimida oʻtkazishga koʻmaklashayotgan sud va xodimlar haqidagi maʼlumotlar koʻrsatilishi kerak."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "-3696602",
+      "matn": "Sud majlisi audio- yoki videoyozuvga olingan taqdirda, sud majlisi bayonnomasiga sud majlisida yozib olish texnika vositalaridan foydalanilganligi toʻgʻrisida belgi qoʻyiladi."
+    },
+    {
+      "q": 6,
+      "id": "-3696605",
+      "matn": "Audio- va videoyozuv saqlanayotgan elektron yoki boshqa manbalar sud majlisi bayonnomasiga ilova qilinadi, unda ushbu vositalar qoʻllanilganligi haqida belgi qoʻyiladi."
+    },
+    {
+      "q": 7,
+      "id": "-3696608",
+      "matn": "Sud zarur deb topgan hollarda, guvohlar va jabrlanuvchilar sud majlisining bayonnomasidagi oʻzi bergan koʻrsatuvlarni imzolaydi."
+    },
+    {
+      "q": 8,
+      "id": "-3696610",
+      "matn": "Sud majlisining bayonnomasi raislik qiluvchi va sud majlisining kotibi tomonidan imzolanadi."
+    },
+    {
+      "q": 9,
+      "id": "-3696611",
+      "matn": "Sud majlisi bayonnomasining mazmuni boʻyicha raislik qiluvchi bilan sud majlisining kotibi oʻrtasida kelishmovchilik boʻlgan taqdirda, kotib oʻz mulohazalarini bayonnomaga ilova qilishi shart, bu mulohazalar sud tarkibi tomonidan koʻriladi. Ushbu masala yuzasidan ajrim chiqarilib, bayonnomaga ilova qilinadi."
+    },
+    {
+      "q": 10,
+      "id": "-5232214",
+      "matn": "Sud majlisining bayonnomasi hukm chiqarilgan kunning ertasidan, murakkab ishlar boʻyicha esa uch sutkadan kechiktirmay imzolanishi kerak."
+    },
+    {
+      "q": 11,
+      "id": "-5232227",
+      "matn": "Taraflar bayonnomaning va sud majlisi audioyozuvining koʻchirma nusxalarini oʻz hisobidan olishga haqli."
+    }
+  ]
+}

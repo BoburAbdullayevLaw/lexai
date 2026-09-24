@@ -1,0 +1,35 @@
+{
+  "n": 35,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179984",
+  "sarlavha": "35-modda. Qilmishning jinoiyligini istisno qiladigan holatlar tushunchasi",
+  "umumiy_sharh": [
+    "Qilmishning jinoiyligini istisno qiluvchi holatlar — qilmishda JKda nazarda tutilgan alomatlar rasmiy jihatdan mavjud bo'lsa-da, u ijtimoiy xavfli, g'ayriqonuniy yoki aybli bo'lmagan hollar.",
+    "Bu holatlar insonparvarlik va adolat tamoyillarini ifodalaydi. Qonunchilikda belgilanishi fuqarolarning huquqiy faolligini kuchaytiradi.",
+    "Qilmishning jinoiyligini istisno qiluvchi holatlar jinoyat tarkibining biror elementi — ijtimoiy xavflilik, g'ayriqonuniylik yoki ayb — yo'qligi tufayli istisno qilinadi.",
+    "Jinoyat kodeksida ko'rsatilmagan boshqa holatlar qilmishning jinoiyligini istisno qiluvchi sifatida topilishi mumkin emas — ro'yxat to'liq.",
+    "Bu institut normalari jinoiy repressiya choralarini kamaytiradi va fuqarolarning huquqiy faolligini kuchaytiradi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179985",
+      "matn": "Qilmishda ushbu Kodeksda nazarda tutilgan alomatlar rasmiy jihatdan mavjud boʻlsa-da, lekin u ijtimoiy xavfli, gʻayriqonuniy yoki aybli boʻlmasa, qilmishning jinoiyligini istisno qiladigan holatlar deb topiladi.",
+      "sharh": [
+        "Qonunda qayd etilgan belgilarning (ijtimoiy xavflilik, g'ayriqonuniylik, ayb) kamida bittasining yo'qligi sodir etilgan qilmishni jinoyat, deb topishga imkon bermaydi.",
+        "Jinoyat tarkibining barcha elementlari mavjud bo'lishi kerak. Tashqi jihatdan jinoyat tarkibiga o'xshagan, biroq barcha elementlarni o'z ichiga olmaydigan qilmish jinoyat deb topilmaydi.",
+        "Biror elementning (ijtimoiy xavflilik, g'ayriqonuniylik, ayb) yo'qligi qilmishning jinoiyligini istisno qilish uchun yetarli — hamma uch belgining ham yo'qligi talab qilinmaydi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3500663",
+      "matn": "Quyidagi holatlar, yaʼni kam ahamiyatli qilmishlar; zaruriy mudofaa; oxirgi zarurat; ijtimoiy xavfli qilmish sodir etgan shaxsni ushlash chogʻida zarar yetkazish; buyruqni yoki boshqacha tarzdagi vazifani bajarish; kasb yoki xoʻjalik faoliyati bilan bogʻliq boʻlgan asosli tavakkalchilik; jismoniy yoki ruhiy majburlash yoxud qoʻrqitish natijasida qilmish sodir etish jinoyatni istisno qiluvchi holatlar deb topiladi.",
+      "sharh": [
+        "Ko'rsatilgan ro'yxat to'liqdir. Unda ko'rsatilmagan boshqa holatlar qilmishning jinoiyligini istisno qiluvchi sifatida topilishi mumkin emas.",
+        "Kam ahamiyatli qilmish — jinoyat tarkibiga tashqi jihatdan o'xshash, biroq ijtimoiy xavflilik darajasi past bo'lgan qilmishlar.",
+        "Zaruriy mudofaa, oxirgi zarurat, ushlash chog'ida zarar yetkazish, buyruqni bajarish, tavakkalchilik, majburlash/qo'rqitish — har biri alohida qonuniy asosga ega."
+      ]
+    }
+  ]
+}

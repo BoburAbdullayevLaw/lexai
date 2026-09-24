@@ -1,0 +1,59 @@
+{
+  "n": "121-3",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5305049",
+  "sarlavha": "121³-modda. Koʻrsatuvlarni oldindan mustahkamlab qoʻyish toʻgʻrisidagi iltimosnomani koʻrib chiqish shartlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-7354905",
+      "matn": "Koʻrsatuvlarni oldindan mustahkamlab qoʻyish toʻgʻrisidagi iltimosnoma surishtiruv, dastlabki tergov yuritilayotgan joydagi jinoyat ishlari boʻyicha tuman (shahar) sudining tergov sudyasi tomonidan, mazkur sudning sudyasi boʻlmagan yoxud koʻrsatuvlarni oldindan mustahkamlab qoʻyish toʻgʻrisidagi iltimosnomani koʻrib chiqishda uning ishtirokini istisno etuvchi holatlar mavjud boʻlgan taqdirda esa Qoraqalpogʻiston Respublikasi sudi, viloyat, Toshkent shahar sudi raisining koʻrsatmasiga binoan boshqa tegishli sudning tergov sudyasi tomonidan yakka tartibda koʻrib chiqiladi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5305061",
+      "matn": "Sud koʻrsatuvlarni oldindan mustahkamlab qoʻyish toʻgʻrisidagi iltimosnomani materiallar kelib tushgan paytdan eʼtiboran yigirma toʻrt soatdan kechiktirmay koʻrib chiqadi va iltimosnomani qanoatlantirish hamda sud majlisini tayinlash yoki iltimosnomani qanoatlantirishni rad qilish toʻgʻrisida ajrim chiqaradi va bu haqda taraflarga xabar beradi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-5305062",
+      "matn": "Iltimosnoma qanoatlantirilgan taqdirda, sudya koʻrsatuvlarni oldindan mustahkamlash boʻyicha sud majlisini uch sutkadan kechiktirmay oʻtkazadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-5305063",
+      "matn": "Agar sudya koʻrsatuvlarni oldindan mustahkamlashni iltimosnomani va unga ilova qilingan hujjatlarni koʻrib chiqish natijasida asossiz deb topsa, iltimosnomani qanoatlantirishni rad etadi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111460#-7354949",
+      "matn": "Sudning koʻrsatuvlarni oldindan mustahkamlab qoʻyish toʻgʻrisidagi iltimosnomani qanoatlantirishni rad etish haqidagi ajrimi ustidan ushbu ajrim chiqarilgan kundan eʼtiboran yetmish ikki soat ichida apellyatsiya tartibida xususiy shikoyat yoki xususiy protest berilishi mumkin. Apellyatsiya shikoyati, protesti ajrimni chiqargan sud orqali beriladi, mazkur sud yigirma toʻrt soat ichida ularni materiallar bilan birga apellyatsiya instansiyasi sudiga yuborishi shart. Apellyatsiya instansiyasi sudining sudyasi ushbu materiallarni shikoyat yoki protest bilan birga kelib tushgan paytdan eʼtiboran qirq sakkiz soatdan kechiktirmay yakka tartibda koʻrib chiqishi kerak."
+    },
+    {
+      "q": 6,
+      "id": "https://lex.uz/docs/-111460#-5305065",
+      "matn": "Apellyatsiya instansiyasi sudi apellyatsiya shikoyatini, protestini koʻrib chiqib, oʻz ajrimi bilan:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5305066",
+          "matn": "sudyaning ajrimini oʻzgarishsiz, shikoyatni yoki protestni esa qanoatlantirmasdan qoldirishga;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5305067",
+          "matn": "sudyaning ajrimini bekor qilishga va koʻrsatuvlarni oldindan mustahkamlab qoʻyishga haqli."
+        }
+      ]
+    },
+    {
+      "q": 7,
+      "id": "https://lex.uz/docs/-111460#-5305069",
+      "matn": "Apellyatsiya instansiyasi sudining ajrimi ustidan shikoyat, protest berilishi mumkin emas."
+    },
+    {
+      "q": 8,
+      "id": "https://lex.uz/docs/-111460#-5305071",
+      "matn": "Iltimosnomani qanoatlantirish rad etilganidan keyin sudga takroran murojaat qilishga faqat koʻrsatuvlarni mustahkamlash toʻgʻrisida iltimosnoma berish uchun yangi asoslar mavjud boʻlgan taqdirdagina yoʻl qoʻyiladi."
+    }
+  ]
+}

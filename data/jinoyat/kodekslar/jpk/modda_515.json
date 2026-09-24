@@ -1,0 +1,61 @@
+﻿{
+  "n": 515,
+  "sarlavha_id": "-6627498",
+  "sarlavha": "515-modda. Taftish tartibida shikoyat berish va protest bildirish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6627499",
+      "matn": "Quyidagilar ustidan taftish tartibida shikoyat beriladi yoki protest bildiriladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6627500",
+          "matn": "tuman (shahar) sudlarining apellyatsiya yoki kassatsiya tartibida koʻrib chiqilgan hukmlari, ajrimlari ustidan, shuningdek tuman (shahar) sudlari tomonidan koʻrilgan ishlar boʻyicha Qoraqalpogʻiston Respublikasi sudining, viloyatlar, Toshkent shahar sudlarining apellyatsiya yoki kassatsiya tartibida chiqarilgan hukmlari, ajrimlari ustidan — Qoraqalpogʻiston Respublikasi sudiga, viloyatlar, Toshkent shahar sudlariga;"
+        },
+        {
+          "b": 2,
+          "id": "-6627502",
+          "matn": "hududiy harbiy sudlarning apellyatsiya yoki kassatsiya tartibida koʻrib chiqilgan hukmlari, ajrimlari ustidan, shuningdek hududiy harbiy sudlar tomonidan koʻrilgan ishlar boʻyicha Oʻzbekiston Respublikasi Harbiy sudi apellyatsiya yoki kassatsiya instansiyasi sudining hukmlari, ajrimlari ustidan — Oʻzbekiston Respublikasi Harbiy sudiga."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-6627503",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining Jinoyat ishlari boʻyicha sudlov hayʼatiga:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-6627505",
+          "matn": "tuman (shahar) sudlarining, hududiy harbiy sudlarning apellyatsiya, kassatsiya yoki taftish tartibida koʻrib chiqilgan hukmlari, ajrimlari ustidan;"
+        },
+        {
+          "b": 2,
+          "id": "-6627507",
+          "matn": "Oʻzbekiston Respublikasi Oliy sudi, Qoraqalpogʻiston Respublikasi sudi, viloyatlar va Toshkent shahar sudlari, Oʻzbekiston Respublikasi Harbiy sudi tomonidan birinchi instansiya boʻyicha chiqarilgan hukmlar, ajrimlar va ular yuzasidan chiqarilgan apellyatsiya yoki kassatsiya instansiyasining hukmlari, ajrimlari ustidan shikoyat (protest) berilishi mumkin."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-6627508",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining Jinoyat ishlari boʻyicha sudlov hayʼatining taftish tartibida chiqarilgan hukmlari, ajrimlari ustidan Oʻzbekiston Respublikasi Oliy sudining Rayosatiga taftish tartibida takroran koʻrib chiqish uchun protest bildiriladi."
+    },
+    {
+      "q": 4,
+      "id": "-6627510",
+      "matn": "Oʻzbekiston Respublikasi Oliy sudining raisi tomonidan Oʻzbekiston Respublikasi Oliy sudining Rayosatiga protest bildirish uchun ushbu Kodeksning 511-moddasida koʻrsatilgan shaxslarning arizalari (iltimosnomalari), shuningdek sudyaning taqdimnomasi, ommaviy axborot vositalarining xabarlari sabab boʻladi."
+    },
+    {
+      "q": 5,
+      "id": "-6627512",
+      "matn": "Ushbu modda birinchi qismining 1 va 2-bandlarida nazarda tutilgan taftish tartibidagi shikoyatlar va protestlar hukmni, ajrimni chiqargan sud orqali beriladi. Shikoyat yoki protest bevosita Qoraqalpogʻiston Respublikasi sudiga, viloyat, Toshkent shahar sudiga, Oʻzbekiston Respublikasi Harbiy sudiga berilgan taqdirda, sud ularni hukmni, ajrimni chiqargan sudga ushbu Kodeksning 479-moddasida bayon etilgan talablarni bajarish uchun yuboradi."
+    },
+    {
+      "q": 6,
+      "id": "-6627516",
+      "matn": "Ushbu moddada belgilangan tartib taftish tartibida xususiy shikoyat berish va xususiy protest bildirish tartibiga nisbatan ham tatbiq etiladi."
+    }
+  ]
+}

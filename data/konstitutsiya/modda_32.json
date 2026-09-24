@@ -1,0 +1,18 @@
+{
+  "n": "32",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445538",
+  "sarlavha": "32-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445539",
+      "matn": "Qonuniy asoslarda Oʻzbekiston Respublikasi hududida boʻlib turgan har kim mamlakat boʻylab erkin harakatlanish, turar va yashash joyini tanlash huquqiga ega, bundan qonunda belgilangan cheklovlar mustasno."
+    },
+    {
+      "q": 2,
+      "id": "-6445541",
+      "matn": "Har kim Oʻzbekistondan tashqariga erkin chiqish huquqiga ega, bundan qonunda belgilangan cheklovlar mustasno. Oʻzbekiston Respublikasi fuqarosi Oʻzbekistonga toʻsqinliksiz qaytish huquqiga ega."
+    }
+  ]
+}

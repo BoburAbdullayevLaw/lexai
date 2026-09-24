@@ -1,0 +1,22 @@
+﻿{
+  "n": 103,
+  "sarlavha_id": "-253865",
+  "sarlavha": "103-modda. Soʻroq qilinuvchining hujjatlar va boshqa yozuvlardan foydalanishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253867",
+      "matn": "Soʻroq qilinuvchining koʻrsatuvlari raqamlar yoki xotirada saqlanishi qiyin boshqa maʼlumotlarga taalluqli boʻlsa, u soʻroq jarayonida oʻzidagi yoki ishga qoʻshib qoʻyilgan hujjatlardan yoxud boshqa yozuvlardan foydalanishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-253869",
+      "matn": "Soʻroq qilinuvchiga soʻroq qilish jarayonida oʻzidagi hujjatlar va boshqa yozuvlarni oʻqib eshittirishga ruxsat etilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-253870",
+      "matn": "Surishtiruvchi, tergovchi va sud soʻroq qilinuvchidan soʻroq qilish jarayonida u foydalanayotgan hujjatlar va boshqa yozuvlarni talab qilishi, ularni keyin qaytarib berishi yoki ishga qoʻshib qoʻyishi mumkin."
+    }
+  ]
+}

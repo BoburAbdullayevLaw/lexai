@@ -1,0 +1,34 @@
+{
+  "n": "497¹⁶",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-5232750",
+  "sarlavha": "497¹⁶-modda. Taraflarning apellyatsiya instansiyasi sudi majlisida ishtirok etishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-5232753",
+      "matn": "Apellyatsiya instansiyasi sudi majlisida quyidagilar ishtirok etishi shart:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-5232758",
+          "matn": "tegishincha Oʻzbekiston Respublikasi Bosh prokurori, Qoraqalpogʻiston Respublikasi, viloyat, Toshkent shahar prokurori, Oʻzbekiston Respublikasi Harbiy prokurori tomonidan vakolat berilgan prokuror;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-5232763",
+          "matn": "mahkum, oqlangan shaxs yoki oʻziga nisbatan jinoyat ishi tugatilgan shaxs — mazkur shaxs sud majlisida ishtirok etish toʻgʻrisida iltimosnoma bergan yoki sud mazkur shaxsning sud majlisida ishtirok etishini zarur deb topgan hollarda;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-5232767",
+          "matn": "himoyachi — ushbu Kodeksning 51 va 52-moddalarida koʻrsatilgan hollarda."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-5232772",
+      "matn": "Qamoqda yoki uy qamogʻida saqlanayotgan va apellyatsiya shikoyatini (protestini) koʻrib chiqishda hozir boʻlish istagini bildirgan mahkumga sud majlisida bevosita yoki videokonferensaloqa tizimidan foydalanish orqali ishtirok etish huquqi taʼminlanadi."
+    }
+  ]
+}

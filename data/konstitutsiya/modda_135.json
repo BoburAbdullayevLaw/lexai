@@ -1,0 +1,23 @@
+{
+  "n": "135",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446127",
+  "sarlavha": "135-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446128",
+      "matn": "Oʻzbekiston Respublikasi Sudyalar oliy kengashi sudyalar hamjamiyatining mustaqil organi boʻlib, u sudyalar korpusining shakllantirilishini, sud hokimiyati mustaqilligining konstitutsiyaviy prinsipiga rioya etilishini taʼminlaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6446130",
+      "matn": "Oʻzbekiston Respublikasi Sudyalar oliy kengashi raisi va uning oʻrinbosari Oʻzbekiston Respublikasi Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Oliy Majlisining Senati tomonidan besh yillik muddatga saylanadi. Ayni bir shaxs surunkasiga ikki muddatdan ortiq Oʻzbekiston Respublikasi Sudyalar oliy kengashining raisi, rais oʻrinbosari etib saylanishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-6446132",
+      "matn": "Oʻzbekiston Respublikasi Sudyalar oliy kengashini tashkil etish va uning faoliyati tartibi qonun bilan belgilanadi."
+    }
+  ]
+}

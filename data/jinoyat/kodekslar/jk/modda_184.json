@@ -1,0 +1,61 @@
+{
+  "n": 184,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-5907220",
+  "sarlavha": "184-modda. Soliqlar yoki yigʻimlarni toʻlashdan boʻyin tovlash",
+  "umumiy_sharh": [
+    "Soliq yoki boshqa to'lovlarni to'lashdan bo'yin tovlashning ijtimoiy xavfliligi shundan iboratki, mazkur jinoyat sodir etilganda davlat budjeti olishi kerak bo'lgan mablag'larni olmaydi, bu esa davlatning hayotning turli sohalarida o'z zimmasiga yuklatilgan vazifalarni bajarish uchun zarur moddiy-texnik imkoniyatlarini kamaytiradi.",
+    "Jinoyat obyekti har bir jismoniy va yuridik shaxs tomonidan qonun bilan belgilangan soliq va boshqa to'lovlarni to'lashdek konstitutsiyaviy burchlarni bajarish bo'yicha davlatning moliyaviy sohadagi ijtimoiy munosabatlaridir.",
+    "JK 184-moddasida javobgarlikni nazarda tutuvchi jinoyatning predmeti – soliqlar, yig'imlar, bojlar va boshqa to'lovlar hisoblanadi.",
+    "Obyektiv tomondan soliq yoki boshqa to'lovlarni to'lashdan bo'yin tovlash daromad yoxud boshqa to'lovlarni yoki soliq solishning boshqa obyektlarini yashirish, kamaytirib ko'rsatish, ancha miqdordagi soliqlar, yig'imlar, bojlar va boshqa to'lovlarni to'lashdan bo'yin tovlaganlik uchun ma'muriy choralar ko'rilgandan so'ng ancha miqdorda sodir etilishi bilan tavsiflanadi.",
+    "Foyda (daromad) – jami daromad bilan Soliq kodeksiga muvofiq belgilanadigan chegirmalar o'rtasidagi farq hisoblanadi.",
+    "Foydani, daromadni yoxud soliq solinadigan boshqa obyektlarni yashirish – bu soliq organlariga taqdim etiladigan hisobot hujjatlarida ularni olganlik to'g'risida haqiqiy ma'lumotlarni qasddan ko'rsatmaslik, shuningdek, ularning mavjudligi to'g'risidagi ma'lumotni yashirib qolish.",
+    "Foydani, daromadni yoki soliq solinadigan boshqa obyektlarini kamaytirib ko'rsatish soliq organlariga taqdim qilinadigan hisobot hujjatlariga bila turib haqiqatga to'g'ri kelmaydigan, balki uni pasaytirish tomoniga ma'lumotlar kiritishda ifodalanadi.",
+    "Jinoyat soliq qonunchiligida o'rnatilgan soliq solish to'lashning tegishli muddatida soliq to'lanmagan paytdan boshlab tugallangan hisoblanadi.",
+    "Soliq va boshqa to'lovlardan bo'yin tovlash quyidagi majburiy shartlar mavjud bo'lgandagina jinoyat deb tan olinadi: to'lanmagan to'lovning ancha miqdordaligi va ma'muriy preyuditsiya.",
+    "Subyektiv tomondan jinoyat aybning qasd shakli bilan sodir etiladi. Aybdor o'z harakatlari ijtimoiy xavfliligini anglaydi va soliqlar yoxud boshqa to'lovlarni yirik hajmda to'lamaslik oqibatini keltirib chiqarishni xohlaydi yoxud bunga ongli ravishda yo'l qo'yadi.",
+    "Jinoyat subyekti o'n olti yoshga to'lgan shaxs hisoblanadi. Bunday subyekt deb qonunga muvofiq daromad, foyda va soliq solishning boshqa obyektlari haqida to'liq axborot berish hamda davlat foydasiga belgilangan to'lovlarni kiritish vazifasi yuklatilgan shaxslar tan olinadi.",
+    "JK 184-moddasi 2-qismi sodir etilgan ijtimoiy xavfli qilmish uchun jinoyat tarkibining kvalifikatsiya qilingan quyidagi belgilari mavjud bo'lganda javobgarlikni nazarda tutadi: a) takroran; b) ko'p miqdorda.",
+    "JK 184-moddasi 3-qismida juda ko'p miqdorda soliq va boshqa to'lovlardan bo'yin tovlash jinoyati sodir etilganligi uchun javobgarlik nazarda tutiladi.",
+    "JK 184-moddasining 4-qismida rag'batlantiruvchi norma mustahkamlangan, unga muvofiq, qasddan yashirilgan, kamaytirib ko'rsatilgan foyda (daromad) bo'yicha soliqlar va boshqa to'lovlar to'liq to'langan taqdirda, ozodlikdan mahrum qilish tariqasidagi jazo qo'llanilmaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-5907235",
+      "matn": "Foyda (daromad) yoki soliq solinadigan boshqa obyektlarni qasddan yashirishni, kamaytirib koʻrsatishni, shuningdek davlat tomonidan belgilangan soliqlarni yoki yigʻimlarni toʻlashdan qasddan boʻyin tovlashni ancha miqdorda sodir etish, shunday qilmish uchun maʼmuriy jazo qoʻllanilganidan keyin roʻy bergan boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravarigacha miqdorda jarima yoki ikki yilgacha axloq tuzatish ishlari bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-5907382",
+      "matn": "Soliqlar yoki yigʻimlarni toʻlashdan boʻyin tovlash:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-1422385",
+          "matn": "takroran;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-1422386",
+          "matn": "koʻp miqdorda sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining bir yuz ellik baravaridan uch yuz baravarigacha miqdorda jarima yoki ikki yildan uch yilgacha axloq tuzatish ishlari yoki bir yildan uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-5908032",
+      "matn": "Soliqlar yoki yigʻimlarni toʻlashdan boʻyin tovlash juda koʻp miqdorda sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining uch yuz baravaridan olti yuz baravarigacha miqdorda jarima yoki uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-5908043",
+      "matn": "Qasddan yashirilgan, kamaytirib koʻrsatilgan foyda (daromad) boʻyicha soliqlar va yigʻimlar toʻliq toʻlangan taqdirda, ozodlikni cheklash va ozodlikdan mahrum qilish tariqasidagi jazo qoʻllanilmaydi."
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-5908062",
+      "matn": "Birinchi marta jinoyat sodir etgan shaxs, agar u soliq tekshiruvi materiallarini koʻrib chiqish natijalari boʻyicha davlat soliq xizmati organining qarorini yoki Oʻzbekiston Respublikasi Bosh prokuraturasi huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamentining sodir etilgan jinoyat haqidagi xabarini olgan kundan eʼtiboran oʻttiz kun ichida soliqlar va yigʻimlar, shu jumladan penyalar va boshqa moliyaviy sanksiyalar tarzida davlatga yetkazilgan zararning oʻrnini toʻliq qoplasa, javobgarlikdan ozod qilinadi."
+    }
+  ]
+}

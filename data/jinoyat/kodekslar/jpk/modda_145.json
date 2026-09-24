@@ -1,0 +1,17 @@
+﻿{
+  "n": 145,
+  "sarlavha_id": "-254148",
+  "sarlavha": "145-modda. Guvohlantirish haqidagi qarorning yoki ajrimning majburiyligi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-254149",
+      "matn": "Surishtiruvchining, tergovchining guvohlantirish oʻtkazish toʻgʻrisidagi qarori yoki sudning shu toʻgʻridagi ajrimi qaysi shaxs xususida chiqarilgan boʻlsa, oʻsha shaxsga nisbatan majburiydir."
+    },
+    {
+      "q": 2,
+      "id": "-254150",
+      "matn": "Guvohlantirishdan bosh tortayotgan shaxslar majburiy keltirilishi va guvohlantirilishi mumkin."
+    }
+  ]
+}

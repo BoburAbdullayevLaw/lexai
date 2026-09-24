@@ -1,0 +1,22 @@
+﻿{
+  "n": 380,
+  "sarlavha_id": "-255783",
+  "sarlavha": "380-modda. Ayblov xulosasiga ilovalar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7235280",
+      "matn": "Ayblov xulosasiga tergovchining fikricha sud majlisiga chaqirilishi lozim boʻlgan shaxslarning roʻyxati, shuningdek qoʻllanilgan ehtiyot choralari, gumon qilinuvchi va ayblanuvchi qancha vaqt qamoqda saqlanganligi yoki u uy qamogʻida boʻlganligi toʻgʻrisidagi, ashyoviy, yozma va raqamli dalillar, fuqaroviy daʼvoni taʼminlash choralari, sud chiqimlari toʻgʻrisidagi maʼlumotlar ilova qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-255785",
+      "matn": "Sud majlisiga chaqirilishi lozim boʻlgan shaxslarning roʻyxatida tergovchi ularning turgan joyi hamda koʻrsatuvlari yoki xulosalari ishning qaysi sahifasida bayon qilinganligini koʻrsatadi."
+    },
+    {
+      "q": 3,
+      "id": "-255786",
+      "matn": "Jabrlanuvchilar, guvohlar, xolislar va protsessning boshqa ishtirokchilari xavfsizligini taʼminlash maqsadida, sud majlisiga chaqirilishi lozim boʻlgan shaxslar roʻyxatida ularning taxalluslari koʻrsatilishi mumkin. Xavfsizligi taʼminlanishiga muhtoj boʻlgan shaxslar haqidagi maʼlumotlar ular ishtirokida oʻtkazilgan tergov harakatlari bayonnomalarining kirish qismlari bilan birga muhrlangan holda sudga taqdim etiladi. Ular bilan faqat ayblov xulosasini tasdiqlovchi prokuror va ishni koʻrib chiquvchi sudya tanishishlari mumkin."
+    }
+  ]
+}

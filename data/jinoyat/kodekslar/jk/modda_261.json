@@ -1,0 +1,35 @@
+{
+  "n": "261",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-7398541",
+  "sarlavha": "261-modda. Mastlik holatidagi shaxsni transport vositasini boshqarishiga yoʻl qoʻyish yoki boshqarishni unga topshirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282163",
+      "matn": "Transport vositasidan foydalanish uchun masʼul shaxs, uning egasi yoki foydalanish huquqiga ega boʻlgan shaxs tomonidan bila turib mastlik holatidagi yoki giyohvandlik vositalari, psixotrop moddalar yoxud ularning analoglari yoki shaxsning aql-idrokiga taʼsir koʻrsatuvchi boshqa moddalar taʼsiri ostida boʻlgan shaxsning temir yoʻl, dengiz, daryo, havo, avtomobil transportini yoki boshqa transport vositasini boshqarishiga yoʻl qoʻyishi yoki boshqarishni unga topshirishi badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — ikki yildan uch yilgacha muayyan huquqdan mahrum qilib, bir yildan uch yilgacha ozodlikni cheklash yoki uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-7398547",
+      "matn": "Oʻsha qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-7398548",
+          "matn": "odam oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-7398550",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-7398552",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "n": 8,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-174576",
+  "sarlavha": "8-modda. Odillik prinsipi",
+  "umumiy_sharh": [
+    "Odillik prinsipi Konstitutsiyaning qator moddalarida mustahkamlangan bo'lib, xalqaro huquq tamoyillaridan biri sifatida e'tirof etilgan. JKda mustahkamlanishi jinoyat huquqiga doir konstitutsiyaviy normalarning mantiqiy amalga oshirilishi hisoblanadi.",
+    "Odillik umumiy kategoriya sifatida voqelikning to'g'ri va haqqoniy baholanishini aks ettiradi. JK nuqtayi nazarida jazo yoki boshqa choralar sodir qilingan jinoiy qilmishning og'irligi, ayb darajasi va aybdor shaxsning ijtimoiy xavfliligiga yarasha tayinlanishini taqozo etadi.",
+    "Aybdorga tayinlangan jazo yoki boshqa choralar sodir etilgan jinoyatning ijtimoiy xavflilik darajasiga mos kelishi kerak. Jazoning og'irligi, aybning darajasi va shaxsning ijtimoiy xavfliligi hisobga olinadi.",
+    "Bir jinoyat uchun ikki marta javobgarlikka tortish mumkin emas. Bunda shaxsning holati, ilgari jinoiy javobgarlikka tortilganligi, sudlanganligi yoki oqlanganligi ahamiyatga ega emas.",
+    "Odillik prinsipi jinoyat ishlari bo'yicha odil sudlovni amalga oshirishda fuqarolarning qonun oldida haqiqiy tengligiga erishishning obyektiv imkoniyatini ifoda etadi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-174580",
+      "matn": "Jinoyat sodir etishda aybdor boʻlgan shaxsga nisbatan qoʻllaniladigan jazo yoki boshqa huquqiy taʼsir chorasi odilona boʻlishi, yaʼni jinoyatning ogʻir-yengilligiga, aybning va shaxsning ijtimoiy xavflilik darajasiga muvofiq boʻlishi kerak."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-174583",
+      "matn": "Hech kim aynan bitta jinoyat uchun ikki marta javobgarlikka tortilishi mumkin emas."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "n": 174,
+  "sarlavha_id": "-1634693",
+  "sarlavha": "174-modda. Ekspert etib tayinlanadigan shaxslar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1634698",
+      "matn": "Ekspert sifatida davlat sud-ekspertiza muassasasi eksperti, boshqa korxona, muassasa, tashkilot xodimi yoki boshqa jismoniy shaxs ishtirok etishi mumkin."
+    },
+    {
+      "q": 2,
+      "id": "-1634700",
+      "matn": "Belgilangan tartibda muomalaga layoqatsiz yoki muomala layoqati cheklangan deb topilgan shaxslar, shuningdek qasddan sodir etgan jinoyatlari uchun sudlanganlik holati tugallanmagan yoki sudlanganligi olib tashlanmagan shaxslar ekspert sifatida jalb etilishi mumkin emas."
+    },
+    {
+      "q": 3,
+      "id": "-1634710",
+      "matn": "Sud-tibbiyot, sud-psixiatriya, sud-psixologiya, sud-avtotexnika, sud-iqtisodiy, kriminalistika ekspertizalarini faqat davlat sud-ekspertiza muassasalarining mutaxassislari, alohida hollarda esa, boshqa korxona, muassasa, tashkilotlarning mutaxassislari oʻtkazadi. Alohida hol ekspertiza tayinlash toʻgʻrisidagi qarorda yoki ajrimda asoslantirilishi lozim."
+    },
+    {
+      "q": 4,
+      "id": "-3349427",
+      "matn": "Tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi, sudning ekspert etib tayinlangan shaxsni chaqirish va uning ekspertiza oʻtkazishi toʻgʻrisidagi talabi ushbu shaxs ishlayotgan korxona, muassasa yoki tashkilot rahbari uchun majburiydir."
+    }
+  ]
+}

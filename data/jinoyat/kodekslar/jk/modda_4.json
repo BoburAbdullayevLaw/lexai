@@ -1,0 +1,33 @@
+{
+  "n": 4,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-174419",
+  "sarlavha": "4-modda. Qonuniylik prinsipi",
+  "umumiy_sharh": [
+    "Qonuniylik deganda, barcha davlat va nodavlat organlari, mansabdor shaxslar va fuqarolarning Konstitutsiya va qonunlar talablariga og'ishmay amal qilishi tushuniladi.",
+    "Jinoyat huquqida qonuniylik prinsipi: faqat Jinoyat kodeksi qanday qilmish jinoyat sifatida tan olinishini, aybdorga qanday jazo qo'llanilishini belgilaydi. Faqat qonun va sud hukmi bilan shaxs jinoyat sodir etgan deb topilishi mumkin.",
+    "Nullum crimen sine lege prinsipi: qonun bilan taqiqlangan xatti-harakatning jinoyat ekanligi e'tirof etiladi. Qilmishning jinoiyligi uning ijtimoiy xavfliligini, ya'ni jiddiy zarar yetkazish yoki zarar xavfini anglatadi.",
+    "Shaxsning fikri va qarashlari jinoiy javobgarlikka tortish uchun asos bo'la olmaydi. Faqat harakat yoki harakatsizlik orqali jinoyat sodir etilishi mumkin.",
+    "Qilmishda jinoyat tarkibining mavjud emasligi shaxsni jinoiy javobgarlikka tortmaslikka asos bo'ladi. Analogik qoida qo'llanilmaydi.",
+    "Qilmishga yarasha jazo tayinlash qonuniylik prinsipining maxsus ko'rinishini tashkil etadi. Jazo chorasi shaxsning jinoyatining og'ir-yengilligiga qarab belgilanadi.",
+    "Boshqa huquqiy oqibatlar: jinoiy javobgarlik yoki jazodan ozod qilishning barcha ko'rinishlari, tibbiy yo'sindagi majburlov choralari, sudlanganlik va boshqalar.",
+    "Qonuniylik prinsipi qonunni qo'llash jarayonida uning mazmuni qonun matniga to'la mos kelishini ta'minlaydi.",
+    "Aybsizlik prezumpsiyasi — shaxs faqat sud hukmi bilan jinoyat sodir etgan deb topiladi. Aybi isbotlangan shaxsga jazo faqat sud hukmi bilan tayinlanadi.",
+    "Sud hukmi jinoyat ishi yuzasidan chiqarilgan hamda sudlanuvchini aybdor yoki aybsiz deb topadigan, jazo chorasini belgilaydigan sud hokimiyatining huquqiy akti.",
+    "Ayblanuvchining huquqiy maqomi mahkumning huquqiy maqomidan farq qiladi. Ayblanuvchining barcha konstitutsiyaviy huquqlari faqat zarur hollardagina qonun asosida cheklanishiga yo'l qo'yiladi.",
+    "Jinoyat sodir etganlikda aybdor deb topilgan shaxsning huquq va majburiyatlari faqat qonun bilan tartibga solinadi.",
+    "Qonuniylik prinsipi qonun ijodkorligida ham muhim ahamiyatga ega. Qonun chiqaruvchi organga jinoyatning alomatlarini to'liq ko'rsatish mas'uliyatini yuklaydi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-174421",
+      "matn": "Sodir etilgan qilmishning jinoiyligi, jazoga sazovorligi va boshqa huquqiy oqibatlari faqat Jinoyat kodeksi bilan belgilanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-174424",
+      "matn": "Hech kim sudning hukmi boʻlmay turib jinoyat sodir qilishda aybli deb topilishi va qonunga xilof ravishda jazoga tortilishi mumkin emas. Jinoyat sodir etishda aybdor deb topilgan shaxs qonunda belgilangan huquqlardan foydalanadi va majburiyatlarni bajaradi."
+    }
+  ]
+}

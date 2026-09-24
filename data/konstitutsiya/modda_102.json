@@ -1,0 +1,23 @@
+{
+  "n": "102",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6445926",
+  "sarlavha": "102-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6445927",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi qonun loyihalarini tayyorlash ishini olib borish, Qonunchilik palatasi muhokamasiga kiritiladigan masalalarni dastlabki tarzda koʻrib chiqish va tayyorlash, Oʻzbekiston Respublikasi qonunlari hamda Qonunchilik palatasi tomonidan qabul qilinadigan qarorlarning ijrosini nazorat qilish uchun oʻz vakolatlari muddatiga Qonunchilik palatasi deputatlari orasidan qoʻmitalarni saylaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6445929",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Senati Senat muhokamasiga kiritiladigan masalalarni dastlabki tarzda koʻrib chiqish va tayyorlash, Oʻzbekiston Respublikasi qonunlari hamda Senat tomonidan qabul qilinadigan qarorlarning ijrosini nazorat qilish uchun oʻz vakolatlari muddatiga senatorlar orasidan qoʻmitalarni saylaydi."
+    },
+    {
+      "q": 3,
+      "id": "-6445930",
+      "matn": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi va Senati, zarurat boʻlgan taqdirda, muayyan vazifalarni bajarish uchun deputatlar, senatorlar orasidan komissiyalar tuzadi."
+    }
+  ]
+}

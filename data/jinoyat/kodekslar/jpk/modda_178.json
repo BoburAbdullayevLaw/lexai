@@ -1,0 +1,32 @@
+﻿{
+  "n": 178,
+  "sarlavha_id": "-1634812",
+  "sarlavha": "178-modda. Kompleks ekspertiza",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-1634815",
+      "matn": "Kompleks ekspertiza ish uchun ahamiyatga molik holatlarni turli ilm sohalaridan foydalangan holda bir necha ekspert tekshiruvini oʻtkazish yoʻli bilangina aniqlash mumkin boʻlgan hollarda tayinlanadi."
+    },
+    {
+      "q": 2,
+      "id": "-1634816",
+      "matn": "Kompleks ekspertizani oʻtkazishda ekspertlarning har biri oʻz vakolati doirasida ekspert tekshiruvlarini olib boradi. Kompleks ekspertizaning xulosasida ekspertlarning har biri qaysi ekspert tekshiruvlarini va qancha hajmda olib borganligi, qaysi holatlarni shaxsan oʻzi aniqlaganligi hamda qanday fikrlarga kelganligi koʻrsatiladi. Ekspertlarning har biri xulosaning ushbu ekspert tekshiruvlari bayon etilgan qismini imzolaydi va ular uchun javobgar boʻladi."
+    },
+    {
+      "q": 3,
+      "id": "-1634818",
+      "matn": "Umumiy fikrni (fikrlarni), olingan natijalarni baholashga va ushbu fikrni (fikrlarni) shakllantirishga vakolatli boʻlgan ekspertlar qiladi. Agar ekspertlar komissiyasi yakuniy fikrining yoki uning bir qismining asosi sifatida ekspertlardan birining (alohida ekspertlarning) aniqlagan holatlari olingan boʻlsa, bu haqda xulosada koʻrsatilishi kerak."
+    },
+    {
+      "q": 4,
+      "id": "-1634819",
+      "matn": "Ekspertlar oʻrtasida kelishmovchiliklar kelib chiqqan taqdirda, ularning har biri kelishmovchiliklar kelib chiqqan barcha yoki ayrim masalalar boʻyicha alohida xulosa beradi."
+    },
+    {
+      "q": 5,
+      "id": "-1634820",
+      "matn": "Agar kompleks ekspertizani oʻtkazish davlat sud-ekspertiza muassasasiga topshirilgan boʻlsa, unda ushbu ekspertizani tashkil qilish uning rahbari zimmasiga yuklatiladi."
+    }
+  ]
+}

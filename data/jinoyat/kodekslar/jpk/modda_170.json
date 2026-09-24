@@ -1,0 +1,32 @@
+﻿{
+  "n": 170,
+  "sarlavha_id": "-5138076",
+  "sarlavha": "170-modda. Telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish tartibi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-7355280",
+      "matn": "Gumon qilinuvchi, ayblanuvchi, sudlanuvchining telefonlari va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarini eshitib turish, ular orqali uzatiladigan axborotni olish sudning ajrimiga binoan amalga oshiriladi."
+    },
+    {
+      "q": 2,
+      "id": "-7355282",
+      "matn": "Jabrlanuvchiga, guvohga, xuddi shuningdek ularning qarindoshlari va yaqinlariga nisbatan kuch ishlatish, tovlamachilik yoki boshqa qonunga xilof harakatlar sodir etish xavfi mavjud boʻlgan taqdirda, ushbu shaxslarning arizalari boʻyicha yoxud ularning yozma roziligi hamda sudning roziligi bilan ularning telefonlari va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish amalga oshirilishi mumkin."
+    },
+    {
+      "q": 3,
+      "id": "-7355284",
+      "matn": "Kechiktirib boʻlmaydigan hollarda, telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish haqida chiqarilgan qaror bir sutka davomida qonuniy kuchga ega boʻladi."
+    },
+    {
+      "q": 4,
+      "id": "-7355288",
+      "matn": "Telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish toʻgʻrisidagi qaror yoki ajrim unda eshitib turiladigan axborotning xususiyati hamda hajmi, shuningdek soʻzlashuvlarni eshitib turishni, uzatiladigan axborotni olishni va natijalarini qayd etish shakli belgilanib, maxsus vakolatli davlat organiga ijro etish uchun yuboriladi. Telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish olti oydan ortiq davom etishi mumkin emas."
+    },
+    {
+      "q": 5,
+      "id": "-7355290",
+      "matn": "Telefonlar va boshqa telekommunikatsiya qurilmalari orqali olib boriladigan soʻzlashuvlarni eshitib turish, ular orqali uzatiladigan axborotni olish chogʻida olingan axborot qayd etilishi (yozilishi) kerak. Qayd etilgan axborot (yoki yozuv) tergov harakati bayonnomasiga qoʻshib qoʻyilishi lozim."
+    }
+  ]
+}

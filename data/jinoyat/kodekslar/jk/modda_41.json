@@ -1,0 +1,68 @@
+{
+  "n": 41,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-184322",
+  "sarlavha": "41-modda. Kasb yoki xoʻjalik faoliyatiga bogʻliq asosli tavakkalchilik",
+  "umumiy_sharh": [
+    "Kasb yoki xo'jalik faoliyatiga bog'liq asosli tavakkalchilik — ijtimoiy foydali maqsadga erishish uchun huquqlar va manfaatlarga zarar yetkazish holati. Boshqa choralar bilan maqsadga erishish imkoni bo'lmaganda jinoyat deb topilmaydi.",
+    "Asosli tavakkalchilikning shartlari: ijtimoiy foydali maqsad, tavakkal qilmasdan erishib bo'lmaslik, zamonaviy ilmiy-texnika bilimlariga muvofiq kelishi, zararning oldini olish choralari ko'rilganligi.",
+    "Tavakkalchilik qonuniy emas: odamlarning halokati, ekologik halokat yoki boshqa og'ir oqibatlar oldindan ma'lum bo'lganda.",
+    "Natijaga erishilmagan va zarar foydadan ko'proq bo'lsa ham, javobgarlik tugamaydi — lekin bu jazoni yengillashtiruvchi holat (55-modda).",
+    "Tadbirkorlik subyektlari tijorat tavakkalchiliklari tufayli bank oldidagi majburiyatlarni bajarmaganligi bank xodimlarini javobgarlikdan ozod qiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-184325",
+      "matn": "Ijtimoiy foydali maqsadga erishish uchun kasb yoki xoʻjalik faoliyatiga bogʻliq asosli tavakkalchilik qilib, huquqlar va qonun bilan qoʻriqlanadigan manfaatlarga zarar yetkazish jinoyat deb topilmaydi.",
+      "sharh": [
+        "Asosli tavakkalchilikning birinchi sharti — ijtimoiy foydali maqsadga yo'naltirilganlik. Tavakkalchilik jamiyat va davlat uchun manfaat keltiruvchi natijalarga qaratilishi kerak.",
+        "Ijtimoiy foydali maqsad — insonlar hayoti va sog'lig'ini saqlash, yangi texnika kashf etish, rivojlanish sur'atlarini oshirish va boshqalar.",
+        "Shaxsiy maqsadlarga yo'naltirilgan tavakkalchilik asosli deb topilmaydi. Lekin shaxsiy motiv ijtimoiy foydali maqsadga qaratilishi mumkin.",
+        "Ijtimoiy foydali natijaning salbiy oqibatlardan ustun bo'lishi kerak. Natija sezilarli sur'atda salbiy oqibatlardan ustun bo'lishi shart."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-184327",
+      "matn": "Agar sodir etilgan harakat zamonaviy ilmiy-texnika bilimlari va tajribalariga muvofiq kelgan, qoʻyilgan maqsadga esa, tavakkal qilmay erishishning iloji boʻlmagan hamda shaxs huquqlar va qonun bilan qoʻriqlanadigan manfaatlarga zarar yetkazilishining oldini olish uchun tegishli choralarni koʻrgan boʻlsa, bunday tavakkalchilik asosli deb topiladi.",
+      "sharh": [
+        "Tavakkalchilik zamonaviy ilmiy-texnika bilimlari va tajribalariga mos kelishi lozim. Harakatlar zararli oqibatlar oldini olish imkoniyatlarini obyektiv ko'rsatuvchi bilimlarga asoslanishi kerak.",
+        "Tavakkal qilmasdan maqsadga erishib bo'lmasligi zarur. Oddiy usullar bilan erishish mumkin bo'lganda tavakkalchilik oqlanmaydi.",
+        "Shaxs zarar yetkazilishining oldini olish uchun tegishli choralarni ko'rgan bo'lishi kerak. Obyektiv (sharoit talab qilishi) va subyektiv (shaxsning anglashi) mezonlar mavjud.",
+        "Xavfsizlik choralarini ko'rish zarurligi obyektiv va subyektiv mezonlar asosida belgilanadi — har bir ishning alohida holatiga qarab."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-184330",
+      "matn": "Kasb yoki xoʻjalik faoliyatiga bogʻliq asosli tavakkalchilik qilishda koʻzlangan ijtimoiy foydali natijaga erishilmagan va keltirilgan zarar ijtimoiy foydali maqsadga erishish natijasida olinishi mumkin boʻlgan foydali natijadan koʻproq boʻlgan taqdirda ham yetkazilgan zarar javobgarlikka sabab boʻlmaydi.",
+      "sharh": [
+        "Barcha shartlar mavjud bo'lgan taqdirda natijaga erishilmagan va zarar foydadan ko'proq bo'lsa ham, javobgarlik tugamaydi — bu asosli tavakkalchilikning muhim xususiyati.",
+        "Agar qonuniylik shartlaridan biri buzilgan bo'lsa, qilmish umumiy asosda baholanadi. Bunda ijtimoiy foydali maqsad jazoni yengillashtiruvchi holat (55-modda 1-qism «ye» bandi) sifatida hisobga olinadi.",
+        "Faktik xato holatlarida (xato harakat, xavfsizlik choralarini ko'rmagan) ehtiyotsizlik sifatida kvalifikatsiya qilinadi."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-184332",
+      "matn": "Tavakkalchilik odamlarning halok boʻlish xavfi, ekologiya halokati yoxud boshqacha ogʻir oqibatlarning kelib chiqishi mumkinligini bila turib qilingan boʻlsa, asosli deb topilmaydi.",
+      "sharh": [
+        "Odamlarning halok bo'lish xavfi — tavakkalchilik oqibatida ikki yoki undan ortiq odamning hayoti xavf ostida qolishi.",
+        "Ekologik halokat — insonlar faoliyati natijasida tabiatga zarar yetkazilishi va bu zarar keyingi hayot uchun jiddiy xavf tug'dirishi.",
+        "Boshqa og'ir oqibatlar — bir necha shaxsning sog'lig'iga og'ir shikast, transport tizimining izdan chiqishi, portlash yoki yong'indan vayron bo'lish.",
+        "O'ziga nisbatan teng bo'lmagan manfaat ko'zlanganda tavakkalchilik oqlanmaydi (masalan, hosildorlikni oshirish uchun xavfli tajriba).",
+        "Lekin odamlarni qutqarish, yangi texnologiyalar kashf etish kabi muhim manfaatlar uchun asosli tavakkalchilik qo'llanilishi mumkin — bu holda manfaat va xavf qiyosiy baholanadi."
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-2114425",
+      "matn": "Tadbirkorlik subyektlarining oʻzlariga koʻrsatilgan xizmatlar, shu jumladan berilgan kreditlar yuzasidan banklar va boshqa moliya tashkilotlari oldidagi shartnoma majburiyatlarini tadbirkorlik tavakkalchiliklari hamda boshqa tijorat tavakkalchiliklari bilan bogʻliq holda bajarmaganligi banklar va boshqa moliya tashkilotlari xodimlarini jinoiy javobgarlikka tortish uchun asos boʻlmaydi.",
+      "sharh": [
+        "Tadbirkorlik subyektlari tijorat tavakkalchiliklari tufayli bank oldidagi shartnoma majburiyatlarini bajarmaganligi bank xodimlarini jinoiy javobgarlikka tortish uchun asos bo'lmaydi.",
+        "Bu qoida kasb yoki xo'jalik faoliyatiga bog'liq asosli tavakkalchilikning maxsus holatini belgilaydi — tijorat xavflari tufayli javobgarlikdan ozodlik."
+      ]
+    }
+  ]
+}

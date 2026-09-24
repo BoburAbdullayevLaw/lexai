@@ -1,0 +1,22 @@
+﻿{
+  "n": 187,
+  "sarlavha_id": "-254358",
+  "sarlavha": "187-modda. Ekspert xulosasini baholash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3349463",
+      "matn": "Ekspert xulosasi tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi yoki sud tomonidan jinoyat ishi yoki tergovga qadar tekshiruv materiallari boʻyicha toʻplangan boshqa dalillar bilan birgalikda uning ilmiy asoslanganligi va ekspertiza oʻtkazish uchun belgilangan barcha protsessual qoidalarga rioya etilganligi nuqtai nazaridan baholanadi."
+    },
+    {
+      "q": 2,
+      "id": "-254360",
+      "matn": "Ekspertning xulosasi surishtiruvchi, tergovchi yoki sud uchun muqarrar daliliy kuchga ega emas. Xulosaga qoʻshilmaslik qarorda yoki ajrimda asoslab berilishi lozim."
+    },
+    {
+      "q": 3,
+      "id": "-3349466",
+      "matn": "Agar jinoyat ishi yoki tergovga qadar tekshiruv materiallari boʻyicha bir necha ekspertiza oʻtkazilgan va ekspertlar bir xil fikrga kelmagan boʻlsa, tergovga qadar tekshiruvni amalga oshiruvchi organning mansabdor shaxsi, surishtiruvchi, tergovchi yoki sud baʼzi ekspertlarning xulosalariga qoʻshilish va boshqa ekspertlarning xulosalariga qoʻshilmaslik toʻgʻrisidagi oʻz fikrini asoslab berishi lozim."
+    }
+  ]
+}

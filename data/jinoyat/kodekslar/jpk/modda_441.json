@@ -1,0 +1,17 @@
+﻿{
+  "n": 441,
+  "sarlavha_id": "-256430",
+  "sarlavha": "441-modda. Guvohning qasamyodi va uni javobgarlik toʻgʻrisida ogohlantirish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-256431",
+      "matn": "Guvohni soʻroq qilishdan oldin raislik qiluvchi uning shaxsini aniqlaydi va koʻrsatuv berishdan bosh tortganlik yoki bila turib yolgʻon koʻrsatuv berganlik uchun javobgarlik toʻgʻrisida ogohlantiriladi. Soʻngra raislik qiluvchi guvohga barchaning oldida oshkora ravishda quyidagi mazmunda qasamyod qilishni taklif etadi: \"Ish yuzasidan oʻzimga maʼlum boʻlgan hamma narsani sudga aytib berishga qasamyod qilaman. Faqat haqiqatni, barcha haqiqatni gapirib beraman, haqiqatdan oʻzga narsani gapirmayman\". Qasamyod matni guvohga uning majburiyati va javobgarligi tushuntirilgani haqidagi guvohning tilxati bilan birgalikda sud majlisining bayonnomasiga ilova qilinadi."
+    },
+    {
+      "q": 2,
+      "id": "-256433",
+      "matn": "Oʻn olti yoshga toʻlmagan guvohga ham ushbu moddaning birinchi qismida nazarda tutilgan oshkora qasamyod qilish taklif qilinadi, lekin koʻrsatuv berishdan bosh tortgani yoki bila turib yolgʻon koʻrsatuv bergani uchun javobgarlik toʻgʻrisida ogohlantirilmaydi va undan tilxat olinmaydi."
+    }
+  ]
+}

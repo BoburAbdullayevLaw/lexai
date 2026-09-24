@@ -1,0 +1,37 @@
+{
+  "n": "251",
+  "kod": "JK",
+  "sarlavha_id": "",
+  "sarlavha": "251-modda. Kuchli ta'sir qiluvchi yoki zaharli moddalarni qonunga xilof ravishda egallash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "",
+      "matn": "Kuchli ta'sir qiluvchi yoki zaharli moddalarni, shuningdek ularni tayyorlashda yoki ishlab chiqarishda foydalanilishi mumkinligi ayon bo'lgan prekursorlarni qonunga xilof ravishda tayyorlash, saqlash, olib kirish, olib chiqish yoki o'tkazish — uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "",
+      "matn": "O'sha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "matn": "guruh tomonidan oldindan kelishib olib sodir etilgan bo'lsa;"
+        },
+        {
+          "b": "c",
+          "matn": "katta miqdorda sodir etilgan bo'lsa;"
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "",
+      "matn": "Ushbu moddaning birinchi yoki ikkinchi qismida nazarda tutilgan harakatlar tegishli litsenziyasiz yoki ruxsatsiz tashkilot tomonidan sodir etilgan bo'lsa — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

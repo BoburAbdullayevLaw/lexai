@@ -1,0 +1,18 @@
+{
+  "n": "42",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381242",
+  "sarlavha": "42-modda. Normativ-huquqiy hujjatning makon boʻyicha amal qilishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381243",
+      "matn": "Normativ-huquqiy hujjatning makon boʻyicha amal qilishi normativ-huquqiy hujjatni qabul qilgan organning yurisdiksiyasi bilan belgilanadi."
+    },
+    {
+      "q": 2,
+      "id": "-5381244",
+      "matn": "Normativ-huquqiy hujjatni qabul qilgan organ uning makon boʻyicha amal qilish doirasini cheklab qoʻyishi mumkin."
+    }
+  ]
+}

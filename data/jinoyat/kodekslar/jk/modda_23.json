@@ -1,0 +1,24 @@
+{
+  "n": 23,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-179925",
+  "sarlavha": "23-modda. Murakkab aybli jinoyat",
+  "umumiy_sharh": [
+    "Murakkab aybli jinoyat — qasd va ehtiyotsizlikning bir jinoyat tarkibida uyg'unlashuvi. Qasd asosiy jinoyat tarkibining subyektiv belgisi sifatida qaralsa, ehtiyotsizlik kvalifikatsiya qilinayotgan belgiga nisbatan olinadi.",
+    "Birinchi turdagi murakkab aybli jinoyatlar: qasd asosiy oqibatga (yaqin), ehtiyotsizlik esa og'irroq oqibatga nisbatan qaratilgan. Masalan, badanga og'ir tan jarohati yetkazish (qasd) natijasida o'lim (ehtiyotsizlik).",
+    "Ikkinchi turdagi murakkab aybli jinoyatlar formal tarkibli jinoyatlarda ko'zga tashlanadi. Bunda kvalifikatsiyaga ta'sir qiluvchi oqibat asosiy tarkibdagi obyektdan tashqari qo'shimcha obyektga zarar yetkazishda ifodalanadi.",
+    "Murakkab aybli jinoyatlar aybning uchinchi shakli emas, balki qasd va ehtiyotsizlikning uyg'unlashuvidir. Ular qasddan qilingan jinoyat hisoblanadi va jazoni o'tash tartibiga ta'sir qiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-179926",
+      "matn": "Agar shaxsning qasddan jinoyat sodir etishi natijasida ehtiyotsizlik orqasida boshqa ijtimoiy xavfli oqibatlar yuz bergan va shunday qilmishni qonun qattiqroq javobgarlik bilan bogʻlagan boʻlsa, bunday jinoyat qasddan sodir etilgan deb topiladi.",
+      "sharh": [
+        "Murakkab aybli jinoyatning ikkinchi turida kvalifikatsiyaga ta'sir qiluvchi oqibat asosiy tarkibdagi obyektdan tashqari qo'shimcha obyektga zarar yetkazishda ifodalanadi. Masalan, abort o'tkazishda jabrlanuvchining o'limi (JK 114-moddasi 3-qism).",
+        "Qasddan badanga og'ir shikast yetkazish natijasida o'lim yuzaga kelsa va harakat umumiy qasd bilan qamrab olingan bo'lsa, jinoyat qasddan odam o'ldirish deb kvalifikatsiya qilinishi kerak.",
+        "Murakkab aybli jinoyatlarni bir xil qilmishli, lekin turli ayb shakllariga ega jinoyatlardan ajratish kerak. Masalan, og'ir shikast yetkazish oqibatida o'lim — qasddan o'ldirish; mulkni egallash paytida shikast — bosqinchilik emas, talonchilik + ehtiyotsizlik."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "n": "117",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446019",
+  "sarlavha": "117-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446020",
+      "matn": "Oʻzbekiston Respublikasi Bosh vaziri:"
+    },
+    {
+      "q": 2,
+      "id": "-6446021",
+      "matn": "1) Vazirlar Mahkamasi faoliyatini tashkil etadi va unga rahbarlik qiladi, uning samarali ishlashi uchun shaxsan javobgar boʻladi;"
+    },
+    {
+      "q": 3,
+      "id": "-6446022",
+      "matn": "2) Vazirlar Mahkamasining majlislarida raislik qiladi, uning qarorlarini imzolaydi;"
+    },
+    {
+      "q": 4,
+      "id": "-6446023",
+      "matn": "3) xalqaro munosabatlarda Oʻzbekiston Respublikasi Vazirlar Mahkamasi nomidan ish koʻradi;"
+    },
+    {
+      "q": 5,
+      "id": "-6446024",
+      "matn": "4) Oʻzbekiston Respublikasi qonunlarida nazarda tutilgan boshqa vazifalarni bajaradi."
+    }
+  ]
+}

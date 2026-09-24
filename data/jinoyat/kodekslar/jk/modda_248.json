@@ -1,0 +1,47 @@
+{
+  "n": 248,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-6047512",
+  "sarlavha": "248-modda. Oʻqotar qurolning, oʻq-dorilarning, oʻqotar qurol asosiy qismlarining, portlovchi moddalarning, portlatish vositalarining yoki portlatish qurilmalarining qonunga xilof muomalasi",
+  "umumiy_sharh": [
+    "Mazkur jinoyatning bevosita obyekti jamoat xavfsizligini ta'minlash va o'qotar qurol, o'q-dorilar, portlovchi moddalar yoki portlatish qurilmalari bilan muomala qilish bo'yicha ijtimoiy munosabatlardir.",
+    "Sharhlanayotgan jinoyatning obyektiv tomoni tegishli ruxsatnomasiz o'qotar qurol, o'q-dorilar, portlovchi moddalar yoki portlatish qurilmalari tayyorlash, olish, olib yurish, saqlash, olib o'tish yoki jo'natishda ifodalanadi.",
+    "Tayyorlash deganda, ularni yasash yoki shikast yetkazish xususiyatlarini tiklash, shuningdek, qandaydir ashyoni qayta ishlash natijasida ularni o'qotar qurol xususiyatiga keltirish tushunilishi lozim.",
+    "Qurolning bevosita vazifasiga ko'ra foydalanish imkonini beradigan darajada tayyorlanganligi tavsiflangan taqdirda jinoyat tugallangan deb topiladi.",
+    "Olish deb, mazkur predmetlarni JK 247-moddasida nazarda tutilgan hollardan tashqari, har qanday holda o'z egaligiga olishni tushunish lozim. Sotib olish, almashtirib olish, qarzga yoki hadyaga olish orqali amalga oshirilishi mumkin.",
+    "Olib yurish deganda, aybdorning qayd etilgan ashyolarni sohibi ekanligi va bu ashyolarning uning yonida bo'lishi tushunilishi lozim.",
+    "Saqlash deganda, o'qotar qurol, o'q-dorilar, portlovchi moddalar yoki portlatish qurilmalarini tegishli ruxsatnomasiz aybdorning egaligida bo'lishi bilan bog'liq bo'lgan har qanday qasddan qilingan harakatlar tushunilmog'i lozim.",
+    "Olib o'tish deganda, makonda tashish vositasidan qat'i nazar, qayd etilgan ashyolar aybdorning bevosita yonida bo'lmaganda olib o'tilishini tushunish lozim.",
+    "Jo'natish deganda, qayd etilgan ashyolarni konteyner, posilka va boshqa moslashtirilgan narsalarda jo'natishni tushunish kerak.",
+    "Olib o'tish va jo'natish mazkur harakatlarni sodir etish paytidan boshlab tugallangan jinoyat hisoblanadi.",
+    "O'tkazish maqsadida qonunga xilof ravishda saqlangan, tashilgan, olingan bo'lsa, jinoyatga suiqasd tariqasida kvalifikatsiya qilinishi kerak.",
+    "Subyektiv tomondan jinoyat to'g'ri qasddan sodir etiladi.",
+    "Jinoyat sodir etilishi paytida o'n olti yoshga to'lgan aqli raso shaxslar jinoyat subyekti bo'lishi mumkin.",
+    "2-qismda takroran yoki xavfli retsidivist tomonidan sodir etilganlik uchun javobgarlik nazarda tutilgan.",
+    "3-qismda o'qotar qurol, o'q-dorilar, portlovchi moddalar yoki portlatish qurilmalarini o'tkazish uchun javobgarlik nazarda tutilgan.",
+    "4-qism buyumlarni o'z ixtiyori bilan topshirgan shaxs javobgarlikdan ozod qilinishini belgilaydi.",
+    "Qonunga xilof ravishda egallash va kelgusida olib yurish, saqlash yoki o'tkazish JK 247 va 248-moddalarida nazarda tutilgan jinoyatlarning haqiqiy jamini tashkil qiladi."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6047519",
+      "matn": "Tegishli litsenziyalarsiz yoki ruxsatnomalarsiz oʻqotar qurolni, oʻq-dorilarni, oʻqotar qurolning asosiy qismlarini ishlab chiqarish, taʼmirlash, olish, saqlash, olib yurish, tashish, joʻnatish, ulardan foydalanish, shuningdek portlovchi moddalarni, portlatish vositalarini yoki portlatish qurilmalarini ishlab chiqish, ishlab chiqarish, olish, saqlash, tashish, ulardan foydalanish — bazaviy hisoblash miqdorining ellik baravarigacha miqdorda jarima yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-326670",
+      "matn": "Oʻsha harakatlar takroran yoki xavfli retsidivist tomonidan sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-326679",
+      "matn": "Oʻqotar qurolni, oʻq-dorilarni, portlovchi moddalarni yoki portlash qurilmalarini oʻtkazish, — oʻn yildan yigirma yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-326686",
+      "matn": "Ushbu moddada nazarda tutilgan buyumlarni oʻz ixtiyori bilan topshirgan shaxs javobgarlikdan ozod qilinadi."
+    }
+  ]
+}

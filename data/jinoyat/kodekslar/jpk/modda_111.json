@@ -1,0 +1,49 @@
+﻿{
+  "n": 111,
+  "sarlavha_id": "-253929",
+  "sarlavha": "111-modda. Gumon qilinuvchi yoki ayblanuvchini birinchi marta soʻroq qilishdan oldingi harakatlar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-253932",
+      "matn": "Gumon qilinuvchini, shuningdek ayblanuvchini birinchi marta soʻroq qilishdan bevosita oldin surishtiruvchi, tergovchi ushbu Kodeksning 98 — 100-moddalarida nazarda tutilgan harakatlarni bajarishi shart."
+    },
+    {
+      "q": 2,
+      "id": "-253933",
+      "matn": "Shundan soʻng surishtiruvchi, tergovchi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-253934",
+          "matn": "gumon qilinuvchiga, ayblanuvchiga uning ushbu Kodeksning 46 va 48-moddalarida nazarda tutilgan protsessual huquqlari va majburiyatlarini tushuntiradi;"
+        },
+        {
+          "b": 2,
+          "id": "-253935",
+          "matn": "gumon qilinuvchi, ayblanuvchi shartnoma tuzgan himoyachining yoxud, agar gumon qilinuvchi, ayblanuvchi shartnoma tuzishga ulgurmagan yoki tuza olmagan boʻlsa, boshqa himoyachining soʻroqda ishtirok etishini taʼminlaydi;"
+        },
+        {
+          "b": 3,
+          "id": "-253936",
+          "matn": "gumon qilinuvchiga uning qanday jinoyat sodir etishda gumon qilinayotganligini eʼlon qiladi;"
+        },
+        {
+          "b": 4,
+          "id": "-253937",
+          "matn": "gumon qilinuvchiga ishda ayblanuvchi tariqasida ishtirok etishga jalb qilinganligi toʻgʻrisidagi qarorni taqdim qiladi va ayblovning mohiyatini tushuntiradi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "-253938",
+      "matn": "Surishtiruvchi, tergovchi ayblanuvchini birinchi marta soʻroq qilishdan oldin u oʻzini aybli hisoblashi-hisoblamasligini yoki oʻz aybini toʻla yoxud qisman rad etishi yoki etmasligini aniqlashi shart."
+    },
+    {
+      "q": 4,
+      "id": "-253939",
+      "matn": "Surishtiruvchi, tergovchi ushbu moddada sanab oʻtilgan harakatlarning bajarilishini gumon qilinuvchi yoki ayblanuvchining soʻroq bayonnomasida, sud esa sud majlisi bayonnomasida qayd qiladi."
+    }
+  ]
+}

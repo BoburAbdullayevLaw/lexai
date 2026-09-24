@@ -1,0 +1,18 @@
+{
+  "n": "40",
+  "kod": "NHH_TOGRISIDA",
+  "sarlavha_id": "-5381235",
+  "sarlavha": "40-modda. Normativ-huquqiy hujjatlarning kuchga kirishi",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-5381236",
+      "matn": "Normativ-huquqiy hujjatlar, agar hujjatlarning oʻzida kechroq muddat koʻrsatilmagan boʻlsa, rasmiy eʼlon qilingan kundan eʼtiboran kuchga kiradi."
+    },
+    {
+      "q": 2,
+      "id": "-5381237",
+      "matn": "Tadbirkorlik faoliyatini amalga oshirish tartib-taomili murakkablashtirilishini va tadbirkorlik faoliyati subyektlari zimmasiga yangi majburiyatlar yuklatilishini nazarda tutadigan, shuningdek ularning javobgarligiga oid yangi choralarni belgilaydigan normativ-huquqiy hujjatlar rasmiy eʼlon qilingan kundan eʼtiboran kamida uch oydan keyin kuchga kiradi."
+    }
+  ]
+}

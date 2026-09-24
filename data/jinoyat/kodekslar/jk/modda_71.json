@@ -1,0 +1,45 @@
+{
+  "n": 71,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-1723505",
+  "sarlavha": "71-modda. Aybdor o'z qilmishiga amalda pushaymon bo'lganligi munosabati bilan jazodan ozod qilish",
+  "umumiy_sharh": [
+    "Jazoni qo'llamaslik ba'zan samaraliroq — insonparvarlik prinsipi.",
+    "Faqat birinchi marta sodir etilgan, katta bo'lmagan/uncha og'ir bo'lmagan jinoyatlar uchun.",
+    "Shartlar: arz qilish + yordam + zararni bartaraf etish — barchasi shart.",
+    "Uyushgan guruh uchun: qo'shimcha shart — bevosita og'ir jinoyatda ishtirok etmagan."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-1723506",
+      "matn": "Ijtimoiy xavfi katta boʻlmagan yoki uncha ogʻir boʻlmagan jinoyatni birinchi marta sodir etgan shaxs, agar u aybini boʻyniga olish toʻgʻrisida arz qilgan, jinoyatning ochilishiga faol yordam bergan va keltirilgan zararni bartaraf qilgan boʻlsa, sud tomonidan jazodan ozod qilinishi mumkin.",
+      "sharh": [
+        "Shartlar (barchasi shart): birinchi marta + katta bo'lmagan/uncha og'ir + arz qilish + yordam + zararni bartaraf etish.",
+        "Birortasi yo'q — qo'llanilmaydi.",
+        "Sudlanganlik tugallanmagan/olib tashlanmagan — qo'llanilmaydi.",
+        "Sud/tergovdan qochgan — qo'llanilmaydi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-1723507",
+      "matn": "Boshqa shaxslar bilan birgalikda jinoyat sodir etishda ishtirok qilgan yoki uyushgan guruh yoxud jinoiy uyushma aʼzosi boʻlgan shaxs, agar u aybini boʻyniga olish toʻgʻrisida arz qilgan, chin koʻngildan pushaymon boʻlgan, jinoyatning oldini olish, jinoyatni ochish yoki uning tashkilotchilarini yoxud boshqa ishtirokchilarini aniqlash va fosh qilishga yordam bergan boʻlsa, basharti u ogʻir yoki oʻta ogʻir jinoyat sodir etishda bevosita ishtirok etmagan boʻlsa, sud tomonidan jazodan ozod qilinishi mumkin.",
+      "sharh": [
+        "Shartlar: arz qilish + pushaymonlik + oldini olish/ochish/fosh qilish + og'ir jinoyatda bevosita ishtirok etmagan.",
+        "Bevosita ishtirok etmagan — yordamchi, dalolatchi bo'lishi mumkin.",
+        "Tashkilotchi yoki bajaruvchi bo'lsa — qo'llanilmaydi.",
+        "55/1-a yengillashtiruvchi sifatida qo'llaniladi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-1723508",
+      "matn": "Ushbu Kodeks Maxsus qismining tegishli moddasida alohida koʻrsatilgan hollarda, jinoyat sodir etgan shaxs oʻz qilmishiga amalda pushaymon boʻlgan taqdirda sud tomonidan jazodan ozod qilinishi lozim.",
+      "sharh": [
+        "Maxsus qismdagi alohida hollar: majburiy (lozim) ozod qilish.",
+        "Sudning majburiyati — huquqi emas."
+      ]
+    }
+  ]
+}

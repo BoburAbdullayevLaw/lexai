@@ -1,0 +1,23 @@
+{
+  "n": "142",
+  "kod": "KONSTITUTSIYA",
+  "sarlavha_id": "-6446160",
+  "sarlavha": "142-modda.",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-6446161",
+      "matn": "Advokat oʻz kasbiy vazifalarini amalga oshirayotganda uning faoliyatiga aralashishga yoʻl qoʻyilmaydi."
+    },
+    {
+      "q": 2,
+      "id": "-6446162",
+      "matn": "Advokatga oʻz himoyasidagi shaxs bilan moneliksiz va xoli uchrashish, maslahatlar berish uchun shart-sharoitlar taʼminlanadi."
+    },
+    {
+      "q": 3,
+      "id": "-6446163",
+      "matn": "Advokat, uning shaʼni, qadr-qimmati va kasbiy faoliyati davlat himoyasida boʻladi va qonun bilan muhofaza qilinadi."
+    }
+  ]
+}

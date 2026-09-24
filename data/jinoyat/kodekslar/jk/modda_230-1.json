@@ -1,0 +1,35 @@
+{
+  "n": "230-1",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-3642623",
+  "sarlavha": "230¹-modda. Dalillarni soxtalashtirish (qalbakilashtirish)",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-3642628",
+      "matn": "Isbotlashni amalga oshirayotgan shaxslar yoki isbotlashda ishtirok etish uchun jalb qilinayotgan shaxslar tomonidan dalillarning tergovga qadar tekshiruv va jinoyat ishlari materiallari boʻyicha dalillarni toʻplash, tekshirish va baholash chogʻida gʻarazli yoki boshqa past niyatlarda hujjatlarga yoxud ashyolarga bila turib yolgʻon maʼlumotlarni kiritishda va oʻzga buzib koʻrsatishlarda namoyon boʻladigan soxtalashtirilishi (qalbakilashtirilishi), — bazaviy hisoblash miqdorining uch yuz baravaridan toʻrt yuz baravarigacha miqdorda jarima yoki muayyan huquqdan mahrum etib, uch yildan besh yilgacha ozodlikni cheklash yoxud uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-3642632",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-3642633",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-3642634",
+          "matn": "shaxsni ushlab turishga, qamoqqa olishga, jinoiy javobgarlikka tortishga yoki jinoiy javobgarlikdan ozod etishga, hukm qilishga yoxud oqlashga sabab boʻlsa, — muayyan huquqdan mahrum etib, besh yildan yetti yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-3642637",
+      "matn": "Ogʻir yoki oʻta ogʻir jinoyat toʻgʻrisidagi jinoyat ishi boʻyicha dalillarni soxtalashtirish (qalbakilashtirish), xuddi shuningdek dalillarni soxtalashtirish (qalbakilashtirish) ogʻir oqibatlarga olib kelgan boʻlsa, — muayyan huquqdan mahrum etib, yetti yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "n": "244-4",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-4324978",
+  "sarlavha": "244⁴-modda. Uchuvchisiz uchadigan apparatlarni qonunga xilof ravishda olib kirish, oʻtkazish, olish, saqlash yoki ulardan foydalanish",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-6844299",
+      "matn": "Uchuvchisiz uchadigan apparatlarni, ularning butlovchi va ehtiyot qismlarini qonunga xilof ravishda olib kirish, oʻtkazish, olish, saqlash yoki ulardan foydalanish, shunday harakatlar uchun maʼmuriy jazo qoʻllanilganidan keyin sodir etilgan boʻlsa, — bazaviy hisoblash miqdorining yigirma besh baravaridan ellik baravarigacha miqdorda jarima yoki uch yilgacha axloq tuzatish ishlari yoki uch yilgacha ozodlikni cheklash yoxud uch yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-4324985",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-4324988",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4324990",
+          "matn": "shaxsning oʻz xizmat mavqeyidan foydalanib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-4324991",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib sodir etilgan boʻlsa;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-4324994",
+          "matn": "badanga oʻrtacha ogʻir yoki ogʻir shikast yetkazilishiga sabab boʻlsa, — uch yildan besh yilgacha ozodlikni cheklash yoki uch yildan besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-4325008",
+      "matn": "Oʻsha harakatlar odam oʻlishiga sabab boʻlsa, — besh yildan sakkiz yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-4325015",
+      "matn": "Oʻsha harakatlar:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-4325019",
+          "matn": "odamlar oʻlimiga;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-4325022",
+          "matn": "halokatga;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-4325026",
+          "matn": "boshqa ogʻir oqibatlarga sabab boʻlsa, — sakkiz yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 5,
+      "id": "https://lex.uz/docs/-111453#-4325029",
+      "matn": "Ushbu moddaning birinchi qismida nazarda tutilgan harakatlarni sodir etgan shaxs, agar u uchuvchisiz uchadigan apparatlarni, ularning butlovchi va ehtiyot qismlarini oʻz ixtiyori bilan topshirsa, javobgarlikdan ozod qilinadi."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "n": 11,
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-174603",
+  "sarlavha": "11-modda. Kodeksning Oʻzbekiston hududida jinoyat sodir etgan shaxslarga nisbatan amal qilishi",
+  "umumiy_sharh": [
+    "Jinoyat kodeksining ushbu moddasi O'zbekiston Respublikasi jinoyat to'g'risidagi qonunchilikning qo'llanilishi hududini belgilaydi. Unda hududiylik tamoyili ifodalangan.",
+    "Hudud deyilganda, O'zbekiston Respublikasi suverenitetiga qarashli quruqlik hududi, suv havzasi (ichki suvlar), havo havzasi va yer osti hududi tushuniladi.",
+    "O'zbekiston Respublikasining chet el davlatlardagi elchixonlari va diplomatik vakolatxonalari eksterritorial maqomga ega bo'lib, ular hududida sodir etilgan jinoyatlar O'zbekiston hududida sodir etilgan deb hisoblanadi.",
+    "Quruqlik hududi — chegarasi ichida suv bilan qoplanmagan qismi. Tarkibiga anklavlar, qattiq-kristall shakldagi suv resurslari (tog' muzliklari) ham kiradi.",
+    "Suv chegarasi — davlat chegaralari ichidagi suyuq holdagi suv resurslari. Ichki suvlar, hududiy suvlar va chegaraviy suvlarning tegishli qismi kiradi.",
+    "Havo havzasi — yer atmosferasining quruqlik va suv hududi ustidagi qismi. Vertikal chiziq bo'yicha belgilanadi.",
+    "Yer osti boyliklari — yer qobig'i tuproq qatlamidan quyida joylashgan, geologik jihatdan o'rganish mumkin bo'lgan chuqurlikkacha yastangan qismi. Chuqurligi chegaralanmagan."
+  ],
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-174604",
+      "matn": "Oʻzbekiston hududida jinoyat sodir etgan shaxs ushbu Kodeks boʻyicha javobgarlikka tortiladi.",
+      "sharh": [
+        "Hududiylik tamoyiliga ko'ra, O'zbekiston hududida jinoyat sodir etgan shaxs mazkur Kodeksga muvofiq javobgarlikka tortiladi.",
+        "Bu qoida fuqarolikka qarab qo'llanilmaydi — O'zbekiston fuqarolari, xorijiy davlat fuqarolari va fuqaroligi bo'lmagan shaxslar uchun ham bir xil amal qiladi."
+      ]
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-174607",
+      "matn": "Qilmish:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-174609",
+          "matn": "Oʻzbekiston hududida boshlangan, tamomlangan yoki toʻxtatilgan boʻlsa;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-174611",
+          "matn": "Oʻzbekiston hududidan tashqarida sodir etilib, jinoiy oqibati esa, Oʻzbekiston hududida yuz bergan boʻlsa;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-174612",
+          "matn": "Oʻzbekiston hududida sodir etilib, jinoiy oqibati esa, Oʻzbekiston hududidan tashqarida yuz bergan boʻlsa;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-174877",
+          "matn": "bir necha qilmishlardan iborat yoki boshqa qilmishlar bilan birgalikda sodir etilgan boʻlib, uning bir qismi Oʻzbekiston hududida yuz bergan boʻlsa, Oʻzbekiston hududida sodir etilgan jinoyat deb topiladi."
+        }
+      ],
+      "sharh": [
+        "Jinoiy harakatning barcha bosqichlari va ko'rinishlari qamrab olingan: boshlangan, tamomlangan, to'xtatilgan, oqibati boshqa hududda yuz bergan va boshqalar.",
+        "Jinoyatning boshlanishi jinoyat sodir etishga suiqasd qilishni ham qamrab oladi. Davomli jinoyatning boshlanishi ham shu jumlaga kiradi.",
+        "Tamom bo'lgan jinoyat: moddiy tarkibli (oqibat kelib chiqqan), formal tarkibli (oqibat talab qilinmaydi) va kesik tarkibli (to'g'ridan to'g'ri xavfli) jinoyatlardan iborat.",
+        "To'xtatilgan jinoyat: ixtiyoriy qaytish yoki tashqi vaziyatlar ta'sirida to'xtatilgan harakatlar.",
+        "\"b\" va \"v\" bandlari: moddiy tarkibli jinoyatlarda oqibat bir davlatda sodir etilgan, lekin natija boshqa davlatda yuz bergan bo'lsa ham, jinoyat o'zi sodir etilgan hudud deb hisoblanadi.",
+        "\"g\" bandi: jinoyat majmui yoki bir necha qilmishlardan iborat bo'lib, ulardan bir qismi O'zbekiston hududida sodir etilgan bo'lsa, jinoyat O'zbekiston hududida sodir etilgan deb topiladi."
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-174951",
+      "matn": "Oʻzbekiston bayrogʻi ostidagi yoki Oʻzbekiston portida roʻyxatga olingan havo, dengiz yoki daryo kemasida Oʻzbekiston hududidan tashqarida boʻlib, chet el davlati hududi hisoblanmagan joyda jinoyat sodir etilsa, bunday jinoyat uchun ushbu Kodeks boʻyicha javobgarlikka tortiladi.",
+      "sharh": [
+        "Dengiz, daryo yoki havo kemasi bayrog'i yoki port belgisi qaysi davlatga mansub bo'lsa, ochiq dengiz yoki havo hududida u o'z davlati hududida hisoblanadi.",
+        "Kemaning O'zbekiston bayrog'i ostida bo'lishi uning bayroq olib yurish huquqi va majburiyatiga ega ekanligini anglatadi.",
+        "Notijorat davlat kemalari (harbiy, bojxona) har doim faqat O'zbekiston qonunlariga muvofiq harakat qiladi."
+      ]
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111453#-174952",
+      "matn": "Amaldagi qonunlar, xalqaro shartnomalar yoki bitimlarga muvofiq chet el fuqarolarining javobgarligi toʻgʻrisidagi masala Oʻzbekiston Respublikasi sudlariga tegishli boʻlmasa, ular Oʻzbekiston Respublikasi hududida jinoyat sodir etgan holda, xalqaro huquq normalariga muvofiq hal qilinadi.",
+      "sharh": [
+        "Hududiylik prinsipini istisno qiluvchi immunitet: diplomatik vakolatxona xodimlari, konsullik muassasasi xodimlari, xalqaro hukumatlararo tashkilotlar xodimlari va boshqa vakillar javobgarlikdan saqlanishi mumkin.",
+        "Immunitetdan foydalanish huquqi shaxsni javobgarlikdan ozod etmaydi — masala xalqaro huquq normalariga muvofiq hal qilinadi.",
+        "Daxlsizlik huquqini suiiste'mol qilganlar persona non grata deb e'lon qilinadi. Akkreditatsiya qiluvchi davlat uni chaqirib olishi yoki faoliyatini to'xtatishi lozim."
+      ]
+    }
+  ]
+}

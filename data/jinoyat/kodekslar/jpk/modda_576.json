@@ -1,0 +1,44 @@
+﻿{
+  "n": 576,
+  "sarlavha_id": "-257220",
+  "sarlavha": "576-modda. Alohida xonada sud hal qiladigan masalalar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-257221",
+      "matn": "Alohida xonada sud quyidagi masalalarni hal qiladi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-4516540",
+          "matn": "jinoyat sodir etilganmi yoki aqli norasolik holatida ijtimoiy xavfli qilmish sodir etilganmi;"
+        },
+        {
+          "b": 2,
+          "id": "-257223",
+          "matn": "ana shu jinoyat yoki ijtimoiy xavfli qilmish ishi koʻrilayotgan shaxs tomonidan sodir etilganmi;"
+        },
+        {
+          "b": 3,
+          "id": "-4516543",
+          "matn": "hozirgi vaqtda mazkur shaxsning ruhiy holati buzilganmi;"
+        },
+        {
+          "b": 4,
+          "id": "-4516546",
+          "matn": "jinoyat sodir etganidan keyin ruhiy holatining buzilishi yuzaga kelgan yoki aqli noraso holda ijtimoiy xavfli qilmish sodir etgan shaxsga tibbiy yoʻsindagi majburlov chorasini qoʻllash talab etiladimi va agar talab etilsa, aynan qanday chorani qoʻllash kerak;"
+        },
+        {
+          "b": 5,
+          "id": "-257227",
+          "matn": "mazkur shaxs ruhiy kasallikdan umumiy asoslarda davolanishga muhtojmi."
+        }
+      ]
+    },
+    {
+      "q": 2,
+      "id": "-257228",
+      "matn": "Sud, shuningdek ushbu Kodeks 457-moddasi birinchi qismining 10 — 14-bandlarida nazarda tutilgan masalalarni ham hal qiladi."
+    }
+  ]
+}

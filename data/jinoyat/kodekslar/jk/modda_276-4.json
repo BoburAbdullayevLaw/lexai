@@ -1,0 +1,67 @@
+{
+  "n": "276-4",
+  "kod": "JK",
+  "sarlavha_id": "https://lex.uz/docs/-111453#-8282429",
+  "sarlavha": "276⁴-modda. Kuchli taʼsir qiluvchi yoki zaharli moddalarni qonunga xilof ravishda egallash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111453#-8282431",
+      "matn": "Kuchli taʼsir qiluvchi yoki zaharli moddalarni oʻgʻrilik yoki firibgarlik yoʻli bilan qonunga xilof ravishda egallash, — uch yilgacha axloq tuzatish ishlari yoki ikki yildan besh yilgacha ozodlikni cheklash yoxud besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111453#-8282435",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282451",
+          "matn": "takroran yoki xavfli retsidivist tomonidan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-8282519",
+          "matn": "bir guruh shaxslar tomonidan oldindan til biriktirib;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-8282568",
+          "matn": "oʻzlashtirish, rastrata qilish yoki mansab mavqeyini suiisteʼmol qilish yoʻli bilan;"
+        },
+        {
+          "b": "g",
+          "id": "https://lex.uz/docs/-111453#-8282620",
+          "matn": "talonchilik yoʻli bilan;"
+        },
+        {
+          "b": "d",
+          "id": "https://lex.uz/docs/-111453#-8282666",
+          "matn": "tamagirlik yoʻli bilan sodir etilgan boʻlsa, — besh yildan oʻn yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111453#-8282703",
+      "matn": "Oʻsha harakat:",
+      "bandlar": [
+        {
+          "b": "a",
+          "id": "https://lex.uz/docs/-111453#-8282704",
+          "matn": "bosqinchilik yoʻli bilan;"
+        },
+        {
+          "b": "b",
+          "id": "https://lex.uz/docs/-111453#-8282705",
+          "matn": "koʻp miqdorda;"
+        },
+        {
+          "b": "v",
+          "id": "https://lex.uz/docs/-111453#-8282706",
+          "matn": "uyushgan guruh tomonidan yoki uning manfaatlarini koʻzlab sodir etilgan boʻlsa, — oʻn yildan yigirma yilgacha ozodlikdan mahrum qilish bilan jazolanadi."
+        }
+      ]
+    }
+  ]
+}

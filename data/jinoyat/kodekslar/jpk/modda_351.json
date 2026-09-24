@@ -1,0 +1,69 @@
+﻿{
+  "n": 351,
+  "sarlavha_id": "-255592",
+  "sarlavha": "351-modda. Dastlabki tergov muddatlari",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-260322",
+      "matn": "Dastlabki tergov jinoyat ishi qoʻzgʻatilgan kundan boshlab uch oydan oshmagan muddatda tamomlanishi lozim."
+    },
+    {
+      "q": 2,
+      "id": "-1286074",
+      "matn": "Jinoyat ishlari birlashtirilayotganda ular boʻyicha ish yuritish muddati uzoqroq muddat davomida tergov qilingan jinoyat ishi boʻyicha belgilanadi. Bunda qolgan jinoyat ishlari boʻyicha ish yuritish muddati uzoqroq tergov qilingan ishning muddati bilan qamrab olinadi va qoʻshimcha ravishda hisobga olinmaydi."
+    },
+    {
+      "q": 3,
+      "id": "-1286076",
+      "matn": "Alohida ish yurituvga ajratilgan jinoyat ishi boʻyicha dastlabki tergov muddati, agar jinoyat ishi yangi jinoyat boʻyicha yoki yangi shaxsga nisbatan ajratilayotgan boʻlsa, tegishli qaror chiqarilgan kundan eʼtiboran hisoblanadi. Qolgan hollarda muddat bu jinoyat ishi qaysi jinoyat ishidan alohida ish yurituvga ajratilgan boʻlsa, oʻsha jinoyat ishi qoʻzgʻatilgan paytdan eʼtiboran hisoblanadi."
+    },
+    {
+      "q": 4,
+      "id": "-1423352",
+      "matn": "Ish ayblov xulosasi bilan, ishni tibbiy yoʻsindagi majburlov choralarini qoʻllash yoxud taraflarning yarashuvi uchun sudga yuborish toʻgʻrisidagi qaror bilan, amnistiya aktiga asosan jinoyat ishini tugatish haqida sudga iltimosnoma kiritish toʻgʻrisidagi taqdimnoma bilan prokurorga topshirilgan kuni yoxud ishni tugatish haqida qaror chiqarilgan kuni dastlabki tergov tamomlangan hisoblanadi."
+    },
+    {
+      "q": 5,
+      "id": "-3175126",
+      "matn": "Dastlabki tergov muddatiga quyidagilar kirmaydi:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3175127",
+          "matn": "ayblanuvchi, himoyachi, shuningdek jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari ish materiallari bilan tanishib chiqqan vaqt;"
+        },
+        {
+          "b": 2,
+          "id": "-3175128",
+          "matn": "dastlabki tergov toʻxtatib turilgan vaqt;"
+        },
+        {
+          "b": 3,
+          "id": "-3175129",
+          "matn": "qoʻshimcha tergov oʻtkazish uchun prokuror tomonidan qaytarilgan ish tergovchiga kelib tushgunga qadar oʻtgan vaqt."
+        }
+      ]
+    },
+    {
+      "q": 6,
+      "id": "-3175130",
+      "matn": "Ushbu moddaning birinchi qismida belgilangan dastlabki tergov muddati tegishincha Qoraqalpogʻiston Respublikasi prokurori yoki viloyat, Toshkent shahar prokurori va unga tenglashtirilgan prokuror tomonidan besh oygacha uzaytirilishi mumkin."
+    },
+    {
+      "q": 7,
+      "id": "-3175131",
+      "matn": "Keyinchalik dastlabki tergov muddati faqat Oʻzbekiston Respublikasi Bosh prokurori yoki uning oʻrinbosarlari tomonidan yetti oygacha uzaytirilishi mumkin."
+    },
+    {
+      "q": 8,
+      "id": "-3175132",
+      "matn": "Ish qoʻshimcha tergov oʻtkazish uchun qaytarib yuborilganda, shuningdek toʻxtatilgan yoki tugatilgan ish qayta tiklanganda qoʻshimcha tergov muddati mazkur ishni tergovchi qabul qilgan paytdan eʼtiboran bir oy doirasida belgilanadi. Bu muddatni yanada uzaytirish ish prokurorga berilgunga, toʻxtatib turilgunga yoki tugatilgunga qadar oʻtgan tergov muddati hisobga olingan holda umumiy asoslarda amalga oshiriladi."
+    },
+    {
+      "q": 9,
+      "id": "-255601",
+      "matn": "Tergov muddatini uzaytirish haqidagi iltimosnomani tergovchi tergov muddati tugashidan kamida oʻn sutka ilgari prokurorga topshiradi. Prokuror oʻz ustxati bilan iltimosnomani qanoatlantiradi yoki dastlabki tergovni tamomlab, ishni sudga yuborish toʻgʻrisida koʻrsatma beradi yoxud jinoyat ishini tugatish toʻgʻrisida qaror chiqaradi."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "n": "187-2",
+  "sarlavha_id": "https://lex.uz/docs/-111460#-3092858",
+  "sarlavha": "187²-modda. Taftishni tayinlash",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "https://lex.uz/docs/-111460#-3349476",
+      "matn": "Taftish tergovga qadar tekshiruvni amalga oshiruvchi organ mansabdor shaxsining, surishtiruvchining, tergovchining, prokurorning qarori yoki sudning ajrimi bilan tayinlanadi."
+    },
+    {
+      "q": 2,
+      "id": "https://lex.uz/docs/-111460#-3092860",
+      "matn": "Taftishni tayinlash toʻgʻrisidagi qarorda yoki ajrimda quyidagilar koʻrsatilgan boʻlishi kerak:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "https://lex.uz/docs/-111460#-3092861",
+          "matn": "tekshiriladigan subyektning toʻliq nomi va uning tashkiliy-huquqiy shakli (yakka tartibdagi tadbirkorning familiyasi, ismi, otasining ismi), soliq toʻlovchining identifikatsiya raqami va yuridik manzili;"
+        },
+        {
+          "b": 2,
+          "id": "https://lex.uz/docs/-111460#-3092862",
+          "matn": "jinoyat ishining raqami yoki taftishni tayinlash uchun tergovga qadar tekshirish jarayonida yuzaga kelgan asoslar yoxud qoʻshimcha yoki qayta taftish tayinlash uchun asoslar;"
+        },
+        {
+          "b": 3,
+          "id": "https://lex.uz/docs/-111460#-3092863",
+          "matn": "taftish oʻtkazish chogʻida oʻrganiladigan masala yoki masalalar doirasi;"
+        },
+        {
+          "b": 4,
+          "id": "https://lex.uz/docs/-111460#-3092864",
+          "matn": "moliya-xoʻjalik faoliyatining taftish qilinishi lozim boʻlgan davri;"
+        },
+        {
+          "b": 5,
+          "id": "https://lex.uz/docs/-111460#-3092865",
+          "matn": "taftish oʻtkazish topshirilgan vakolatli organning nomi, shu jumladan qoʻshimcha ravishda jalb etiladigan davlat organlari va tashkilotlar."
+        }
+      ]
+    },
+    {
+      "q": 3,
+      "id": "https://lex.uz/docs/-111460#-3092866",
+      "matn": "Taftish oʻtkazish chogʻida taftishni tayinlash toʻgʻrisidagi qarorda yoki ajrimda koʻrsatilmagan masalani yoki masalalar doirasini, shuningdek moliya-xoʻjalik faoliyatining davrini oʻrganish taqiqlanadi."
+    },
+    {
+      "q": 4,
+      "id": "https://lex.uz/docs/-111460#-3092867",
+      "matn": "Ushbu Kodeksning 187³-moddasida koʻrsatilgan organlar va tashkilotlar taftishni tayinlash toʻgʻrisidagi qaror yoki ajrim olingan paytdan eʼtiboran ikki ish kunidan kechiktirmay taftish oʻtkazish haqida taftishni oʻtkazish uchun tayinlangan shaxslarni albatta koʻrsatgan holda buyruq chiqaradi."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+﻿{
+  "n": 384,
+  "sarlavha_id": "-3352060",
+  "sarlavha": "384-modda. Ayblov xulosasi yoki ayblov dalolatnomasi bilan kelgan jinoyat ishi yuzasidan prokuror hal etishi lozim boʻlgan masalalar",
+  "qismlar": [
+    {
+      "q": 1,
+      "id": "-3352061",
+      "matn": "Prokuror yoki uning oʻrinbosari tergovchidan ayblov xulosasi yoki surishtiruvchidan ayblov dalolatnomasi bilan kelgan jinoyat ishini oʻrganib chiqishi va:",
+      "bandlar": [
+        {
+          "b": 1,
+          "id": "-3352064",
+          "matn": "ayblanuvchi zimmasiga qoʻyilayotgan qilmish sodir etilgan yoki etilmaganligini va bu qilmishda jinoyat tarkibi bor-yoʻqligini;"
+        },
+        {
+          "b": 2,
+          "id": "-3352066",
+          "matn": "qoʻyilgan ayb ishdagi mavjud dalillar bilan asoslantirilgan-asoslantirilmaganligini;"
+        },
+        {
+          "b": 3,
+          "id": "-3352067",
+          "matn": "ayblanuvchining isbotlangan barcha jinoiy qilmishlari ayblov mazmuniga kiritilgan-kiritilmaganligini;"
+        },
+        {
+          "b": 4,
+          "id": "-3352068",
+          "matn": "jinoyati fosh qilingan barcha shaxslar ayblanuvchi tariqasida ishda ishtirok etishga jalb qilingan-qilinmaganligini;"
+        },
+        {
+          "b": 5,
+          "id": "-3352069",
+          "matn": "ayblovni yoki ishni tugatishga sabab boʻladigan holatlar bor-yoʻqligini;"
+        },
+        {
+          "b": 6,
+          "id": "-3352070",
+          "matn": "ayblanuvchining qilmishlariga toʻgʻri yoki notoʻgʻri tavsif berilganligini;"
+        },
+        {
+          "b": 7,
+          "id": "-3352071",
+          "matn": "tergovga tegishlilik qoidalariga rioya qilinganligini;"
+        },
+        {
+          "b": 8,
+          "id": "-3352072",
+          "matn": "ehtiyot chorasi toʻgʻri yoki notoʻgʻri tanlanganligini;"
+        },
+        {
+          "b": 9,
+          "id": "-3352073",
+          "matn": "fuqaroviy daʼvoni va boshqa mulkiy undirishlarni taʼminlash choralari koʻrilgan-koʻrilmaganligini;"
+        },
+        {
+          "b": 10,
+          "id": "-3352074",
+          "matn": "jinoyatning sabablari va uning sodir etilishiga imkon bergan shart-sharoitlar aniqlangan-aniqlanmaganligini hamda ularga barham berish choralari koʻrilgan-koʻrilmaganligini;"
+        },
+        {
+          "b": 11,
+          "id": "-3352077",
+          "matn": "tergov sinchkovlik bilan, har tomonlama, toʻla va xolisona oʻtkazilgan-oʻtkazilmaganligini, barcha vajlar tekshirilganligini va himoyaning iltimosnomalari koʻrib chiqilganligini;"
+        },
+        {
+          "b": 12,
+          "id": "-3352078",
+          "matn": "ishni birlashtirishda yoki ajratishda ushbu Kodeksning 332-moddasi talablariga rioya etilgan-etilmaganligini;"
+        },
+        {
+          "b": 13,
+          "id": "-3352080",
+          "matn": "ayblov xulosasi yoki ayblov dalolatnomasi ushbu Kodeksning 379, 380 va 381¹²-moddalarida nazarda tutilgan talablarga muvofiq tuzilgan-tuzilmaganligini;"
+        },
+        {
+          "b": 14,
+          "id": "-3352081",
+          "matn": "surishtiruvchi va tergovchi ushbu Kodeksning boshqa talablariga rioya qilgan-qilmaganligini tekshirishi shart."
+        }
+      ]
+    }
+  ]
+}
