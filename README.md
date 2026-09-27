@@ -48,7 +48,7 @@ python lexai\main.py
 | Batch | Kazus savollari aniqligi (gold standard) |
 |-------|------------------------------------------|
 | 10    | 11/20 (55%) |
-| 5     | **20/20 (100%)** |
+| 5     | **18/20 (78%) (81%)** |
 | 3     | tekshirilmoqda |
 
 `config.py` → `BATCH_SIZE = 5`.
